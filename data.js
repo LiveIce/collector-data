@@ -654,7 +654,7 @@ const data = {
   "Blizzard": {
     "Legacy Collection": [
       { number: 106, title: "Malygos", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort106a.jpg", extra: "Framsida" },
-      { number: 106, title: "Malygos", desc: "World Of WarCraft", img: "https://cdn1.cdnme.se/4787361/9-3/kort106b_6988bcf3e087c32d6ea8c1ea.jpg", extra: "Baksida" },
+      { number: 106, title: "Malygos", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort106b.jpg", extra: "Baksida" },
       { number: 109, title: "Jaina Proudmoore", desc: "HearthStone", img: "https://cdn2.cdnme.se/4787361/9-3/kort109a_6988c05ee087c32d8209b729.jpg", extra: "Framsida" },
       { number: 109, title: "Jaina Proudmoore", desc: "HearthStone", img: "https://cdn1.cdnme.se/4787361/9-3/kort109b_6988c140e087c32d515911a4.jpg", extra: "Baksida" },
       { number: 118, title: "Illidan", desc: "HearthStone", img: "https://cdn2.cdnme.se/4787361/9-3/kort118a_6988c986e087c32d51591248.jpg", extra: "Framsida" },
@@ -832,3 +832,4 @@ const data = {
   }
 
 };
+
