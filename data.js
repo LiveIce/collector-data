@@ -407,7 +407,7 @@ const data = {
       { number: 8, title: "Orkun Kökçü", desc: "29 december 2000 i Haarlem, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort8.jpg", extra: "Mittfältare - Beşiktaş" },
       { number: 9, title: "Manuel Akanji", desc: "<b>Manuel Obafemi Akanji</b><br>19 juli 1995 i Neftenbach, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort9.jpg", extra: "Försvarare - Inter" },
       { number: 10, title: "Dušan Vlahović", desc: "28 januari 2000 i Belgrad, FR Jugoslavien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort10.jpg", extra: "Anfallare - Juventus" },
-      { number: 11, title: "Sergej Milinković Savić", desc: "27 februari 1995 i Lleida, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort11.jpg", extra: "Mittfältare - Al-Hilal" }
+      { number: 11, title: "Sergej Milinković Savić", desc: "27 februari 1995 i Lleida, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort11.jpg", extra: "Mittfältare - Al-Hilal" },
       { number: 12, title: "Aurélien Tchouaméni", desc: "<b>Aurélien Djani Tchouaméni</b><br>27 januari 2000 i Rouen, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort12.jpg", extra: "Mittfältare - Real Madrid" },
       { number: 13, title: "Declan Rice", desc: "14 januari 1999 i Kingston upon Thames, Storbritannien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort13.jpg", extra: "Mittfältare - Arsenal" },
       { number: 14, title: "Patrik Schick", desc: "24 januari 1996 i Prag, Tjeckien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort14.jpg", extra: "Anfallare - Bayer Leverkusen" },
@@ -834,6 +834,7 @@ const data = {
   }
 
 };
+
 
 
 
