@@ -686,15 +686,15 @@ const data = {
       { number: 8, title: "HAT MAN", desc: "Beastie", img: "https://cdn3.cdnme.se/4787361/9-3/kort8nh_6988de63ddf2b33e13fb33a3.jpg", extra: "Non Holo - Rare" },
       { number: 8, title: "HAT MAN", desc: "Beastie", img: "https://cdn3.cdnme.se/4787361/9-3/kort8h_6988de879606ee5fd325e886.jpg", extra: "Holo - Rare" },
       { number: 9, title: "LECHUZA", desc: "Beastie Witch", img: "https://cdn3.cdnme.se/4787361/9-3/kort9h_6988e02addf2b31f2cf0d13f.jpg", extra: "Holo - Rare" },
-      { number: 11, title: "HOUSTON BATMAN", desc: "Beastie Humanoid", img: "https://cdn1.cdnme.se/4787361/9-3/kort11nh_6988e200ddf2b37af2da54a5.jpg", extra: "Non Holo - Rare" },
-      { number: 11, title: "HOUSTON BATMAN", desc: "Beastie Humanoid", img: "https://cdn3.cdnme.se/4787361/9-3/kort11h_6988e2399606ee5fd09fb2f5.jpg", extra: "Holo - Rare" },
-      { number: 12, title: "MOUNTAIN BOOMER", desc: "Beastie Dinosaur", img: "https://cdn3.cdnme.se/4787361/9-3/kort12nh_6988e4d9e087c34ccec12803.jpg", extra: "Non Holo - Rare" },
-      { number: 12, title: "MOUNTAIN BOOMER", desc: "Beastie Dinosaur", img: "https://cdn2.cdnme.se/4787361/9-3/kort12h_6988e505ddf2b31b279c6027.jpg", extra: "Holo - Rare" },
-      { number: 13, title: "PROCTOR VALLEY MONSTER", desc: "Beastie", img: "https://cdn3.cdnme.se/4787361/9-3/kort13nh_6988e93dddf2b33e13fb3425.jpg", extra: "Non Holo - Rare" },
-      { number: 15, title: "PAMOLA", desc: "Beastie Spirit", img: "https://cdn2.cdnme.se/4787361/9-3/kort15nh_6988ea599606ee5fd325e8ef.jpg", extra: "Non Holo - Rare" },
-      { number: 16, title: "FOO FIGHTERS", desc: "Beastie Alien", img: "https://cdn2.cdnme.se/4787361/9-3/kort16nh_69890498e087c36d8f9c5f82.jpg", extra: "Non Holo - Rare" },
-      { number: 17, title: "CRYPTID BUSTERS", desc: "Beastie Humanoids", img: "https://cdn1.cdnme.se/4787361/9-3/kort17nh_698906179606ee19f717408b.jpg", extra: "Non Holo - Rare" },
-      { number: 18, title: "OGUA", desc: "Beastie Dinosaur", img: "https://cdn3.cdnme.se/4787361/9-3/kort18nh_69890729e087c32d4cfc94e4.jpg", extra: "Non Holo - Rare" },
+      { number: 11, title: "HOUSTON BATMAN", desc: "Beastie Humanoid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort11NH.jpg", extra: "Non Holo - Rare" },
+      { number: 11, title: "HOUSTON BATMAN", desc: "Beastie Humanoid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort11H.jpg", extra: "Holo - Rare" },
+      { number: 12, title: "MOUNTAIN BOOMER", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort12NH.jpg", extra: "Non Holo - Rare" },
+      { number: 12, title: "MOUNTAIN BOOMER", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort12H.jpg", extra: "Holo - Rare" },
+      { number: 13, title: "PROCTOR VALLEY MONSTER", desc: "Beastie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort13NH.jpg", extra: "Non Holo - Rare" },
+      { number: 15, title: "PAMOLA", desc: "Beastie Spirit", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort15NH.jpg", extra: "Non Holo - Rare" },
+      { number: 16, title: "FOO FIGHTERS", desc: "Beastie Alien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort16NH.jpg", extra: "Non Holo - Rare" },
+      { number: 17, title: "CRYPTID BUSTERS", desc: "Beastie Humanoids", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort17NH.jpg", extra: "Non Holo - Rare" },
+      { number: 18, title: "OGUA", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort18NH.jpg", extra: "Non Holo - Rare" },
 /*
       { number: 20, title: "Dragons Rise", desc: "Spell", img: "metazoo/Kort20.jpg", extra: "Flame - Gold" },
       { number: 21, title: "Evil Wins", desc: "Spell", img: "metazoo/Kort21.jpg", extra: "Dark - Gold" },
@@ -832,4 +832,5 @@ const data = {
   }
 
 };
+
 
