@@ -659,20 +659,20 @@ const data = {
     "Legacy Collection": [
       { number: 106, title: "Malygos", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort106a.jpg", extra: "Framsida" },
       { number: 106, title: "Malygos", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort106b.jpg", extra: "Baksida" },
-      { number: 109, title: "Jaina Proudmoore", desc: "HearthStone", img: "https://cdn2.cdnme.se/4787361/9-3/kort109a_6988c05ee087c32d8209b729.jpg", extra: "Framsida" },
-      { number: 109, title: "Jaina Proudmoore", desc: "HearthStone", img: "https://cdn1.cdnme.se/4787361/9-3/kort109b_6988c140e087c32d515911a4.jpg", extra: "Baksida" },
-      { number: 118, title: "Illidan", desc: "HearthStone", img: "https://cdn2.cdnme.se/4787361/9-3/kort118a_6988c986e087c32d51591248.jpg", extra: "Framsida" },
-      { number: 118, title: "Illidan", desc: "HearthStone", img: "https://cdn1.cdnme.se/4787361/9-3/kort118b_6988ca21ddf2b33dfe0d8c0f.jpg", extra: "Baksida" },
-      { number: 133, title: "Lady Vashj", desc: "HearthStone", img: "https://cdn2.cdnme.se/4787361/9-3/kort133a_6988c6279606ee5fd09fb17d.jpg", extra: "Framsida" },
-      { number: 133, title: "Lady Vashj", desc: "HearthStone", img: "https://cdn3.cdnme.se/4787361/9-3/kort133b_6988c7dee087c32d55733601.jpg", extra: "Baksida" },
-      { number: 135, title: "Mecha-Jaraxxus", desc: "HearthStone", img: "https://cdn2.cdnme.se/4787361/9-3/kort135a_698c1ea3ddf2b30e4a836d1f.jpg", extra: "Framsida" },
-      { number: 135, title: "Mecha-Jaraxxus", desc: "HearthStone", img: "https://cdn3.cdnme.se/4787361/9-3/kort135b_698c1f3c9606ee1ab4b06f60.jpg", extra: "Baksida" },
-      { number: 141, title: "Anduin Wrynn", desc: "Heroes Of The Storm", img: "https://cdn1.cdnme.se/4787361/9-3/kort141a_69889490e087c32d77db9313.jpg", extra: "Framsida" },
-      { number: 141, title: "Anduin Wrynn", desc: "Heroes Of The Storm", img: "https://cdn2.cdnme.se/4787361/9-3/kort141b_6988955ce087c32d8824fd94.jpg", extra: "Baksida" },
-      { number: 170, title: "Ana", desc: "Overwatch", img: "https://cdn3.cdnme.se/4787361/9-3/kort170a_698c2053e087c32bd19b2d99.jpg", extra: "Framsida" },
-      { number: 170, title: "Ana", desc: "Overwatch", img: "https://cdn2.cdnme.se/4787361/9-3/kort170b_698c20b2ddf2b30e34094d19.jpg", extra: "Baksida" },
-      { number: 175, title: "D.Va", desc: "Overwatch", img: "https://cdn3.cdnme.se/4787361/9-3/kort175a_69888e38e087c32d851d68b7.jpg", extra: "Framsida" },
-      { number: 175, title: "D.Va", desc: "Overwatch", img: "https://cdn1.cdnme.se/4787361/9-3/kort175b_69888e559606ee5fc177daba.jpg", extra: "Baksida" }
+      { number: 109, title: "Jaina Proudmoore", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort109a.jpg", extra: "Framsida" },
+      { number: 109, title: "Jaina Proudmoore", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort109b.jpg", extra: "Baksida" },
+      { number: 118, title: "Illidan", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort118a.jpg", extra: "Framsida" },
+      { number: 118, title: "Illidan", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort118b.jpg", extra: "Baksida" },
+      { number: 133, title: "Lady Vashj", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort133a.jpg", extra: "Framsida" },
+      { number: 133, title: "Lady Vashj", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort133b.jpg", extra: "Baksida" },
+      { number: 135, title: "Mecha-Jaraxxus", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort135a.jpg", extra: "Framsida" },
+      { number: 135, title: "Mecha-Jaraxxus", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort135b.jpg", extra: "Baksida" },
+      { number: 141, title: "Anduin Wrynn", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort141a.jpg", extra: "Framsida" },
+      { number: 141, title: "Anduin Wrynn", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort141b.jpg", extra: "Baksida" },
+      { number: 170, title: "Ana", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort170a.jpg", extra: "Framsida" },
+      { number: 170, title: "Ana", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort170b.jpg", extra: "Baksida" },
+      { number: 175, title: "D.Va", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort175a.jpg", extra: "Framsida" },
+      { number: 175, title: "D.Va", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort175b.jpg", extra: "Baksida" }
     ]
   },
   "MetaZoo": {
@@ -836,6 +836,7 @@ const data = {
   }
 
 };
+
 
 
 
