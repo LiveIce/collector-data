@@ -407,7 +407,8 @@ const data = {
       { number: 8, title: "Orkun Kökçü", desc: "29 december 2000 i Haarlem, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort8.jpg", extra: "Mittfältare - Beşiktaş" },
       { number: 9, title: "Manuel Akanji", desc: "<b>Manuel Obafemi Akanji</b><br>19 juli 1995 i Neftenbach, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort9.jpg", extra: "Försvarare - Inter" },
       { number: 10, title: "Dušan Vlahović", desc: "28 januari 2000 i Belgrad, FR Jugoslavien", img: "https://github.com/LiveIce/collector-data/blob/main/fotboll/euro2024/Kort10.jpg", extra: "Anfallare - Juventus" },
-      { number: 11, title: "Sergej Milinković Savić", desc: "27 februari 1995 i Lleida, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort11.jpg", extra: "Mittfältare - Al-Hilal" },
+      { number: 11, title: "Sergej Milinković Savić", desc: "27 februari 1995 i Lleida, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort11.jpg", extra: "Mittfältare - Al-Hilal" }
+      /*
       { number: 12, title: "Aurélien Tchouaméni", desc: "<b>Aurélien Djani Tchouaméni</b><br>27 januari 2000 i Rouen, Frankrike", img: "https://cdn1.cdnme.se/4787361/9-3/kort12_698884639606ee5fc177d9f3.jpg", extra: "Mittfältare - Real Madrid" },
       { number: 13, title: "Declan Rice", desc: "14 januari 1999 i Kingston upon Thames, Storbritannien", img: "https://cdn3.cdnme.se/4787361/9-3/kort13_69888493ddf2b33e19664433.jpg", extra: "Mittfältare - Arsenal" },
       { number: 14, title: "Patrik Schick", desc: "24 januari 1996 i Prag, Tjeckien", img: "https://cdn2.cdnme.se/4787361/9-3/kort14_698884b4ddf2b33dff1f365b.jpg", extra: "Anfallare - Bayer Leverkusen" },
@@ -432,6 +433,7 @@ const data = {
       { number: 33, title: "Christian Eriksen", desc: "<b>Christian Dannemann Eriksen</b><br>14 februari 1992 i Middelfart, Danmark", img: "https://cdn2.cdnme.se/4787361/9-3/kort33_698887769606ee5fa9390def.jpg", extra: "Mittfältare - Wolfsburg" },
       { number: 34, title: "Álvaro Morata", desc: "<b>Álvaro Borja Morata Martín</b><br>23 oktober 1992 i Madrid, Spanien", img: "https://cdn3.cdnme.se/4787361/9-3/kort34_698887949606ee5fa058c3da.jpg", extra: "Anfallare - Como" },
       { number: 35, title: "Álvaro Morata", desc: "<b>Álvaro Borja Morata Martín</b><br>23 oktober 1992 i Madrid, Spanien", img: "https://cdn3.cdnme.se/4787361/9-3/kort35_698887b89606ee5fd09facf4.jpg", extra: "Anfallare - Como" }
+      */
     ],
     "FIFA365": [
       { number: 91, title: "Paulo Victor", desc: "<b>Paulo Victor Mileo Vidotti</b><br>12 januari 1987 i Assis, São Paulo, Brasilien", img: "https://cdn1.cdnme.se/4787361/9-3/kort91_698c07e7ddf2b30e528b2b92.jpg", extra: "Målvakt - Flamengo" },
@@ -832,6 +834,7 @@ const data = {
   }
 
 };
+
 
 
 
