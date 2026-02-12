@@ -409,30 +409,30 @@ const data = {
       { number: 10, title: "Dušan Vlahović", desc: "28 januari 2000 i Belgrad, FR Jugoslavien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort10.jpg", extra: "Anfallare - Juventus" },
       { number: 11, title: "Sergej Milinković Savić", desc: "27 februari 1995 i Lleida, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort11.jpg", extra: "Mittfältare - Al-Hilal" }
       /*
-      { number: 12, title: "Aurélien Tchouaméni", desc: "<b>Aurélien Djani Tchouaméni</b><br>27 januari 2000 i Rouen, Frankrike", img: "https://cdn1.cdnme.se/4787361/9-3/kort12_698884639606ee5fc177d9f3.jpg", extra: "Mittfältare - Real Madrid" },
-      { number: 13, title: "Declan Rice", desc: "14 januari 1999 i Kingston upon Thames, Storbritannien", img: "https://cdn3.cdnme.se/4787361/9-3/kort13_69888493ddf2b33e19664433.jpg", extra: "Mittfältare - Arsenal" },
-      { number: 14, title: "Patrik Schick", desc: "24 januari 1996 i Prag, Tjeckien", img: "https://cdn2.cdnme.se/4787361/9-3/kort14_698884b4ddf2b33dff1f365b.jpg", extra: "Anfallare - Bayer Leverkusen" },
-      { number: 15, title: "Jamal Musiala", desc: "26 februari 2003 i Stuttgart, Tyskland", img: "https://cdn3.cdnme.se/4787361/9-3/kort15_698884d3ddf2b33e19664436.jpg", extra: "Mittfältare - Bayern München" },
-      { number: 16, title: "Simon Kjær", desc: "26 mars 1989 i Horsens, Danmark", img: "https://cdn3.cdnme.se/4787361/9-3/kort16_698884fc9606ee5fd1df6260.jpg", extra: "Försvarare - Milan" },
-      { number: 17, title: "Dušan Vlahović", desc: "28 januari 2000 i Belgrad, FR Jugoslavien", img: "https://cdn1.cdnme.se/4787361/9-3/kort17_6988852ae087c34ccec121a6.jpg", extra: "Anfallare - Juventus" },
-      { number: 18, title: "Olivier Giroud", desc: "<b>Olivier Jonathan Giroud</b><br>30 september 1986 i Chambéry, Frankrike", img: "https://cdn3.cdnme.se/4787361/9-3/kort18_69888549ddf2b33df6c558d5.jpg", extra: "Anfallare - Lille" },
-      { number: 19, title: "Jan Oblak", desc: "7 januari 1993 i Škofja Loka, Slovenien", img: "https://cdn3.cdnme.se/4787361/9-3/kort19_698885709606ee5fd8180462.jpg", extra: "Målvakt - Atlético Madrid" },
-      { number: 20, title: "Răzvan Marin", desc: "<b>Răzvan Gabriel Marin</b><br>23 maj 1996 i Bukarest, Rumänien", img: "https://cdn1.cdnme.se/4787361/9-3/kort20_69888592e087c32d851d67f5.jpg", extra: "Mittfältare - AEK Aten" },
-      { number: 21, title: "John Stones", desc: "28 maj 1994 i Barnsley, Storbritannien", img: "https://cdn2.cdnme.se/4787361/9-3/kort21_698885bee087c32d6b25c4c6.jpg", extra: "Försvarare - Manchester City" },
-      { number: 22, title: "Marco Verratti", desc: "5 november 1992 i Pescara, Italien", img: "https://cdn1.cdnme.se/4787361/9-3/kort22_698885e3e087c32d51590d97.jpg", extra: "Mittfältare - Al Arabi" },
-      { number: 23, title: "Mateo Kovačić", desc: "6 maj 1994 i Linz i Österrike", img: "https://cdn2.cdnme.se/4787361/9-3/kort23_69888616ddf2b33e27e6a7ab.jpg", extra: "Mittfältare - Manchester City" },
-      { number: 24, title: "Cody Gakpo", desc: "<b>Cody Mathès Gakpo</b><br>7 maj 1999 i Eindhoven, Nederländerna", img: "https://cdn1.cdnme.se/4787361/9-3/kort24_69888637ddf2b33dff1f367a.jpg", extra: "Mittfältare - Liverpool" },
-      { number: 25, title: "David Alaba", desc: "<b>David Olatukunbo Alaba</b><br>24 juni 1992 i Wien, Österrike", img: "https://cdn1.cdnme.se/4787361/9-3/kort25_69888659ddf2b33e30bf26f2.jpg", extra: "Försvarare - Real Madrid" },
-      { number: 26, title: "Marko Arnautović", desc: "19 april 1989 i Wien, Österrike", img: "https://cdn1.cdnme.se/4787361/9-3/kort26_698886849606ee423519f365.jpg", extra: "Anfallare - Röda stjärnan" },
-      { number: 27, title: "Ciro Immobile", desc: "20 februari 1990 i Torre Annunziata, Italien", img: "https://cdn2.cdnme.se/4787361/9-3/kort27_698886a39606ee423519f36a.jpg", extra: "Anfallare - Bologna" },
-      { number: 28, title: "Virgil van Dijk", desc: "8 juli 1991 i Breda, Nederländerna", img: "https://cdn3.cdnme.se/4787361/9-3/kort28_698886c8e087c32d8b569284.jpg", extra: "Försvarare - Liverpool" },
-      { number: 29, title: "Andy Robertson", desc: "<b>Andrew Robertson</b><br>11 mars 1994 i Glasgow, Skottland", img: "https://cdn3.cdnme.se/4787361/9-3/kort29_698886eae087c326d1daf74a.jpg", extra: "Försvarare - Liverpool" },
-      { number: 30, title: "Christian Eriksen", desc: "<b>Christian Dannemann Eriksen</b><br>14 februari 1992 i Middelfart, Danmark", img: "https://cdn3.cdnme.se/4787361/9-3/kort30_6988870dddf2b33e360a17ed.jpg", extra: "Mittfältare - Wolfsburg" },
-      { number: 31, title: "Pepe", desc: "<b>Kepler Laveran de Lima Ferreira</b><br>26 februari 1983 i Maceió, Brasilien", img: "https://cdn1.cdnme.se/4787361/9-3/kort31_698887319606ee5fa058c3d5.jpg", extra: "Försvarare - Porto" },
-      { number: 32, title: "Denzel Dumfries", desc: "<b>Denzel Justus Morris Dumfries</b><br>18 april 1996 i Rotterdam, Nederländerna", img: "https://cdn1.cdnme.se/4787361/9-3/kort32_69888757ddf2b33e360a17f0.jpg", extra: "Försvarare - Inter" },
-      { number: 33, title: "Christian Eriksen", desc: "<b>Christian Dannemann Eriksen</b><br>14 februari 1992 i Middelfart, Danmark", img: "https://cdn2.cdnme.se/4787361/9-3/kort33_698887769606ee5fa9390def.jpg", extra: "Mittfältare - Wolfsburg" },
-      { number: 34, title: "Álvaro Morata", desc: "<b>Álvaro Borja Morata Martín</b><br>23 oktober 1992 i Madrid, Spanien", img: "https://cdn3.cdnme.se/4787361/9-3/kort34_698887949606ee5fa058c3da.jpg", extra: "Anfallare - Como" },
-      { number: 35, title: "Álvaro Morata", desc: "<b>Álvaro Borja Morata Martín</b><br>23 oktober 1992 i Madrid, Spanien", img: "https://cdn3.cdnme.se/4787361/9-3/kort35_698887b89606ee5fd09facf4.jpg", extra: "Anfallare - Como" }
+      { number: 12, title: "Aurélien Tchouaméni", desc: "<b>Aurélien Djani Tchouaméni</b><br>27 januari 2000 i Rouen, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort12.jpg", extra: "Mittfältare - Real Madrid" },
+      { number: 13, title: "Declan Rice", desc: "14 januari 1999 i Kingston upon Thames, Storbritannien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort13.jpg", extra: "Mittfältare - Arsenal" },
+      { number: 14, title: "Patrik Schick", desc: "24 januari 1996 i Prag, Tjeckien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort14.jpg", extra: "Anfallare - Bayer Leverkusen" },
+      { number: 15, title: "Jamal Musiala", desc: "26 februari 2003 i Stuttgart, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort15.jpg", extra: "Mittfältare - Bayern München" },
+      { number: 16, title: "Simon Kjær", desc: "26 mars 1989 i Horsens, Danmark", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort16.jpg", extra: "Försvarare - Milan" },
+      { number: 17, title: "Dušan Vlahović", desc: "28 januari 2000 i Belgrad, FR Jugoslavien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort17.jpg", extra: "Anfallare - Juventus" },
+      { number: 18, title: "Olivier Giroud", desc: "<b>Olivier Jonathan Giroud</b><br>30 september 1986 i Chambéry, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort18.jpg", extra: "Anfallare - Lille" },
+      { number: 19, title: "Jan Oblak", desc: "7 januari 1993 i Škofja Loka, Slovenien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort19.jpg", extra: "Målvakt - Atlético Madrid" },
+      { number: 20, title: "Răzvan Marin", desc: "<b>Răzvan Gabriel Marin</b><br>23 maj 1996 i Bukarest, Rumänien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort20.jpg", extra: "Mittfältare - AEK Aten" },
+      { number: 21, title: "John Stones", desc: "28 maj 1994 i Barnsley, Storbritannien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort21.jpg", extra: "Försvarare - Manchester City" },
+      { number: 22, title: "Marco Verratti", desc: "5 november 1992 i Pescara, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort22.jpg", extra: "Mittfältare - Al Arabi" },
+      { number: 23, title: "Mateo Kovačić", desc: "6 maj 1994 i Linz i Österrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort23.jpg", extra: "Mittfältare - Manchester City" },
+      { number: 24, title: "Cody Gakpo", desc: "<b>Cody Mathès Gakpo</b><br>7 maj 1999 i Eindhoven, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort24.jpg", extra: "Mittfältare - Liverpool" },
+      { number: 25, title: "David Alaba", desc: "<b>David Olatukunbo Alaba</b><br>24 juni 1992 i Wien, Österrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort25.jpg", extra: "Försvarare - Real Madrid" },
+      { number: 26, title: "Marko Arnautović", desc: "19 april 1989 i Wien, Österrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort26.jpg", extra: "Anfallare - Röda stjärnan" },
+      { number: 27, title: "Ciro Immobile", desc: "20 februari 1990 i Torre Annunziata, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort27.jpg", extra: "Anfallare - Bologna" },
+      { number: 28, title: "Virgil van Dijk", desc: "8 juli 1991 i Breda, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort28.jpg", extra: "Försvarare - Liverpool" },
+      { number: 29, title: "Andy Robertson", desc: "<b>Andrew Robertson</b><br>11 mars 1994 i Glasgow, Skottland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort29.jpg", extra: "Försvarare - Liverpool" },
+      { number: 30, title: "Christian Eriksen", desc: "<b>Christian Dannemann Eriksen</b><br>14 februari 1992 i Middelfart, Danmark", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort30.jpg", extra: "Mittfältare - Wolfsburg" },
+      { number: 31, title: "Pepe", desc: "<b>Kepler Laveran de Lima Ferreira</b><br>26 februari 1983 i Maceió, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort31.jpg", extra: "Försvarare - Porto" },
+      { number: 32, title: "Denzel Dumfries", desc: "<b>Denzel Justus Morris Dumfries</b><br>18 april 1996 i Rotterdam, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort32.jpg", extra: "Försvarare - Inter" },
+      { number: 33, title: "Christian Eriksen", desc: "<b>Christian Dannemann Eriksen</b><br>14 februari 1992 i Middelfart, Danmark", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort33.jpg", extra: "Mittfältare - Wolfsburg" },
+      { number: 34, title: "Álvaro Morata", desc: "<b>Álvaro Borja Morata Martín</b><br>23 oktober 1992 i Madrid, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort34.jpg", extra: "Anfallare - Como" },
+      { number: 35, title: "Álvaro Morata", desc: "<b>Álvaro Borja Morata Martín</b><br>23 oktober 1992 i Madrid, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort35.jpg", extra: "Anfallare - Como" }
       */
     ],
     "FIFA365": [
@@ -836,6 +836,7 @@ const data = {
   }
 
 };
+
 
 
 
