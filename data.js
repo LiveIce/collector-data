@@ -397,17 +397,17 @@ const data = {
   },
   "Fotboll": {
     "EURO 2024": [
-      { number: 1, title: "John McGinn", desc: "<b>John McGinn</b><br>18 oktober 1994 i Glasgow, Storbritannien", img: "https://cdn3.cdnme.se/4787361/9-3/kort1_69885ebaddf2b33e0b48c747.jpg", extra: "Mittfältare - Aston Villa" },
-      { number: 2, title: "João Félix", desc: "<b>João Félix Sequeira</b><br>10 november 1999 i Viseu, Portugal", img: "https://cdn2.cdnme.se/4787361/9-3/kort2_69885f7de087c32d748d05f2.jpg", extra: "Mittfältare - Al-Nassr" },
-      { number: 3, title: "Romelu Lukaku", desc: "<b>Romelu Lukaku Bolingoli</b><br>13 maj 1993 i Antwerpen, Belgien", img: "https://cdn2.cdnme.se/4787361/9-3/kort3_69886c52e087c32d748d06a5.jpg", extra: "Anfallare - Napoli" },
-      { number: 4, title: "Patrik Schick", desc: "24 januari 1996 i Prag, Tjeckien", img: "https://cdn2.cdnme.se/4787361/9-3/kort4_69886ca1ddf2b33e27e6a5d9.jpg", extra: "Anfallare - Bayer Leverkusen" },
-      { number: 5, title: "Etrit Berisha", desc: "<b>Etrit Fadil Berisha</b><br>10 mars 1989 i Pristina, Jugoslavien", img: "https://cdn2.cdnme.se/4787361/9-3/kort5_698876fd9606ee5fd54c1e0f.jpg", extra: "Målvakt - BK Häcken" },
-      { number: 6, title: "Leonardo Bonucci", desc: "<b>NAMN</b><br>1 maj 1987 i Viterbo, Italien", img: "https://cdn1.cdnme.se/4787361/9-3/kort6_69887728ddf2b33e19664357.jpg", extra: "Försvarare - Fenerbahçe" },
-      { number: 7, title: "Romelu Lukaku", desc: "<b>Romelu Lukaku Bolingoli</b><br>13 maj 1993 i Antwerpen, Belgien", img: "https://cdn1.cdnme.se/4787361/9-3/kort7_69887761ddf2b33e360a16c8.jpg", extra: "Anfallare - Napoli" },
-      { number: 8, title: "Orkun Kökçü", desc: "29 december 2000 i Haarlem, Nederländerna", img: "https://cdn2.cdnme.se/4787361/9-3/kort8_698877939606ee5fd54c1e18.jpg", extra: "Mittfältare - Beşiktaş" },
-      { number: 9, title: "Manuel Akanji", desc: "<b>Manuel Obafemi Akanji</b><br>19 juli 1995 i Neftenbach, Schweiz", img: "https://cdn3.cdnme.se/4787361/9-3/kort9_698877bde087c32d4cfc8c77.jpg", extra: "Försvarare - Inter" },
-      { number: 10, title: "Dušan Vlahović", desc: "28 januari 2000 i Belgrad, FR Jugoslavien", img: "https://cdn2.cdnme.se/4787361/9-3/kort10_698877e7e087c32d77db9103.jpg", extra: "Anfallare - Juventus" },
-      { number: 11, title: "Sergej Milinković Savić", desc: "27 februari 1995 i Lleida, Spanien", img: "https://cdn1.cdnme.se/4787361/9-3/kort11_698884369606ee5fbfc7d25c.jpg", extra: "Mittfältare - Al-Hilal" },
+      { number: 1, title: "John McGinn", desc: "<b>John McGinn</b><br>18 oktober 1994 i Glasgow, Storbritannien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort1.jpg", extra: "Mittfältare - Aston Villa" },
+      { number: 2, title: "João Félix", desc: "<b>João Félix Sequeira</b><br>10 november 1999 i Viseu, Portugal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort2.jpg", extra: "Mittfältare - Al-Nassr" },
+      { number: 3, title: "Romelu Lukaku", desc: "<b>Romelu Lukaku Bolingoli</b><br>13 maj 1993 i Antwerpen, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort3.jpg", extra: "Anfallare - Napoli" },
+      { number: 4, title: "Patrik Schick", desc: "24 januari 1996 i Prag, Tjeckien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort4.jpg", extra: "Anfallare - Bayer Leverkusen" },
+      { number: 5, title: "Etrit Berisha", desc: "<b>Etrit Fadil Berisha</b><br>10 mars 1989 i Pristina, Jugoslavien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort5.jpg", extra: "Målvakt - BK Häcken" },
+      { number: 6, title: "Leonardo Bonucci", desc: "<b>NAMN</b><br>1 maj 1987 i Viterbo, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort6.jpg", extra: "Försvarare - Fenerbahçe" },
+      { number: 7, title: "Romelu Lukaku", desc: "<b>Romelu Lukaku Bolingoli</b><br>13 maj 1993 i Antwerpen, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort7.jpg", extra: "Anfallare - Napoli" },
+      { number: 8, title: "Orkun Kökçü", desc: "29 december 2000 i Haarlem, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort8.jpg", extra: "Mittfältare - Beşiktaş" },
+      { number: 9, title: "Manuel Akanji", desc: "<b>Manuel Obafemi Akanji</b><br>19 juli 1995 i Neftenbach, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort9.jpg", extra: "Försvarare - Inter" },
+      { number: 10, title: "Dušan Vlahović", desc: "28 januari 2000 i Belgrad, FR Jugoslavien", img: "https://github.com/LiveIce/collector-data/blob/main/fotboll/euro2024/Kort10.jpg", extra: "Anfallare - Juventus" },
+      { number: 11, title: "Sergej Milinković Savić", desc: "27 februari 1995 i Lleida, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort11.jpg", extra: "Mittfältare - Al-Hilal" },
       { number: 12, title: "Aurélien Tchouaméni", desc: "<b>Aurélien Djani Tchouaméni</b><br>27 januari 2000 i Rouen, Frankrike", img: "https://cdn1.cdnme.se/4787361/9-3/kort12_698884639606ee5fc177d9f3.jpg", extra: "Mittfältare - Real Madrid" },
       { number: 13, title: "Declan Rice", desc: "14 januari 1999 i Kingston upon Thames, Storbritannien", img: "https://cdn3.cdnme.se/4787361/9-3/kort13_69888493ddf2b33e19664433.jpg", extra: "Mittfältare - Arsenal" },
       { number: 14, title: "Patrik Schick", desc: "24 januari 1996 i Prag, Tjeckien", img: "https://cdn2.cdnme.se/4787361/9-3/kort14_698884b4ddf2b33dff1f365b.jpg", extra: "Anfallare - Bayer Leverkusen" },
@@ -832,6 +832,7 @@ const data = {
   }
 
 };
+
 
 
 
