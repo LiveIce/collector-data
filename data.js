@@ -406,7 +406,7 @@ const data = {
       { number: 7, title: "Romelu Lukaku", desc: "<b>Romelu Lukaku Bolingoli</b><br>13 maj 1993 i Antwerpen, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort7.jpg", extra: "Anfallare - Napoli" },
       { number: 8, title: "Orkun Kökçü", desc: "29 december 2000 i Haarlem, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort8.jpg", extra: "Mittfältare - Beşiktaş" },
       { number: 9, title: "Manuel Akanji", desc: "<b>Manuel Obafemi Akanji</b><br>19 juli 1995 i Neftenbach, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort9.jpg", extra: "Försvarare - Inter" },
-      { number: 10, title: "Dušan Vlahović", desc: "28 januari 2000 i Belgrad, FR Jugoslavien", img: "https://github.com/LiveIce/collector-data/blob/main/fotboll/euro2024/Kort10.jpg", extra: "Anfallare - Juventus" },
+      { number: 10, title: "Dušan Vlahović", desc: "28 januari 2000 i Belgrad, FR Jugoslavien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort10.jpg", extra: "Anfallare - Juventus" },
       { number: 11, title: "Sergej Milinković Savić", desc: "27 februari 1995 i Lleida, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort11.jpg", extra: "Mittfältare - Al-Hilal" }
       /*
       { number: 12, title: "Aurélien Tchouaméni", desc: "<b>Aurélien Djani Tchouaméni</b><br>27 januari 2000 i Rouen, Frankrike", img: "https://cdn1.cdnme.se/4787361/9-3/kort12_698884639606ee5fc177d9f3.jpg", extra: "Mittfältare - Real Madrid" },
@@ -834,6 +834,7 @@ const data = {
   }
 
 };
+
 
 
 
