@@ -673,28 +673,28 @@ const data = {
   },
   "MetaZoo": {
     "UFO": [
-      { number: 2, title: "MEN IN BLACK", desc: "Beastie Humanoid", img: "https://cdn2.cdnme.se/4787361/9-3/kort2nh_6988d0409606ee038389c8da.jpg", extra: "Non Holo - Rare" },
-      { number: 2, title: "MEN IN BLACK", desc: "Beastie Humanoid", img: "https://cdn3.cdnme.se/4787361/9-3/kort2h_6988cfe89606ee5fd1df683e.jpg", extra: "Holo - Rare" },
-      { number: 4, title: "VAN METER VISITOR", desc: "Beastie Dinosaur", img: "https://cdn3.cdnme.se/4787361/9-3/kort4nh_6988d1519606ee5fbfc7d811.jpg", extra: "Non Holo - Rare" },
-      { number: 4, title: "VAN METER VISITOR", desc: "Beastie Dinosaur", img: "https://cdn3.cdnme.se/4787361/9-3/kort4h_6988d17ce087c32d77db97fa.jpg", extra: "Holo - Rare" },
-      { number: 5, title: "GARGANTUAN GLIDERS", desc: "Beastie Alien", img: "https://cdn3.cdnme.se/4787361/9-3/kort5nh_6988d29ce087c32d8b569805.jpg", extra: "Non Holo - Rare" },
-      { number: 6, title: "THE LEVELLAND ROCKET", desc: "Beastie Alien", img: "https://cdn2.cdnme.se/4787361/9-3/kort6nh_6988d40bddf2b33e053626fc.jpg", extra: "NonHolo - Rare" },
-      { number: 6, title: "THE LEVELLAND ROCKET", desc: "Beastie Alien", img: "https://cdn1.cdnme.se/4787361/9-3/kort6h_6988d43ce087c32d557336c8.jpg", extra: "Holo - Rare" },
-      { number: 6, title: "THE LEVELLAND ROCKET", desc: "Beastie Alien", img: "https://cdn3.cdnme.se/4787361/9-3/kort6rh_6988d461e087c32d6b25c9d1.jpg", extra: "Reverse Holo - Rare" },
-      { number: 7, title: "WAKINYAN", desc: "Beastie", img: "https://cdn3.cdnme.se/4787361/9-3/kort7nh_6988d74addf2b33dff1f3bd4.jpg", extra: "Non Holo - Rare" },
-      { number: 7, title: "WAKINYAN", desc: "Beastie", img: "https://cdn1.cdnme.se/4787361/9-3/kort7h_6988d76eddf2b33e05362726.jpg", extra: "Holo - Rare" },
-      { number: 8, title: "HAT MAN", desc: "Beastie", img: "https://cdn3.cdnme.se/4787361/9-3/kort8nh_6988de63ddf2b33e13fb33a3.jpg", extra: "Non Holo - Rare" },
-      { number: 8, title: "HAT MAN", desc: "Beastie", img: "https://cdn3.cdnme.se/4787361/9-3/kort8h_6988de879606ee5fd325e886.jpg", extra: "Holo - Rare" },
-      { number: 9, title: "LECHUZA", desc: "Beastie Witch", img: "https://cdn3.cdnme.se/4787361/9-3/kort9h_6988e02addf2b31f2cf0d13f.jpg", extra: "Holo - Rare" },
-      { number: 11, title: "HOUSTON BATMAN", desc: "Beastie Humanoid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort11NH.jpg", extra: "Non Holo - Rare" },
-      { number: 11, title: "HOUSTON BATMAN", desc: "Beastie Humanoid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort11H.jpg", extra: "Holo - Rare" },
-      { number: 12, title: "MOUNTAIN BOOMER", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort12NH.jpg", extra: "Non Holo - Rare" },
-      { number: 12, title: "MOUNTAIN BOOMER", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort12H.jpg", extra: "Holo - Rare" },
-      { number: 13, title: "PROCTOR VALLEY MONSTER", desc: "Beastie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort13NH.jpg", extra: "Non Holo - Rare" },
-      { number: 15, title: "PAMOLA", desc: "Beastie Spirit", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort15NH.jpg", extra: "Non Holo - Rare" },
-      { number: 16, title: "FOO FIGHTERS", desc: "Beastie Alien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort16NH.jpg", extra: "Non Holo - Rare" },
-      { number: 17, title: "CRYPTID BUSTERS", desc: "Beastie Humanoids", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort17NH.jpg", extra: "Non Holo - Rare" },
-      { number: 18, title: "OGUA", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/UFO/Kort18NH.jpg", extra: "Non Holo - Rare" },
+      { number: 2, title: "MEN IN BLACK", desc: "Beastie Humanoid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort2NH.jpg", extra: "Non Holo - Rare" },
+      { number: 2, title: "MEN IN BLACK", desc: "Beastie Humanoid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort2H.jpg", extra: "Holo - Rare" },
+      { number: 4, title: "VAN METER VISITOR", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort4NH.jpg", extra: "Non Holo - Rare" },
+      { number: 4, title: "VAN METER VISITOR", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort4H.jpg", extra: "Holo - Rare" },
+      { number: 5, title: "GARGANTUAN GLIDERS", desc: "Beastie Alien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort5NH.jpg", extra: "Non Holo - Rare" },
+      { number: 6, title: "THE LEVELLAND ROCKET", desc: "Beastie Alien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort6NH.jpg", extra: "NonHolo - Rare" },
+      { number: 6, title: "THE LEVELLAND ROCKET", desc: "Beastie Alien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort6H.jpg", extra: "Holo - Rare" },
+      { number: 6, title: "THE LEVELLAND ROCKET", desc: "Beastie Alien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort6RH.jpg", extra: "Reverse Holo - Rare" },
+      { number: 7, title: "WAKINYAN", desc: "Beastie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort7NH.jpg", extra: "Non Holo - Rare" },
+      { number: 7, title: "WAKINYAN", desc: "Beastie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort7H.jpg", extra: "Holo - Rare" },
+      { number: 8, title: "HAT MAN", desc: "Beastie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort8NH.jpg", extra: "Non Holo - Rare" },
+      { number: 8, title: "HAT MAN", desc: "Beastie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort8H.jpg", extra: "Holo - Rare" },
+      { number: 9, title: "LECHUZA", desc: "Beastie Witch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort9H.jpg", extra: "Holo - Rare" },
+      { number: 11, title: "HOUSTON BATMAN", desc: "Beastie Humanoid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort11NH.jpg", extra: "Non Holo - Rare" },
+      { number: 11, title: "HOUSTON BATMAN", desc: "Beastie Humanoid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort11H.jpg", extra: "Holo - Rare" },
+      { number: 12, title: "MOUNTAIN BOOMER", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort12NH.jpg", extra: "Non Holo - Rare" },
+      { number: 12, title: "MOUNTAIN BOOMER", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort12H.jpg", extra: "Holo - Rare" },
+      { number: 13, title: "PROCTOR VALLEY MONSTER", desc: "Beastie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort13NH.jpg", extra: "Non Holo - Rare" },
+      { number: 15, title: "PAMOLA", desc: "Beastie Spirit", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort15NH.jpg", extra: "Non Holo - Rare" },
+      { number: 16, title: "FOO FIGHTERS", desc: "Beastie Alien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort16NH.jpg", extra: "Non Holo - Rare" },
+      { number: 17, title: "CRYPTID BUSTERS", desc: "Beastie Humanoids", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort17NH.jpg", extra: "Non Holo - Rare" },
+      { number: 18, title: "OGUA", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort18NH.jpg", extra: "Non Holo - Rare" },
 /*
       { number: 20, title: "Dragons Rise", desc: "Spell", img: "metazoo/Kort20.jpg", extra: "Flame - Gold" },
       { number: 21, title: "Evil Wins", desc: "Spell", img: "metazoo/Kort21.jpg", extra: "Dark - Gold" },
@@ -832,5 +832,6 @@ const data = {
   }
 
 };
+
 
 
