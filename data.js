@@ -452,6 +452,7 @@ const data = {
       { number: 233, title: "Christian Gytkjær", desc: "<b>Christian Lund Gytkjær</b><br>6 maj 1990 i Roskilde, Danmark", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort233.jpg", extra: "Anfallare - Rosenborg BK" },
       { number: 234, title: "Matthías Vilhjálmsson", desc: "<b>Matthías Vilhjálmsson</b><br>30 januari 1987 i Ísafjörður, Island", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort234.jpg", extra: "Anfallare - Rosenborg BK" },
       { number: 298, title: "Jonas Hector", desc: "<b>Jonas Hector</b><br>27 maj 1990 i Saarbrücken, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort298.jpg", extra: "Försvarare - Deutschland" },
+      { number: 313, title: "William Carvalho", desc: "<b>William Silva de Carvalho</b><br>7 april 1992 i Luanda, Angola", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort313.jpg", extra: "Mittfältare - Portugal" },
       { number: 314, title: "Renato Sanches", desc: "<b>Renato Júnior Luz Sanches</b><br>18 augusti 1997 i Lissabon, Portugal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort314.jpg", extra: "Mittfältare - Portugal" },
       { number: 315, title: "Éder", desc: "<b>Éderzito António Macedo Lopes</b><br>22 december 1987 i Bissau, Guinea-Bissau", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort315.jpg", extra: "Anfallare - Portugal" },
       { number: 325, title: "Dani Alves", desc: "<b>Daniel Alves da Silva</b><br>6 maj 1983 i Juazeiro, Bahia, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort325.jpg", extra: "Försvarare - Brasil" },
@@ -641,6 +642,8 @@ const data = {
       { number: 2, title: "Tobias Strobl", desc: "<b>Tobias Strobl</b><br>12 maj 1990 i München, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort2.jpg", extra: "Mittfältare - FC Augsburg" },
       { number: 13, title: "Jurgen Ekkelenkamp", desc: "<b>Jurgen Ekkelenkamp</b><br>5 april 2000 i Zeist, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort13.jpg", extra: "Mittfältare - Hertha Berlin" },
       { number: 14, title: "Niklas Stark", desc: "<b>Niklas Stark</b><br>14 april 1995 i Neustadt an der Aisch, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort14.jpg", extra: "Försvarare - Hertha Berlin" },
+      { number: 15, title: "Kevin-Prince Boateng", desc: "<b>Kevin-Prince Boateng</b><br>6 mars 1987 i Berlin, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort15.jpg", extra: "Mittfältare - Hertha Berlin" },
+      { number: 16, title: "Alexander Schwolow", desc: "<b>Alexander Schwolow</b><br>2 juni 1992 i Wiesbaden, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort16.jpg", extra: "Målvakt - Hertha Berlin" },
       { number: 21, title: "Max Kruse", desc: "<b>Max Bennet Kruse</b><br>19 mars 1988 i Reinbek, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort21.jpg", extra: "Anfallare - 1. FC Union Berlin" },
       { number: 22, title: "Marvin Friedrich", desc: "<b>Marvin Friedrich</b><br>13 december 1995 i Kassel, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort22.jpg", extra: "Försvarare - Borussia Mönchengladbach" },
       { number: 23, title: "Sheraldo Becker", desc: "<b>Sheraldo Rudi Salomo Willem Becker</b><br>9 februari 1995 i Amsterdam, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort23.jpg", extra: "Anfallare - 1. FC Union Berlin" },
@@ -834,6 +837,7 @@ const data = {
   }
 
 };
+
 
 
 
