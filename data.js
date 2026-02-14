@@ -638,6 +638,8 @@ const data = {
     "Topps": [
       { number: 00, title: "Lukas Hradecky", desc: "<b>Lukáš Hrádecký</b><br>24 november 1989 i Bratislava, Slovakien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0a.jpg", extra: "Målvakt - Bayer 04 Leverkusen" },
       { number: 00, title: "Koen Casteels", desc: "<b>Koen Casteels</b><br>25 juni 1992 i Bonheiden, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0b.jpg", extra: "Målvakt - VfL Wolfsburg" },
+      { number: 00, title: "Branimir Hrgota", desc: "<b>Branimir Hrgota</b><br>12 januari 1993 i Zenica, Bosnien och Hercegovina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0c.jpg", extra: "Anfallare - SpVgg Greuther Fürth" },
+      { number: 00, title: "Dedryck Boyata", desc: "<b>Anga Dedryck Boyata</b><br>28 november 1990 i Uccle, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0d.jpg", extra: "Mittfältare - Hertha Berlin" },
       { number: 1, title: "Felix Uduokhai", desc: "<b>Felix Ohis Uduokhai</b><br>9 september 1997 i Annaberg-Buchholz, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort1.jpg", extra: "Försvarare- FC Augsburg" },
       { number: 2, title: "Tobias Strobl", desc: "<b>Tobias Strobl</b><br>12 maj 1990 i München, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort2.jpg", extra: "Mittfältare - FC Augsburg" },
       { number: 13, title: "Jurgen Ekkelenkamp", desc: "<b>Jurgen Ekkelenkamp</b><br>5 april 2000 i Zeist, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort13.jpg", extra: "Mittfältare - Hertha Berlin" },
@@ -837,6 +839,7 @@ const data = {
   }
 
 };
+
 
 
 
