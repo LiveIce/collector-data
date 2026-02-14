@@ -519,18 +519,18 @@ const data = {
       { number: 113, title: "Thiago", desc: "<b>Thiago Alcântara Do Nascimento</b><br>11 april 1991 i San Pietro Vernotico, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort113.jpg", extra: "Mittfältare - Bayern München" },
       { number: 114, title: "Arjen Robben", desc: "<b>Arjen Robben</b><br>23 januari 1984 i Bedum, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort114.jpg", extra: "Mittfältare - Bayern München" },
       { number: 115, title: "James Rodríguez", desc: "<b>James David Rodríguez Rubio</b><br>12 juli 1991 i Cúcuta, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort115.jpg", extra: "Mittfältare - Bayern München" },
-      { number: 116, title: "Kingsley Coman", desc: "<b>Kingsley Junior Coman</b><br>13 juni 1996 i Paris, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort116.jpg", extra: "Anfallare - Bayern München" },
+      { number: 116, title: "Kingsley Coman", desc: "<b>Kingsley Junior Coman</b><br>13 juni 1996 i Paris, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort116.jpg", extra: "Anfallare - Bayern München" },      
+      { number: 126, title: "Ömer Toprak", desc: "<b>Ömer Toprak</b><br>21 juli 1989 i Ravensburg, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort126.jpg", extra: "Försvarare - Borussia Dortmund" },
+      { number: 127, title: "Lukasz Piszczek", desc: "<b>Łukasz Piszczek</b><br>3 juni 1985 i Czechowice-Dziedzice, Polen", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort127.jpg", extra: "Försvarare - Borussia Dortmund" },
+      { number: 128, title: "Manuel Akanji", desc: "<b>Manuel Obafemi Akanji</b><br>19 juli 1995 i Wiesendangen, Wiesendangen, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort128.jpg", extra: "Försvarare - Borussia Dortmund" },
+      { number: 129, title: "Mahmoud Dahoud", desc: "<b>Mahmoud Dahoud</b><br>1 januari 1996 i Amuda, Syrien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort129.jpg", extra: "Mittfältare - Borussia Dortmund" },
+      { number: 130, title: "Julian Weigl", desc: "<b>Julian Weigl</b><br>8 september 1995 i Bad Aibling, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort130.jpg", extra: "Mittfältare - Borussia Dortmund" },
+      { number: 131, title: "Shinji Kagawa", desc: "<b>Shinji Kagawa</b><br>17 mars 1989 i Tarumi-ku, Kobe, Hyogo prefektur, Japan", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort131.jpg", extra: "Mittfältare - Borussia Dortmund" },
+      { number: 142, title: "Naldo", desc: "<b>Ronaldo Aparecido Rodrigues</b><br>10 september 1982 i Londrina, Paraná, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort142.jpg", extra: "Försvarare - Schalke 04" },
+      { number: 143, title: "Thilo Kehrer", desc: "<b>Thilo Kehrer</b><br>21 september 1996 i Tübingen, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort143.jpg", extra: "Försvarare - Schalke 04" },
+      { number: 144, title: "Bastian Oczipka", desc: "<b><b>Bastian Oczipka</b><br>12 januari 1989 i Bergisch Gladbach, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort144.jpg", extra: "Försvarare - Schalke 04" },
+      { number: 145, title: "Benjamin Stambouli", desc: "<b>Benjamin Stambouli</b><br>13 augusti 1990 i Marseille, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort145.jpg", extra: "Försvarare - Schalke 04" },
 /*      
-      { number: 126, title: "Ömer Toprak", desc: "21 juli 1989 i Ravensburg, Tyskland", img: "fotboll/fifa365 2019/Kort126.jpg", extra: "Försvarare - Antalyaspor" },
-      { number: 127, title: "Lukasz Piszczek", desc: "<b>Łukasz Piszczek</b><br>FÖDD", img: "fotboll/fifa365 2019/Kort127.jpg", extra: "POSITION - KLUBB" },
-      { number: 128, title: "Manuel Akanji", desc: "<b>Manuel Obafemi Akanji</b><br>FÖDD", img: "fotboll/fifa365 2019/Kort128.jpg", extra: "POSITION - KLUBB" },
-      { number: 129, title: "Mahmoud Dahoud", desc: "FÖDD", img: "fotboll/fifa365 2019/Kort129.jpg", extra: "POSITION - KLUBB" },
-      { number: 130, title: "Julian Weigl", desc: "FÖDD", img: "fotboll/fifa365 2019/Kort130.jpg", extra: "POSITION - KLUBB" },
-      { number: 131, title: "Shinji Kagawa", desc: "FÖDD", img: "fotboll/fifa365 2019/Kort131.jpg", extra: "POSITION - KLUBB" },
-      { number: 142, title: "Naldo", desc: "<b>Ronaldo Aparecido Rodrigues</b><br>FÖDD", img: "fotboll/fifa365 2019/Kort142.jpg", extra: "POSITION - KLUBB" },
-      { number: 143, title: "Thilo Kehrer", desc: "FÖDD", img: "fotboll/fifa365 2019/Kort143.jpg", extra: "POSITION - KLUBB" },
-      { number: 144, title: "Bastian Oczipka", desc: "<b>FÖDD", img: "fotboll/fifa365 2019/Kort144.jpg", extra: "POSITION - KLUBB" },
-      { number: 145, title: "Benjamin Stambouli", desc: "FÖDD", img: "fotboll/fifa365 2019/Kort145.jpg", extra: "POSITION - KLUBB" },
       { number: 146, title: "Nabil Bentaleb", desc: "FÖDD", img: "fotboll/fifa365 2019/Kort146.jpg", extra: "POSITION - KLUBB" },
       { number: 147, title: "Weston McKennie", desc: "FÖDD", img: "fotboll/fifa365 2019/Kort147.jpg", extra: "POSITION - KLUBB" },
       { number: 148, title: "Daniel Caligiuri", desc: "FÖDD", img: "fotboll/fifa365 2019/Kort148.jpg", extra: "POSITION - KLUBB" },
@@ -839,6 +839,7 @@ const data = {
   }
 
 };
+
 
 
 
