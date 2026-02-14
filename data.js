@@ -490,16 +490,16 @@ const data = {
       { number: 55, title: "Thomas Vermaelen", desc: "<b>Thomas Vermaelen</b><br>14 november 1985 i Kapellen, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort55.jpg", extra: "Försvarare - FC Barcelona" },
       { number: 56, title: "Jordi Alba", desc: "<b>Jordi Alba Ramos</b><br>21 mars 1989 i L'Hospitalet de Llobregat, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort56.jpg", extra: "Mittfältare - FC Barcelona" },
       { number: 57, title: "Sergi Roberto", desc: "<b>Sergi Roberto Carnicer</b><br>7 februari 1992 i Reus, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort57.jpg", extra: "Mittfältare - FC Barcelona" },
-/*
-      { number: 58, title: "Denis Suárez", desc: "<b>Denis Suárez Fernández</b><br>FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort58.jpg", extra: "POSITION - KLUBB" },
-      { number: 59, title: "Ivan Rakitić", desc: "FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort59.jpg", extra: "POSITION - KLUBB" },
-      { number: 60, title: "Philippe Coutinho", desc: "<b>Philippe Coutinho Correia</b><br>FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort60.jpg", extra: "POSITION - KLUBB" },
-      { number: 61, title: "Ousmane Dembélé", desc: "<b>Masour Ousmane Dembélé</b><br>FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort61.jpg", extra: "POSITION - KLUBB" },
-      { number: 62, title: "Luis Suárez", desc: "<b>Luis Alberto Suárez Díaz</b><br>FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort62.jpg", extra: "POSITION - KLUBB" },
-      { number: 70, title: "Keylor Navas", desc: "<b>Keylor Antonio Navas Gamboa</b><br>FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort70.jpg", extra: "POSITION - KLUBB" },
-      { number: 71, title: "Raphaël Varane", desc: "<b>Raphaël Xavier Varane</b><br>FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort71.jpg", extra: "POSITION - KLUBB" },
-      { number: 79, title: "Marco Asensio", desc: "<b>Marco Asensio Willemsen</b><br>FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort79.jpg", extra: "POSITION - KLUBB" },
-      { number: 80, title: "Lucas Vázquez", desc: "<b>Lucas Vázquez Iglesias</b><br>FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort80.jpg", extra: "POSITION - KLUBB" },
+      { number: 58, title: "Denis Suárez", desc: "<b>Denis Suárez Fernández</b><br>6 januari 1994 i Salceda de Caselas, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort58.jpg", extra: "Mittfältare - Barcelona" },
+      { number: 59, title: "Ivan Rakitić", desc: "<b>Ivan Rakitić</b><br>10 mars 1988 i Rheinfelden, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort59.jpg", extra: "Mittfältare - Barcelona" },
+      { number: 60, title: "Philippe Coutinho", desc: "<b>Philippe Coutinho Correia</b><br>12 juni 1992 i Rio de Janeiro, Rio de Janeiro, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort60.jpg", extra: "Mittfältare - Barcelona" },
+      { number: 61, title: "Ousmane Dembélé", desc: "<b>Masour Ousmane Dembélé</b><br>15 maj 1997 i Vernon, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort61.jpg", extra: "Anfallare - Barcelona" },
+      { number: 62, title: "Luis Suárez", desc: "<b>Luis Alberto Suárez Díaz</b><br>24 januari 1987 i Salto, Uruguay", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort62.jpg", extra: "Anfallare - Barcelona" },
+      { number: 70, title: "Keylor Navas", desc: "<b>Keylor Antonio Navas Gamboa</b><br>15 december 1986 i San Isidro de El General, Costa Rica", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort70.jpg", extra: "Målvakt - Real Madrid" },
+      { number: 71, title: "Raphaël Varane", desc: "<b>Raphaël Xavier Varane</b><br>25 april 1993 i Lille, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort71.jpg", extra: "Försvarare - Real Madrid" },
+      { number: 79, title: "Marco Asensio", desc: "<b>Marco Asensio Willemsen</b><br>21 januari 1996 i Palma de Mallorca, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort79.jpg", extra: "Anfallare - Real Madrid" },
+      { number: 80, title: "Lucas Vázquez", desc: "<b>Lucas Vázquez Iglesias</b><br>1 juli 1991 i Curtis, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort80.jpg", extra: "Försvarare - Real Madrid" },
+/*      
       { number: 81, title: "Gareth Bale", desc: "<b>Gareth Frank Bale</b><br>FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort81.jpg", extra: "POSITION - KLUBB" },
       { number: 89, title: "Thomas Meunier", desc: "<b>Thomas André Meunier</b><br>FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort89.jpg", extra: "POSITION - KLUBB" },
       { number: 90, title: "Presnel Kimpembe", desc: "FÖDD", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort90.jpg", extra: "POSITION - KLUBB" },
@@ -839,6 +839,7 @@ const data = {
   }
 
 };
+
 
 
 
