@@ -447,6 +447,8 @@ const data = {
       { number: 177, title: "Julian Weigl", desc: "<b>Julian Weigl</b><br>8 september 1995 i Bad Aibling, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort177.jpg", extra: "Mittfältare - Borussia Dortmund" },
       { number: 180, title: "Adrian Ramos", desc: "<b>Gustavo Adrián Ramos Vásquez</b><br>22 januari 1986 i Santander de Quilichao, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort180.jpg", extra: "Anfallare - Borussia Dortmund" },
       { number: 190, title: "Leonardo Bonucci", desc: "<b>Leonardo Bonucci</b><br>1 maj 1987 i Viterbo, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort190.jpg", extra: "Försvarare - Juventus" },
+      { number: 191, title: "Andrea Barzagli", desc: "<b>Andrea Barzagli</b><br>8 maj 1981 i Fiesole, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort191.jpg", extra: "Försvarare - Juventus" },
+      { number: 192, title: "Stephan Lichtsteiner", desc: "<b>Stephan Lichtsteiner</b><br>16 januari 1984 i Adligenswil, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort192.jpg", extra: "Försvarare - Juventus" },
       { number: 216, title: "Anwar El Ghazi", desc: "<b>Anwar El Ghazi</b><br>3 maj 1995 i Barendrecht, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort216.jpg", extra: "Mittfältare - AFC Ajax" },
       { number: 232, title: "Anders Konradsen", desc: "<b>Anders Ågnes Konradsen</b><br>18 juli 1990 i Bodø, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort232.jpg", extra: "Mittfältare - Rosenborg BK" },
       { number: 233, title: "Christian Gytkjær", desc: "<b>Christian Lund Gytkjær</b><br>6 maj 1990 i Roskilde, Danmark", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort233.jpg", extra: "Anfallare - Rosenborg BK" },
@@ -839,6 +841,7 @@ const data = {
   }
 
 };
+
 
 
 
