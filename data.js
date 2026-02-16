@@ -843,7 +843,7 @@ const data = {
   },
     "Skivor": {
     "Vinyl LP": [      
-      { number: 1, title: "Judas Priest", desc: "<b>Rocka Rolla</b>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "1.One For The Road 2.Rocka Rolla<br>3.Winter 4.Deep Freeze<br>5.Winter Retreat 6.Cheater<br>7.Never Satisfied 8.Run Of The Mill<br>9.Dying To Meet You 10.Caviar And Meths<br>1974" },
+      { number: 1, title: "Judas Priest", desc: "1.One For The Road 2.Rocka Rolla<br>3.Winter 4.Deep Freeze<br>5.Winter Retreat 6.Cheater<br>7.Never Satisfied 8.Run Of The Mill<br>9.Dying To Meet You 10.Caviar And Meths", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "<b>Rocka Rolla</b> - 1974" },
       { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>3.Traveller 4.You're Not Alone<br>5.Explode Like A Star 6.Da Guadeloop<br>7.Lonely Woman 8.Liquid Whisper<br>9.Archy The Robot", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
     ],      
     "Vinyl Singlar": [
@@ -913,6 +913,7 @@ const data = {
     ]
   }
 };
+
 
 
 
