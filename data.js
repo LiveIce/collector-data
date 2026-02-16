@@ -841,8 +841,23 @@ const data = {
 */
     ]
   }
+    "Skivor": {
+    "Vinyl Singlar": [
+      { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
+      { number: 2, title: "Shocking Blue", desc: "Send Me A Postcard<br>Harley Davidson", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00002.JPG", extra: "1970" },
+      { number: 3, title: "Sylvia Vrethammar", desc: "En Lärling På Våran Gård<br>Tycker Om Dej", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00003.JPG", extra: "1969" },
+      { number: 4, title: "Deep Purple", desc: "Woman From Tokyo<br>Black Night (Live)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00004.jpg", extra: "1973" },
+      { number: 5, title: "Edwin Starr", desc: "War<br>He Who Picks A Rose", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00005.jpg", extra: "1970" },
+      { number: 6, title: "Rare Bird", desc: "Sympathy<br>Devil's High Concern", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00006.JPG", extra: "1970" },
+      { number: 7, title: "Dave Clark Five", desc: "Julia<br>Five By Five", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00007.JPG", extra: "1970" },
+      { number: 8, title: "Frijid Pink", desc: "Sing A Song For Freedom<br>End Of The Line", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00008.JPG", extra: "1970" },
+      { number: 9, title: "Box Tops", desc: "You Keep Tightening Up On Me<br>Come On Honey", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00009.jpg", extra: "1970" },
+      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
+    ]
+  },
 
 };
+
 
 
 
