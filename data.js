@@ -845,10 +845,10 @@ const data = {
     "Vinyl LP": [      
       { number: 1, title: "Judas Priest", desc: "1.One For The Road 2.Rocka Rolla<br>3.Winter 4.Deep Freeze<br>5.Winter Retreat 6.Cheater<br>7.Never Satisfied 8.Run Of The Mill<br>9.Dying To Meet You 10.Caviar And Meths", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "<b>Rocka Rolla</b> - 1974" },
       { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>3.Traveller 4.You're Not Alone<br>5.Explode Like A Star 6.Da Guadeloop<br>7.Lonely Woman 8.Liquid Whisper<br>9.Archy The Robot", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
+      { number: 3, title: "Toe Fat", desc: "1.Stick Heat 2.Indian Summer<br>3.Idol 4.There'll Be Changes<br>5.A New Way 6.Since You've Been Gone<br>7.Three Time Loser 8.Midnight Sun", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00003.jpg", extra: "<b>Two</b> - 1970" }
+      { number: 4, title: "Alice Cooper", desc: "1.Big Apple Dreamin' (Hippo) 2.Never Been Sold Before<br>3.Hard Hearted Alice 4.Crazy Little Child<br>5.Working Up A Sweat 6.Muscle Of Love<br>7.Man With The Golden Gun 8.Teenage Lament '74<br>9.Woman Machine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00004.jpg", extra: "<b>Muscle Of Love</b> - 1973" }
+      { number: 5, title: "Alice Cooper", desc: "1.Hello Hooray 2.Raped And Freezin'<br>3.Elected 4.Billion Dollar Babies<br>5.Unfinished Sweet 6.No More Mr Nice Guy<br>7.Generation Landslide 8.Sick Things<br>9.Mary Ann 10.I Love The Dead", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00005.jpg", extra: "<b>Billion Dollar Babies</b> - 1973" }
 /*
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
       { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
       { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
       { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
@@ -926,6 +926,7 @@ const data = {
     ]
   }
 };
+
 
 
 
