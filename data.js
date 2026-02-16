@@ -843,7 +843,7 @@ const data = {
   },
     "Skivor": {
     "Vinyl LP": [      
-      { number: 1, title: "Judas Priest", desc: "<h5><b>Rocka Rolla</h5></b>One For The Road<br>Rocka Rolla<br>Winter<br>Deep Freeze<br>Winter Retreat<br>Cheater<br>Never Satisfied<br>Run Of The Mill<br>Dying To Meet You<br>Caviar And Meths", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "1974" },
+      { number: 1, title: "Judas Priest", desc: "<h5><b>Rocka Rolla</h5></b><br>One For The Road<br>Rocka Rolla<br>Winter<br>Deep Freeze<br>Winter Retreat<br>Cheater<br>Never Satisfied<br>Run Of The Mill<br>Dying To Meet You<br>Caviar And Meths", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "1974" },
       { number: 2, title: "Amon Düül II<br><i>Hi Jack</i>", desc: "Hi Jack", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "1974" }
     ],      
     "Vinyl Singlar": [
@@ -913,6 +913,7 @@ const data = {
     ]
   }
 };
+
 
 
 
