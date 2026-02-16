@@ -840,7 +840,7 @@ const data = {
       { number: 170, title: "Tree Token", desc: "Token", img: "metazoo/Kort170.jpg", extra: "Token" }
 */
     ]
-  }
+  },
     "Skivor": {
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -910,6 +910,7 @@ const data = {
   },
 
 };
+
 
 
 
