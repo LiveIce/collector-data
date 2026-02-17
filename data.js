@@ -845,9 +845,12 @@ const data = {
   },
     "Ozzy Osbourne": {
     "Evolution Of An Ozzman": [
-      { number: 1, title: "1969", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1a.jpg", extra: "2001" },
-      { number: 2, title: "Ozzy Osbourne", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2a.jpg", extra: "2001" },
-      { number: 3, title: "Oz-Brain", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3a.jpg", extra: "2001" }
+      { number: 1, title: "1969", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1a.jpg", extra: "Framsida" },
+      { number: 1, title: "1969", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1b.jpg", extra: "Baksida" },
+      { number: 2, title: "Ozzy Osbourne", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2a.jpg", extra: "Framsida" },
+      { number: 2, title: "Ozzy Osbourne", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2b.jpg", extra: "Baksida" },
+      { number: 3, title: "Oz-Brain", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3a.jpg", extra: "Framsida" },
+      { number: 3, title: "Oz-Brain", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3b.jpg", extra: "Baksida" }
     ]
   },  
     "Skivor": {
@@ -935,6 +938,7 @@ const data = {
     ]
   }
 };
+
 
 
 
