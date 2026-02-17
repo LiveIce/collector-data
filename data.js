@@ -850,7 +850,13 @@ const data = {
       { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2a.jpg", extra: "Framsida" },
       { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2b.jpg", extra: "Baksida" },
       { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3a.jpg", extra: "Framsida" },
-      { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3b.jpg", extra: "Baksida" }
+      { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3b.jpg", extra: "Baksida" },
+      { number: 4, title: "Ozzy Zig", desc: "Rare Breed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort4a.jpg", extra: "Framsida" },
+      { number: 4, title: "Ozzy Zig", desc: "Rare Breed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort4b.jpg", extra: "Baksida" },
+      { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5a.jpg", extra: "Framsida" },
+      { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5b.jpg", extra: "Baksida" },
+      { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6a.jpg", extra: "Framsida" },
+      { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6b.jpg", extra: "Baksida" }
     ]
   },  
     "Skivor": {
@@ -938,6 +944,7 @@ const data = {
     ]
   }
 };
+
 
 
 
