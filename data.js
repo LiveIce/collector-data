@@ -843,6 +843,13 @@ const data = {
 */
     ]
   },
+    "Ozzy Osbourne": {
+    "Evolution Of An Ozzman": [
+      { number: 1, title: "1969", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1a.jpg", extra: "2001" },
+      { number: 2, title: "Ozzy Osbourne", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2a.jpg", extra: "2001" },
+      { number: 3, title: "Oz-Brain", desc: "The Beginning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3a.jpg", extra: "2001" }
+    ]
+  },  
     "Skivor": {
     "Vinyl LP": [      
       { number: 1, title: "Judas Priest", desc: "1.One For The Road 2.Rocka Rolla<br>3.Winter 4.Deep Freeze<br>5.Winter Retreat 6.Cheater<br>7.Never Satisfied 8.Run Of The Mill<br>9.Dying To Meet You 10.Caviar And Meths", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "<b>Rocka Rolla</b> - 1974" },
@@ -928,6 +935,7 @@ const data = {
     ]
   }
 };
+
 
 
 
