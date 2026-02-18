@@ -891,7 +891,7 @@ const data = {
       { number: 11, title: "Chicago", desc: "25 Or 6 To 4<br>Where Do We Go From Here", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00011.JPG", extra: "1970" },
       { number: 12, title: "Roger James Cooke", desc: "I Gotta Dream<br>Black Paper Roses", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00012.jpg", extra: "1970" },
       { number: 13, title: "Blodwyn Pig", desc: "Same Old Story<br>Slow Down", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00013.JPG", extra: "1970" },
-      { number: 14, title: "Bobby ShaftoWho Wouldn't Love A Girl Like That<br>Love Love Love (Don't Let Me Down)", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00014.JPG", extra: "1964" },
+      { number: 14, title: "Bobby Shafto", desc: "Who Wouldn't Love A Girl Like That<br>Love Love Love (Don't Let Me Down)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00014.JPG", extra: "1964" },
       { number: 15, title: "Picketywitch", desc: "That Same Old Feeling<br>Maybe We've Been Loving Too Long", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00015.JPG", extra: "1970" },
       { number: 16, title: "Mungo Jerry", desc: "In The Summertime<br>Mighty Man", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00016.JPG", extra: "1970" },
       { number: 17, title: "Christie", desc: "Yellow River<br>Down The Mississippi Line", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00017.JPG", extra: "1970" },
@@ -944,6 +944,7 @@ const data = {
     ]
   }
 };
+
 
 
 
