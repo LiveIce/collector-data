@@ -865,15 +865,23 @@ const data = {
       { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>3.Traveller 4.You're Not Alone<br>5.Explode Like A Star 6.Da Guadeloop<br>7.Lonely Woman 8.Liquid Whisper<br>9.Archy The Robot", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
       { number: 3, title: "Toe Fat", desc: "1.Stick Heat 2.Indian Summer<br>3.Idol 4.There'll Be Changes<br>5.A New Way 6.Since You've Been Gone<br>7.Three Time Loser 8.Midnight Sun", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00003.jpg", extra: "<b>Two</b> - 1970" },
       { number: 4, title: "Alice Cooper", desc: "1.Big Apple Dreamin' (Hippo) 2.Never Been Sold Before<br>3.Hard Hearted Alice 4.Crazy Little Child<br>5.Working Up A Sweat 6.Muscle Of Love<br>7.Man With The Golden Gun 8.Teenage Lament '74<br>9.Woman Machine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00004.jpg", extra: "<b>Muscle Of Love</b> - 1973" },
-      { number: 5, title: "Alice Cooper", desc: "1.Hello Hooray 2.Raped And Freezin'<br>3.Elected 4.Billion Dollar Babies<br>5.Unfinished Sweet 6.No More Mr Nice Guy<br>7.Generation Landslide 8.Sick Things<br>9.Mary Ann 10.I Love The Dead", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00005.jpg", extra: "<b>Billion Dollar Babies</b> - 1973" }
+      { number: 5, title: "Alice Cooper", desc: "1.Hello Hooray 2.Raped And Freezin'<br>3.Elected 4.Billion Dollar Babies<br>5.Unfinished Sweet 6.No More Mr Nice Guy<br>7.Generation Landslide 8.Sick Things<br>9.Mary Ann 10.I Love The Dead", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00005.jpg", extra: "<b>Billion Dollar Babies</b> - 1973" },
+      { number: 6, title: "Ten Years After", desc: "1.Nowhere To Run 2.Positive Vibrations<br>3.Stone Me 4.Without You<br>5.Going Back To Birmingham 6.It's Getting Harder<br>7.You're Driving Me Crazy 8.Look Into My Life<br>9.Look Me Straight Into The Eyes 10.I Wanted To Boogie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00006.jpg", extra: "<b>Positive Vibrations</b> - 1974" },
+      { number: 7, title: "Led Zeppelin", desc: "1.Black Dog 2.Rock And Roll<br>3.The Battle Of Evermore 4.Stairway To Heaven<br>5.Misty Mountain Hop 6.Four Sticks<br>7.Going To California 8.When The Levee Breaks", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00007.jpg", extra: "<b>IV</b> - 1971" },
+      { number: 8, title: "Nazareth", desc: "1.Go Down Fighting 2.Not Faking It<br>3.Turn On Your Receiver 4.Teenage Nervous Breakdown<br>5.Freewheeler 6.This Flight Tonight<br>7.Child In The Sun 8.The Ballad Of Hollis Brown", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00008.jpg", extra: "<b>Loud 'n' Proud</b> - 1973" },
+      { number: 9, title: "Sweet", desc: "1.Set Me Free 2.Heartbreak Today<br>3.No You Don't 4.Rebel Rouser<br>5.Peppermint Twist 6.Sweet FA<br>7.Restless 8.In To The Night<br>9.AC Dc", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00009.jpg", extra: "<b>Sweet Fanny Adams</b> - 1974" },
+      { number: 10, title: "Grand Funk Railroad", desc: "1.Country Road 2.All You've Got Is Money<br>3.Comfort Me 4.Feelin' Alright<br>5.I Want Freedom 6.I Can Feel Him In The Morning<br>7.Gimme Shelter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00010.jpg", extra: "<b>Survival</b> - 1971" }
 /*
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
+      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
+      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
+      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
+      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
+      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
+      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
+      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
+      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
+      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
+      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
       { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
   */
     ],      
@@ -944,6 +952,7 @@ const data = {
     ]
   }
 };
+
 
 
 
