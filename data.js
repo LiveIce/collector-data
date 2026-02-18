@@ -450,7 +450,9 @@ const data = {
       { number: 191, title: "Andrea Barzagli", desc: "<b>Andrea Barzagli</b><br>8 maj 1981 i Fiesole, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort191.jpg", extra: "Försvarare - Juventus" },
       { number: 192, title: "Stephan Lichtsteiner", desc: "<b>Stephan Lichtsteiner</b><br>16 januari 1984 i Adligenswil, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort192.jpg", extra: "Försvarare - Juventus" },
       { number: 216, title: "Anwar El Ghazi", desc: "<b>Anwar El Ghazi</b><br>3 maj 1995 i Barendrecht, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort216.jpg", extra: "Mittfältare - AFC Ajax" },
-      { number: 232, title: "Anders Konradsen", desc: "<b>Anders Ågnes Konradsen</b><br>18 juli 1990 i Bodø, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort232.jpg", extra: "Mittfältare - Rosenborg BK" },
+      { number: 229, title: "Johan Bjørdal", desc: "<b>Johan Lædre Bjørdal</b><br>5 May 1986 i Egersund, Norway", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort229.jpg", extra: "Försvarare - Rosenborg BK" },
+      { number: 231, title: "Fredrik Midtsjø", desc: "<b>Fredrik Midtsjø</b><br>11 augusti 1993 i Stjørdal, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort231.jpg", extra: "Mittfältare - Rosenborg BK" },
+      { number: 232, title: "Anders Konradsen", desc: "<b>Anders Ågnes Konradsen</b><br>18 juli 1990 i Bodø, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort232.jpg", extra: "Mittfältare - Rosenborg BK" },   
       { number: 233, title: "Christian Gytkjær", desc: "<b>Christian Lund Gytkjær</b><br>6 maj 1990 i Roskilde, Danmark", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort233.jpg", extra: "Anfallare - Rosenborg BK" },
       { number: 234, title: "Matthías Vilhjálmsson", desc: "<b>Matthías Vilhjálmsson</b><br>30 januari 1987 i Ísafjörður, Island", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort234.jpg", extra: "Anfallare - Rosenborg BK" },
       { number: 298, title: "Jonas Hector", desc: "<b>Jonas Hector</b><br>27 maj 1990 i Saarbrücken, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort298.jpg", extra: "Försvarare - Deutschland" },
@@ -952,6 +954,7 @@ const data = {
     ]
   }
 };
+
 
 
 
