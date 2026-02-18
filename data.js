@@ -905,18 +905,18 @@ const data = {
       { number: 17, title: "Christie", desc: "Yellow River<br>Down The Mississippi Line", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00017.JPG", extra: "1970" },
       { number: 18, title: "John Phillips", desc: "Mississippi<br>April Anne", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00018.jpg", extra: "1970" },
       { number: 19, title: "Strawberry Alarm Clock", desc: "Starting Out The Day<br>Small Package", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00019.JPG", extra: "1970" },
-      { number: 20, title: "Buffy Sainte Marie", desc: "Soldier Blue<br>Until It's Time For You To Go", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00020.JPG", extra: "1970" }
-/*
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
+      { number: 20, title: "Buffy Sainte Marie", desc: "Soldier Blue<br>Until It's Time For You To Go", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00020.JPG", extra: "1970" },
+      { number: 21, title: "Los Incas", desc: "El Condor Pasa<br>O'Cangaceiro", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00021.JPG", extra: "1970" },
+      { number: 22, title: "Christie", desc: "San Bernadino<br>Here I Am", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00022.JPG", extra: "1970" },
+      { number: 23, title: "Beach Boys", desc: "Cottonfields<br>The Nearest Faraway Place", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00023.jpg", extra: "1970" },
+      { number: 24, title: "Landscape", desc: "Touch The Wind (Eres Tu)<br>California On My Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00024.JPG", extra: "1974" },
+      { number: 25, title: "Sandie Shaw", desc: "Wight Is Wight<br>That's The Way He's Made", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00025.JPG", extra: "1970" },
+      { number: 26, title: "Neil Diamond", desc: "Soolaimon<br>And The Grass Won't Pay No Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00026.JPG", extra: "1970" },
+      { number: 27, title: "Roger James Cooke", desc: "Today I Killed A Man I Didn't Know<br>Stop", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00027.jpg", extra: "1970" },
+      { number: 28, title: "Mungo Jerry", desc: "Maggie<br>Mother Boogie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00028.JPG", extra: "1970" },
+      { number: 29, title: "Rolling Stones", desc: "Honky Tonk Women<br>You Can't Alaway Get What You Want", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00029.jpg", extra: "1969" },
+      { number: 30, title: "Chris Andrews", desc: "Pretty Belinds<br>The Man With The Red Balloon", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00030.JPG", extra: "1970" }
+/*      
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
@@ -952,6 +952,7 @@ const data = {
     ]
   }
 };
+
 
 
 
