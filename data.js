@@ -917,18 +917,18 @@ const data = {
       { number: 27, title: "Roger James Cooke", desc: "Today I Killed A Man I Didn't Know<br>Stop", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00027.jpg", extra: "1970" },
       { number: 28, title: "Mungo Jerry", desc: "Maggie<br>Mother Boogie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00028.JPG", extra: "1970" },
       { number: 29, title: "Rolling Stones", desc: "Honky Tonk Women<br>You Can't Alaway Get What You Want", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00029.jpg", extra: "1969" },
-      { number: 30, title: "Chris Andrews", desc: "Pretty Belinds<br>The Man With The Red Balloon", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00030.JPG", extra: "1970" }
+      { number: 30, title: "Chris Andrews", desc: "Pretty Belinds<br>The Man With The Red Balloon", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00030.JPG", extra: "1970" },      
+      { number: 31, title: "Wilson Pickett", desc: "Jealous Love<br>Deborah", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00031.JPG", extra: "1968" },
+      { number: 32, title: "1910 Fruitgum Co", desc: "When We Get Married<br>Baby Bret", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00032.JPG", extra: "1970" },
+      { number: 33, title: "Dave Clark Five", desc: "Here Comes Summer<br>Break Down And Cry", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00033.JPG", extra: "1970" },
+      { number: 34, title: "Foundations", desc: "Take A Girl Like You<br>I'm Gonna Be A Rich Man", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00034.JPG", extra: "1970" },
+      { number: 35, title: "Jimi Hendrix", desc: "Angel<br>Freedom", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00035.JPG", extra: "1971" },
+      { number: 36, title: "Animals", desc: "The House Of The Rising Sun<br>Don't Let Me Be Misunderstood<br>We've Gotta Get Out Of This Place<br>Around And Around", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00036.jpg", extra: "1964, 1965" },
+      { number: 37, title: "Shadows", desc: "Apache<br>Man Of Mystery<br>The Frightened City<br>Mustang", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00037.jpg", extra: "1960, 1961" },
+      { number: 38, title: "Hollies", desc: "Look Through Any Window<br>I'm Alive<br>If I Needed Someone<br>I Can't Let Go", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00038.jpg", extra: "1965, 1966" },
+      { number: 39, title: "Shocking Blue", desc: "Hello Darkness<br>Pickin' Tomatoes", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00039.JPG", extra: "1970" },
+      { number: 40, title: "Shadows", desc: "Granada<br>Adios Muchachos<br>Valencia<br>Las Tres Carabelas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00040.jpg", extra: "1961" }
 /*      
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
@@ -954,6 +954,7 @@ const data = {
     ]
   }
 };
+
 
 
 
