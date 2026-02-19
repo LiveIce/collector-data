@@ -863,7 +863,7 @@ const data = {
   },
     "Dinosaur King": {
     "DKS2": [
-      { number: 1, title: "Zuniceratops", desc: "3,5 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort1.jpg", extra: "Dinosau" },
+      { number: 1, title: "Zuniceratops", desc: "3,5 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort1.jpg", extra: "Dinosaur" },
       { number: 2, title: "Pouncing Irritatot", desc: "8 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort2.jpg", extra: "Dinosaur" },
       { number: 3, title: "Centrosaurus", desc: "6 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort3.jpg", extra: "Dinosaur" },
       { number: 4, title: "Minmi", desc: "3 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort4.jpg", extra: "Dinosaur" },
@@ -874,7 +874,30 @@ const data = {
       { number: 9, title: "Mighty Diceratops", desc: "8 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort9.jpg", extra: "Dinosaur" },
       { number: 10, title: "Udanoceratops", desc: "5 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort10.jpg", extra: "Dinosaur" },
       { number: 11, title: "Jungle Saltasaurus", desc: "12 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort11.jpg", extra: "Dinosaur" },
-      { number: 12, title: "Alpha Arrhinoceratops", desc: "7 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort12.jpg", extra: "Dinosaur" }
+      { number: 12, title: "Alpha Arrhinoceratops", desc: "7 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort12.jpg", extra: "Dinosaur" },
+      { number: 13, title: "Arrhinoceratops", desc: "7 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort13.jpg", extra: "Dinosaur" },
+      { number: 14, title: "Shantungosaurus", desc: "15 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort14.jpg", extra: "Dinosaur" },
+      { number: 15, title: "Anchiceratops", desc: "6 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort15.jpg", extra: "Dinosaur" },
+      { number: 16, title: "Prowling Daspletosaurus", desc: "9 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort16.jpg", extra: "Dinosaur" },
+      { number: 17, title: "Utahraptor", desc: "6 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort17.jpg", extra: "Dinosaur" },
+      { number: 18, title: "Pentaceratops", desc: "8 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort18.jpg", extra: "Dinosaur" },
+      { number: 19, title: "Charging Styracosaurus", desc: "6 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort19.jpg", extra: "Dinosaur" },
+      { number: 20, title: "Dino Stomp", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort20.jpg", extra: "Move" },
+      { number: 21, title: "Attack Boost", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort21.jpg", extra: "Move" },
+      { number: 22, title: "Defense Boost", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort22.jpg", extra: "Move" },
+      { number: 23, title: "Dino Swing", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort23.jpg", extra: "Move" },
+      { number: 24, title: "Diving Press", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort24.jpg", extra: "Move" },
+      { number: 25, title: "Thunder Power", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort25.jpg", extra: "Move" },
+      { number: 26, title: "Surprise Ally", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort26.jpg", extra: "Move" },
+      { number: 27, title: "Surprise Technique", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort27.jpg", extra: "Move" },
+      { number: 28, title: "Knockout Blast", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort28.jpg", extra: "Move" },
+      { number: 29, title: "Elemental Tag Team", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort29.jpg", extra: "Move" },
+      { number: 30, title: "Static Surge", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort30.jpg", extra: "Super Move" },
+      { number: 31, title: "Plasma Anchor", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort31.jpg", extra: "Super Move" },
+      { number: 32, title: "Chomp", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort32.jpg", extra: "Special Dinosaur" },
+      { number: 33, title: "Chomp (Dinotector)", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort33.jpg", extra: "Special Dinosaur" },
+      { number: 34, title: "Thundering Styracosaurus", desc: "6 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort34.jpg", extra: "Dinosaur" },
+      { number: 35, title: "Max Taylor", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort35.jpg", extra: "Character" }
     ]
   },    
     "Skivor": {
@@ -970,6 +993,7 @@ const data = {
     ]
   }
 };
+
 
 
 
