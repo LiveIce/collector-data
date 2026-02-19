@@ -966,18 +966,18 @@ const data = {
       { number: 37, title: "Shadows", desc: "Apache<br>Man Of Mystery<br>The Frightened City<br>Mustang", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00037.jpg", extra: "1960, 1961" },
       { number: 38, title: "Hollies", desc: "Look Through Any Window<br>I'm Alive<br>If I Needed Someone<br>I Can't Let Go", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00038.jpg", extra: "1965, 1966" },
       { number: 39, title: "Shocking Blue", desc: "Hello Darkness<br>Pickin' Tomatoes", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00039.JPG", extra: "1970" },
-      { number: 40, title: "Shadows", desc: "Granada<br>Adios Muchachos<br>Valencia<br>Las Tres Carabelas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00040.jpg", extra: "1961" }
+      { number: 40, title: "Shadows", desc: "Granada<br>Adios Muchachos<br>Valencia<br>Las Tres Carabelas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00040.jpg", extra: "1961" },      
+      { number: 41, title: "Black Sabbath", desc: "Evil Woman<br>Wicked World", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00041.JPG", extra: "1970" },
+      { number: 42, title: "Jethro Tull", desc: "The Witch's Promise<br>Teacher", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00042.jpg", extra: "1970" },
+      { number: 43, title: "Yes", desc: "Looking Around<br>Every Little Thing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00043.JPG", extra: "1970" },
+      { number: 44, title: "Family", desc: "Strange Band<br>The Weavers Answer<br>Hung Up Down", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00044.JPG", extra: "1970" },
+      { number: 45, title: "Tony Joe White", desc: "High Sheriff Of Callhoun Parrish<br>Groupy Girl", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00045.JPG", extra: "1970" },
+      { number: 46, title: "Steppenwolf", desc: "Hey Lawdy Mama<br>Twisted", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00046.jpg", extra: "1970" },
+      { number: 47, title: "Free", desc: "Stealer<br>Lying In The Sunshine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00047.JPG", extra: "1970" },
+      { number: 48, title: "Three Dog Night", desc: "Out In The Country<br>Good Time Living", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00048.JPG", extra: "1970" },
+      { number: 49, title: "Tremeloes", desc: "(Call Me) Number One<br>Instant Whip", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00049.JPG", extra: "1969" },
+      { number: 50, title: "Who", desc: "The Seeker<br>Here For More", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00050.JPG", extra: "1970" }
 /*      
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
@@ -993,6 +993,7 @@ const data = {
     ]
   }
 };
+
 
 
 
