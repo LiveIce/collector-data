@@ -860,7 +860,23 @@ const data = {
       { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6a.jpg", extra: "Framsida" },
       { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6b.jpg", extra: "Baksida" }
     ]
-  },  
+  },
+    "Dinosaur King": {
+    "DKS2": [
+      { number: 1, title: "Zuniceratops", desc: "3,5 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort1.jpg", extra: "Dinosau" },
+      { number: 2, title: "Pouncing Irritatot", desc: "8 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort2.jpg", extra: "Dinosaur" },
+      { number: 3, title: "Centrosaurus", desc: "6 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort3.jpg", extra: "Dinosaur" },
+      { number: 4, title: "Minmi", desc: "3 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort4.jpg", extra: "Dinosaur" },
+      { number: 5, title: "Savannah Monoclonius", desc: "6 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort5.jpg", extra: "Dinosaur" },
+      { number: 6, title: "Eucentrosaurus", desc: "6 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort6.jpg", extra: "Dinosaur" },
+      { number: 7, title: "Achelousaurus", desc: "6 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort7.jpg", extra: "Dinosaur" },
+      { number: 8, title: "Swift Udanoceratops", desc: "5 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort8.jpg", extra: "Dinosaur" },
+      { number: 9, title: "Mighty Diceratops", desc: "8 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort9.jpg", extra: "Dinosaur" },
+      { number: 10, title: "Udanoceratops", desc: "5 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort10.jpg", extra: "Dinosaur" },
+      { number: 11, title: "Jungle Saltasaurus", desc: "12 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort11.jpg", extra: "Dinosaur" },
+      { number: 12, title: "Alpha Arrhinoceratops", desc: "7 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort12.jpg", extra: "Dinosaur" }
+    ]
+  },    
     "Skivor": {
     "Vinyl LP": [      
       { number: 1, title: "Judas Priest", desc: "1.One For The Road 2.Rocka Rolla<br>3.Winter 4.Deep Freeze<br>5.Winter Retreat 6.Cheater<br>7.Never Satisfied 8.Run Of The Mill<br>9.Dying To Meet You 10.Caviar And Meths", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "<b>Rocka Rolla</b> - 1974" },
@@ -954,6 +970,7 @@ const data = {
     ]
   }
 };
+
 
 
 
