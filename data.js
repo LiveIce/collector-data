@@ -986,24 +986,24 @@ const data = {
       { number: 51, title: "Tom Jones", desc: "She's A Lady<br>My Way", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00051.JPG", extra: "1971" },
       { number: 52, title: "Elipse", desc: "Le Telephone<br>Good To Me<br>Za One Što Na Licu Nose Bore<br>I've Been Lovin' You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00052.jpg", extra: "1967" },
       { number: 53, title: "Guess Who", desc: "American Woman<br>No Sugar Tonight", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00053.JPG", extra: "1970" },
-      { number: 54, title: "Jacques Dutronc/Georges Raudi", desc: "Jacques Dutronc-L'Arsene<br>Georges Raudi-Stercok 1970", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00054.jpg", extra: "1970" },
+      { number: 54, title: "Jacques Dutronc/Georges Raudi", desc: "JACQUES DUTRONC - L'Arsene<br>GEORGES RAUDI- Stercok", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00054.jpg", extra: "1970" },
       { number: 55, title: "Freddy", desc: "Die Gitarre Und Das Meer<br>Du Brauchst Doch Immer Wieder Einen Freund", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00055.JPG", extra: "1959" },
       { number: 56, title: "Freddie Hart", desc: "Easy Loving<br>Brother Bluebird", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00056.JPG", extra: "1971" },
       { number: 57, title: "Cliff Richard And The Shadows", desc: "Forty Days<br>Y'Arriva", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00057.JPG", extra: "1962" },
       { number: 58, title: "Bobby Solo", desc: "Se Piangi Se Ridi<br>Saro Un Illuso", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00058.JPG", extra: "1965" },
       { number: 59, title: "Elvis Presley", desc: "One Broken Heart For Sale<br>They Remind Me Too Much Of You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00059.JPG", extra: "1963" },
-      { number: 60, title: "Beatles", desc: "Penny Lane<br>I'm Only Sleeping<br>Strawberry Fields Forever<br>And Your Bird Can Sing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00060.jpg", extra: "1967" }
+      { number: 60, title: "Beatles", desc: "Penny Lane<br>I'm Only Sleeping<br>Strawberry Fields Forever<br>And Your Bird Can Sing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00060.jpg", extra: "1967" },      
+      { number: 61, title: "Beatles", desc: "Ticket To Ride<br>Yes It Is", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00061.jpg", extra: "1965" },
+      { number: 62, title: "Beatles", desc: "Roll Over Beethoven<br>Please Mister Postman", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00062.jpg", extra: "1964" },
+      { number: 63, title: "Beatles", desc: "Back In The USSR<br>Don't Pass Me By", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00063.JPG", extra: "1969" },
+      { number: 64, title: "Beatles", desc: "Hello Goodbye<br>I Am The Walrus", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00064.jpg", extra: "1967" },
+      { number: 65, title: "Beatles", desc: "Michelle<br>Girl", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00065.JPG", extra: "1966" },
+      { number: 66, title: "Beatles", desc: "Let It Be<br>You Know My Name (Look Up The Number)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00066.JPG", extra: "1970" },
+      { number: 67, title: "Beatles", desc: "The Long And Winding Road<br>For You Blue", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00067.JPG", extra: "1970" },
+      { number: 68, title: "Beatles", desc: "The Ballad Of John And Yoko<br>Old Brown Shoe", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00068.JPG", extra: "1969" },
+      { number: 69, title: "Beatles", desc: "Dizzy Miss Lizzy<br>Yesterday", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00069.JPG", extra: "1965" },
+      { number: 70, title: "Beatles", desc: "I Feel Fine<br>She's A Woman", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00070.JPG", extra: "1964" }
 /*      
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
@@ -1039,6 +1039,7 @@ const data = {
     ]
   }
 };
+
 
 
 
