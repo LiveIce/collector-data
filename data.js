@@ -455,6 +455,8 @@ const data = {
       { number: 232, title: "Anders Konradsen", desc: "<b>Anders Ågnes Konradsen</b><br>18 juli 1990 i Bodø, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort232.jpg", extra: "Mittfältare - Rosenborg BK" },   
       { number: 233, title: "Christian Gytkjær", desc: "<b>Christian Lund Gytkjær</b><br>6 maj 1990 i Roskilde, Danmark", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort233.jpg", extra: "Anfallare - Rosenborg BK" },
       { number: 234, title: "Matthías Vilhjálmsson", desc: "<b>Matthías Vilhjálmsson</b><br>30 januari 1987 i Ísafjörður, Island", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort234.jpg", extra: "Anfallare - Rosenborg BK" },
+      { number: 280, title: "Thibaut Courtois", desc: "<b>Thibaut Nicolas Marc Courtois</b><br>11 maj 1992 i Bree, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort280.jpg", extra: "Målvakt - Belgique" },
+      { number: 281, title: "Toby Alderweireld", desc: "<b>Toby Albertine Maurits Alderweireld</b><br>2 mars 1989 i Wilrijk, Antwerpen, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort281.jpg", extra: "Försvarare - Belgique" },
       { number: 298, title: "Jonas Hector", desc: "<b>Jonas Hector</b><br>27 maj 1990 i Saarbrücken, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort298.jpg", extra: "Försvarare - Deutschland" },
       { number: 313, title: "William Carvalho", desc: "<b>William Silva de Carvalho</b><br>7 april 1992 i Luanda, Angola", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort313.jpg", extra: "Mittfältare - Portugal" },
       { number: 314, title: "Renato Sanches", desc: "<b>Renato Júnior Luz Sanches</b><br>18 augusti 1997 i Lissabon, Portugal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort314.jpg", extra: "Mittfältare - Portugal" },
@@ -680,10 +682,14 @@ const data = {
       { number: 135, title: "Mecha-Jaraxxus", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort135b.jpg", extra: "Baksida" },
       { number: 141, title: "Anduin Wrynn", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort141a.jpg", extra: "Framsida" },
       { number: 141, title: "Anduin Wrynn", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort141b.jpg", extra: "Baksida" },
+      { number: 151, title: "Tychus Findlay", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort151a.jpg", extra: "Framsida" },
+      { number: 151, title: "Tychus Findlay", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort151b.jpg", extra: "Baksida" },
       { number: 170, title: "Ana", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort170a.jpg", extra: "Framsida" },
       { number: 170, title: "Ana", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort170b.jpg", extra: "Baksida" },
       { number: 175, title: "D.Va", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort175a.jpg", extra: "Framsida" },
-      { number: 175, title: "D.Va", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort175b.jpg", extra: "Baksida" }
+      { number: 175, title: "D.Va", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort175b.jpg", extra: "Baksida" },
+      { number: 199, title: "Rock 'n' Roll Racing", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort199a.jpg", extra: "Framsida" },
+      { number: 199, title: "Rock 'n' Roll Racing", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort199b.jpg", extra: "Baksida" }
     ]
   },
   "MetaZoo": {
@@ -993,6 +999,7 @@ const data = {
     ]
   }
 };
+
 
 
 
