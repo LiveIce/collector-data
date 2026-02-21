@@ -921,9 +921,9 @@ const data = {
       { number: 11, title: "5 Myror Är Fler Än 4 Elefanter", desc: "1977", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0011.jpg", extra: "Säsonger: 1 - Avsnitt: 51" }
     ],
     "Filmer": [
-      { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1a.jpg", extra: "Framsida" },
-      { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1b.jpg", extra: "Baksida" },
-      { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2a.jpg", extra: "Framsida" },
+      { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Regi: Kimble Rendall<br>Horror<br>2000" },
+      { number: 2, title: "The Amityville Horror", desc: "Ryan Reynolds, Melissa George<br>Chloë Grace Moretz, Rachel Nichols", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0002.jpg", extra: "Regi: Andrew Douglas<br>Horror<br>2005" },
+      { number: 3, title: "X Men", desc: "Hugh Jackman, Patrick Stewart<br>Ian McKellen, Famke Janssen<br>James Marsden, Halle Berry<br>Anna Paquin, Rebecca Romijn<br>Stan Lee", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0003.jpg", extra: "Regi: Bryan Singer - Sci-Fi" },
       { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2b.jpg", extra: "Baksida" },
       { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3a.jpg", extra: "Framsida" },
       { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3b.jpg", extra: "Baksida" },
@@ -1068,6 +1068,7 @@ const data = {
     ]
   }
 };
+
 
 
 
