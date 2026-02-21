@@ -908,7 +908,7 @@ const data = {
   },    
     "TV Serier / Filmer": {
     "TV Serier": [
-      { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1a.jpg", extra: "Framsida" },
+      { number: 1, title: "Star Trek", desc: "1966-2005", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0001.jpg", extra: "Säsonger: 28 - Avsnitt: 703" },
       { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1b.jpg", extra: "Baksida" },
       { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2a.jpg", extra: "Framsida" },
       { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2b.jpg", extra: "Baksida" },
@@ -920,7 +920,7 @@ const data = {
       { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5b.jpg", extra: "Baksida" },
       { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6a.jpg", extra: "Framsida" },
       { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6b.jpg", extra: "Baksida" }
-    ]
+    ],
     "Filmer": [
       { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1a.jpg", extra: "Framsida" },
       { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1b.jpg", extra: "Baksida" },
@@ -1069,6 +1069,7 @@ const data = {
     ]
   }
 };
+
 
 
 
