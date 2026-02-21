@@ -906,6 +906,36 @@ const data = {
       { number: 35, title: "Max Taylor", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort35.jpg", extra: "Character" }
     ]
   },    
+    "TV Serier / Filmer": {
+    "TV Serier": [
+      { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1a.jpg", extra: "Framsida" },
+      { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1b.jpg", extra: "Baksida" },
+      { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2a.jpg", extra: "Framsida" },
+      { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2b.jpg", extra: "Baksida" },
+      { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3a.jpg", extra: "Framsida" },
+      { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3b.jpg", extra: "Baksida" },
+      { number: 4, title: "Ozzy Zig", desc: "Rare Breed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort4a.jpg", extra: "Framsida" },
+      { number: 4, title: "Ozzy Zig", desc: "Rare Breed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort4b.jpg", extra: "Baksida" },
+      { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5a.jpg", extra: "Framsida" },
+      { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5b.jpg", extra: "Baksida" },
+      { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6a.jpg", extra: "Framsida" },
+      { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6b.jpg", extra: "Baksida" }
+    ]
+    "Filmer": [
+      { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1a.jpg", extra: "Framsida" },
+      { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1b.jpg", extra: "Baksida" },
+      { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2a.jpg", extra: "Framsida" },
+      { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2b.jpg", extra: "Baksida" },
+      { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3a.jpg", extra: "Framsida" },
+      { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3b.jpg", extra: "Baksida" },
+      { number: 4, title: "Ozzy Zig", desc: "Rare Breed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort4a.jpg", extra: "Framsida" },
+      { number: 4, title: "Ozzy Zig", desc: "Rare Breed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort4b.jpg", extra: "Baksida" },
+      { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5a.jpg", extra: "Framsida" },
+      { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5b.jpg", extra: "Baksida" },
+      { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6a.jpg", extra: "Framsida" },
+      { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6b.jpg", extra: "Baksida" }
+    ]
+  },  
     "Skivor": {
     "Vinyl LP": [      
       { number: 1, title: "Judas Priest", desc: "1.One For The Road 2.Rocka Rolla<br>3.Winter 4.Deep Freeze<br>5.Winter Retreat 6.Cheater<br>7.Never Satisfied 8.Run Of The Mill<br>9.Dying To Meet You 10.Caviar And Meths", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "<b>Rocka Rolla</b> - 1974" },
@@ -1039,6 +1069,7 @@ const data = {
     ]
   }
 };
+
 
 
 
