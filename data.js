@@ -909,17 +909,16 @@ const data = {
     "TV Serier / Filmer": {
     "TV Serier": [
       { number: 1, title: "Star Trek", desc: "1966-2005", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0001.jpg", extra: "Säsonger: 28 - Avsnitt: 703" },
-      { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1b.jpg", extra: "Baksida" },
-      { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2a.jpg", extra: "Framsida" },
-      { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2b.jpg", extra: "Baksida" },
-      { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3a.jpg", extra: "Framsida" },
-      { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3b.jpg", extra: "Baksida" },
-      { number: 4, title: "Ozzy Zig", desc: "Rare Breed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort4a.jpg", extra: "Framsida" },
-      { number: 4, title: "Ozzy Zig", desc: "Rare Breed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort4b.jpg", extra: "Baksida" },
-      { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5a.jpg", extra: "Framsida" },
-      { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5b.jpg", extra: "Baksida" },
-      { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6a.jpg", extra: "Framsida" },
-      { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6b.jpg", extra: "Baksida" }
+      { number: 2, title: "The Saint", desc: "1962-1969", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0002.jpg", extra: "Säsonger: 6 - Avsnitt: 124" },
+      { number: 3, title: "Batman", desc: "1966-1968", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0003.jpg", extra: "Säsonger: 3 - Avsnitt: 120" },
+      { number: 4, title: "Rome", desc: "2005-2007", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0004.jpg", extra: "Säsonger: 2 - Avsnitt: 22" },
+      { number: 5, title: "2 Broke Girls", desc: "2011-2017", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0005.jpg", extra: "Säsonger: 6 - Avsnitt: 138" },
+      { number: 6, title: "Allo Allo", desc: "1982-1992", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0006.jpg", extra: "Säsonger: 9 - Avsnitt: 83" },
+      { number: 7, title: "Californication", desc: "2007-2014", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0007.jpg", extra: "Säsonger: 7 - Avsnitt: 84" },
+      { number: 8, title: "3rd Rock From The Sun", desc: "1996-2001", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0008.jpg", extra: "Säsonger: 6 - Avsnitt: 139" },
+      { number: 9, title: "Friends", desc: "1994-2004", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0009.jpg", extra: "Säsonger: 10 - Avsnitt: 236" },
+      { number: 10, title: "Svensson Svensson", desc: "1994-2008", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0010.jpg", extra: "Säsonger: 4 - Avsnitt: 50" },
+      { number: 11, title: "5 Myror Är Fler Än 4 Elefanter", desc: "1977", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0011.jpg", extra: "Säsonger: 1 - Avsnitt: 51" }
     ],
     "Filmer": [
       { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1a.jpg", extra: "Framsida" },
@@ -1069,6 +1068,7 @@ const data = {
     ]
   }
 };
+
 
 
 
