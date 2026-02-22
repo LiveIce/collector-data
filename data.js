@@ -924,11 +924,11 @@ const data = {
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
       { number: 2, title: "The Amityville Horror", desc: "Ryan Reynolds, Melissa George<br>Chloë Grace Moretz, Rachel Nichols<br>Regi: Andrew Douglas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0002.jpg", extra: "Horror<br>2005" },
       { number: 3, title: "X Men", desc: "Hugh Jackman, Patrick Stewart<br>Ian McKellen, Famke Janssen<br>James Marsden, Halle Berry<br>Anna Paquin, Rebecca Romijn<br>Stan Lee<br>Regi: Bryan Singer", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0003.jpg", extra: "Sci-Fi<br>2000" },
-      { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2b.jpg", extra: "Baksida" },
-      { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3a.jpg", extra: "Framsida" },
-      { number: 3, title: "Oz-Brain", desc: "The Bullies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort3b.jpg", extra: "Baksida" },
-      { number: 4, title: "Ozzy Zig", desc: "Rare Breed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort4a.jpg", extra: "Framsida" },
-      { number: 4, title: "Ozzy Zig", desc: "Rare Breed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort4b.jpg", extra: "Baksida" },
+      { number: 4, title: "Cujo", desc: "Dee Wallace, Danny Pintauro<br>Daniel Hugh Kelly, Ed Lauter<br>Regi: Lewis Teague", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0004.jpg", extra: "Horror<br>1983" },
+      { number: 5, title: "Mannaja", desc: "Maurizio Merli, John Steiner<br>Sonja Jeannine<br>Regi: Sergio Martino", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0005.jpg", extra: "Western>br>1977" },
+      { number: 6, title: "Basic Instinct", desc: "Michael Douglas, Sharon Stone<br>George Dzundza, Jeanne Tripplehorn<br>Regi: Paul Verhoeven", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0006.jpg", extra: "Thriller<br>1992" },
+      { number: 7, title: "Raising Arizona", desc: "Raising Arizona, Holly Hunter<br>John Goodman, William Forsythe<br>Randall Tex Cobb<br>Regi: Joel Coen, Ethan Coen", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0007.jpg", extra: "Comedy<br>1987" },
+      { number: 8, title: "Minority Report", desc: "Tom Cruise, Max von Sydow<br>Steve Harris, Neal McDonough<br><br>Colin Farrell, Samantha Morton<br>Regi: Steven Spielberg", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0008.jpg", extra: "Sci-Fi<br>2002" },
       { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5a.jpg", extra: "Framsida" },
       { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5b.jpg", extra: "Baksida" },
       { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6a.jpg", extra: "Framsida" },
@@ -1068,6 +1068,7 @@ const data = {
     ]
   }
 };
+
 
 
 
