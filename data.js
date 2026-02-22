@@ -457,6 +457,8 @@ const data = {
       { number: 234, title: "Matthías Vilhjálmsson", desc: "<b>Matthías Vilhjálmsson</b><br>30 januari 1987 i Ísafjörður, Island", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort234.jpg", extra: "Anfallare - Rosenborg BK" },
       { number: 280, title: "Thibaut Courtois", desc: "<b>Thibaut Nicolas Marc Courtois</b><br>11 maj 1992 i Bree, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort280.jpg", extra: "Målvakt - Belgique" },
       { number: 281, title: "Toby Alderweireld", desc: "<b>Toby Albertine Maurits Alderweireld</b><br>2 mars 1989 i Wilrijk, Antwerpen, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort281.jpg", extra: "Försvarare - Belgique" },
+      { number: 286, title: "Christian Benteke", desc: "<b>Christian Benteke Liolo</b><br>3 december 1990 i Kinshasa, Demokratiska republiken Kongo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort286.jpg", extra: "Anfallare - Belgique" },
+      { number: 287, title: "Romelu Lukaku", desc: "<b>Romelu Lukaku Bolingoli</b><br>13 maj 1993 i Antwerpen, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort287.jpg", extra: "Anfallare - Belgique" },
       { number: 298, title: "Jonas Hector", desc: "<b>Jonas Hector</b><br>27 maj 1990 i Saarbrücken, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort298.jpg", extra: "Försvarare - Deutschland" },
       { number: 313, title: "William Carvalho", desc: "<b>William Silva de Carvalho</b><br>7 april 1992 i Luanda, Angola", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort313.jpg", extra: "Mittfältare - Portugal" },
       { number: 314, title: "Renato Sanches", desc: "<b>Renato Júnior Luz Sanches</b><br>18 augusti 1997 i Lissabon, Portugal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort314.jpg", extra: "Mittfältare - Portugal" },
@@ -1070,6 +1072,7 @@ const data = {
     ]
   }
 };
+
 
 
 
