@@ -493,6 +493,10 @@ const data = {
       { number: 40, title: "Koke", desc: "<b>Jorge Resurrección Meriodo</b><br>8 januari 1992 i Madrid, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort40.jpg", extra: "Mittfältare - Atlético Madrid" },
       { number: 41, title: "Thomas", desc: "<b>Thomas Lemar</b><br>12 november 1995 i Baie-Mahault, Guadeloupe", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort41.jpg", extra: "Mittfältare - Atlético Madrid" },
       { number: 42, title: "Saúl", desc: "<b>Saúl Ñíguez Esclápez</b><br>21 november 1994 i Elche, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort42.jpg", extra: "Mittfältare - Atlético Madrid" },
+      { number: 43, title: "Ángel Correa", desc: "<b>Ángel Martín Correa</b><br>9 mars 1995 i Rosario, Argentina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort43.jpg", extra: "Anfallare - Atlético Madrid" },
+      { number: 44, title: "Antoine Griezmann", desc: "<b>Antoine Griezmann</b><br>21 mars 1991 i Mâcon, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort44.jpg", extra: "Mittfältare - Atlético Madrid" },
+      { number: 45, title: "Diego Costa", desc: "<b>Diego da Silva Costa</b><br>7 oktober 1988 i Lagarto, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort45.jpg", extra: "Anfallare - Atlético Madrid" },
+      { number: 52, title: "Marc-André ter Stegen", desc: "<b>Marc-André ter Stegen</b><br>30 april 1992 i Mönchengladbach, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort52.jpg", extra: "Målvakt - FC Barcelona" },
       { number: 53, title: "Samuel Umtiti", desc: "<b>Samuel Yves Um Titi</b><br>14 november 1993 i Yaoundé, Kamerun", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort53.jpg", extra: "Försvarare - FC Barcelona" },
       { number: 54, title: "Nélson Semedo", desc: "<b>Nélson Cabral Semedo</b><br>16 november 1993 i Lissabon, Portugal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort54.jpg", extra: "Försvarare - FC Barcelona" },
       { number: 55, title: "Thomas Vermaelen", desc: "<b>Thomas Vermaelen</b><br>14 november 1985 i Kapellen, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort55.jpg", extra: "Försvarare - FC Barcelona" },
@@ -505,6 +509,12 @@ const data = {
       { number: 62, title: "Luis Suárez", desc: "<b>Luis Alberto Suárez Díaz</b><br>24 januari 1987 i Salto, Uruguay", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort62.jpg", extra: "Anfallare - Barcelona" },
       { number: 70, title: "Keylor Navas", desc: "<b>Keylor Antonio Navas Gamboa</b><br>15 december 1986 i San Isidro de El General, Costa Rica", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort70.jpg", extra: "Målvakt - Real Madrid" },
       { number: 71, title: "Raphaël Varane", desc: "<b>Raphaël Xavier Varane</b><br>25 april 1993 i Lille, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort71.jpg", extra: "Försvarare - Real Madrid" },
+      { number: 72, title: "Daniel Carvajal", desc: "<b>Daniel Carvajal Ramos</b><br>11 januari 1992 i Leganés, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort72.jpg", extra: "Försvarare - Real Madrid" },
+      { number: 73, title: "Sergio Ramos", desc: "<b>Sergio Ramos García</b><br>30 mars 1986 i Camas, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort73.jpg", extra: "Försvarare - Real Madrid" },
+      { number: 74, title: "Nacho", desc: "<b>José Ignacio Fernández Iglesias</b><br>18 januari 1990 i Alcalá de Henares, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort74.jpg", extra: "Försvarare - Real Madrid" },
+      { number: 76, title: "Casemiro", desc: "<b>Carlos Henrique Casimiro</b><br>23 februari 1992 i São José dos Campos, São Paulo, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort76.jpg", extra: "Mittfältare - Real Madrid" },
+      { number: 77, title: "Toni Kroos", desc: "<b>Toni Kroos</b><br>4 januari 1990 i Greifswald, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort77.jpg", extra: "Mittfältare - Real Madrid" },
+      { number: 78, title: "Isco", desc: "<b>Francisco Román Alarcón Suárez</b><br>21 april 1992 i Benalmádena, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort78.jpg", extra: "Mittfältare - Real Madrid" },
       { number: 79, title: "Marco Asensio", desc: "<b>Marco Asensio Willemsen</b><br>21 januari 1996 i Palma de Mallorca, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort79.jpg", extra: "Anfallare - Real Madrid" },
       { number: 80, title: "Lucas Vázquez", desc: "<b>Lucas Vázquez Iglesias</b><br>1 juli 1991 i Curtis, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort80.jpg", extra: "Försvarare - Real Madrid" },    
       { number: 81, title: "Gareth Bale", desc: "<b>Gareth Frank Bale</b><br>16 juli 1989 i Cardiff, Wales, Storbritannien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort81.jpg", extra: "Anfallare - Real Madrid" },
@@ -1072,6 +1082,7 @@ const data = {
     ]
   }
 };
+
 
 
 
