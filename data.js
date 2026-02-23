@@ -906,7 +906,23 @@ const data = {
       { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5a.jpg", extra: "Framsida" },
       { number: 5, title: "The Rest", desc: "No Money", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort5b.jpg", extra: "Baksida" },
       { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6a.jpg", extra: "Framsida" },
-      { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6b.jpg", extra: "Baksida" }
+      { number: 6, title: "New Band", desc: "Owns PA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort6b.jpg", extra: "Baksida" },
+      { number: 7, title: "The Band", desc: "Making History", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort7a.jpg", extra: "Framsida" },
+      { number: 7, title: "The Band", desc: "Making History", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort7b.jpg", extra: "Baksida" },
+      { number: 8, title: "Eager", desc: "Earth Band", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort8a.jpg", extra: "Framsida" },
+      { number: 8, title: "Eager", desc: "Earth Band", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort8b.jpg", extra: "Baksida" },
+      { number: 9, title: "Rejoined", desc: "Jethro Tull", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort9a.jpg", extra: "Framsida" },
+      { number: 9, title: "Rejoined", desc: "Jethro Tull", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort9b.jpg", extra: "Baksida" },
+      { number: 10, title: "Setback", desc: "Another Name", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort10a.jpg", extra: "Framsida" },
+      { number: 10, title: "Setback", desc: "Another Name", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort10b.jpg", extra: "Baksida" },
+      { number: 11, title: "New Name", desc: "Black Sabbath", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort11a.jpg", extra: "Framsida" },
+      { number: 11, title: "New Name", desc: "Black Sabbath", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort11b.jpg", extra: "Baksida" },
+      { number: 12, title: "Contract", desc: "Star Club", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort12a.jpg", extra: "Framsida" },
+      { number: 12, title: "Contract", desc: "Star Club", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort12b.jpg", extra: "Baksida" },
+      { number: 13, title: "Album", desc: "Low Budget", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort13a.jpg", extra: "Framsida" },
+      { number: 13, title: "Album", desc: "Low Budget", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort13b.jpg", extra: "Baksida" },
+      { number: 14, title: "Image", desc: "The Cross", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort14a.jpg", extra: "Framsida" },
+      { number: 14, title: "Image", desc: "The Cross", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort14b.jpg", extra: "Baksida" }
     ]
   },
     "Dinosaur King": {
@@ -1110,6 +1126,7 @@ const data = {
     ]
   }
 };
+
 
 
 
