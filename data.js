@@ -1007,7 +1007,17 @@ const data = {
       { number: 37, title: "Poirot", desc: "1989-2013 (20,8 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0037.jpg", extra: "Säsonger: 13 - Avsnitt: 70" },
       { number: 38, title: "I Claudius", desc: "1976 (4,15 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0038.jpg", extra: "Säsonger: 1 - Avsnitt: 12" },
       { number: 39, title: "Gemini Man", desc: "1976 (2,76 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0039.jpg", extra: "Säsonger: 1 - Avsnitt: 11" },
-      { number: 40, title: "Cannon", desc: "1971-1976 (23,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0040.jpg", extra: "Säsonger: 5 - Avsnitt: 122" }
+      { number: 40, title: "Cannon", desc: "1971-1976 (23,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0040.jpg", extra: "Säsonger: 5 - Avsnitt: 122" },
+      { number: 41, title: "Sledge Hammer", desc: "1986-1988 (6,12 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0041.jpg", extra: "Säsonger: 2 - Avsnitt: 41" },
+      { number: 42, title: "Castle", desc: "2009-2016 (30,3 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0042.jpg", extra: "Säsonger: 8 - Avsnitt: 173" },
+      { number: 43, title: "Battlestar Galactica", desc: "2005-2009 (12,8 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0043.jpg", extra: "Säsonger: 4 - Avsnitt: 73" },
+      { number: 44, title: "Melissa And Joey", desc: "2010-2015 (9,24 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0044.jpg", extra: "Säsonger: 4 - Avsnitt: 104" },
+      { number: 45, title: "Malcolm In The Middle", desc: "2000-2006 (13,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0045.jpg", extra: "Säsonger: 7 - Avsnitt: 151" },
+      { number: 46, title: "Absentia", desc: "2017-2020 (3,49 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0046.jpg", extra: "Säsonger: 3 - Avsnitt: 30" },
+      { number: 47, title: "Everybody Loves Raymond", desc: "1996-2005 (24 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0047.jpg", extra: "Säsonger: 9 - Avsnitt: 209" },
+      { number: 48, title: "Moonlighting", desc: "1985-1989 (16,1 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0048.jpg", extra: "Säsonger: 5 - Avsnitt: 66" },
+      { number: 49, title: "Melrose Place", desc: "1992-1999 (49 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0049.jpg", extra: "Säsonger: 7 - Avsnitt: 226" },
+      { number: 50, title: "That '70s Show", desc: "1998-2006 (15,4 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0050.jpg", extra: "Säsonger: 8 - Avsnitt: 200" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1167,6 +1177,7 @@ const data = {
     ]
   }
 };
+
 
 
 
