@@ -1017,7 +1017,17 @@ const data = {
       { number: 47, title: "Everybody Loves Raymond", desc: "1996-2005 (24 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0047.jpg", extra: "Säsonger: 9 - Avsnitt: 209" },
       { number: 48, title: "Moonlighting", desc: "1985-1989 (16,1 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0048.jpg", extra: "Säsonger: 5 - Avsnitt: 66" },
       { number: 49, title: "Melrose Place", desc: "1992-1999 (49 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0049.jpg", extra: "Säsonger: 7 - Avsnitt: 226" },
-      { number: 50, title: "That '70s Show", desc: "1998-2006 (15,4 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0050.jpg", extra: "Säsonger: 8 - Avsnitt: 200" }
+      { number: 50, title: "That '70s Show", desc: "1998-2006 (15,4 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0050.jpg", extra: "Säsonger: 8 - Avsnitt: 200" },
+      { number: 51, title: "According To Jim", desc: "2001-2009 (15,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0051.jpg", extra: "Säsonger: 8 - Avsnitt: 182" },
+      { number: 52, title: "Spartacus", desc: "2010-2013 (10,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0052.jpg", extra: "Säsonger: 4 - Avsnitt: 39" },
+      { number: 53, title: "The Dick Van Dyke Show", desc: "1961-1966 (16,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0053.jpg", extra: "Säsonger: 5 - Avsnitt: 158" },
+      { number: 54, title: "McCloud", desc: "1970-1977 (19,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0054.jpg", extra: "Säsonger: 7 - Avsnitt: 46" },
+      { number: 55, title: "Alias", desc: "2001-2006 (14,9 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0055.jpg", extra: "Säsonger: 5 - Avsnitt: 105" },
+      { number: 56, title: "Laramie", desc: "1959-1963 (25,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0056.jpg", extra: "Säsonger: 4 - Avsnitt: 154" },
+      { number: 57, title: "Doc Martin", desc: "2004-2022 (??,? GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0057.jpg", extra: "Säsonger: 10 - Avsnitt: 77" },
+      { number: 58, title: "Raskens", desc: "1976 (3,33 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0058.jpg", extra: "Säsonger: 1 - Avsnitt: 8" },
+      { number: 59, title: "The Nanny", desc: "1993-1999 (17,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0059.jpg", extra: "Säsonger: 6 - Avsnitt: 146" },
+      { number: 60, title: "Wonder Woman", desc: "1975-1979 (14,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0060.jpg", extra: "Säsonger: 3 - Avsnitt: 60" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1177,6 +1187,7 @@ const data = {
     ]
   }
 };
+
 
 
 
