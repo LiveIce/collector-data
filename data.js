@@ -659,6 +659,14 @@ const data = {
       { number: 296, title: "André", desc: "<b>André Henrique da Silva Martins</b><br>17 december 2001 i Guanambi, Bahia, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort296.jpg", extra: "Mittfältare - Gremio" },
       { number: 297, title: "Jael", desc: "<b>Jael Ferreira Vieira</b><br>30 oktober 1988 i Várzea Grande, Mato Grosso, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort297.jpg", extra: "Anfallare - Gremio" },
       { number: 412, title: "André Hansen", desc: "<b>André Hansen</b><br>17 december 1989 i Oslo, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort412.jpg", extra: "Målvakt - Rosenborg BK" },
+      { number: 414, title: "Besim Šerbečić", desc: "<b>Besim Šerbečić</b><br>1 maj 1998 i Gračanica, Bosnien och Hercegovina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort414.jpg", extra: "Försvarare - Rosenborg BK" },
+      { number: 416, title: "Birger Meling", desc: "<b>Birger Solberg Meling</b><br>17 december 1994 i Stavanger, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort416.jpg", extra: "Försvarare - Rosenborg BK" },
+      { number: 417, title: "Anders Konradsen", desc: "<b>Anders Ågnes Konradsen</b><br>18 juli 1990 i Bodø, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort417.jpg", extra: "Mittfältare - Rosenborg BK" },
+      { number: 418, title: "Marius Lundemo", desc: "<b>Marius Lundemo</b><br>11 april 1994 i Bærum, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort418.jpg", extra: "Mittfältare - Rosenborg BK" },
+      { number: 420, title: "Morten Konradsen", desc: "<b>Morten Ågnes Konradsen</b><br>3 maj 1996 i Bodø, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort420.jpg", extra: "Mittfältare - Rosenborg BK" },
+      { number: 421, title: "Yann-Erik de Lanlay", desc: "<b>Yann-Erik Randa Bahezre de Lanlay</b><br>14 maj 1992 i Stavanger, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort421.jpg", extra: "Anfallare - Rosenborg BK" },
+      { number: 422, title: "Samuel Adegbenro", desc: "<b>Samuel Adeniyi Adegbenro</b><br>3 december 1995 i Osogbo, Nigeria", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort422.jpg", extra: "Anfallare - Rosenborg BK" },
+      { number: 423, title: "Nicklas Bendtner", desc: "<b>Nicklas Bendtner</b><br>16 januari 1988 i Köpenhamn, Danmark", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort423.jpg", extra: "Anfallare - Rosenborg BK" },
       { number: 430, title: "Oscar Linnér", desc: "<b>Oscar Carl Linnér</b><br>23 februari 1997 i Danderyd, Sverige", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort430.jpg", extra: "Målvakt - AIK" },
       { number: 432, title: "Daniel Sundgren", desc: "<b>Daniel Andreas Sundgren</b><br>22 november 1990 i Solna, Sverige", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort432.jpg", extra: "Försvarare - AIK" },
       { number: 433, title: "Robert Lundström", desc: "<b>Robert Mikael Lundström</b><br>1 november 1989 i Sundsvall, Sverige", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort433.jpg", extra: "Försvarare - AIK" },
@@ -1102,6 +1110,7 @@ const data = {
     ]
   }
 };
+
 
 
 
