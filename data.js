@@ -968,17 +968,26 @@ const data = {
   },    
     "TV Serier / Filmer": {
     "TV Serier": [
-      { number: 1, title: "Star Trek", desc: "1966-2005", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0001.jpg", extra: "Säsonger: 28 - Avsnitt: 703" },
-      { number: 2, title: "The Saint", desc: "1962-1969", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0002.jpg", extra: "Säsonger: 6 - Avsnitt: 124" },
-      { number: 3, title: "Batman", desc: "1966-1968", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0003.jpg", extra: "Säsonger: 3 - Avsnitt: 120" },
-      { number: 4, title: "Rome", desc: "2005-2007", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0004.jpg", extra: "Säsonger: 2 - Avsnitt: 22" },
-      { number: 5, title: "2 Broke Girls", desc: "2011-2017", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0005.jpg", extra: "Säsonger: 6 - Avsnitt: 138" },
-      { number: 6, title: "Allo Allo", desc: "1982-1992", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0006.jpg", extra: "Säsonger: 9 - Avsnitt: 83" },
-      { number: 7, title: "Californication", desc: "2007-2014", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0007.jpg", extra: "Säsonger: 7 - Avsnitt: 84" },
-      { number: 8, title: "3rd Rock From The Sun", desc: "1996-2001", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0008.jpg", extra: "Säsonger: 6 - Avsnitt: 139" },
-      { number: 9, title: "Friends", desc: "1994-2004", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0009.jpg", extra: "Säsonger: 10 - Avsnitt: 236" },
-      { number: 10, title: "Svensson Svensson", desc: "1994-2008", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0010.jpg", extra: "Säsonger: 4 - Avsnitt: 50" },
-      { number: 11, title: "5 Myror Är Fler Än 4 Elefanter", desc: "1977", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0011.jpg", extra: "Säsonger: 1 - Avsnitt: 51" }
+      { number: 1, title: "Star Trek", desc: "1966-2005 (120 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0001.jpg", extra: "Säsonger: 28 - Avsnitt: 703" },
+      { number: 2, title: "The Saint", desc: "1962-1969 (34,4 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0002.jpg", extra: "Säsonger: 6 - Avsnitt: 124" },
+      { number: 3, title: "Batman", desc: "1966-1968 (16 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0003.jpg", extra: "Säsonger: 3 - Avsnitt: 120" },
+      { number: 4, title: "Rome", desc: "2005-2007 (6,39 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0004.jpg", extra: "Säsonger: 2 - Avsnitt: 22" },
+      { number: 5, title: "2 Broke Girls", desc: "2011-2017 (11,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0005.jpg", extra: "Säsonger: 6 - Avsnitt: 138" },
+      { number: 6, title: "Allo Allo", desc: "1982-1992 (14,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0006.jpg", extra: "Säsonger: 9 - Avsnitt: 83" },
+      { number: 7, title: "Californication", desc: "2007-2014 (10,3 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0007.jpg", extra: "Säsonger: 7 - Avsnitt: 84" },
+      { number: 8, title: "3rd Rock From The Sun", desc: "1996-2001 (12,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0008.jpg", extra: "Säsonger: 6 - Avsnitt: 139" },
+      { number: 9, title: "Friends", desc: "1994-2004 (31,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0009.jpg", extra: "Säsonger: 10 - Avsnitt: 236" },
+      { number: 10, title: "Svensson Svensson", desc: "1994-2008 (7,09 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0010.jpg", extra: "Säsonger: 4 - Avsnitt: 50" },
+      { number: 11, title: "5 Myror Är Fler Än 4 Elefanter", desc: "1977 (2,69 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0011.jpg", extra: "Säsonger: 1 - Avsnitt: 51" },
+      { number: 12, title: "I Dream Of Jeannie", desc: "1965-1970 (21,1 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0012.jpg", extra: "Säsonger: 5 - Avsnitt: 139" },
+      { number: 13, title: "Upstairs Downstairs", desc: "1971-1975 (18,1 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0013.jpg", extra: "Säsonger: 5 - Avsnitt: 68" },
+      { number: 14, title: "8 Simple Rules", desc: "2002-2005 (5,60 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0014.jpg", extra: "Säsonger: 3 - Avsnitt: 76" },
+      { number: 15, title: "A Family At War", desc: "1970-1972 (15,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0015.jpg", extra: "Säsonger: 3 - Avsnitt: 52" },
+      { number: 16, title: "Against The Wind", desc: "1978 (6,06 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0016.jpg.jpg", extra: "Säsonger: 1 - Avsnitt: 13" },
+      { number: 17, title: "Rederiet", desc: "1992-2002 (64,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0017.jpg", extra: "Säsonger: 20 - Avsnitt: 328" },
+      { number: 18, title: "Samantha Who", desc: "2007-2009 (3,55 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0018.jpg", extra: "Säsonger: 2 - Avsnitt: 35" },
+      { number: 19, title: "Home Improvement", desc: "1991-1999 (23,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0019.jpg", extra: "Säsonger: 8 - Avsnitt: 203" },
+      { number: 20, title: "Glow", desc: "2017-2019 (3,34 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0020.jpg", extra: "Säsonger: 3 - Avsnitt: 30" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1138,6 +1147,7 @@ const data = {
     ]
   }
 };
+
 
 
 
