@@ -1102,8 +1102,8 @@ const data = {
       { number: 80, title: "1910 Fruitgum Co", desc: "Go Away<br>The Track", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00080.JPG", extra: "1970" }
 /*      
       { number: 81, title: "Foundations", desc: "Build Me Up Buttercup<br>New Direction", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00081.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
-      { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
+      { number: 82, title: "Eric Burdon And War", desc: "Spill The Wine<br>Magic Mountain", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00082.JPG.JPG", extra: "1970" },
+      { number: 83, title: "Pugh Rogefeldt", desc: "Föräldralåten<br>Sail With Me Come On And Try I Love You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00083.JPG", extra: "1970" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
       { number: 10, title: "Tremeloes", desc: "My Little Lady<br>All The World To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00010.JPG", extra: "1968" },
@@ -1126,6 +1126,7 @@ const data = {
     ]
   }
 };
+
 
 
 
