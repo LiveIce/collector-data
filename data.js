@@ -1101,10 +1101,10 @@ const data = {
       { number: 79, title: "Marmalade", desc: "Rainbow<br>The Ballad Of Cherry Flavar", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00079.JPG", extra: "1970" },
       { number: 80, title: "1910 Fruitgum Co", desc: "Go Away<br>The Track", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00080.JPG", extra: "1970" },      
       { number: 81, title: "Foundations", desc: "Build Me Up Buttercup<br>New Direction", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00081.JPG", extra: "1968" },
-      { number: 82, title: "Eric Burdon And War", desc: "Spill The Wine<br>Magic Mountain", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00082.JPG.JPG", extra: "1970" },
+      { number: 82, title: "Eric Burdon And War", desc: "Spill The Wine<br>Magic Mountain", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00082.JPG", extra: "1970" },
       { number: 83, title: "Pugh Rogefeldt", desc: "Föräldralåten<br>Sail With Me Come On And Try I Love You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00083.JPG", extra: "1970" },
       { number: 84, title: "Joe Cocker", desc: "The Letter<br>Space Captain", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00084.JPG", extra: "1970" },
-      { number: 85, title: "Jane Birkin And Serge Gainsbourg", desc: "JANE BIRKIN / SERGE GAINSBOURG - Je T'Aime Moi Non Plus<br>JANE BIRKIN - Jane B 1969", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00085.JPG", extra: "1969" },
+      { number: 85, title: "Jane Birkin And Serge Gainsbourg", desc: "JANE BIRKIN / SERGE GAINSBOURG - Je T'Aime Moi Non Plus<br>JANE BIRKIN - Jane B", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00085.JPG", extra: "1969" },
       { number: 86, title: "Donovan", desc: "Riki Tiki Tavi<br>Roots Of Oak", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00086.JPG", extra: "1970" },
       { number: 87, title: "Jimi Hendrix", desc: "Purple Haze<br>51st Anniversary", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00087.JPG", extra: "1967" },
       { number: 88, title: "Rita", desc: "Erotica<br>Sexologie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00088.jpg", extra: "1969" },
@@ -1114,8 +1114,8 @@ const data = {
       { number: 92, title: "Tremeloes", desc: "By The Way<br>Breakheart Motel", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00092.JPG", extra: "1970" },
       { number: 93, title: "Union Gap", desc: "Young Girl<br>I'm Losing You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00093.JPG", extra: "1968" },
       { number: 94, title: "Jimi Hendrix Experience", desc: "Crosstown Traffic<br>Gypsy Eyes", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00094.JPG", extra: "1969" },
-      { number: 95, title: "Paul Jones", desc: "I'm A Young Boy,I Don't Believe You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00095.jpg", extra: "1970" },
-      { number: 96, title: "Lee Marvin / Clint Eastwood", desc: "LEE MARVIN - Wand'rin Star<br>CLINT EASTWOOD - I Talk To The Trees 1969", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00096.jpg", extra: "1969" },
+      { number: 95, title: "Paul Jones", desc: "I'm A Young Boy<br>I Don't Believe You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00095.jpg", extra: "1970" },
+      { number: 96, title: "Lee Marvin / Clint Eastwood", desc: "LEE MARVIN - Wand'rin Star<br>CLINT EASTWOOD - I Talk To The Trees", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00096.jpg", extra: "1969" },
       { number: 97, title: "Lulu", desc: "Oh Me Oh My<br>Sweep Around Your Own Back Door", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00097.JPG", extra: "1969" },
       { number: 98, title: "Jerry Williams", desc: "Gitarzan<br>This Hammer", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00098.JPG", extra: "1969" },
       { number: 99, title: "Anita Hegerland", desc: "En Sån Dag<br>Mitt Sommarlov", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00099.JPG", extra: "1970" },
@@ -1136,6 +1136,7 @@ const data = {
     ]
   }
 };
+
 
 
 
