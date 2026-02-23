@@ -997,7 +997,17 @@ const data = {
       { number: 27, title: "The High Chaparral", desc: "1967-1971 (36,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0027.jpg", extra: "Säsonger: 4 - Avsnitt: 98" },
       { number: 28, title: "Airwolf", desc: "1984-1987 (20 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0028.jpg", extra: "Säsonger: 4 - Avsnitt: 80" },
       { number: 29, title: "How The West Was Won", desc: "1977-1979 (13,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0029.jpg", extra: "Säsonger: 3 - Avsnitt: 28" },
-      { number: 30, title: "Renegade", desc: "1992-1997 (23,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0029.jpg", extra: "Säsonger: 5 - Avsnitt: 110" }
+      { number: 30, title: "Renegade", desc: "1992-1997 (23,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0030.jpg", extra: "Säsonger: 5 - Avsnitt: 110" },
+      { number: 31, title: "MASH", desc: "1972-1983 (42,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0031.jpg", extra: "Säsonger: 11 - Avsnitt: 251" },
+      { number: 32, title: "Have Gun Will Travel", desc: "1957-1963 (30,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0032.jpg", extra: "Säsonger: 6 - Avsnitt: 225" },
+      { number: 33, title: "Married With Children", desc: "1987-1997 (32,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0033.jpg", extra: "Säsonger: 11 - Avsnitt: 259" },
+      { number: 34, title: "Veronica Mars", desc: "2004-2019 (16,9 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0034.jpg", extra: "Säsonger: 4 - Avsnitt: 72" },
+      { number: 35, title: "Absolutely Fabulous", desc: "1992-2012 (6,88 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0035.jpg", extra: "Säsonger: 5 - Avsnitt: 34" },
+      { number: 36, title: "Quincy ME", desc: "1976-1983 (26,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0036.jpg", extra: "Säsonger: 8 - Avsnitt: 148" },
+      { number: 37, title: "Poirot", desc: "1989-2013 (20,8 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0037.jpg", extra: "Säsonger: 13 - Avsnitt: 70" },
+      { number: 38, title: "I Claudius", desc: "1976 (4,15 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0038.jpg", extra: "Säsonger: 1 - Avsnitt: 12" },
+      { number: 39, title: "Gemini Man", desc: "1976 (2,76 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0039.jpg", extra: "Säsonger: 1 - Avsnitt: 11" },
+      { number: 40, title: "Cannon", desc: "1971-1976 (23,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0040.jpg", extra: "Säsonger: 5 - Avsnitt: 122" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1157,6 +1167,7 @@ const data = {
     ]
   }
 };
+
 
 
 
