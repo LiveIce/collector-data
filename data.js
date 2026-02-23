@@ -983,11 +983,21 @@ const data = {
       { number: 13, title: "Upstairs Downstairs", desc: "1971-1975 (18,1 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0013.jpg", extra: "Säsonger: 5 - Avsnitt: 68" },
       { number: 14, title: "8 Simple Rules", desc: "2002-2005 (5,60 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0014.jpg", extra: "Säsonger: 3 - Avsnitt: 76" },
       { number: 15, title: "A Family At War", desc: "1970-1972 (15,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0015.jpg", extra: "Säsonger: 3 - Avsnitt: 52" },
-      { number: 16, title: "Against The Wind", desc: "1978 (6,06 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0016.jpg.jpg", extra: "Säsonger: 1 - Avsnitt: 13" },
+      { number: 16, title: "Against The Wind", desc: "1978 (6,06 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0016.jpg", extra: "Säsonger: 1 - Avsnitt: 13" },
       { number: 17, title: "Rederiet", desc: "1992-2002 (64,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0017.jpg", extra: "Säsonger: 20 - Avsnitt: 328" },
       { number: 18, title: "Samantha Who", desc: "2007-2009 (3,55 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0018.jpg", extra: "Säsonger: 2 - Avsnitt: 35" },
       { number: 19, title: "Home Improvement", desc: "1991-1999 (23,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0019.jpg", extra: "Säsonger: 8 - Avsnitt: 203" },
-      { number: 20, title: "Glow", desc: "2017-2019 (3,34 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0020.jpg", extra: "Säsonger: 3 - Avsnitt: 30" }
+      { number: 20, title: "Glow", desc: "2017-2019 (3,34 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0020.jpg", extra: "Säsonger: 3 - Avsnitt: 30" },
+      { number: 21, title: "Buck Rogers In The 25th Century", desc: "1979-1981 (9,39 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0021.jpg", extra: "Säsonger: 2 - Avsnitt: 37" },
+      { number: 22, title: "The Persuaders", desc: "1971-1972 (7,91 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0022.jpg", extra: "Säsonger: 1 - Avsnitt: 24" },
+      { number: 23, title: "Alfred  Hitchcock Presents", desc: "1955-1962 (30,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0023.jpg", extra: "Säsonger: 7 - Avsnitt: 268" },
+      { number: 24, title: "Fawlty Towers", desc: "1975-1979 (2,93 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0024.jpg", extra: "Säsonger: 2 - Avsnitt: 12" },
+      { number: 25, title: "Arrow", desc: "2012-2020 (26,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0025.jpg", extra: "Säsonger: 8 - Avsnitt: 170" },
+      { number: 26, title: "The Incredible Hulk", desc: "1978-1982 (20,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0026.jpg", extra: "Säsonger: 5 - Avsnitt: 81" },
+      { number: 27, title: "The High Chaparral", desc: "1967-1971 (36,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0027.jpg", extra: "Säsonger: 4 - Avsnitt: 98" },
+      { number: 28, title: "Airwolf", desc: "1984-1987 (20 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0028.jpg", extra: "Säsonger: 4 - Avsnitt: 80" },
+      { number: 29, title: "How The West Was Won", desc: "1977-1979 (13,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0029.jpg", extra: "Säsonger: 3 - Avsnitt: 28" },
+      { number: 30, title: "Renegade", desc: "1992-1997 (23,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0029.jpg", extra: "Säsonger: 5 - Avsnitt: 110" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1147,6 +1157,7 @@ const data = {
     ]
   }
 };
+
 
 
 
