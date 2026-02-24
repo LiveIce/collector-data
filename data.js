@@ -1031,7 +1031,17 @@ const data = {
       { number: 57, title: "Doc Martin", desc: "2004-2022 (14,1 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0057.jpg", extra: "Säsonger: 10 - Avsnitt: 77" },
       { number: 58, title: "Raskens", desc: "1976 (3,33 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0058.jpg", extra: "Säsonger: 1 - Avsnitt: 8" },
       { number: 59, title: "The Nanny", desc: "1993-1999 (17,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0059.jpg", extra: "Säsonger: 6 - Avsnitt: 146" },
-      { number: 60, title: "Wonder Woman", desc: "1975-1979 (14,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0060.jpg", extra: "Säsonger: 3 - Avsnitt: 60" }
+      { number: 60, title: "Wonder Woman", desc: "1975-1979 (14,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0060.jpg", extra: "Säsonger: 3 - Avsnitt: 60" },
+      { number: 61, title: "Madam Secretary", desc: "2014-2019 (16,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0061.jpg", extra: "Säsonger: 6 - Avsnitt: 120" },
+      { number: 62, title: "All In The Family", desc: "1971-1979 (28 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0062.jpg", extra: "Säsonger: 9 - Avsnitt: 207" },
+      { number: 63, title: "Kojak", desc: "1973-1978 (23,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0063.jpg", extra: "Säsonger: 5 - Avsnitt: 118" },
+      { number: 64, title: "The Good Place", desc: "2016-2020 (4,29 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0064.jpg", extra: "Säsonger: 4 - Avsnitt: 50" },
+      { number: 65, title: "Blackadder", desc: "1982-1989 (3,59 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0065.jpg", extra: "Säsonger: 4 - Avsnitt: 24" },
+      { number: 66, title: "McLeod's Daughters", desc: "2001-2009 (69,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0066.jpg", extra: "Säsonger: 8 - Avsnitt: 224" },
+      { number: 67, title: "American Gothic", desc: "1995-1996 (4,30 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0067.jpg", extra: "Säsonger: 1 - Avsnitt: 22" },
+      { number: 68, title: "Longmire", desc: "2012-2017 (12,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0068.jpg", extra: "Säsonger: 6 - Avsnitt: 63" },
+      { number: 69, title: "Glitch", desc: "2015-2019 (2,96 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0069.jpg", extra: "Säsonger: 3 - Avsnitt: 18" },
+      { number: 70, title: "Breaking Bad", desc: "2008-2013 (9,59 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0069.jpg", extra: "Säsonger: 5 - Avsnitt: 62" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1191,6 +1201,7 @@ const data = {
     ]
   }
 };
+
 
 
 
