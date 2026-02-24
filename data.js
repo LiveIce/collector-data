@@ -710,6 +710,10 @@ const data = {
 },
   "Blizzard": {
     "Legacy Collection": [
+      { number: 7, title: "Llane Wrynn", desc: "WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort7a.jpg", extra: "Framsida" },
+      { number: 7, title: "Llane Wrynn", desc: "WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort7b.jpg", extra: "Baksida" },
+      { number: 22, title: "Kael'thas Sunstrider", desc: "WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort22a.jpg", extra: "Framsida" },
+      { number: 22, title: "Kael'thas Sunstrider", desc: "WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort22b.jpg", extra: "Baksida" },
       { number: 31, title: "Malthael", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort31a.jpg", extra: "Framsida" },
       { number: 31, title: "Malthael", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort31b.jpg", extra: "Baksida" },
       { number: 80, title: "Banshee", desc: "StarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort80a.jpg", extra: "Framsida" },
@@ -1187,6 +1191,7 @@ const data = {
     ]
   }
 };
+
 
 
 
