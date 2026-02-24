@@ -932,7 +932,7 @@ const data = {
     ]
   },
     "Dinosaur King": {
-    "DKS2": [
+    "DKS2 ⭐": [
       { number: 1, title: "Zuniceratops", desc: "3,5 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort1.jpg", extra: "Dinosaur" },
       { number: 2, title: "Pouncing Irritatot", desc: "8 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort2.jpg", extra: "Dinosaur" },
       { number: 3, title: "Centrosaurus", desc: "6 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort3.jpg", extra: "Dinosaur" },
@@ -1252,6 +1252,7 @@ const data = {
     ]
   }
 };
+
 
 
 
