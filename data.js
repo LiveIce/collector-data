@@ -1024,7 +1024,7 @@ const data = {
       { number: 54, title: "McCloud", desc: "1970-1977 (19,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0054.jpg", extra: "Säsonger: 7 - Avsnitt: 46" },
       { number: 55, title: "Alias", desc: "2001-2006 (14,9 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0055.jpg", extra: "Säsonger: 5 - Avsnitt: 105" },
       { number: 56, title: "Laramie", desc: "1959-1963 (25,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0056.jpg", extra: "Säsonger: 4 - Avsnitt: 154" },
-      { number: 57, title: "Doc Martin", desc: "2004-2022 (??,? GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0057.jpg", extra: "Säsonger: 10 - Avsnitt: 77" },
+      { number: 57, title: "Doc Martin", desc: "2004-2022 (14,1 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0057.jpg", extra: "Säsonger: 10 - Avsnitt: 77" },
       { number: 58, title: "Raskens", desc: "1976 (3,33 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0058.jpg", extra: "Säsonger: 1 - Avsnitt: 8" },
       { number: 59, title: "The Nanny", desc: "1993-1999 (17,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0059.jpg", extra: "Säsonger: 6 - Avsnitt: 146" },
       { number: 60, title: "Wonder Woman", desc: "1975-1979 (14,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0060.jpg", extra: "Säsonger: 3 - Avsnitt: 60" }
@@ -1187,6 +1187,7 @@ const data = {
     ]
   }
 };
+
 
 
 
