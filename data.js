@@ -1041,7 +1041,7 @@ const data = {
       { number: 67, title: "American Gothic", desc: "1995-1996 (4,30 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0067.jpg", extra: "Säsonger: 1 - Avsnitt: 22" },
       { number: 68, title: "Longmire", desc: "2012-2017 (12,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0068.jpg", extra: "Säsonger: 6 - Avsnitt: 63" },
       { number: 69, title: "Glitch", desc: "2015-2019 (2,96 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0069.jpg", extra: "Säsonger: 3 - Avsnitt: 18" },
-      { number: 70, title: "Breaking Bad", desc: "2008-2013 (9,59 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0069.jpg", extra: "Säsonger: 5 - Avsnitt: 62" }
+      { number: 70, title: "Breaking Bad", desc: "2008-2013 (9,59 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0070.jpg", extra: "Säsonger: 5 - Avsnitt: 62" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1201,6 +1201,7 @@ const data = {
     ]
   }
 };
+
 
 
 
