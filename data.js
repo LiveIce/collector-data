@@ -1063,7 +1063,17 @@ const data = {
       { number: 87, title: "For The People", desc: "2018-2019 (2,36 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0087.jpg", extra: "Säsonger: 2 - Avsnitt: 20" },
       { number: 88, title: "Des", desc: "2020 (329 MB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0088.jpg", extra: "Säsonger: 1 - Avsnitt: 3" },
       { number: 89, title: "The Luminaries", desc: "2020 (949 MB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0089.jpg", extra: "Säsonger: 1 - Avsnitt: 6" },
-      { number: 90, title: "What I Like About You", desc: "2002-2006 (7,49 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0090.jpg", extra: "Säsonger: 4 - Avsnitt: 86" }
+      { number: 90, title: "What I Like About You", desc: "2002-2006 (7,49 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0090.jpg", extra: "Säsonger: 4 - Avsnitt: 86" },
+      { number: 91, title: "Away", desc: "2020 (1,26 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0091.jpg", extra: "Säsonger: 1 - Avsnitt: 10" },
+      { number: 92, title: "Home To Roost", desc: "1985-1990 (3,29 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0092.jpg", extra: "Säsonger: 4 - Avsnitt: 28" },
+      { number: 93, title: "Camelot", desc: "2011 (1,77 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0093.jpg", extra: "Säsonger: 1 - Avsnitt: 10" },
+      { number: 94, title: "Shazam", desc: "1974-1977 (3,60 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0094.jpg", extra: "Säsonger: 3 - Avsnitt: 28" },
+      { number: 95, title: "The Hitchhikers Guide To The Galaxy", desc: "1981 (980 MB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0095.jpg", extra: "Säsonger: 1 - Avsnitt: 6" },
+      { number: 96, title: "Manhunt", desc: "2019-2021 (839 MB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0096.jpg", extra: "Säsonger: 2 - Avsnitt: 7" },
+      { number: 97, title: "Butterfly", desc: "2018 (454 MB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0097.jpg", extra: "Säsonger: 1 - Avsnitt: 3" },
+      { number: 98, title: "Bless This House", desc: "1971-1976 (6,78 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0098.jpg", extra: "Säsonger: 6 - Avsnitt: 65" },
+      { number: 99, title: "The Master", desc: "1984 (2,98 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0099.jpg", extra: "Säsonger: 1 - Avsnitt: 13" },
+      { number: 100, title: "Xena Warrior Princess", desc: "1995-2001 (36,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0100.jpg", extra: "Säsonger: 6 - Avsnitt: 134" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1274,6 +1284,7 @@ const data = {
     ]
   }
 };
+
 
 
 
