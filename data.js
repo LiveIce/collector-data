@@ -1053,7 +1053,17 @@ const data = {
       { number: 77, title: "Bosch", desc: "2015-2021 (11,3 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0077.jpg", extra: "Säsonger: 7 - Avsnitt: 68" },
       { number: 78, title: "The Bionic Woman", desc: "1976-1978 (14,1 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0078.jpg", extra: "Säsonger: 3 - Avsnitt: 60" },
       { number: 79, title: "Who's The Boss", desc: "1984-1992 (26,3 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0079.jpg", extra: "Säsonger: 8 - Avsnitt: 196" },
-      { number: 80, title: "Under The Dome", desc: "2013-2015 (6,17 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0080.jpg", extra: "Säsonger: 3 - Avsnitt: 39" }
+      { number: 80, title: "Under The Dome", desc: "2013-2015 (6,17 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0080.jpg", extra: "Säsonger: 3 - Avsnitt: 39" },
+      { number: 81, title: "Just Shoot Me", desc: "1997-2003 (13,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0081.jpg", extra: "Säsonger: 7 - Avsnitt: 148" },
+      { number: 82, title: "Cheers", desc: "1982-1993 (35 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0082.jpg", extra: "Säsonger: 11 - Avsnitt: 273" },
+      { number: 83, title: "Automan", desc: "1983-1984 (2,80 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0083.jpg", extra: "Säsonger: 1 - Avsnitt: 13" },
+      { number: 84, title: "Pole To Pole With Michael Palin", desc: "1992 (3,45 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0084.jpg", extra: "Säsonger: 1 - Avsnitt: 8" },
+      { number: 85, title: "The Adventures Of Young Indiana Jones", desc: "1992-1999 (11 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0085.jpg", extra: "Säsonger: 3 - Avsnitt: 22" },
+      { number: 86, title: "Les Miserables", desc: "2018-2019 (1,11 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0086.jpg", extra: "Säsonger: 1 - Avsnitt: 6" },
+      { number: 87, title: "For The People", desc: "2018-2019 (2,36 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0087.jpg", extra: "Säsonger: 2 - Avsnitt: 20" },
+      { number: 88, title: "Des", desc: "2020 (329 MB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0088.jpg", extra: "Säsonger: 1 - Avsnitt: 3" },
+      { number: 89, title: "The Luminaries", desc: "2020 (949 MB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0089.jpg", extra: "Säsonger: 1 - Avsnitt: 6" },
+      { number: 90, title: "What I Like About You", desc: "2002-2006 (7,49 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0090.jpg", extra: "Säsonger: 4 - Avsnitt: 86" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1264,6 +1274,7 @@ const data = {
     ]
   }
 };
+
 
 
 
