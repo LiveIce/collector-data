@@ -698,6 +698,8 @@ const data = {
       { number: 22, title: "Marvin Friedrich", desc: "<b>Marvin Friedrich</b><br>13 december 1995 i Kassel, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort22.jpg", extra: "Försvarare - Borussia Mönchengladbach" },
       { number: 23, title: "Sheraldo Becker", desc: "<b>Sheraldo Rudi Salomo Willem Becker</b><br>9 februari 1995 i Amsterdam, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort23.jpg", extra: "Anfallare - 1. FC Union Berlin" },
       { number: 24, title: "Taiwo Awoniyi", desc: "<b>Taiwo Micheal Awoniyi</b><br>12 augusti 1997 i Ilorin, Nigeria", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort24.jpg", extra: "Anfallare - 1. FC Union Berlin" },
+      { number: 37, title: "Janni Serra", desc: "<b>Janni Luca Serra</b><br>13 mars 1998 i Springe, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort37.jpg", extra: "Anfallare - DSC Arminia Bielefeld" },
+      { number: 38, title: "Alessandro Schöpf", desc: "<b>Alessandro Schöpf</b><br>7 februari 1994 i Umhausen, Österrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort38.jpg", extra: "Mittfältare - DSC Arminia Bielefeld" },
       { number: 39, title: "Florian Krüger", desc: "<b>Florian Krüger</b><br>13 februari 1999 i Stassfurt, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort39.jpg", extra: "Anfallare - DSC Arminia Bielefeld" },
       { number: 40, title: "Cédric Brunner", desc: "<b>Cédric Brunner</b><br>17 februari 1994 i Zollikon, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort40.jpg", extra: "Försvarare - DSC Arminia Bielefeld" },
       { number: 57, title: "Ansgar Knauff", desc: "<b>Ansgar Knauff</b><br>10 januari 2002 i Göttingen, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort57.jpg", extra: "Mittfältare - Borussia Dortmund" },
@@ -1252,6 +1254,7 @@ const data = {
     ]
   }
 };
+
 
 
 
