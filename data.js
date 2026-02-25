@@ -1043,7 +1043,17 @@ const data = {
       { number: 67, title: "American Gothic", desc: "1995-1996 (4,30 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0067.jpg", extra: "Säsonger: 1 - Avsnitt: 22" },
       { number: 68, title: "Longmire", desc: "2012-2017 (12,5 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0068.jpg", extra: "Säsonger: 6 - Avsnitt: 63" },
       { number: 69, title: "Glitch", desc: "2015-2019 (2,96 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0069.jpg", extra: "Säsonger: 3 - Avsnitt: 18" },
-      { number: 70, title: "Breaking Bad", desc: "2008-2013 (9,59 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0070.jpg", extra: "Säsonger: 5 - Avsnitt: 62" }
+      { number: 70, title: "Breaking Bad", desc: "2008-2013 (9,59 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0070.jpg", extra: "Säsonger: 5 - Avsnitt: 62" },
+      { number: 71, title: "Pojken Med Guldbyxorna", desc: "1975 (1,35 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0071.jpg", extra: "Säsonger: 1 - Avsnitt: 6" },
+      { number: 72, title: "Murder She Wrote", desc: "1984-1996 (60,3 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0072.jpg", extra: "Säsonger: 12 - Avsnitt: 264" },
+      { number: 73, title: "The Invaders", desc: "1967-1968 (7,79 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0073.jpg", extra: "Säsonger: 2 - Avsnitt: 43" },
+      { number: 74, title: "Mission Impossible", desc: "1966-1973 (31,8 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0074.jpg", extra: "Säsonger: 7 - Avsnitt: 171" },
+      { number: 75, title: "Anger Management", desc: "2012-2014 (8,70 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0075.jpg", extra: "Säsonger: 2 - Avsnitt: 100" },
+      { number: 76, title: "Gilligan's Island", desc: "1964-1967 (16,1 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0076.jpg", extra: "Säsonger: 3 - Avsnitt: 98" },
+      { number: 77, title: "Bosch", desc: "2015-2021 (11,3 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0077.jpg", extra: "Säsonger: 7 - Avsnitt: 68" },
+      { number: 78, title: "The Bionic Woman", desc: "1976-1978 (14,1 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0078.jpg", extra: "Säsonger: 3 - Avsnitt: 60" },
+      { number: 79, title: "Who's The Boss", desc: "1984-1992 (26,3 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0079.jpg", extra: "Säsonger: 8 - Avsnitt: 196" },
+      { number: 80, title: "Under The Dome", desc: "2013-2015 (6,17 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0080.jpg", extra: "Säsonger: 3 - Avsnitt: 39" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1254,6 +1264,7 @@ const data = {
     ]
   }
 };
+
 
 
 
