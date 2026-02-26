@@ -440,6 +440,8 @@ const data = {
       { number: 97, title: "Gustavo Cuéllar", desc: "<b>Gustavo Leonardo Cuéllar Gallegos</b><br>14 oktober 1992 i Barranquilla, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort97.jpg", extra: "Mittfältare - Flamengo" },
       { number: 98, title: "Emerson Sheik", desc: "<b>Emerson Sheik</b><br>6 september 1978 i Nova Iguacu, Nova Iguaçu, Rio de Janeiro, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort98.jpg", extra: "Anfallare - Flamengo" },
       { number: 156, title: "David Luiz", desc: "<b>David Luiz Moreira Marinho</b><br>22 april 1987 i Diadema, São Paulo, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort156.jpg", extra: "Försvarare - Paris Saint-Germain" },
+      { number: 157, title: "Benjamin Stambouli", desc: "<b>Benjamin Stambouli</b><br>13 augusti 1990 i Marseille, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort157.jpg", extra: "Mittfältare - Paris Saint-Germain" },
+      { number: 159, title: "Thiago Motta", desc: "<b>Thiago Motta Santon Olivares</b><br>28 augusti 1982 i São Bernardo do Campo, São Paulo, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort159.jpg", extra: "Mittfältare - Paris Saint-Germain" },
       { number: 160, title: "Lucas", desc: "<b>Lucas Rodrigues Moura da Silva</b><br>13 augusti 1992 i São Paulo, São Paulo, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort160.jpg", extra: "Mittfältare - Paris Saint-Germain" },
       { number: 161, title: "Adrien Rabiot", desc: "<b>Adrien Thibault Marie Rabiot</b><br>3 april 1995 i Saint-Maurice, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort161.jpg", extra: "Mittfältare - Paris Saint-Germain" },
       { number: 172, title: "Roman Bürki", desc: "<b>Roman Bürki</b><br>14 november 1990 i Münsingen, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort172.jpg", extra: "Målvakt - Borussia Dortmund" },
@@ -1289,6 +1291,7 @@ const data = {
     ]
   }
 };
+
 
 
 
