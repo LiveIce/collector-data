@@ -1073,7 +1073,12 @@ const data = {
       { number: 97, title: "Butterfly", desc: "2018 (454 MB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0097.jpg", extra: "Säsonger: 1 - Avsnitt: 3" },
       { number: 98, title: "Bless This House", desc: "1971-1976 (6,78 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0098.jpg", extra: "Säsonger: 6 - Avsnitt: 65" },
       { number: 99, title: "The Master", desc: "1984 (2,98 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0099.jpg", extra: "Säsonger: 1 - Avsnitt: 13" },
-      { number: 100, title: "Xena Warrior Princess", desc: "1995-2001 (36,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0100.jpg", extra: "Säsonger: 6 - Avsnitt: 134" }
+      { number: 100, title: "Xena Warrior Princess", desc: "1995-2001 (36,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0100.jpg", extra: "Säsonger: 6 - Avsnitt: 134" },
+      { number: 101, title: "Secret City", desc: "2016-2019 (1,63 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0101.jpg", extra: "Säsonger: 2 - Avsnitt: 12" },
+      { number: 102, title: "Mad Men", desc: "2007-2015 (15,3 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0102.jpg", extra: "Säsonger: 7 - Avsnitt: 92" },
+      { number: 103, title: "Holocaust", desc: "1978 (1,96 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0103.jpg", extra: "Säsonger: 1 - Avsnitt: 4" },
+      { number: 104, title: "Brothers And Sisters", desc: "2006-2011 (15,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0104.jpg", extra: "Säsonger: 5 - Avsnitt: 109" },
+      { number: 105, title: "Bleak House", desc: "2005 (1,59 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0105.jpg", extra: "Säsonger: 1 - Avsnitt: 15" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1284,6 +1289,7 @@ const data = {
     ]
   }
 };
+
 
 
 
