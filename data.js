@@ -1170,6 +1170,32 @@ const data = {
       { number: 22, title: "James Gang", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00022.jpg", extra: "<b>Thirds</b> - 1971" },
       { number: 23, title: "Steppenwolf", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00023.jpg", extra: "<b>7</b> - 1970" },
       { number: 24, title: "Ted Nugent And The Amboy Dukes", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00024.jpg", extra: "<b>Call Of The Wild</b> - 1974" },
+      { number: 25, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00025.jpg", extra: "<b>Sabotage</b> - 1975" },
+      { number: 26, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00026.jpg", extra: "<b>Burn</b> - 1974" },
+      { number: 27, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00027.jpg", extra: "<b>In For The Kill</b> - 1974" },
+      { number: 28, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00028.jpg", extra: "<b>On The Level</b> - 1975" },
+      { number: 29, title: "Uriah Heep", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00029.jpg", extra: "<b>The Magician's Birthday</b> - 1972" },
+      { number: 30, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00030.jpg", extra: "<b>Hair Of The Dog</b> - 1975" },
+      { number: 31, title: "Alice Cooper", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00031.jpg", extra: "<b>Killer</b> - 1971" },
+      { number: 32, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00032.jpg", extra: "<b>Cosmo's Factory</b> - 1970" },
+      { number: 33, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00033.jpg", extra: "<b>1</b> - 1969" },
+      { number: 34, title: "Jimmy Castor Bunch", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00034.jpg", extra: "<b>Troglodyte</b> - 1975" },
+      { number: 35, title: "CCS", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00035.jpg", extra: "<b>2</b> - 1972" },
+      { number: 36, title: "Procol Harum", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00036.jpg", extra: "<b>Broken Barricades</b> - 1971" },
+      { number: 37, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00037.jpg", extra: "<b>Machine Head</b> - 1972" },
+      { number: 38, title: "Genesis", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00038.jpg", extra: "<b>Live</b> - 1973" },
+      { number: 39, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00039.jpg", extra: "<b>Piledriver</b> - 1972" },
+      { number: 40, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00040.jpg", extra: "<b>Vol 4</b> - 1972" },
+      { number: 41, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00041.jpg", extra: "<b>Houses Of The Holy</b> - 1973" },
+      { number: 42, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00042.jpg", extra: "<b>Razamanaz</b> - 1973" },
+      { number: 43, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00043.jpg", extra: "<b>Deep Purple</b> - 1969" },
+      { number: 44, title: "Free", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00044.jpg", extra: "<b>Fire And Water</b> - 1970" },
+      { number: 45, title: "CCS", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00045.jpg", extra: "<b>CCS</b> - 1970" },
+      { number: 46, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00046.jpg", extra: "<b>Creedence Clearwater Revival</b> - 1969" },
+      { number: 47, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00047.jpg", extra: "<b>Nazareth</b> - 1971" },
+      { number: 48, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00048.jpg", extra: "<b>Budgie</b> - 1971" },
+      { number: 49, title: "Ventures", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00049.jpg", extra: "<b>Portrait</b> - 1976" },
+      { number: 50, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00050.jpg", extra: "<b>Hello</b> - 1973" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1339,6 +1365,7 @@ const data = {
     ]
   }
 };
+
 
 
 
