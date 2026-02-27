@@ -1155,20 +1155,17 @@ const data = {
       { number: 7, title: "Led Zeppelin", desc: "1.Black Dog 2.Rock And Roll<br>3.The Battle Of Evermore 4.Stairway To Heaven<br>5.Misty Mountain Hop 6.Four Sticks<br>7.Going To California 8.When The Levee Breaks", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00007.jpg", extra: "<b>IV</b> - 1971" },
       { number: 8, title: "Nazareth", desc: "1.Go Down Fighting 2.Not Faking It<br>3.Turn On Your Receiver 4.Teenage Nervous Breakdown<br>5.Freewheeler 6.This Flight Tonight<br>7.Child In The Sun 8.The Ballad Of Hollis Brown", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00008.jpg", extra: "<b>Loud 'n' Proud</b> - 1973" },
       { number: 9, title: "Sweet", desc: "1.Set Me Free 2.Heartbreak Today<br>3.No You Don't 4.Rebel Rouser<br>5.Peppermint Twist 6.Sweet FA<br>7.Restless 8.In To The Night<br>9.AC Dc", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00009.jpg", extra: "<b>Sweet Fanny Adams</b> - 1974" },
-      { number: 10, title: "Grand Funk Railroad", desc: "1.Country Road 2.All You've Got Is Money<br>3.Comfort Me 4.Feelin' Alright<br>5.I Want Freedom 6.I Can Feel Him In The Morning<br>7.Gimme Shelter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00010.jpg", extra: "<b>Survival</b> - 1971" }
-/*
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
-      { number: 2, title: "Amon Düül II", desc: "1.I Canät Wait (Part 1 And 2) 2.Mirror<br>", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" }
-  */
+      { number: 10, title: "Grand Funk Railroad", desc: "1.Country Road 2.All You've Got Is Money<br>3.Comfort Me 4.Feelin' Alright<br>5.I Want Freedom 6.I Can Feel Him In The Morning<br>7.Gimme Shelter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00010.jpg", extra: "<b>Survival</b> - 1971" },
+      { number: 11, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00011.jpg", extra: "<b>Deep Purple In Rock</b> - 1970" },
+      { number: 12, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00012.jpg", extra: "<b>Squawk</b> - 1972" },
+      { number: 13, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00013.jpg", extra: "<b>Master Of Reality</b> - 1971" },
+      { number: 14, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00014.jpg", extra: "<b>Quo</b> - 1974" },
+      { number: 15, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00015.jpg", extra: "<b>Green River</b> - 1969" },
+      { number: 16, title: "Ted Nugent And The Amboy Dukes", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00016.jpg", extra: "<b>Tooth Fang And Claw</b> - 1974" },
+      { number: 17, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00017.jpg", extra: "<b>2</b> - 1969" },
+      { number: 18, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00018.jpg", extra: "<b>Rampant</b> - 1974" },
+      { number: 19, title: "Sweet", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00019.jpg", extra: "<b>Desolation Boulevard</b> - 1974" },
+      { number: 20, title: "November", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00020.jpg", extra: "<b>En Ny Tid Är Här</b> - 1970" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1338,6 +1335,7 @@ const data = {
     ]
   }
 };
+
 
 
 
