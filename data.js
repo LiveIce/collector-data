@@ -1205,7 +1205,27 @@ const data = {
       { number: 57, title: "David Bowie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00057.jpg", extra: "<b>Diamond Dogs</b> - 1974" },
       { number: 58, title: "Grand Funk Railroad", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00058.jpg", extra: "<b>Live Album</b> - 1970" },
       { number: 59, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00059.jpg", extra: "<b>Made In Japan</b> - 1972" },
-      { number: 60, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00060.jpg", extra: "<b>Never Turn Your Back On A Friend</b> - 1973" }
+      { number: 60, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00060.jpg", extra: "<b>Never Turn Your Back On A Friend</b> - 1973" },
+      { number: 61, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00061.jpg", extra: "<b>3</b> - 1970" },
+      { number: 62, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00062.jpg", extra: "<b>Pendulum</b> - 1970" },
+      { number: 63, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00063.jpg", extra: "<b>Fireball</b> - 1971" },
+      { number: 64, title: "Paul McCartney", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00064.jpg", extra: "<b>Ram</b> - 1971" },
+      { number: 65, title: "Rock Buster", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00065.jpg", extra: "<b>Rock Buster</b> - 1970" },
+      { number: 66, title: "Ted Gärdestad", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00066.jpg", extra: "<b>Ted</b> - 1973" },
+      { number: 67, title: "Demis Roussos", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00067.jpg", extra: "<b>Forever And Ever</b> - 1973" },
+      { number: 68, title: "Beatles", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00068.jpg", extra: "<b>1962-1966 (The Red Album)</b> - 1973" },
+      { number: 69, title: "Tom Jones", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00069.jpg", extra: "<b>Live In Las Vegas</b> - 1969" },
+      { number: 70, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00070.jpg", extra: "<b>Bandolier</b> - 1975" },
+      { number: 71, title: "Marmalade", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00071.jpg", extra: "<b>The Best Of Marmalade</b> - 1969" },
+      { number: 72, title: "Elvis Presley", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00072.jpg", extra: "<b>Elvis Sings Flaming Star</b> - 1969" },
+      { number: 73, title: "Mouth And MacNeal", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00073.jpg", extra: "<b>I See A Star</b> - 1974" },
+      { number: 74, title: "Love", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00074.jpg", extra: "<b>False Start</b> - 1971" },
+      { number: 75, title: "Simon And Garfunkel", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00075.jpg", extra: "<b>Bridge Over Troubled Water</b> - 1970" },
+      { number: 76, title: "Archies", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00076.jpg", extra: "<b>Sugar Sugar</b> - 1969" },
+      { number: 77, title: "Ventures", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00077.jpg", extra: "<b>More Golden Greats</b> - 1970" },
+      { number: 78, title: "Burt Bacharach", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00078.jpg", extra: "<b>Butch Cassidy And The Sundance Kid</b> - 1969" },
+      { number: 79, title: "Geordie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00079.jpg", extra: "<b>Don't Be Fooled By The Name</b> - 1974" },
+      { number: 80, title: "Doris Day", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00080.jpg", extra: "<b>Day In Hollywood</b> - 1955" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1375,6 +1395,7 @@ const data = {
     ]
   }
 };
+
 
 
 
