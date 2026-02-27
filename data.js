@@ -1116,7 +1116,18 @@ const data = {
       { number: 136, title: "Lace", desc: "1984-1985 (2,14 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0136.jpg", extra: "Säsonger: 2 - Avsnitt: 4" },
       { number: 137, title: "Young Hercules", desc: "1998-1999 (7,72 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0137.jpg", extra: "Säsonger: 1 - Avsnitt: 50" },
       { number: 138, title: "The Stand", desc: "1994 (1,86 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0138.jpg", extra: "Säsonger: 1 - Avsnitt: 4" },
-      { number: 139, title: "Shogun", desc: "1980 (3,17 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0139.jpg", extra: "Säsonger: 1 - Avsnitt: 5" }
+      { number: 139, title: "Shogun", desc: "1980 (3,17 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0139.jpg", extra: "Säsonger: 1 - Avsnitt: 5" },
+      { number: 140, title: "Hogan's Heroes", desc: "1965-1971 (17,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0140.jpg", extra: "Säsonger: 6 - Avsnitt: 168" },
+      { number: 141, title: "Return Of The Saint", desc: "1978-1979 (6,55 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0141.jpg", extra: "Säsonger: 1 - Avsnitt: 24" },
+      { number: 142, title: "Wild Palms", desc: "1993 (1,26 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0142.jpg", extra: "Säsonger: 1 - Avsnitt: 5" },
+      { number: 143, title: "North And South", desc: "1985-1994 (6,62 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0143.jpg", extra: "Säsonger: 3 - Avsnitt: 15" },
+      { number: 144, title: "The Young Ones", desc: "1982-1984 (2,23 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0144.jpg", extra: "Säsonger: 2 - Avsnitt: 12" },
+      { number: 145, title: "The 4400", desc: "2004-2007 (8,35 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0145.jpg", extra: "Säsonger: 4 - Avsnitt: 44" },
+      { number: 146, title: "Starsky And Hutch", desc: "1975-1979 (20,7 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0146.jpg", extra: "Säsonger: 4 - Avsnitt: 93" },
+      { number: 147, title: "The Veil", desc: "1958 (1,16 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0147.jpg", extra: "Säsonger: 1 - Avsnitt: 12" },
+      { number: 148, title: "Misfits Of Science", desc: "1985-1986 (5,45 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0148.jpg", extra: "Säsonger: 1 - Avsnitt: 16" },
+      { number: 149, title: "The Widow", desc: "2019 (1,22 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0149.jpg", extra: "Säsonger: 1 - Avsnitt: 8" },
+      { number: 150, title: "Sheena", desc: "2000-2002 (9,10 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0150.jpg", extra: "Säsonger: 2 - Avsnitt: 35" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1327,6 +1338,7 @@ const data = {
     ]
   }
 };
+
 
 
 
