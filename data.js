@@ -1165,7 +1165,11 @@ const data = {
       { number: 17, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00017.jpg", extra: "<b>2</b> - 1969" },
       { number: 18, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00018.jpg", extra: "<b>Rampant</b> - 1974" },
       { number: 19, title: "Sweet", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00019.jpg", extra: "<b>Desolation Boulevard</b> - 1974" },
-      { number: 20, title: "November", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00020.jpg", extra: "<b>En Ny Tid Är Här</b> - 1970" }
+      { number: 20, title: "November", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00020.jpg", extra: "<b>En Ny Tid Är Här</b> - 1970" },
+      { number: 21, title: "T Rex", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00021.jpg", extra: "<b>The Slider</b> - 1972" },
+      { number: 22, title: "James Gang", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00022.jpg", extra: "<b>Thirds</b> - 1971" },
+      { number: 23, title: "Steppenwolf", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00023.jpg", extra: "<b>7</b> - 1970" },
+      { number: 24, title: "Ted Nugent And The Amboy Dukes", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00024.jpg", extra: "<b>Call Of The Wild</b> - 1974" },
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1335,6 +1339,7 @@ const data = {
     ]
   }
 };
+
 
 
 
