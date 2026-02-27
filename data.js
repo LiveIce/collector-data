@@ -1097,7 +1097,11 @@ const data = {
       { number: 117, title: "The Magical Legend Of The Leprechauns", desc: "1999 (1,43 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0117.jpg", extra: "Säsonger: 1 - Avsnitt: 2" },
       { number: 118, title: "Roswell", desc: "1999-2002 (12,3 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0118.jpg", extra: "Säsonger: 3 - Avsnitt: 61" },
       { number: 119, title: "Babylon 5", desc: "1993-1998 (15,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0119.jpg", extra: "Säsonger: 5 - Avsnitt: 110" },
-      { number: 120, title: "Fringe", desc: "2008-2013 (19,4 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0120.jpg", extra: "Säsonger: 5 - Avsnitt: 100" }
+      { number: 120, title: "Fringe", desc: "2008-2013 (19,4 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0120.jpg", extra: "Säsonger: 5 - Avsnitt: 100" },
+      { number: 121, title: "Joey", desc: "2004-2006 (4,15 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0121.jpg", extra: "Säsonger: 2 - Avsnitt: 46" },
+      { number: 122, title: "Relic Hunter", desc: "1999-2002 (11,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0122.jpg", extra: "Säsonger: 3 - Avsnitt: 66" },
+      { number: 123, title: "Murder City", desc: "2004-2006 (3,44 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0123.jpg", extra: "Säsonger: 2 - Avsnitt: 10" },
+      { number: 124, title: "The Last Man On Earth", desc: "2015-2018 (4,79 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0124.jpg", extra: "Säsonger: 4 - Avsnitt: 67" },
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1308,6 +1312,7 @@ const data = {
     ]
   }
 };
+
 
 
 
