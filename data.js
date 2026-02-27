@@ -1195,7 +1195,17 @@ const data = {
       { number: 47, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00047.jpg", extra: "<b>Nazareth</b> - 1971" },
       { number: 48, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00048.jpg", extra: "<b>Budgie</b> - 1971" },
       { number: 49, title: "Ventures", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00049.jpg", extra: "<b>Portrait</b> - 1976" },
-      { number: 50, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00050.jpg", extra: "<b>Hello</b> - 1973" }
+      { number: 50, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00050.jpg", extra: "<b>Hello</b> - 1973" },
+      { number: 51, title: "Davie Allan And The Arrows", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00051.jpg", extra: "<b>The Wild Angels Volume II</b> - 1967" },
+      { number: 52, title: "Johnny Cash", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00052.jpg", extra: "<b>At San Quentin</b> - 1969" },
+      { number: 53, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00053.jpg", extra: "<b>Stormbringer</b> - 1974" },
+      { number: 54, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00054.jpg", extra: "<b>Black Sabbath</b> - 1970" },
+      { number: 55, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00055.jpg", extra: "<b>Mardi Gras</b> - 1972" },
+      { number: 56, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00056.jpg", extra: "<b>Physical Graffiti</b> - 1975" },
+      { number: 57, title: "David Bowie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00057.jpg", extra: "<b>Diamond Dogs</b> - 1974" },
+      { number: 58, title: "Grand Funk Railroad", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00058.jpg", extra: "<b>Live Album</b> - 1970" },
+      { number: 59, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00059.jpg", extra: "<b>Made In Japan</b> - 1972" },
+      { number: 60, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00060.jpg", extra: "<b>Never Turn Your Back On A Friend</b> - 1973" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1365,6 +1375,7 @@ const data = {
     ]
   }
 };
+
 
 
 
