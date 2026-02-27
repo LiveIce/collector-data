@@ -690,6 +690,8 @@ const data = {
       { number: 00, title: "Wataru Endo", desc: "<b>Wataru Endo</b><br>9 februari 1993 i Totsuka Ward, Yokohama, Kanagawa prefektur, Japan", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0f.jpg", extra: "Mittfältare - VfB Stuttgart" },
       { number: 1, title: "Felix Uduokhai", desc: "<b>Felix Ohis Uduokhai</b><br>9 september 1997 i Annaberg-Buchholz, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort1.jpg", extra: "Försvarare- FC Augsburg" },
       { number: 2, title: "Tobias Strobl", desc: "<b>Tobias Strobl</b><br>12 maj 1990 i München, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort2.jpg", extra: "Mittfältare - FC Augsburg" },
+      { number: 3, title: "Niklas Dorsch", desc: "<b>Niklas Bernd Dorsch</b><br>15 januari 1998 i Lichtenfels, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort3.jpg", extra: "Mittfältare - FC Augsburg" },
+      { number: 4, title: "Rafał Gikiewicz", desc: "<b>Rafał Tadeusz Gikiewicz</b><br>26 oktober 1987 i Olsztyn, Polen", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort4.jpg", extra: "Målvakt - FC Augsburg" },
       { number: 13, title: "Jurgen Ekkelenkamp", desc: "<b>Jurgen Ekkelenkamp</b><br>5 april 2000 i Zeist, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort13.jpg", extra: "Mittfältare - Hertha Berlin" },
       { number: 14, title: "Niklas Stark", desc: "<b>Niklas Stark</b><br>14 april 1995 i Neustadt an der Aisch, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort14.jpg", extra: "Försvarare - Hertha Berlin" },
       { number: 15, title: "Kevin-Prince Boateng", desc: "<b>Kevin-Prince Boateng</b><br>6 mars 1987 i Berlin, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort15.jpg", extra: "Mittfältare - Hertha Berlin" },
@@ -1291,6 +1293,7 @@ const data = {
     ]
   }
 };
+
 
 
 
