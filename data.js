@@ -1107,7 +1107,16 @@ const data = {
       { number: 127, title: "Lost In Space", desc: "1965-1968 (18,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0127.jpg", extra: "Säsonger: 3 - Avsnitt: 83" },
       { number: 128, title: "Boss", desc: "2011-2012 (3,60 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0128.jpg", extra: "Säsonger: 2 - Avsnitt: 18" },
       { number: 129, title: "Spin City", desc: "1996-2002 (14,8 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0129.jpg", extra: "Säsonger: 6 - Avsnitt: 145" },
-      { number: 130, title: "Mike Hammer", desc: "1984-1989 (13 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0130.jpg", extra: "Säsonger: 3 - Avsnitt: 46" }
+      { number: 130, title: "Mike Hammer", desc: "1984-1989 (13 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0130.jpg", extra: "Säsonger: 3 - Avsnitt: 46" },
+      { number: 131, title: "Weird Science", desc: "1994-1998 (8,11 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0131.jpg", extra: "Säsonger: 5 - Avsnitt: 88" },
+      { number: 132, title: "Once Upon A Time", desc: "2011-2018 (29,4 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0132.jpg", extra: "Säsonger: 7 - Avsnitt: 156" },
+      { number: 133, title: "Seinfeld", desc: "1989-1998 (22,4 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0133.jpg", extra: "Säsonger: 9 - Avsnitt: 180" },
+      { number: 134, title: "Two And A Half Men", desc: "2003-2015 (28,9 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0134.jpg", extra: "Säsonger: 12 - Avsnitt: 261" },
+      { number: 135, title: "Project Blue Book", desc: "2019-2020 (2,51 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0135.jpg", extra: "Säsonger: 2 - Avsnitt: 20" },
+      { number: 136, title: "Lace", desc: "1984-1985 (2,14 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0136.jpg", extra: "Säsonger: 2 - Avsnitt: 4" },
+      { number: 137, title: "Young Hercules", desc: "1998-1999 (7,72 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0137.jpg", extra: "Säsonger: 1 - Avsnitt: 50" },
+      { number: 138, title: "The Stand", desc: "1994 (1,86 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0138.jpg", extra: "Säsonger: 1 - Avsnitt: 4" },
+      { number: 139, title: "Shogun", desc: "1980 (3,17 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0139.jpg", extra: "Säsonger: 1 - Avsnitt: 5" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1318,6 +1327,7 @@ const data = {
     ]
   }
 };
+
 
 
 
