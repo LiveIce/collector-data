@@ -1102,6 +1102,12 @@ const data = {
       { number: 122, title: "Relic Hunter", desc: "1999-2002 (11,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0122.jpg", extra: "Säsonger: 3 - Avsnitt: 66" },
       { number: 123, title: "Murder City", desc: "2004-2006 (3,44 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0123.jpg", extra: "Säsonger: 2 - Avsnitt: 10" },
       { number: 124, title: "The Last Man On Earth", desc: "2015-2018 (4,79 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0124.jpg", extra: "Säsonger: 4 - Avsnitt: 67" },
+      { number: 125, title: "Rizzoli And Isles", desc: "2010-2016 (19,2 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0125.jpg", extra: "Säsonger: 7 - Avsnitt: 105" },
+      { number: 126, title: "V", desc: "1983-1985 (7,78 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0126.jpg", extra: "Säsonger: 3 - Avsnitt: 24" },
+      { number: 127, title: "Lost In Space", desc: "1965-1968 (18,6 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0127.jpg", extra: "Säsonger: 3 - Avsnitt: 83" },
+      { number: 128, title: "Boss", desc: "2011-2012 (3,60 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0128.jpg", extra: "Säsonger: 2 - Avsnitt: 18" },
+      { number: 129, title: "Spin City", desc: "1996-2002 (14,8 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0129.jpg", extra: "Säsonger: 6 - Avsnitt: 145" },
+      { number: 130, title: "Mike Hammer", desc: "1984-1989 (13 GB)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0130.jpg", extra: "Säsonger: 3 - Avsnitt: 46" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1312,6 +1318,7 @@ const data = {
     ]
   }
 };
+
 
 
 
