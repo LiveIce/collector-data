@@ -1225,7 +1225,17 @@ const data = {
       { number: 77, title: "Ventures", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00077.jpg", extra: "<b>More Golden Greats</b> - 1970" },
       { number: 78, title: "Burt Bacharach", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00078.jpg", extra: "<b>Butch Cassidy And The Sundance Kid</b> - 1969" },
       { number: 79, title: "Geordie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00079.jpg", extra: "<b>Don't Be Fooled By The Name</b> - 1974" },
-      { number: 80, title: "Doris Day", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00080.jpg", extra: "<b>Day In Hollywood</b> - 1955" }
+      { number: 80, title: "Doris Day", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00080.jpg", extra: "<b>Day In Hollywood</b> - 1955" },
+      { number: 81, title: "Wishbone Ash", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00081.jpg", extra: "<b>Live Dates</b> - 1973" },
+      { number: 82, title: "Hoola Bandoola Band", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00082.jpg", extra: "<b>Garanterat Individuell (blå)</b> - 1971" },
+      { number: 83, title: "Hugo Montenegro", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00083.jpg", extra: "<b>Hang 'em High</b> - 1968" },
+      { number: 84, title: "Blue Mink", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00084.jpg", extra: "<b>Melting Pot</b> - 1969" },
+      { number: 85, title: "Rock'n Roll Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00085.jpg", extra: "<b>1</b> - 1970" },
+      { number: 86, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00086.jpg", extra: "<b>Shades Of Deep Purple</b> - 1968" },
+      { number: 87, title: "Gilbert O'Sullivan", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00087.jpg", extra: "<b>Himself</b> - 1971" },
+      { number: 88, title: "Cliff Richard And The Shadows", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00088.jpg", extra: "<b>Me And My Shadows</b> - 1960" },
+      { number: 89, title: "Jerry Williams And Dynamite Brass", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00089.jpg", extra: "<b>Dr Williams And Mr Dynamite</b> - 1969" },
+      { number: 90, title: "Santana", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00090.jpg", extra: "<b>Santana</b> - 1969" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1395,6 +1405,7 @@ const data = {
     ]
   }
 };
+
 
 
 
