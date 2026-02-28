@@ -1299,7 +1299,32 @@ const data = {
       { number: 147, title: "Neil Merryweather", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00147.jpg", extra: "<b>Kryptonite</b> - 1975" },
       { number: 148, title: "ZZ Top", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00148.jpg", extra: "<b>Fandango</b> - 1975" },
       { number: 149, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00149.jpg", extra: "<b>Blue For You</b> - 1976" },
-      { number: 150, title: "Jimi Hendrix", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00150.jpg", extra: "<b>Band Of Gypsys</b> - 1970" }
+      { number: 150, title: "Jimi Hendrix", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00150.jpg", extra: "<b>Band Of Gypsys</b> - 1970" },
+      { number: 151, title: "Jimi Hendrix", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00151.jpg", extra: "<b>The Eternal Fire Of Jimi Hendrix</b> - 1972" },
+      { number: 152, title: "Jimi Hendrix", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00152.jpg", extra: "<b>The Cream Of Jimi</b> - 1971" },
+      { number: 153, title: "Jimi Hendrix", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00153.jpg", extra: "<b>Early Jimi Hendrix</b> - 1970" },
+      { number: 154, title: "Rainbow", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00154.jpg", extra: "<b>Ritchie Blackmore's Rainbow</b> - 1975" },
+      { number: 155, title: "Jule Styne", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00155.jpg", extra: "<b>Darling Of The Day</b> - 1968" },
+      { number: 156, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00156.jpg", extra: "<b>Close Enough For Rock 'n' Roll</b> - 1976" },
+      { number: 157, title: "Roger Moon", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00157.jpg", extra: "<b>Nobody Knows My Name</b> - 1975" },
+      { number: 158, title: "Uriah Heep", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00158.jpg", extra: "<b>Demons And Wizards</b> - 1972" },
+      { number: 159, title: "Alice Cooper", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00159.jpg", extra: "<b>Easy Action</b> - 1970" },
+      { number: 160, title: "Rare Earth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00160.jpg", extra: "<b>One World</b> - 1971" },
+      { number: 161, title: "Redbone", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00161.jpg", extra: "<b>The Witch Queen Of New Orleans</b> - 1971" },
+      { number: 162, title: "Uriah Heep", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00162.jpg", extra: "<b>Salisbury</b> - 1971" },
+      { number: 163, title: "Sir Lord Baltimore", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00163.jpg", extra: "<b>Kingdom Come</b> - 1970" },
+      { number: 164, title: "Stampeders", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00164.jpg", extra: "<b>Hit The Road</b> - 1976" },
+      { number: 165, title: "Guru Guru", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00165.jpg", extra: "<b>Don't Call Us We Call You</b> - 1973" },
+      { number: 166, title: "Cecil Holmes Soulful Sounds", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00166.jpg", extra: "<b>The Black Motion Picture Experience</b> - 1973" },
+      { number: 167, title: "Isaac Hayes", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00167.jpg", extra: "<b>Tough Guys</b> - 1974" },
+      { number: 168, title: "Impressions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00168.jpg", extra: "<b>Three The Hard Way</b> - 1974" },
+      { number: 169, title: "Ian Lloyd And Stories", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00169.jpg", extra: "<b>Traveling Underground</b> - 1973" },
+      { number: 170, title: "Dennis Coffey", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00170.jpg", extra: "<b>Goin' For Myself</b> - 1972" },
+      { number: 171, title: "Dennis Coffey And The Detroit Guitar Band", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00171.jpg", extra: "<b>Evolution</b> - 1971" },
+      { number: 172, title: "Dennis Coffey And The Detroit Guitar Band", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00172.jpg", extra: "<b>Electric Coffey</b> - 1972" },
+      { number: 173, title: "Mahavishnu Orchestra", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00173.jpg", extra: "<b>Inner Worlds</b> - 1976" },
+      { number: 174, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00174.jpg", extra: "<b>If I Were Brittania I'd Waive The Rules</b> - 1976" },
+      { number: 175, title: "Tucky Buzzard", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00175.jpg", extra: "<b>Allright On The Night</b> - 1973" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1505,6 +1530,7 @@ const data = {
     ]
   }
 };
+
 
 
 
