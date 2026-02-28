@@ -1255,7 +1255,17 @@ const data = {
       { number: 107, title: "Harry Belafonte", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00107.jpg", extra: "<b>Excerpts From The Belafonte Carnegie Hall Concert</b> - 1959" },
       { number: 108, title: "Elvis Presley", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00108.jpg", extra: "<b>From memphis To Vegas From Vegas To Memphis</b> - 1969" },
       { number: 109, title: "Strings For Pleasure", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00109.jpg", extra: "<b>Play Simon And Garfunkel</b> - 1970" },
-      { number: 110, title: "Rodgers And Hammerstein", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00110.jpg", extra: "<b>The Sound Of Music</b> - 1965" }
+      { number: 110, title: "Rodgers And Hammerstein", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00110.jpg", extra: "<b>The Sound Of Music</b> - 1965" },
+      { number: 111, title: "Hollies", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00111.jpg", extra: "<b>The Hollies</b> - 1966" },
+      { number: 112, title: "Automatic Blues Inc", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00112.jpg", extra: "<b>Rock 'n' Blues</b> - 1970" },
+      { number: 113, title: "Mothers", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00113.jpg", extra: "<b>Mothermania The Best Of The Mothers</b> - 1969" },
+      { number: 114, title: "Music Power", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00114.jpg", extra: "<b>Music Power</b> - 1974" },
+      { number: 115, title: "20 Smash Hits Of '73", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00115.jpg", extra: "<b>20 Smash Hits Of '73</b> - 1973" },
+      { number: 116, title: "Dynamite Hits", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00116.jpg", extra: "<b>Dynamite Hits</b> - 1974" },
+      { number: 117, title: "As Advertised On TV", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00117.jpg", extra: "<b>20 Original Chart Hits</b> - 1972" },
+      { number: 118, title: "England's Top Pops", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00118.jpg", extra: "<b>England's Top Pops</b> - ????" },
+      { number: 119, title: "England's Top Pops", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00119.jpg", extra: "<b>England's Top Pops</b> - ????" },
+      { number: 120, title: "Vinegar Joe", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00120.jpg", extra: "<b>Rock'n Roll Gypsies</b> - 1973" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1425,6 +1435,7 @@ const data = {
     ]
   }
 };
+
 
 
 
