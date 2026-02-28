@@ -396,7 +396,7 @@ const data = {
     ],
   },
   "Fotboll": {
-    "EURO 2024 ⭐": [
+    "EURO 2024 💎": [
       { number: 1, title: "John McGinn", desc: "<b>John McGinn</b><br>18 oktober 1994 i Glasgow, Storbritannien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort1.jpg", extra: "Mittfältare - Aston Villa" },
       { number: 2, title: "João Félix", desc: "<b>João Félix Sequeira</b><br>10 november 1999 i Viseu, Portugal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort2.jpg", extra: "Mittfältare - Al-Nassr" },
       { number: 3, title: "Romelu Lukaku", desc: "<b>Romelu Lukaku Bolingoli</b><br>13 maj 1993 i Antwerpen, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort3.jpg", extra: "Anfallare - Napoli" },
@@ -473,7 +473,7 @@ const data = {
       { number: 333, title: "Gabriel Jesus", desc: "<b>Gabriel Fernando de Jesus</b><br>3 april 1997 i São Paulo, São Paulo, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort333.jpg", extra: "Anfallare - Brasil" },
       { number: 343, title: "David Ospina", desc: "<b>David Ospina Ramírez</b><br>31 augusti 1988 i Itagüí, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort343.jpg", extra: "Målvakt - Colombia" }
     ],
-    "FIFA365 2019 ⭐": [
+    "FIFA365 2019 💎": [
       { number: 16, title: "Ederson", desc: "<b>Ederson Santana de Moraes</b><br>17 augusti 1993 i Osasco, São Paulo, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort16.jpg", extra: "Målvakt - Manchester City" },
       { number: 17, title: "Kyle Walker", desc: "<b>Kyle Andrew Walker</b><br>28 maj 1990 i Sheffield, Storbritannien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort17.jpg", extra: "Försvarare - Manchester City" },
       { number: 18, title: "Nicolás Otamendi", desc: "<b>Nicolás Hernán Gonzalo Otamendi</b><br>12 februari 1988 i Talar, Argentina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort18.jpg", extra: "Försvarare - Manchester City" },
@@ -1401,10 +1401,21 @@ const data = {
       { number: 127, title: "Searchers", desc: "Goodbye My Love<br>Till I Met You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00127.JPG", extra: "1964" },
       { number: 128, title: "Tom Jones", desc: "Without Love<br>A Man Who Knows Too Much", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00128.JPG", extra: "1969" },
       { number: 129, title: "Tom Jones", desc: "Thunderball<br>Key To My Heart<br>Doctor Love<br>True Love Comes Only Once In A Lifetime", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00129.JPG", extra: "1965" },
-      { number: 130, title: "Streaplers", desc: "Mule Skinner Blues<br>Handy Man", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00130.JPG", extra: "1964" }
+      { number: 130, title: "Streaplers", desc: "Mule Skinner Blues<br>Handy Man", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00130.JPG", extra: "1964" },
+      { number: 131, title: "Rattles", desc: "La La La<br>There Goes My Heart Again", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00131.JPG", extra: "1965" },
+      { number: 132, title: "Rocky Roberts And The Airedales", desc: "Buzz Buzz Buzz<br>Paper Rose", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00132.JPG", extra: "1966" },
+      { number: 133, title: "CCS", desc: "Brother<br>Mister What You Can't Have I Can Get", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00133.JPG", extra: "1972" },
+      { number: 134, title: "Cliff Richard", desc: "Big Ship<br>She's Leaving You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00134.jpg", extra: "1969" },
+      { number: 135, title: "Equals", desc: "I Wan't Be There<br>Fire<br>Baby Come Back<br>Hold Me Closer", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00135.JPG", extra: "1968" },
+      { number: 136, title: "Jimmie Rodgers", desc: "The Long Hot Summer<br>Woman From Liberia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00136.JPG", extra: "1968" },
+      { number: 137, title: "Rolling Stones", desc: "She's A Rainbow<br>2000 Light Years From Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00137.JPG", extra: "1967" },
+      { number: 138, title: "Turtles", desc: "Elenore<br>Surfer Dan", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00138.JPG", extra: "1968" },
+      { number: 139, title: "San Remo 68", desc: "SERGIO ENDRIGO - Canzone Per Te<br>YOKO KISHI - Stanotte Sentirai Una Canzone<br>GIANNI PETTENATI - La Tramontana<br>MARISA SANNIA - Casa Bianca", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00139.JPG", extra: "1968" },
+      { number: 140, title: "Wilma Goich", desc: "Gli Occhi Miei<br>La Tua Citta'", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00140.JPG", extra: "1968" }
     ]
   }
 };
+
 
 
 
