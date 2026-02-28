@@ -738,6 +738,10 @@ const data = {
       { number: 141, title: "Anduin Wrynn", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort141b.jpg", extra: "Baksida" },
       { number: 151, title: "Tychus Findlay", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort151a.jpg", extra: "Framsida" },
       { number: 151, title: "Tychus Findlay", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort151b.jpg", extra: "Baksida" },
+      { number: 152, title: "Abathur", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort152a.jpg", extra: "Framsida" },
+      { number: 152, title: "Abathur", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort152b.jpg", extra: "Baksida" },
+      { number: 158, title: "Greymane", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort158a.jpg", extra: "Framsida" },
+      { number: 158, title: "Greymane", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort158b.jpg", extra: "Baksida" },
       { number: 170, title: "Ana", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort170a.jpg", extra: "Framsida" },
       { number: 170, title: "Ana", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort170b.jpg", extra: "Baksida" },
       { number: 175, title: "D.Va", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort175a.jpg", extra: "Framsida" },
@@ -1435,6 +1439,7 @@ const data = {
     ]
   }
 };
+
 
 
 
