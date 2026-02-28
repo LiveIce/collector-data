@@ -1411,10 +1411,21 @@ const data = {
       { number: 137, title: "Rolling Stones", desc: "She's A Rainbow<br>2000 Light Years From Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00137.JPG", extra: "1967" },
       { number: 138, title: "Turtles", desc: "Elenore<br>Surfer Dan", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00138.JPG", extra: "1968" },
       { number: 139, title: "San Remo 68", desc: "SERGIO ENDRIGO - Canzone Per Te<br>YOKO KISHI - Stanotte Sentirai Una Canzone<br>GIANNI PETTENATI - La Tramontana<br>MARISA SANNIA - Casa Bianca", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00139.JPG", extra: "1968" },
-      { number: 140, title: "Wilma Goich", desc: "Gli Occhi Miei<br>La Tua Citta'", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00140.JPG", extra: "1968" }
+      { number: 140, title: "Wilma Goich", desc: "Gli Occhi Miei<br>La Tua Citta'", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00140.JPG", extra: "1968" },
+      { number: 141, title: "Ohio Express", desc: "Yummy Yummy Yummy<br>Zig Zag", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00141.JPG", extra: "1968" },
+      { number: 142, title: "Guess Who", desc: "Hand Me Down World<br>Runnin' Down The Street", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00142.JPG", extra: "1970" },
+      { number: 143, title: "Ferrante And Teicher", desc: "Midnight Cowboy Asphalt Cowboy<br>Endstation Miami (Popi)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00143.JPG", extra: "1969" },
+      { number: 144, title: "Frank Sinatra", desc: "Strangers In The Night<br>NANCY SINATRA - Somethin' Stupid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00144.JPG", extra: "1967" },
+      { number: 145, title: "Elvis Presley", desc: "Rip It Up<br>Love Me<br>When My Blue Moon Turns To Gold Again<br>Paralyzed", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00145.JPG", extra: "1956" },
+      { number: 146, title: "Edwin Hawkins Singers", desc: "Oh Happy Day<br>Jesus Lover Of My Soul", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00146.JPG", extra: "1969" },
+      { number: 147, title: "Elvis Presley", desc: "US Male<br>Stay Away", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00147.JPG", extra: "1968" },
+      { number: 148, title: "Mary Hopkin", desc: "Those Were The Days<br>Turn Turn Turn", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00148.JPG", extra: "1968" },
+      { number: 149, title: "Wayne Fontana And The Mindbenders", desc: "Game Of Love<br>Since You Been Gone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00149.JPG", extra: "1965" },
+      { number: 150, title: "Johnny Hallyday", desc: "I Got A Woman<br>Be Bop A Lula<br>Maybellene<br>Blueberry Hill", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00150.JPG", extra: "1965" }
     ]
   }
 };
+
 
 
 
