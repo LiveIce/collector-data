@@ -1279,7 +1279,27 @@ const data = {
       { number: 127, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00127.jpg", extra: "<b>The Book Of Taliesyn</b> - 1969" },
       { number: 128, title: "Ted Nugent", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00128.jpg", extra: "<b>Ted Nugent</b> - 1975" },
       { number: 129, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00129.jpg", extra: "<b>Paranoid</b> - 1970" },
-      { number: 130, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00130.jpg", extra: "<b>Golden Hour Of Status Quo</b> - 1973" }
+      { number: 130, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00130.jpg", extra: "<b>Golden Hour Of Status Quo</b> - 1973" },
+      { number: 131, title: "King Crimson", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00131.jpg", extra: "<b>USA</b> - 1975" },
+      { number: 132, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00132.jpg", extra: "<b>Who Do We Think We Are</b> - 1973" },
+      { number: 133, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00133.jpg", extra: "<b>Sabbath Bloody Sabbath</b> - 1973" },
+      { number: 134, title: "Guru Guru", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00134.jpg", extra: "<b>Känguru</b> - 1972" },
+      { number: 135, title: "Wallenstein", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00135.jpg", extra: "<b>Blitzkrieg</b> - 1972" },
+      { number: 136, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00136.jpg", extra: "<b>Come Taste The Band</b> - 1975" },
+      { number: 137, title: "Graeme Edge Band", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00137.jpg", extra: "<b>Kick Off Your Muddy Boots</b> - 1975" },
+      { number: 138, title: "Titanic", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00138.jpg", extra: "<b>Titanic</b> - 1970" },
+      { number: 139, title: "Amon Düül II", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00139.jpg", extra: "<b>Vive La Trance</b> - 1973" },
+      { number: 140, title: "Ten Years After", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00140.jpg", extra: "<b>Watt</b> - 1970" },
+      { number: 141, title: "Omega", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00141.jpg", extra: "<b>Omega 5</b> - 1973" },
+      { number: 142, title: "Jo Jo Gunne", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00142.jpg", extra: "<b>Jo Jo Gunne</b> - 1972" },
+      { number: 143, title: "Geordie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00143.jpg", extra: "<b>Hope You Like It</b> - 1973" },
+      { number: 144, title: "J D Blackfoot", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00144.jpg", extra: "<b>Southbound And Gone</b> - 1975" },
+      { number: 145, title: "Sweet", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00145.jpg", extra: "<b>Give Us A Wink</b> - 1976" },
+      { number: 146, title: "Genesis", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00146.jpg", extra: "<b>Foxtrot</b> - 1972" },
+      { number: 147, title: "Neil Merryweather", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00147.jpg", extra: "<b>Kryptonite</b> - 1975" },
+      { number: 148, title: "ZZ Top", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00148.jpg", extra: "<b>Fandango</b> - 1975" },
+      { number: 149, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00149.jpg", extra: "<b>Blue For You</b> - 1976" },
+      { number: 150, title: "Jimi Hendrix", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00150.jpg", extra: "<b>Band Of Gypsys</b> - 1970" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1485,6 +1505,7 @@ const data = {
     ]
   }
 };
+
 
 
 
