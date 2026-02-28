@@ -1245,7 +1245,17 @@ const data = {
       { number: 97, title: "Santana", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00097.jpg", extra: "<b>Abraxas</b> - 1970" },
       { number: 98, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00098.jpg", extra: "<b>Bayou Country</b> - 1969" },
       { number: 99, title: "Tom Jones", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00099.jpg", extra: "<b>This Is Tom Jones</b> - 1969" },
-      { number: 100, title: "Elvis Presley", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00100.jpg", extra: "<b>Let's Be Friends</b> - 1970" }
+      { number: 100, title: "Elvis Presley", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00100.jpg", extra: "<b>Let's Be Friends</b> - 1970" },
+      { number: 101, title: "Shadows", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00101.jpg", extra: "<b>The Shadow's Greatest Hits</b> - 1967" },
+      { number: 102, title: "Harry Belafonte", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00102.jpg", extra: "<b>Jump Up Calypso</b> - 1961" },
+      { number: 103, title: "Shadows", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00103.jpg", extra: "<b>The Shadows</b> - 1970" },
+      { number: 104, title: "Hits From The Sixties", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00104.jpg", extra: "<b>I</b> - ????" },
+      { number: 105, title: "Tribes", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00105.jpg", extra: "<b>Sounds Of The Woodstock Age Volume 2</b> - 1971" },
+      { number: 106, title: "Rock 'n' Roll Non Stop", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00106.jpg", extra: "<b>Hits Of The World</b> - ????" },
+      { number: 107, title: "Harry Belafonte", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00107.jpg", extra: "<b>Excerpts From The Belafonte Carnegie Hall Concert</b> - 1959" },
+      { number: 108, title: "Elvis Presley", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00108.jpg", extra: "<b>From memphis To Vegas From Vegas To Memphis</b> - 1969" },
+      { number: 109, title: "Strings For Pleasure", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00109.jpg", extra: "<b>Play Simon And Garfunkel</b> - 1970" },
+      { number: 110, title: "Rodgers And Hammerstein", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00110.jpg", extra: "<b>The Sound Of Music</b> - 1965" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1415,6 +1425,7 @@ const data = {
     ]
   }
 };
+
 
 
 
