@@ -1421,10 +1421,21 @@ const data = {
       { number: 147, title: "Elvis Presley", desc: "US Male<br>Stay Away", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00147.JPG", extra: "1968" },
       { number: 148, title: "Mary Hopkin", desc: "Those Were The Days<br>Turn Turn Turn", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00148.JPG", extra: "1968" },
       { number: 149, title: "Wayne Fontana And The Mindbenders", desc: "Game Of Love<br>Since You Been Gone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00149.JPG", extra: "1965" },
-      { number: 150, title: "Johnny Hallyday", desc: "I Got A Woman<br>Be Bop A Lula<br>Maybellene<br>Blueberry Hill", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00150.JPG", extra: "1965" }
+      { number: 150, title: "Johnny Hallyday", desc: "I Got A Woman<br>Be Bop A Lula<br>Maybellene<br>Blueberry Hill", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00150.JPG", extra: "1965" },
+      { number: 151, title: "Lutz Albrecht", desc: "Colonel Bogey<br>Ponocni Bluz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00151.JPG", extra: "1968" },
+      { number: 152, title: "Rolling Stones", desc: "Jumpin' Jack Flash<br>Child Of The Moon", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00152.JPG", extra: "1968" },
+      { number: 153, title: "Engelbert Humperdinck", desc: "Les Bicyclettes De Belsize<br>Three Little Words", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00153.JPG", extra: "1968" },
+      { number: 154, title: "Engelbert Humperdinck", desc: "The Way It Used To Be<br>A Good Thing Going", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00154.JPG", extra: "1969" },
+      { number: 155, title: "Manfred Mann", desc: "Mighty Quinn<br>By Request Edwin Garvey", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00155.JPG", extra: "1968" },
+      { number: 156, title: "Milva", desc: "Cuando Sali De Cuba<br>M'ama Non M'ama", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00156.JPG", extra: "1968" },
+      { number: 157, title: "Motowns", desc: "Sagamafina<br>Mister Jones", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00157.JPG", extra: "1967" },
+      { number: 158, title: "Maurice Jarre", desc: "Lara's Theme<br>Man Title From Dr Schiwago", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00158.JPG", extra: "1966" },
+      { number: 159, title: "Moody Blues", desc: "I'll Go Crazy<br>Let Me Go", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00159.JPG", extra: "1965" },
+      { number: 160, title: "Merle Haggard", desc: "The Legend Of Bonnie And Clyde<br>I Started Loving You Again", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00160.JPG", extra: "1968" }
     ]
   }
 };
+
 
 
 
