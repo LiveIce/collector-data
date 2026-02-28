@@ -1235,7 +1235,17 @@ const data = {
       { number: 87, title: "Gilbert O'Sullivan", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00087.jpg", extra: "<b>Himself</b> - 1971" },
       { number: 88, title: "Cliff Richard And The Shadows", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00088.jpg", extra: "<b>Me And My Shadows</b> - 1960" },
       { number: 89, title: "Jerry Williams And Dynamite Brass", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00089.jpg", extra: "<b>Dr Williams And Mr Dynamite</b> - 1969" },
-      { number: 90, title: "Santana", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00090.jpg", extra: "<b>Santana</b> - 1969" }
+      { number: 90, title: "Santana", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00090.jpg", extra: "<b>Santana</b> - 1969" },
+      { number: 91, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00091.jpg", extra: "<b>Willy And The Poor Boys</b> - 1969" },
+      { number: 92, title: "Tom Jones", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00092.jpg", extra: "<b>Tom</b> - 1970" },
+      { number: 93, title: "CCS", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00093.jpg", extra: "<b>The Best Band In The Land</b> - 1973" },
+      { number: 94, title: "Nancy Sinatra And Lee Hazlewood", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00094.jpg", extra: "<b>Nancy And Lee</b> - 1968" },
+      { number: 95, title: "Les Humphries Singers", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00095.jpg", extra: "<b>Sound '73 II</b> - 1973" },
+      { number: 96, title: "Ventures", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00096.jpg", extra: "<b>The Ventures</b> - 1971" },
+      { number: 97, title: "Santana", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00097.jpg", extra: "<b>Abraxas</b> - 1970" },
+      { number: 98, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00098.jpg", extra: "<b>Bayou Country</b> - 1969" },
+      { number: 99, title: "Tom Jones", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00099.jpg", extra: "<b>This Is Tom Jones</b> - 1969" },
+      { number: 100, title: "Elvis Presley", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00100.jpg", extra: "<b>Let's Be Friends</b> - 1970" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
@@ -1405,6 +1415,7 @@ const data = {
     ]
   }
 };
+
 
 
 
