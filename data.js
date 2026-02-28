@@ -1441,10 +1441,41 @@ const data = {
       { number: 167, title: "Elvis Presley", desc: "Kentucky Rain<br>My Little Friend", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00167.JPG", extra: "1970" },
       { number: 168, title: "Elvis Presley", desc: "Follow That Dream<br>Angel<br>What A Wonderful Life<br>I'm Not The Marrying Kind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00168.JPG", extra: "1968" },
       { number: 169, title: "Elvis Presley", desc: "Torna A Surriento<br>Lonely Man", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00169.JPG", extra: "1961" },
-      { number: 170, title: "Elvis Presley", desc: "Santa Claus Is Back In Town<br>Here Comes Santa Claus<br>White Christmas<br>I'll Be Home For Christmas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00170.JPG", extra: "1958" }
+      { number: 170, title: "Elvis Presley", desc: "Santa Claus Is Back In Town<br>Here Comes Santa Claus<br>White Christmas<br>I'll Be Home For Christmas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00170.JPG", extra: "1958" },
+      { number: 171, title: "Elvis Presley", desc: "In The Ghetto<br>Any Day Now", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00171.JPG", extra: "1969" },
+      { number: 172, title: "Gigliola Cinquetti", desc: "La Rosa Nera<br>Ho Il Cuore Tenero", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00172.JPG", extra: "1967" },
+      { number: 173, title: "Amen Corner", desc: "Bend Me Shape Me<br>Satisnek The Job's Worth", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00173.JPG", extra: "1968" },
+      { number: 174, title: "Antoine", desc: "Die Blonden Mädchen<br>Nademoiselle Canelle", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00174.JPG", extra: "1968" },
+      { number: 175, title: "Casey Jones And The Governors", desc: "Candy Man<br>Tallahassee Lassie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00175.JPG", extra: "1965" },
+      { number: 176, title: "Dave Clark Five", desc: "The Red Balloon<br>Maze Of Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00176.JPG", extra: "1968" },
+      { number: 177, title: "Dean Martin", desc: "Come On Down<br>Down Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00177.JPG", extra: "1970" },
+      { number: 178, title: "Herman's Hermits", desc: "There's A Kind Of Hush<br>Gaslight Street<br>East West<br>What Is Wrong What Is Right", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00178.JPG", extra: "1967" },
+      { number: 179, title: "Dean Martin", desc: "I Take A Lot Of Pride In What I Am<br>Drowning In My Tears", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00179.JPG", extra: "1969" },
+      { number: 180, title: "German Bonds", desc: "Besser Geht's Mit Coca Cola<br>Rum Und Coca Cola", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00180.JPG", extra: "1968" },
+      { number: 181, title: "Connie Francis", desc: "Stupid Cupid<br>Carolina Moon", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00181.JPG", extra: "1958" },
+      { number: 182, title: "Claudio Villa", desc: "Il Tuo Mondo<br>Isadora", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00182.JPG", extra: "1969" },
+      { number: 183, title: "Cliff Richard And The Shadows", desc: "Lessons In Love<br>First Lesson In Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00183.JPG", extra: "1962" },
+      { number: 184, title: "Doors", desc: "Hello I Love You Won't You Tell Me Your Name<br>Love Street", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00184.JPG", extra: "1968" },
+      { number: 185, title: "Nicoletta", desc: "Mamy Blue<br>Visage", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00185.JPG", extra: "1971" },
+      { number: 186, title: "Engelbert Humperdinck", desc: "A Man Without Love<br>Call On Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00186.JPG", extra: "1968" },
+      { number: 187, title: "Beach Boys", desc: "Help Me Rhonda<br>California Girls<br>The Little Girl I Once Knew<br>Barbara Ann", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00187.JPG", extra: "1965" },
+      { number: 188, title: "Bedrocks", desc: "Ob La Di Ob La Da<br>Lucy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00188.JPG", extra: "1969" },
+      { number: 189, title: "Bee Gees", desc: "Massachusetts<br>Barker Of The UFO", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00189.JPG", extra: "1967" },
+      { number: 190, title: "Box Tops", desc: "Cry Like A Baby<br>The Door You Closed To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00190.JPG", extra: "1968" },
+      { number: 191, title: "Charlie Chaplin", desc: "Rampljus<br>The Animal Trainer<br>The Sardine Song<br>Smile<br>Chaplin's Manschettvisa", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00191.JPG", extra: "1957" },
+      { number: 192, title: "Tom Jones", desc: "Daughter Of Darkness<br>Tupelo Mississippi Flash", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00192.JPG", extra: "1970" },
+      { number: 193, title: "Bobby Angelo And The Tuxedos", desc: "Baby Sittin'<br>Skinny Lizzie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00193.JPG", extra: "1962" },
+      { number: 194, title: "Box Tops", desc: "I Met Her In Church<br>People Gonna Talk", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00194.JPG", extra: "1968" },
+      { number: 195, title: "Ennio Morricone", desc: "Fur Eine Handvoll Dollar<br>Vorspann Musik", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00195.JPG", extra: "1965" },
+      { number: 196, title: "Peter Holm", desc: "Monja<br>Stanna Kvar Här Hos Mej", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00196.JPG", extra: "1969" },
+      { number: 197, title: "Archies", desc: "Jingle Jangle<br>Justine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00197.JPG", extra: "1970" },
+      { number: 198, title: "Hugo Montenegro", desc: "The Good The Bad And The Ugly<br>March With Hope", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00198.JPG", extra: "1968" },
+      { number: 199, title: "Wilma Goich", desc: "Attenti All' Amore<br>Buon Viaggio Amore<br>L'uomo Di Ieri<br>Dopo Il Sole Piovera", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00199.JPG", extra: "1967" },
+      { number: 200, title: "Scaffold", desc: "Lily The Pink<br>Buttons Of Your Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00200.JPG", extra: "1968" }
     ]
   }
 };
+
 
 
 
