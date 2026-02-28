@@ -1396,7 +1396,7 @@ const data = {
       { number: 122, title: "Tom Jones", desc: "I (Who Have Nothing)<br>Stop Breaking My Heart", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00122.JPG", extra: "1970" },
       { number: 123, title: "Hep Stars", desc: "Sagan Om Lilla Sofi<br>Det Finns En Stad", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00123.JPG", extra: "1968" },
       { number: 124, title: "Elvis Presley", desc: "I've Lost You<br>The Next Step Is Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00124.JPG", extra: "1970" },
-      { number: 125, title: "Elvis Presley", desc: "Kiss Me Quick<br>Night Rider<br>Joshua Fit The Battle<br>Judy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00125.JPG", extra: "1962" },
+      { number: 125, title: "Elvis Presley", desc: "Kiss Me Quick<br>Night Rider<br>Joshua Fit The Battle<br>Judy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00125.jpg", extra: "1962" },
       { number: 126, title: "Nancy Sinatra / Dean Martin", desc: "NANCY SINATRA - Up Up And Away<br>DEAN MARTIN - Things", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00126.JPG", extra: "1968" },
       { number: 127, title: "Searchers", desc: "Goodbye My Love<br>Till I Met You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00127.JPG", extra: "1964" },
       { number: 128, title: "Tom Jones", desc: "Without Love<br>A Man Who Knows Too Much", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00128.JPG", extra: "1969" },
@@ -1405,6 +1405,7 @@ const data = {
     ]
   }
 };
+
 
 
 
