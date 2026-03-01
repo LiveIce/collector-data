@@ -447,6 +447,8 @@ const data = {
       { number: 172, title: "Roman Bürki", desc: "<b>Roman Bürki</b><br>14 november 1990 i Münsingen, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort172.jpg", extra: "Målvakt - Borussia Dortmund" },
       { number: 175, title: "Sven Bender", desc: "<b>Sven Bender</b><br>27 april 1989 i Rosenheim, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort175.jpg", extra: "Mittfältare - Borussia Dortmund" },
       { number: 177, title: "Julian Weigl", desc: "<b>Julian Weigl</b><br>8 september 1995 i Bad Aibling, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort177.jpg", extra: "Mittfältare - Borussia Dortmund" },
+      { number: 178, title: "Gonzalo Castro", desc: "<b>Gonzalo Castro Randón</b><br>11 juni 1987 i Wuppertal, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort178.jpg", extra: "Mittfältare - Borussia Dortmund" },
+      { number: 179, title: "Marco Reus", desc: "<b>Marco Reus</b><br>31 maj 1989 i Dortmund, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort179.jpg", extra: "Mittfältare - Borussia Dortmund" },
       { number: 180, title: "Adrian Ramos", desc: "<b>Gustavo Adrián Ramos Vásquez</b><br>22 januari 1986 i Santander de Quilichao, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort180.jpg", extra: "Anfallare - Borussia Dortmund" },
       { number: 190, title: "Leonardo Bonucci", desc: "<b>Leonardo Bonucci</b><br>1 maj 1987 i Viterbo, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort190.jpg", extra: "Försvarare - Juventus" },
       { number: 191, title: "Andrea Barzagli", desc: "<b>Andrea Barzagli</b><br>8 maj 1981 i Fiesole, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort191.jpg", extra: "Försvarare - Juventus" },
@@ -1555,6 +1557,7 @@ const data = {
     ]
   }
 };
+
 
 
 
