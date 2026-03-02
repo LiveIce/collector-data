@@ -1653,10 +1653,36 @@ const data = {
       { number: 197, title: "Archies", desc: "Jingle Jangle<br>Justine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00197.JPG", extra: "1970" },
       { number: 198, title: "Hugo Montenegro", desc: "The Good The Bad And The Ugly<br>March With Hope", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00198.JPG", extra: "1968" },
       { number: 199, title: "Wilma Goich", desc: "Attenti All' Amore<br>Buon Viaggio Amore<br>L'uomo Di Ieri<br>Dopo Il Sole Piovera", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00199.JPG", extra: "1967" },
-      { number: 200, title: "Scaffold", desc: "Lily The Pink<br>Buttons Of Your Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00200.JPG", extra: "1968" }
+      { number: 200, title: "Scaffold", desc: "Lily The Pink<br>Buttons Of Your Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00200.JPG", extra: "1968" },
+      { number: 201, title: "Tom Jones", desc: "What's New Pussycat<br>The Rose", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00201.JPG", extra: "1968" },
+      { number: 202, title: "Tom Jones", desc: "Funny Familliar Forgotten Feeling<br>I'll Never Let You Go", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00202.JPG", extra: "1967" },
+      { number: 203, title: "Tom Jones", desc: "Delilah<br>Smile", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00203.JPG", extra: "1968" },
+      { number: 204, title: "Tom Jones", desc: "Green Green Grass Of Home<br>If I Had You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00204.JPG", extra: "1967" },
+      { number: 205, title: "Tom Jones", desc: "I'll Never Fall In Love Again<br>Things I Wanna Do", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00205.JPG", extra: "1967" },
+      { number: 206, title: "Tom Jones", desc: "I'm Coming Home<br>The Lonely One", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00206.JPG", extra: "1968" },
+      { number: 207, title: "Tom Jones", desc: "Day By Day<br>Help Yourself", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00207.JPG", extra: "1968" },
+      { number: 208, title: "Jane Swärd And The Swedish Four", desc: "Every Night<br>When A Boy (In Your Arms)<br>Hound Dog<br>Shimmy Shimmy Ko Ko Bop", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00208.JPG", extra: "1965" },
+      { number: 209, title: "Lars Berghagen", desc: "En Enkel Sång Om Frihet<br>Det Finaste På Jorden", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00209.JPG", extra: "1970" },
+      { number: 210, title: "Tommy Körberg", desc: "Som En bro Över Mörka Vatten<br>Ensam På Öde Scen", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00210.JPG", extra: "1970" },
+      { number: 211, title: "Mary Hopkin", desc: "Knock Knock Who's There<br>I'm Going To Fall In Love Again", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00211.JPG", extra: "1970" },
+      { number: 212, title: "Mary Hopkin", desc: "Temma Harbour<br>Lontano Dagli Occhi", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00212.JPG", extra: "1970" },
+      { number: 213, title: "Cliff Richard And The Shadows", desc: "Living Doll<br>Theme For A Dream<br>Move It<br>Travellin' Light", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00213.JPG", extra: "1967" },
+      { number: 214, title: "Cliff Richard And The Shadows", desc: "The Young Ones<br>Got A Funny Feeling<br>Lessons In Love<br>We Say Yeah", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00214.JPG", extra: "1962" },
+      { number: 215, title: "Beatles", desc: "Bad Boy<br>Norwegian Wood<br>I'm Looking Through You<br>In My Life", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00215.JPG", extra: "1966" },
+      { number: 216, title: "Beatles", desc: "All My Loving<br>I Saw Her Standing There", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00216.JPG", extra: "1964" },
+      { number: 217, title: "Jerry Williams", desc: "En Sång En Gång För Längesen<br>Ave Maria No Morro<br>Vinden Ger Svar<br>Inte En Skymt", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00217.JPG", extra: "1967" },
+      { number: 218, title: "Jerry Williams", desc: "Midnight Special<br>The Wanderer<br>Runaround Sue<br>Last Date", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00218.JPG", extra: "1965" },
+      { number: 219, title: "Joe Cocker", desc: "Cry Me A River<br>Please Give Peace A Chance", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00219.JPG", extra: "1970" },
+      { number: 220, title: "Jimi Hendrix Experience", desc: "Voodoo Chile<br>Hey Joe<br>Watchtower", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00220.JPG", extra: "1970" },
+      { number: 221, title: "Matthews Southern Comfort", desc: "Woodstock<br>Scion", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00221.JPG", extra: "1970" },
+      { number: 222, title: "Bobby Bloom", desc: "Montego Bay<br>Try A Little Harder", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00222.JPG", extra: "1970" },
+      { number: 223, title: "Rare Earth", desc: "(I Know) I'm Losing You<br>When Joanie Smiles", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00223.JPG", extra: "1970" },
+      { number: 224, title: "Cuff Links", desc: "Run Sally Run<br>I Remember", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00224.JPG", extra: "1970" },
+      { number: 225, title: "Ringo Starr", desc: "Beaucoups Of Blues<br>Coochy Coochy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00225.JPG", extra: "1970" }
     ]
   }
 };
+
 
 
 
