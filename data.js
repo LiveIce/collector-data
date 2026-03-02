@@ -914,7 +914,7 @@ const data = {
     ]
   },
     "Ozzy Osbourne": {
-    "Evolution Of An Ozzman": [
+    "Evolution Of An Ozzman 💎": [
       { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1a.jpg", extra: "Framsida" },
       { number: 1, title: "1969", desc: "The Start", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort1b.jpg", extra: "Baksida" },
       { number: 2, title: "Ozzy Osbourne", desc: "Ozzy Bio", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort2a.jpg", extra: "Framsida" },
@@ -1019,6 +1019,28 @@ const data = {
       { number: 54, title: "Ozzmosis", desc: "Black Sabbath", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort54b.jpg", extra: "Baksida" },
       { number: 55, title: "Cometh", desc: "1996 1997", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort55a.jpg", extra: "Framsida" },
       { number: 55, title: "Cometh", desc: "1996 1997", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort55b.jpg", extra: "Baksida" },
+      { number: 57, title: "Ozzfest", desc: "May 1999", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort57a.jpg", extra: "Framsida" },
+      { number: 57, title: "Ozzfest", desc: "May 1999", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort57b.jpg", extra: "Baksida" },
+      { number: 58, title: "Legends", desc: "1970 Albums", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort58a.jpg", extra: "Framsida" },
+      { number: 58, title: "Legends", desc: "1970 Albums", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort58b.jpg", extra: "Baksida" },
+      { number: 59, title: "Classics", desc: "1971 1972", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort59a.jpg", extra: "Framsida" },
+      { number: 59, title: "Classics", desc: "1971 1972", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort59b.jpg", extra: "Baksida" },
+      { number: 60, title: "Epics", desc: "1974 1975", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort60a.jpg", extra: "Framsida" },
+      { number: 60, title: "Epics", desc: "1974 1975", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort60b.jpg", extra: "Baksida" },
+      { number: 61, title: "Historic", desc: "1976 Albums", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort61a.jpg", extra: "Framsida" },
+      { number: 61, title: "Historic", desc: "1976 Albums", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort61b.jpg", extra: "Baksida" },
+      { number: 62, title: "Changes", desc: "1978 1980", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort62a.jpg", extra: "Framsida" },
+      { number: 62, title: "Changes", desc: "1978 1980", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort62b.jpg", extra: "Baksida" },
+      { number: 63, title: "Madman", desc: "1981 1982", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort63a.jpg", extra: "Framsida" },
+      { number: 63, title: "Madman", desc: "1981 1982", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort63b.jpg", extra: "Baksida" },
+      { number: 64, title: "Platinum", desc: "1983 1986", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort64a.jpg", extra: "Framsida" },
+      { number: 64, title: "Platinum", desc: "1983 1986", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort64b.jpg", extra: "Baksida" },
+      { number: 65, title: "Superb", desc: "1987 1988", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort65a.jpg", extra: "Framsida" },
+      { number: 65, title: "Superb", desc: "1987 1988", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort65b.jpg", extra: "Baksida" },
+      { number: 67, title: "Majestic", desc: "1993 1995", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort67a.jpg", extra: "Framsida" },
+      { number: 67, title: "Majestic", desc: "1993 1995", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort67b.jpg", extra: "Baksida" },
+      { number: 68, title: "Friends", desc: "1997 1998", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort68a.jpg", extra: "Framsida" },
+      { number: 68, title: "Friends", desc: "1997 1998", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort68b.jpg", extra: "Baksida" }
     ]
   },
     "Dinosaur King": {
@@ -1635,6 +1657,7 @@ const data = {
     ]
   }
 };
+
 
 
 
