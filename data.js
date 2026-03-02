@@ -698,6 +698,8 @@ const data = {
       { number: 14, title: "Niklas Stark", desc: "<b>Niklas Stark</b><br>14 april 1995 i Neustadt an der Aisch, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort14.jpg", extra: "Försvarare - Hertha Berlin" },
       { number: 15, title: "Kevin-Prince Boateng", desc: "<b>Kevin-Prince Boateng</b><br>6 mars 1987 i Berlin, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort15.jpg", extra: "Mittfältare - Hertha Berlin" },
       { number: 16, title: "Alexander Schwolow", desc: "<b>Alexander Schwolow</b><br>2 juni 1992 i Wiesbaden, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort16.jpg", extra: "Målvakt - Hertha Berlin" },
+      { number: 17, title: "Stevan Jovetić", desc: "<b>Stevan Jovetić</b><br>2 november 1989 i Podgorica, Montenegro", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort17.jpg", extra: "Anfallare - Hertha Berlin" },
+      { number: 18, title: "Suat Serdar", desc: "<b>Suat Serdar</b><br>11 april 1997 i Bingen am Rhein, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort18.jpg", extra: "Mittfältare - Hertha Berlin" },
       { number: 19, title: "Krzysztof Piątek", desc: "<b>Krzysztof Piątek</b><br>1 juli 1995 i Dzierżoniów, Polen", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort19.jpg", extra: "Anfallare - Hertha Berlin" },
       { number: 20, title: "Marco Richter", desc: "<b>Marco Richter</b><br>24 november 1997 i Friedberg, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort20.jpg", extra: "Anfallare - Hertha Berlin" },
       { number: 21, title: "Max Kruse", desc: "<b>Max Bennet Kruse</b><br>19 mars 1988 i Reinbek, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort21.jpg", extra: "Anfallare - 1. FC Union Berlin" },
@@ -940,7 +942,25 @@ const data = {
       { number: 13, title: "Album", desc: "Low Budget", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort13a.jpg", extra: "Framsida" },
       { number: 13, title: "Album", desc: "Low Budget", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort13b.jpg", extra: "Baksida" },
       { number: 14, title: "Image", desc: "The Cross", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort14a.jpg", extra: "Framsida" },
-      { number: 14, title: "Image", desc: "The Cross", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort14b.jpg", extra: "Baksida" }
+      { number: 14, title: "Image", desc: "The Cross", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort14b.jpg", extra: "Baksida" },
+      { number: 15, title: "War Pigs", desc: "Mid 1970", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort15a.jpg", extra: "Framsida" },
+      { number: 15, title: "War Pigs", desc: "Mid 1970", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort15b.jpg", extra: "Baksida" },
+      { number: 16, title: "Paranoid", desc: "July 1970", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort16a.jpg", extra: "Framsida" },
+      { number: 16, title: "Paranoid", desc: "July 1970", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort16b.jpg", extra: "Baksida" },
+      { number: 17, title: "Hits", desc: "Rock Staple", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort17a.jpg", extra: "Framsida" },
+      { number: 17, title: "Hits", desc: "Rock Staple", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort17b.jpg", extra: "Baksida" },
+      { number: 18, title: "Money", desc: "The Truth", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort18a.jpg", extra: "Framsida" },
+      { number: 18, title: "Money", desc: "The Truth", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort18b.jpg", extra: "Baksida" },
+      { number: 20, title: "New Album", desc: "July 1971", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort20a.jpg", extra: "Framsida" },
+      { number: 20, title: "New Album", desc: "July 1971", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort20b.jpg", extra: "Baksida" },
+      { number: 21, title: "Hex", desc: "Witches Demons", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort21a.jpg", extra: "Framsida" },
+      { number: 21, title: "Hex", desc: "Witches Demons", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort21b.jpg", extra: "Baksida" },
+      { number: 22, title: "Live", desc: "1973 Tour", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort22a.jpg", extra: "Framsida" },
+      { number: 22, title: "Live", desc: "1973 Tour", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort22b.jpg", extra: "Baksida" },
+      { number: 23, title: "Specters", desc: "One Night", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort23a.jpg", extra: "Framsida" },
+      { number: 23, title: "Specters", desc: "One Night", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort23b.jpg", extra: "Baksida" },
+      { number: 24, title: "On Fire", desc: "The Occult", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort24a.jpg", extra: "Framsida" },
+      { number: 24, title: "On Fire", desc: "The Occult", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort24b.jpg", extra: "Baksida" }
     ]
   },
     "Dinosaur King": {
@@ -1557,6 +1577,7 @@ const data = {
     ]
   }
 };
+
 
 
 
