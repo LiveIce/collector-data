@@ -710,6 +710,8 @@ const data = {
       { number: 38, title: "Alessandro Schöpf", desc: "<b>Alessandro Schöpf</b><br>7 februari 1994 i Umhausen, Österrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort38.jpg", extra: "Mittfältare - DSC Arminia Bielefeld" },
       { number: 39, title: "Florian Krüger", desc: "<b>Florian Krüger</b><br>13 februari 1999 i Stassfurt, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort39.jpg", extra: "Anfallare - DSC Arminia Bielefeld" },
       { number: 40, title: "Cédric Brunner", desc: "<b>Cédric Brunner</b><br>17 februari 1994 i Zollikon, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort40.jpg", extra: "Försvarare - DSC Arminia Bielefeld" },
+      { number: 41, title: "Danny Blum", desc: "<b>Danny Blum</b><br>7 January 1991 i Frankenthal, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort41.jpg", extra: "Mittfältare - VfL Bochum 1848" },
+      { number: 42, title: "Armel Bella Kotchap", desc: "<b>Armel Bella Kotchap</b><br>11 december 2001 i Paris, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort42.jpg", extra: "Försvarare - VfL Bochum 1848" },
       { number: 57, title: "Ansgar Knauff", desc: "<b>Ansgar Knauff</b><br>10 januari 2002 i Göttingen, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort57.jpg", extra: "Mittfältare - Borussia Dortmund" },
       { number: 58, title: "Gregor Kobel", desc: "<b>Gregor Kobel</b><br>6 december 1997 i Zürich, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort58.jpg", extra: "Målvakt - Borussia Dortmund" },
       { number: 61, title: "Kevin Trapp", desc: "<b>Kevin Trapp</b><br>8 juli 1990 i Merzig, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort61.jpg", extra: "Målvakt - Eintracht Frankfurt" },
@@ -1682,6 +1684,7 @@ const data = {
     ]
   }
 };
+
 
 
 
