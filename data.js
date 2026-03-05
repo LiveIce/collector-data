@@ -1683,24 +1683,25 @@ const data = {
       { number: 223, title: "Rare Earth", desc: "(I Know) I'm Losing You<br>When Joanie Smiles", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00223.JPG", extra: "1970" },
       { number: 224, title: "Cuff Links", desc: "Run Sally Run<br>I Remember", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00224.JPG", extra: "1970" },
       { number: 225, title: "Ringo Starr", desc: "Beaucoups Of Blues<br>Coochy Coochy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00225.JPG", extra: "1970" },
-      { number: 226, title: "David Rose", desc: "Theme From High Chaparral<br>Merci Cherie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00226.JPG", extra: "1968" },
-      { number: 227, title: "Manfred Mann Chapter III", desc: "Happy Being Me<br>Devil Woman", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00227.JPG", extra: "1970" },
-      { number: 228, title: "Blood Sweat And Tears", desc: "Lucretia Mac Evil<br>Lucretia's Reprise", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00228.JPG", extra: "1970" },
-      { number: 229, title: "Chicago", desc: "I'm A Man<br>Does Anybody Really Know What Time It Is", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00229.JPG", extra: "1970" },
-      { number: 230, title: "Status Quo", desc: "In My Chair<br>Gerdundula", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00230.JPG", extra: "1970" },
-      { number: 231, title: "Status Quo", desc: "Down The Dustpipe<br>Face Without A Soul", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00231.JPG", extra: "1970" },
-      { number: 232, title: "Bee Gees", desc: "Lonely Days<br>Man For All Seasons", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00232.JPG", extra: "1970" },
-      { number: 233, title: "Neil Diamond", desc: "Cracklin' Rosie<br>Lordy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00233.JPG", extra: "1970" },
-      { number: 234, title: "Dawn", desc: "Knock Three Times<br>Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00234.JPG", extra: "1970" },
-      { number: 235, title: "Kameleoni", desc: "Dedicated To The One I Love<br>Story Of My Brown Friend<br>Gdje Si Ljubavi<br>Too Much On My Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00235.JPG", extra: "1967" },
-      { number: 236, title: "Ireen Sheer", desc: "Hey Pleasure Man<br>You Walked Away", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00236.JPG", extra: "1970" },
-      { number: 237, title: "Osmonds", desc: "One Bad Apple<br>He Ain't Heavy He's My Brother", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00237.JPG", extra: "1971" },
-      { number: 238, title: "Kinks", desc: "Apeman<br>Rats", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00238.JPG", extra: "1970" },
-      { number: 239, title: "Dave Edmunds", desc: "I Hear You Knocking<br>Black Bill", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00239.JPG", extra: "1970" },
-      { number: 240, title: "Rattles", desc: "The Witch<br>Geraldine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00240.JPG", extra: "1970" }
+      { number: 226, title: "David Rose", desc: "Theme From High Chaparral<br>Merci Cherie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00226.jpg", extra: "1968" },
+      { number: 227, title: "Manfred Mann Chapter III", desc: "Happy Being Me<br>Devil Woman", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00227.jpg", extra: "1970" },
+      { number: 228, title: "Blood Sweat And Tears", desc: "Lucretia Mac Evil<br>Lucretia's Reprise", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00228.jpg", extra: "1970" },
+      { number: 229, title: "Chicago", desc: "I'm A Man<br>Does Anybody Really Know What Time It Is", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00229.jpg", extra: "1970" },
+      { number: 230, title: "Status Quo", desc: "In My Chair<br>Gerdundula", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00230.jpg", extra: "1970" },
+      { number: 231, title: "Status Quo", desc: "Down The Dustpipe<br>Face Without A Soul", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00231.jpg", extra: "1970" },
+      { number: 232, title: "Bee Gees", desc: "Lonely Days<br>Man For All Seasons", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00232.jpg", extra: "1970" },
+      { number: 233, title: "Neil Diamond", desc: "Cracklin' Rosie<br>Lordy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00233.jpg", extra: "1970" },
+      { number: 234, title: "Dawn", desc: "Knock Three Times<br>Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00234.jpg", extra: "1970" },
+      { number: 235, title: "Kameleoni", desc: "Dedicated To The One I Love<br>Story Of My Brown Friend<br>Gdje Si Ljubavi<br>Too Much On My Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00235.jpg", extra: "1967" },
+      { number: 236, title: "Ireen Sheer", desc: "Hey Pleasure Man<br>You Walked Away", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00236.jpg", extra: "1970" },
+      { number: 237, title: "Osmonds", desc: "One Bad Apple<br>He Ain't Heavy He's My Brother", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00237.jpg", extra: "1971" },
+      { number: 238, title: "Kinks", desc: "Apeman<br>Rats", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00238.jpg", extra: "1970" },
+      { number: 239, title: "Dave Edmunds", desc: "I Hear You Knocking<br>Black Bill", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00239.jpg", extra: "1970" },
+      { number: 240, title: "Rattles", desc: "The Witch<br>Geraldine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00240.jpg", extra: "1970" }
     ]
   }
 };
+
 
 
 
