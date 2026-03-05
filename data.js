@@ -1697,10 +1697,22 @@ const data = {
       { number: 237, title: "Osmonds", desc: "One Bad Apple<br>He Ain't Heavy He's My Brother", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00237.jpg", extra: "1971" },
       { number: 238, title: "Kinks", desc: "Apeman<br>Rats", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00238.jpg", extra: "1970" },
       { number: 239, title: "Dave Edmunds", desc: "I Hear You Knocking<br>Black Bill", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00239.jpg", extra: "1970" },
-      { number: 240, title: "Rattles", desc: "The Witch<br>Geraldine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00240.jpg", extra: "1970" }
+      { number: 240, title: "Rattles", desc: "The Witch<br>Geraldine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00240.jpg", extra: "1970" },
+      { number: 241, title: "Johnny Johnson And His Bandwagon", desc: "(Blame It) On The Pony Express<br>Never Let Her Go", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00241.jpg", extra: "1970" },
+      { number: 242, title: "Lally Stott", desc: "Chirpy Chirpy Cheep Cheep<br>Henry James", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00242.jpg", extra: "1970" },
+      { number: 243, title: "New Seekers", desc: "What Have They Done To My Song Ma<br>It's A Beautiful Day", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00243.jpg", extra: "1970" },
+      { number: 244, title: "Pacific Gas And Electric", desc: "Bluesbuster<br>Father Come On Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00244.jpg", extra: "1971" },
+      { number: 245, title: "Steppenwolf", desc: "Screaming Night Hog<br>Spiritual Fantasy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00245.jpg", extra: "1970" },
+      { number: 246, title: "Chairmen Of The Board", desc: "You've Got Me Dangling On A String<br>Patches", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00246.jpg", extra: "1970" },
+      { number: 247, title: "Cat Stevens", desc: "Father And Son<br>Moon Shadow", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00247.jpg", extra: "1970" },
+      { number: 248, title: "Mixtures", desc: "The Pushbike Song<br>Who Loves Ya", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00248.jpg", extra: "1970" },
+      { number: 249, title: "Rare Earth", desc: "Get Ready<br>Magic Key", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00249.jpg", extra: "1970" },
+      { number: 250, title: "Isaac Hayes", desc: "(If Loving You Is Wrong) I Don't Want To Be Right<br>Rolling Down A Mountainside", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00250.jpg", extra: "1973" }
+    
     ]
   }
 };
+
 
 
 
