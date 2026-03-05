@@ -1707,11 +1707,21 @@ const data = {
       { number: 247, title: "Cat Stevens", desc: "Father And Son<br>Moon Shadow", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00247.jpg", extra: "1970" },
       { number: 248, title: "Mixtures", desc: "The Pushbike Song<br>Who Loves Ya", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00248.jpg", extra: "1970" },
       { number: 249, title: "Rare Earth", desc: "Get Ready<br>Magic Key", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00249.jpg", extra: "1970" },
-      { number: 250, title: "Isaac Hayes", desc: "(If Loving You Is Wrong) I Don't Want To Be Right<br>Rolling Down A Mountainside", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00250.jpg", extra: "1973" }
-    
+      { number: 250, title: "Isaac Hayes", desc: "(If Loving You Is Wrong) I Don't Want To Be Right<br>Rolling Down A Mountainside", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00250.jpg", extra: "1973" },
+      { number: 251, title: "James Gang", desc: "Funk 49<br>Thanks", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00251.jpg", extra: "1970" },
+      { number: 252, title: "Deep Purple", desc: "Strange Kind Of Woman<br>I'm Alone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00252.jpg", extra: "1971" },
+      { number: 253, title: "Lynn Anderson", desc: "Rose Garden<br>Nothing Between Us", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00253.jpg", extra: "1970" },
+      { number: 254, title: "R Dean Taylor", desc: "Indiana Wants Me<br>Love's Your Name", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00254.jpg", extra: "1970" },
+      { number: 255, title: "Danyel Gerard", desc: "Butterfly<br>Le Petit Ours En Pluche", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00255.jpg", extra: "1971" },
+      { number: 256, title: "Pickettywitch", desc: "Baby I Won't Let You Down<br>Please Bring Her Back Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00256.jpg", extra: "1970" },
+      { number: 257, title: "George Baker Selection", desc: "Over And Over<br>Cindy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00257.jpg", extra: "1971" },
+      { number: 258, title: "Lee Hazlewood", desc: "Sand<br>My Baby Cried All Night Long", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00258.jpg", extra: "1967" },
+      { number: 259, title: "Chris Andrews", desc: "Yo Yo<br>Hey Babe", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00259.jpg", extra: "1970" },
+      { number: 260, title: "George Harrison", desc: "My Sweet Lord<br>Isn't It A Pity", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00260.jpg", extra: "1970" }
     ]
   }
 };
+
 
 
 
