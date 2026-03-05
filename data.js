@@ -1682,10 +1682,16 @@ const data = {
       { number: 222, title: "Bobby Bloom", desc: "Montego Bay<br>Try A Little Harder", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00222.JPG", extra: "1970" },
       { number: 223, title: "Rare Earth", desc: "(I Know) I'm Losing You<br>When Joanie Smiles", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00223.JPG", extra: "1970" },
       { number: 224, title: "Cuff Links", desc: "Run Sally Run<br>I Remember", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00224.JPG", extra: "1970" },
-      { number: 225, title: "Ringo Starr", desc: "Beaucoups Of Blues<br>Coochy Coochy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00225.JPG", extra: "1970" }
+      { number: 225, title: "Ringo Starr", desc: "Beaucoups Of Blues<br>Coochy Coochy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00225.JPG", extra: "1970" },
+      { number: 226, title: "David Rose", desc: "Theme From High Chaparral<br>Merci Cherie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00226.JPG", extra: "1968" },
+      { number: 227, title: "Manfred Mann Chapter III", desc: "Happy Being Me<br>Devil Woman", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00227.JPG", extra: "1970" },
+      { number: 228, title: "Blood Sweat And Tears", desc: "Lucretia Mac Evil<br>Lucretia's Reprise", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00228.JPG", extra: "1970" },
+      { number: 229, title: "Chicago", desc: "I'm A Man<br>Does Anybody Really Know What Time It Is", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00229.JPG", extra: "1970" },
+      { number: 230, title: "Status Quo", desc: "In My Chair<br>Gerdundula", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00230.JPG", extra: "1970" }
     ]
   }
 };
+
 
 
 
