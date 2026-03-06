@@ -1239,7 +1239,17 @@ const data = {
       { number: 147, title: "The Veil", desc: "1958", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0147.jpg", extra: "Säsonger: 1 - Avsnitt: 12" },
       { number: 148, title: "Misfits Of Science", desc: "1985-1986", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0148.jpg", extra: "Säsonger: 1 - Avsnitt: 16" },
       { number: 149, title: "The Widow", desc: "2019", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0149.jpg", extra: "Säsonger: 1 - Avsnitt: 8" },
-      { number: 150, title: "Sheena", desc: "2000-2002", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0150.jpg", extra: "Säsonger: 2 - Avsnitt: 35" }
+      { number: 150, title: "Sheena", desc: "2000-2002", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0150.jpg", extra: "Säsonger: 2 - Avsnitt: 35" },
+      { number: 151, title: "The Time Tunnel", desc: "1966-1967", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0151.jpg", extra: "Säsonger: 1 - Avsnitt: 30" },
+      { number: 152, title: "Kolchak The Night Stalker", desc: "1974-1975", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0152.jpg", extra: "Säsonger: 1 - Avsnitt: 20" },
+      { number: 153, title: "Tintin", desc: "2005", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0153.jpg", extra: "Säsonger: 1 - Avsnitt: 20" },
+      { number: 154, title: "Newhart", desc: "1982-1990", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0154.jpg", extra: "Säsonger: 8 - Avsnitt: 184" },
+      { number: 155, title: "The Sweeney", desc: "1975-1978", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0155.jpg", extra: "Säsonger: 4 - Avsnitt: 53" },
+      { number: 156, title: "Terra Nova", desc: "2011", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0156.jpg", extra: "Säsonger: 1 - Avsnitt: 11" },
+      { number: 157, title: "One Tree Hill", desc: "2003-2012", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0157.jpg", extra: "Säsonger: 9 - Avsnitt: 185" },
+      { number: 158, title: "Some Mothers Do 'ave 'em", desc: "1973-1978", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0158.jpg", extra: "Säsonger: 3 - Avsnitt: 19" },
+      { number: 159, title: "Wizards Of Waverly Place", desc: "2007-2012", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0159.jpg", extra: "Säsonger: 4 - Avsnitt: 107" },
+      { number: 160, title: "The Queen's Gambit", desc: "2020", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0160.jpg", extra: "Säsonger: 1 - Avsnitt: 7" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1723,6 +1733,7 @@ const data = {
     ]
   }
 };
+
 
 
 
