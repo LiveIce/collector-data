@@ -1259,7 +1259,17 @@ const data = {
       { number: 167, title: "The Good Life", desc: "1975-1978", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0167.jpg", extra: "Säsonger: 4 - Avsnitt: 28" },
       { number: 168, title: "Shit My Dad Says", desc: "2010-2011", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0168.jpg", extra: "Säsonger: 1 - Avsnitt: 18" },
       { number: 169, title: "Community", desc: "2009-2015", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0169.jpg", extra: "Säsonger: 6 - Avsnitt: 110" },
-      { number: 170, title: "Smallville", desc: "2009-2015", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0170.jpg", extra: "Säsonger: 10 - Avsnitt: 216" }
+      { number: 170, title: "Smallville", desc: "2009-2015", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0170.jpg", extra: "Säsonger: 10 - Avsnitt: 216" },
+      { number: 171, title: "The Outer Limits", desc: "1963-1965", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0171.jpg", extra: "Säsonger: 2 - Avsnitt: 49" },
+      { number: 172, title: "VIP", desc: "1998-2002", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0172.jpg", extra: "Säsonger: 4 - Avsnitt: 88" },
+      { number: 173, title: "The Mary Tyler Moore Show", desc: "1970-1977", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0173.jpg", extra: "Säsonger: 7 - Avsnitt: 168" },
+      { number: 174, title: "The Rockford Files", desc: "1974-1980", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0174.jpg", extra: "Säsonger: 6 - Avsnitt: 123" },
+      { number: 175, title: "Police Squad", desc: "1982", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0175.jpg", extra: "Säsonger: 1 - Avsnitt: 6" },
+      { number: 176, title: "The Lone Ranger", desc: "1949-1957", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0176.jpg", extra: "Säsonger: 5 - Avsnitt: 221" },
+      { number: 177, title: "Saved By The Bell", desc: "1989-1992", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0177.jpg", extra: "Säsonger: 4 - Avsnitt: 86" },
+      { number: 178, title: "Rawhide", desc: "1959-1965", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0178.jpg", extra: "Säsonger: 8 - Avsnitt: 217" },
+      { number: 179, title: "The Odd Couple", desc: "1970-1975", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0179.jpg", extra: "Säsonger: 5 - Avsnitt: 114" },
+      { number: 180, title: "Frasier", desc: "1993-2004", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0180.jpg", extra: "Säsonger: 11 - Avsnitt: 264" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1743,6 +1753,7 @@ const data = {
     ]
   }
 };
+
 
 
 
