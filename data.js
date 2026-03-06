@@ -1274,6 +1274,20 @@ const data = {
       { number: 180, title: "Frasier", desc: "1993-2004", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0180.jpg", extra: "Säsonger: 11 - Avsnitt: 264" }
     ],
     "Filmer": [
+      {
+  number: 0,
+  title: "Winnetou 1. Teil",
+  desc: "Lex Barker, Pierre Brice<br>Marie Versini, Mario Adorf<br>Ralf Wolter, Walter Barnes<br>Regi: Harald Reinl",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0000.jpg",
+  extra: "Western<br>1963"
+},
+      {
+  number: 0,
+  title: "Winnetou 2. Teil",
+  desc: "Lex Barker, Pierre Brice<br>Karin Dor, Anthony Steel<br>Klaus Kinski, Ralf Wolter<br>Regi: Harald Reinl",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0000.jpg",
+  extra: "Western<br>1964"
+},
       { number: 0, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
       { number: 0, title: "The Amityville Horror", desc: "Ryan Reynolds, Melissa George<br>Chloë Grace Moretz, Rachel Nichols<br>Regi: Andrew Douglas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0002.jpg", extra: "Horror<br>2005" },
       { number: 0, title: "X Men", desc: "Hugh Jackman, Patrick Stewart<br>Ian McKellen, Famke Janssen<br>James Marsden, Halle Berry<br>Anna Paquin, Rebecca Romijn<br>Stan Lee<br>Regi: Bryan Singer", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0003.jpg", extra: "Sci-Fi<br>2000" },
@@ -1755,6 +1769,7 @@ const data = {
     ]
   }
 };
+
 
 
 
