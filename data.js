@@ -1274,18 +1274,18 @@ const data = {
       { number: 180, title: "Frasier", desc: "1993-2004", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0180.jpg", extra: "Säsonger: 11 - Avsnitt: 264" }
     ],
     "Filmer": [
-      { number: , title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
-      { number: , title: "The Amityville Horror", desc: "Ryan Reynolds, Melissa George<br>Chloë Grace Moretz, Rachel Nichols<br>Regi: Andrew Douglas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0002.jpg", extra: "Horror<br>2005" },
-      { number: , title: "X Men", desc: "Hugh Jackman, Patrick Stewart<br>Ian McKellen, Famke Janssen<br>James Marsden, Halle Berry<br>Anna Paquin, Rebecca Romijn<br>Stan Lee<br>Regi: Bryan Singer", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0003.jpg", extra: "Sci-Fi<br>2000" },
-      { number: , title: "Cujo", desc: "Dee Wallace, Danny Pintauro<br>Daniel Hugh Kelly, Ed Lauter<br>Regi: Lewis Teague", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0004.jpg", extra: "Horror<br>1983" },
-      { number: , title: "Mannaja", desc: "Maurizio Merli, John Steiner<br>Sonja Jeannine<br>Regi: Sergio Martino", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0005.jpg", extra: "Western<br>1977" },
-      { number: , title: "Basic Instinct", desc: "Michael Douglas, Sharon Stone<br>George Dzundza, Jeanne Tripplehorn<br>Regi: Paul Verhoeven", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0006.jpg", extra: "Thriller<br>1992" },
-      { number: , title: "Raising Arizona", desc: "Nicolas Cage, Holly Hunter<br>John Goodman, William Forsythe<br>Randall Tex Cobb<br>Regi: Joel Coen, Ethan Coen", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0007.jpg", extra: "Comedy<br>1987" },
-      { number: , title: "Minority Report", desc: "Tom Cruise, Max von Sydow<br>Steve Harris, Neal McDonough<br>Colin Farrell, Samantha Morton<br>Regi: Steven Spielberg", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0008.jpg", extra: "Sci-Fi<br>2002" },
-      { number: , title: "The Arrival", desc: "Charlie Sheen, Lindsay Crouse<br>Ron Silver, Teri Polo<br>Regi: David Twohy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0009.jpg", extra: "Sci-Fi<br>1996" },
-      { number: , title: "Who Is Cletis Tout", desc: "Christian Slater, Tim Allen<br>Portia de Rossi, Richard Dreyfuss<br>Billy Connolly<br>Regi: Chris Ver Wiel", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0010.jpg", extra: "Comedy<br>2001" },
-      { number: , title: "As Good As It Gets", desc: "Jack Nicholson, Helen Hunt<br>Greg Kinnear, Cuba Gooding Jr<br>Skeet Ulrich, Jamie Kennedy<br>Regi: James L Brooks", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0011.jpg", extra: "Comedy<br>1997" },
-      { number: , title: "The Adventure Of Sherlock Holmes' Smarter Brother", desc: "Gene Wilder, Madeline Kahn<br>Marty Feldman, Dom DeLuise<br>John Le Mesurier<br>Regi: Gene Wilder", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0012.jpg", extra: "Comedy<br>1975" }
+      { number: 0, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
+      { number: 0, title: "The Amityville Horror", desc: "Ryan Reynolds, Melissa George<br>Chloë Grace Moretz, Rachel Nichols<br>Regi: Andrew Douglas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0002.jpg", extra: "Horror<br>2005" },
+      { number: 0, title: "X Men", desc: "Hugh Jackman, Patrick Stewart<br>Ian McKellen, Famke Janssen<br>James Marsden, Halle Berry<br>Anna Paquin, Rebecca Romijn<br>Stan Lee<br>Regi: Bryan Singer", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0003.jpg", extra: "Sci-Fi<br>2000" },
+      { number: 0, title: "Cujo", desc: "Dee Wallace, Danny Pintauro<br>Daniel Hugh Kelly, Ed Lauter<br>Regi: Lewis Teague", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0004.jpg", extra: "Horror<br>1983" },
+      { number: 0, title: "Mannaja", desc: "Maurizio Merli, John Steiner<br>Sonja Jeannine<br>Regi: Sergio Martino", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0005.jpg", extra: "Western<br>1977" },
+      { number: 0, title: "Basic Instinct", desc: "Michael Douglas, Sharon Stone<br>George Dzundza, Jeanne Tripplehorn<br>Regi: Paul Verhoeven", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0006.jpg", extra: "Thriller<br>1992" },
+      { number: 0, title: "Raising Arizona", desc: "Nicolas Cage, Holly Hunter<br>John Goodman, William Forsythe<br>Randall Tex Cobb<br>Regi: Joel Coen, Ethan Coen", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0007.jpg", extra: "Comedy<br>1987" },
+      { number: 0, title: "Minority Report", desc: "Tom Cruise, Max von Sydow<br>Steve Harris, Neal McDonough<br>Colin Farrell, Samantha Morton<br>Regi: Steven Spielberg", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0008.jpg", extra: "Sci-Fi<br>2002" },
+      { number: 0, title: "The Arrival", desc: "Charlie Sheen, Lindsay Crouse<br>Ron Silver, Teri Polo<br>Regi: David Twohy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0009.jpg", extra: "Sci-Fi<br>1996" },
+      { number: 0, title: "Who Is Cletis Tout", desc: "Christian Slater, Tim Allen<br>Portia de Rossi, Richard Dreyfuss<br>Billy Connolly<br>Regi: Chris Ver Wiel", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0010.jpg", extra: "Comedy<br>2001" },
+      { number: 0, title: "As Good As It Gets", desc: "Jack Nicholson, Helen Hunt<br>Greg Kinnear, Cuba Gooding Jr<br>Skeet Ulrich, Jamie Kennedy<br>Regi: James L Brooks", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0011.jpg", extra: "Comedy<br>1997" },
+      { number: 0, title: "The Adventure Of Sherlock Holmes' Smarter Brother", desc: "Gene Wilder, Madeline Kahn<br>Marty Feldman, Dom DeLuise<br>John Le Mesurier<br>Regi: Gene Wilder", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0012.jpg", extra: "Comedy<br>1975" }
     ]
   },  
     "Skivor": {
@@ -1755,6 +1755,7 @@ const data = {
     ]
   }
 };
+
 
 
 
