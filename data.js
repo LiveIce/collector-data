@@ -464,6 +464,8 @@ const data = {
       { number: 286, title: "Christian Benteke", desc: "<b>Christian Benteke Liolo</b><br>3 december 1990 i Kinshasa, Demokratiska republiken Kongo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort286.jpg", extra: "Anfallare - Belgique" },
       { number: 287, title: "Romelu Lukaku", desc: "<b>Romelu Lukaku Bolingoli</b><br>13 maj 1993 i Antwerpen, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort287.jpg", extra: "Anfallare - Belgique" },
       { number: 298, title: "Jonas Hector", desc: "<b>Jonas Hector</b><br>27 maj 1990 i Saarbrücken, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort298.jpg", extra: "Försvarare - Deutschland" },
+      { number: 299, title: "Mats Hummels", desc: "<b>Mats Hummels</b><br>16 december 1988 i Bergisch Gladbach, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort299.jpg", extra: "Försvarare - Deutschland" },
+      { number: 301, title: "Bastian Schweinsteiger", desc: "<b>Bastian Schweinsteiger</b><br>1 augusti 1984 i Kolbermoor, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort301.jpg", extra: "Mittfältare - Deutschland" },
       { number: 313, title: "William Carvalho", desc: "<b>William Silva de Carvalho</b><br>7 april 1992 i Luanda, Angola", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort313.jpg", extra: "Mittfältare - Portugal" },
       { number: 314, title: "Renato Sanches", desc: "<b>Renato Júnior Luz Sanches</b><br>18 augusti 1997 i Lissabon, Portugal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort314.jpg", extra: "Mittfältare - Portugal" },
       { number: 315, title: "Éder", desc: "<b>Éderzito António Macedo Lopes</b><br>22 december 1987 i Bissau, Guinea-Bissau", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort315.jpg", extra: "Anfallare - Portugal" },
@@ -1753,6 +1755,7 @@ const data = {
     ]
   }
 };
+
 
 
 
