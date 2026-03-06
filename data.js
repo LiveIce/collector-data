@@ -1249,7 +1249,17 @@ const data = {
       { number: 157, title: "One Tree Hill", desc: "2003-2012", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0157.jpg", extra: "Säsonger: 9 - Avsnitt: 185" },
       { number: 158, title: "Some Mothers Do 'ave 'em", desc: "1973-1978", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0158.jpg", extra: "Säsonger: 3 - Avsnitt: 19" },
       { number: 159, title: "Wizards Of Waverly Place", desc: "2007-2012", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0159.jpg", extra: "Säsonger: 4 - Avsnitt: 107" },
-      { number: 160, title: "The Queen's Gambit", desc: "2020", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0160.jpg", extra: "Säsonger: 1 - Avsnitt: 7" }
+      { number: 160, title: "The Queen's Gambit", desc: "2020", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0160.jpg", extra: "Säsonger: 1 - Avsnitt: 7" },
+      { number: 161, title: "Dark Angel", desc: "2000-2002", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0161.jpg", extra: "Säsonger: 2 - Avsnitt: 42" },
+      { number: 162, title: "Boston Legal", desc: "2004-2008", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0162.jpg", extra: "Säsonger: 5 - Avsnitt: 101" },
+      { number: 163, title: "The Sopranos", desc: "1999-2007", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0163.jpg", extra: "Säsonger: 6 - Avsnitt: 86" },
+      { number: 164, title: "Charmed", desc: "1998-2006", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0164.jpg", extra: "Säsonger: 8 - Avsnitt: 178" },
+      { number: 165, title: "The Twilight Zone", desc: "1959-1964", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0165.jpg", extra: "Säsonger: 5 - Avsnitt: 156" },
+      { number: 166, title: "Zorro", desc: "1957-1959", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0166.jpg", extra: "Säsonger: 3 - Avsnitt: 82" },
+      { number: 167, title: "The Good Life", desc: "1975-1978", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0167.jpg", extra: "Säsonger: 4 - Avsnitt: 28" },
+      { number: 168, title: "Shit My Dad Says", desc: "2010-2011", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0168.jpg", extra: "Säsonger: 1 - Avsnitt: 18" },
+      { number: 169, title: "Community", desc: "2009-2015", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0169.jpg", extra: "Säsonger: 6 - Avsnitt: 110" },
+      { number: 170, title: "Smallville", desc: "2009-2015", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0170.jpg", extra: "Säsonger: 10 - Avsnitt: 216" }
     ],
     "Filmer": [
       { number: 1, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
@@ -1733,6 +1743,7 @@ const data = {
     ]
   }
 };
+
 
 
 
