@@ -1278,15 +1278,22 @@ const data = {
   number: 0,
   title: "Winnetou 1. Teil",
   desc: "Lex Barker, Pierre Brice<br>Marie Versini, Mario Adorf<br>Ralf Wolter, Walter Barnes<br>Regi: Harald Reinl",
-  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0000.jpg",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/1%20Teil%201963%20(Winnetou).jpg",
   extra: "Western<br>1963"
 },
       {
   number: 0,
   title: "Winnetou 2. Teil",
   desc: "Lex Barker, Pierre Brice<br>Karin Dor, Anthony Steel<br>Klaus Kinski, Ralf Wolter<br>Regi: Harald Reinl",
-  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0000.jpg",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/2%20Teil%201964%20(Winnetou).jpg",
   extra: "Western<br>1964"
+},
+      {
+  number: 0,
+  title: "3:10 to Yuma",
+  desc: "Glenn Ford, Van Heflin<br>Felicia Farr, Leora Dana<br>Henry Jones, Richard Jaeckel<br>Regi: Delmer Daves",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/3.10%20To%20Yuma%201957%20(OK28).jpg",
+  extra: "Western<br>1957"
 },
       { number: 0, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
       { number: 0, title: "The Amityville Horror", desc: "Ryan Reynolds, Melissa George<br>Chloë Grace Moretz, Rachel Nichols<br>Regi: Andrew Douglas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0002.jpg", extra: "Horror<br>2005" },
@@ -1769,6 +1776,7 @@ const data = {
     ]
   }
 };
+
 
 
 
