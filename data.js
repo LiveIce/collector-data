@@ -1276,31 +1276,31 @@ const data = {
     "Filmer": [
       {
   number: 0,
-  title: "Winnetou 1. Teil",
-  desc: "Lex Barker, Pierre Brice<br>Marie Versini, Mario Adorf<br>Ralf Wolter, Walter Barnes<br>Regi: Harald Reinl",
-  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/1%20Teil%201963%20(Winnetou).jpg",
-  extra: "Western<br>1963"
+  title: "1 Teil",
+  desc: "Lex Barker, Pierre Brice<br>Mario Adorf, Marie Versini<br>Ralf Wolter, Walter Barnes<br>Regi: Harald Reinl",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Winnetou%201%20Teil%201963%20(OKX).jpg",
+  extra: "Western / Äventyr<br>1963 (Winnetou)"
 },
       {
   number: 0,
-  title: "Winnetou 2. Teil",
-  desc: "Lex Barker, Pierre Brice<br>Karin Dor, Anthony Steel<br>Klaus Kinski, Ralf Wolter<br>Regi: Harald Reinl",
-  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/2%20Teil%201964%20(Winnetou).jpg",
-  extra: "Western<br>1964"
+  title: "2 Teil",
+  desc: "Lex Barker, Pierre Brice<br>Anthony Steel, Karin Dor<br>Klaus Kinski, Mario Girotti<br>Regi: Harald Reinl",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Winnetou%202%20Teil%201964%20(OKX).jpg",
+  extra: "Western / Äventyr<br>1964 (Winnetou)"
 },
       {
   number: 0,
-  title: "3:10 to Yuma",
-  desc: "Glenn Ford, Van Heflin<br>Felicia Farr, Leora Dana<br>Henry Jones, Richard Jaeckel<br>Regi: Delmer Daves",
+  title: "3:10 To Yuma",
+  desc: "Glenn Ford, Van Heflin<br>Felicia Farr, Leora Dana<br>Robert Emhardt, Henry Jones<br>Regi: Delmer Daves",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/3.10%20To%20Yuma%201957%20(OK28).jpg",
-  extra: "Western<br>1957"
+  extra: "Western / Äventyr<br>1957 (OK28)"
 },
       {
   number: 0,
   title: "6 Underground",
   desc: "Ryan Reynolds, Mélanie Laurent<br>Manuel Garcia-Rulfo, Adria Arjona<br>Corey Hawkins, Ben Hardy<br>Regi: Michael Bay",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/6%20Underground%202019%20(OK389).jpg",
-  extra: "Action<br>2019"
+  extra: "Action / Thriller<br>2019 (OK389)"
 },
 {
   number: 0,
@@ -1883,6 +1883,7 @@ const data = {
     ]
   }
 };
+
 
 
 
