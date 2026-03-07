@@ -1278,14 +1278,14 @@ const data = {
   number: 0,
   title: "1 Teil",
   desc: "Lex Barker, Pierre Brice<br>Mario Adorf, Marie Versini<br>Ralf Wolter, Walter Barnes<br>Regi: Harald Reinl",
-  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Winnetou%201%20Teil%201963%20(OKX).jpg",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/1%20Teil%201963%20(Winnetou).jpg",
   extra: "Western / Äventyr<br>1963 (Winnetou)"
 },
       {
   number: 0,
   title: "2 Teil",
   desc: "Lex Barker, Pierre Brice<br>Anthony Steel, Karin Dor<br>Klaus Kinski, Mario Girotti<br>Regi: Harald Reinl",
-  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Winnetou%202%20Teil%201964%20(OKX).jpg",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/2%20Teil%201964%20(Winnetou).jpg",
   extra: "Western / Äventyr<br>1964 (Winnetou)"
 },
       {
@@ -1883,6 +1883,7 @@ const data = {
     ]
   }
 };
+
 
 
 
