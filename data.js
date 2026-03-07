@@ -2019,10 +2019,13 @@ const data = {
       { number: 257, title: "George Baker Selection", desc: "Over And Over<br>Cindy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00257.jpg", extra: "1971" },
       { number: 258, title: "Lee Hazlewood", desc: "Sand<br>My Baby Cried All Night Long", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00258.jpg", extra: "1967" },
       { number: 259, title: "Chris Andrews", desc: "Yo Yo<br>Hey Babe", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00259.jpg", extra: "1970" },
-      { number: 260, title: "George Harrison", desc: "My Sweet Lord<br>Isn't It A Pity", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00260.jpg", extra: "1970" }
+      { number: 260, title: "George Harrison", desc: "My Sweet Lord<br>Isn't It A Pity", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00260.jpg", extra: "1970" },
+      { number: 261, title: "Bread", desc: "Let Your Love Go<br>Too Much Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00261.jpg", extra: "1971" },
+      { number: 262, title: "Eric Burdon And War", desc: "They Can't Take Away Our Music<br>Home Cookin'", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00262.jpg", extra: "1970" },
     ]
   }
 };
+
 
 
 
