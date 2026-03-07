@@ -1382,9 +1382,9 @@ const data = {
 {
   number: 0,
   title: "A Christmas Less Traveled",
-  desc: "Ashley Newbrough, Christopher Russell<br>Amelia Harrison, James Robinson<br>Michelle Martin, Laura Soltis<br>Regi: Allan Harmon",
+  desc: "Candace Cameron Bure, Eric Johnson<br>Lynda Boyd, Danny Wattley<br>Jennifer Higgin, Frank Crudele<br>Regi: Heather Hawthorn Doyle",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Christmas%20Less%20Traveled%202024%20(OK986).jpg",
-  extra: "Romance<br>2024"
+  extra: "Drama/Romance<br>2024"
 },
 {
   number: 0,
@@ -1883,6 +1883,7 @@ const data = {
     ]
   }
 };
+
 
 
 
