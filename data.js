@@ -1344,18 +1344,76 @@ const data = {
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/1408%202007%20(F84).jpg",
   extra: "Horror<br>2007"
 },
-      { number: 0, title: "Cut", desc: "Molly Ringwald, Kylie Minogue<br>Jessica Napier<br>Regi: Kimble Rendall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0001.jpg", extra: "Horror<br>2000" },
-      { number: 0, title: "The Amityville Horror", desc: "Ryan Reynolds, Melissa George<br>Chloë Grace Moretz, Rachel Nichols<br>Regi: Andrew Douglas", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0002.jpg", extra: "Horror<br>2005" },
-      { number: 0, title: "X Men", desc: "Hugh Jackman, Patrick Stewart<br>Ian McKellen, Famke Janssen<br>James Marsden, Halle Berry<br>Anna Paquin, Rebecca Romijn<br>Stan Lee<br>Regi: Bryan Singer", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0003.jpg", extra: "Sci-Fi<br>2000" },
-      { number: 0, title: "Cujo", desc: "Dee Wallace, Danny Pintauro<br>Daniel Hugh Kelly, Ed Lauter<br>Regi: Lewis Teague", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0004.jpg", extra: "Horror<br>1983" },
-      { number: 0, title: "Mannaja", desc: "Maurizio Merli, John Steiner<br>Sonja Jeannine<br>Regi: Sergio Martino", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0005.jpg", extra: "Western<br>1977" },
-      { number: 0, title: "Basic Instinct", desc: "Michael Douglas, Sharon Stone<br>George Dzundza, Jeanne Tripplehorn<br>Regi: Paul Verhoeven", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0006.jpg", extra: "Thriller<br>1992" },
-      { number: 0, title: "Raising Arizona", desc: "Nicolas Cage, Holly Hunter<br>John Goodman, William Forsythe<br>Randall Tex Cobb<br>Regi: Joel Coen, Ethan Coen", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0007.jpg", extra: "Comedy<br>1987" },
-      { number: 0, title: "Minority Report", desc: "Tom Cruise, Max von Sydow<br>Steve Harris, Neal McDonough<br>Colin Farrell, Samantha Morton<br>Regi: Steven Spielberg", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0008.jpg", extra: "Sci-Fi<br>2002" },
-      { number: 0, title: "The Arrival", desc: "Charlie Sheen, Lindsay Crouse<br>Ron Silver, Teri Polo<br>Regi: David Twohy", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0009.jpg", extra: "Sci-Fi<br>1996" },
-      { number: 0, title: "Who Is Cletis Tout", desc: "Christian Slater, Tim Allen<br>Portia de Rossi, Richard Dreyfuss<br>Billy Connolly<br>Regi: Chris Ver Wiel", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0010.jpg", extra: "Comedy<br>2001" },
-      { number: 0, title: "As Good As It Gets", desc: "Jack Nicholson, Helen Hunt<br>Greg Kinnear, Cuba Gooding Jr<br>Skeet Ulrich, Jamie Kennedy<br>Regi: James L Brooks", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0011.jpg", extra: "Comedy<br>1997" },
-      { number: 0, title: "The Adventure Of Sherlock Holmes' Smarter Brother", desc: "Gene Wilder, Madeline Kahn<br>Marty Feldman, Dom DeLuise<br>John Le Mesurier<br>Regi: Gene Wilder", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/F0012.jpg", extra: "Comedy<br>1975" }
+      {
+  number: 0,
+  title: "1492: Conquest of Paradise",
+  desc: "Gérard Depardieu, Armand Assante<br>Sigourney Weaver, Loren Dean<br>Ángela Molina, Fernando Rey<br>Regi: Ridley Scott",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/1492%20Conquest%20Of%20Paradise%201992%20OK29.jpg",
+  extra: "Adventure<br>1992"
+},
+{
+  number: 0,
+  title: "Fiesta",
+  desc: "Jorge Negrete, Dalia Íñiguez<br>Joaquín Pardavé, Gloria Marín<br>Emma Roldán, Carlos López<br>Regi: LeRoy Prinz",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/1941%20Fiesta%201941%20(Musicals%20Box).jpg",
+  extra: "Musical<br>1941"
+},
+{
+  number: 0,
+  title: "A Bad Moms Christmas",
+  desc: "Mila Kunis, Kristen Bell<br>Kathryn Hahn, Christine Baranski<br>Susan Sarandon, Cheryl Hines<br>Regi: Jon Lucas, Scott Moore",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Bad%20Moms%20Christmas%202017%20(OK442).jpg",
+  extra: "Comedy<br>2017"
+},
+{
+  number: 0,
+  title: "A Breath of Scandal",
+  desc: "Sophia Loren, Maurice Chevalier<br>John Gavin, Angela Lansbury<br>Isobel Elsom, Milly Vitale<br>Regi: Michael Curtiz",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Breath%20Of%20Scandal%201960%20(OK510).jpg",
+  extra: "Comedy<br>1960"
+},
+{
+  number: 0,
+  title: "A Christmas Carol Goes Wrong",
+  desc: "Derek Jacobi, Diana Rigg<br>Henry Lewis, Jonathan Sayer<br>Henry Shields, Bryony Corrigan<br>Regi: Richard Boden",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Christmas%20Carol%20Goes%20Wrong%202017%20(OK511).jpg",
+  extra: "Comedy<br>2017"
+},
+{
+  number: 0,
+  title: "A Christmas Less Traveled",
+  desc: "Ashley Newbrough, Christopher Russell<br>Amelia Harrison, James Robinson<br>Michelle Martin, Laura Soltis<br>Regi: Allan Harmon",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Christmas%20Less%20Traveled%202024%20(OK986).jpg",
+  extra: "Romance<br>2024"
+},
+{
+  number: 0,
+  title: "A Christmas Tree Grows in Colorado",
+  desc: "Rochelle Aytes, Mark Taylor<br>Matt Hamilton, Peter Graham-Gaudreau<br>Laura Soltis, Michael Strickland<br>Regi: Jason Bourque",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Christmas%20Tree%20Grows%20In%20Colorado%202020%20(OK512).jpg",
+  extra: "Romance<br>2020"
+},
+{
+  number: 0,
+  title: "A Clockwork Orange",
+  desc: "Malcolm McDowell, Patrick Magee<br>Adrienne Corri, Miriam Karlin<br>Warren Clarke, James Marcus<br>Regi: Stanley Kubrick",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Clockwork%20Orange%201971%20(OK513).jpg",
+  extra: "Crime<br>1971"
+},
+{
+  number: 0,
+  title: "A Dash of Love",
+  desc: "Jen Lilley, Brendan Penny<br>Peri Gilpin, Kandyse McClure<br>Frances Flanagan, Ben Wilkinson<br>Regi: Christie Will Wolf",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Dash%20Of%20Love%202017%20(OK1048).jpg",
+  extra: "Romance<br>2017"
+},
+{
+  number: 0,
+  title: "A Farewell to Arms",
+  desc: "Gary Cooper, Helen Hayes<br>Adolphe Menjou, Mary Philips<br>Jack La Rue, Blanche Friderici<br>Regi: Frank Borzage",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Farewell%20To%20Arms%201932%20(OK30).jpg",
+  extra: "Romance<br>1932"
+}
     ]
   },  
     "Skivor": {
@@ -1825,6 +1883,7 @@ const data = {
     ]
   }
 };
+
 
 
 
