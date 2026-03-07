@@ -1413,9 +1413,79 @@ const data = {
   desc: "Helen Hayes, Gary Cooper<br>Adolphe Menjou, Mary Philips<br>Jack La Rue, Blanche Friderici<br>Regi: Frank Borzage",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Farewell%20To%20Arms%201932%20(OK30).jpg",
   extra: "Drama / Romantik<br>1932 (OK30)"
-}
+},
+{
+  number: 0,
+  title: "A Fine Mess",
+  desc: "Ted Danson, Howie Mandel<br>Richard Mulligan, Stuart Margolin<br>Maria Conchita Alonso, Jennifer Edwards<br>Regi: Blake Edwards",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Fine%20Mess%201986%20(OK514).jpg",
+  extra: "Komedi / Kriminalfilm<br>1986 (OK514)"
+},
+{
+  number: 0,
+  title: "A Fish Called Wanda",
+  desc: "John Cleese, Jamie Lee Curtis<br>Kevin Kline, Michael Palin<br>Maria Aitken, Tom Georgeson<br>Regi: Charles Crichton",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Fish%20Called%20Wanda%201988%20(OK1004).jpg",
+  extra: "Komedi / Kriminalfilm<br>1988 (OK1004)"
+},
+{
+  number: 0,
+  title: "A Hard Day's Night",
+  desc: "John Lennon, Paul McCartney<br>George Harrison, Ringo Starr<br>Wilfrid Brambell, Norman Rossington<br>Regi: Richard Lester",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Hard%20Day's%20Night%201964%20(OK31)%20(Beatles).jpg",
+  extra: "Musikal / Komedi<br>1964 (OK31) (Beatles)"
+},
+{
+  number: 0,
+  title: "A Long Way Down",
+  desc: "Pierce Brosnan, Toni Collette<br>Aaron Paul, Imogen Poots<br>Rosamund Pike, Sam Neill<br>Regi: Pascal Chaumeil",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Long%20Way%20Down%202014%20(OK956).jpg",
+  extra: "Drama / Komedi<br>2014 (OK956)"
+},
+{
+  number: 0,
+  title: "A Man Called Django",
+  desc: "Anthony Steffen, Stelio Candelli<br>Glauco Onorato, Chris Avram<br>Esmeralda Barros, Donato Castellaneta<br>Regi: Edoardo Mulargia",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Man%20Called%20Django%201971%20(OK32).jpg",
+  extra: "Western / Kriminalfilm<br>1971 (OK32)"
+},
+{
+  number: 0,
+  title: "A Man Called Horse",
+  desc: "Richard Harris, Manu Tupou<br>Corinna Tsopei, Judith Anderson<br>Jean Gascon, Dub Taylor<br>Regi: Elliot Silverstein",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Man%20Called%20Horse%201970%20(OK33).jpg",
+  extra: "Western / Drama<br>1970 (OK33)"
+},
+{
+  number: 0,
+  title: "A Man Called Otto",
+  desc: "Tom Hanks, Mariana Treviño<br>Rachel Keller, Manuel Garcia-Rulfo<br>Truman Hanks, Mack Bayda<br>Regi: Marc Forster",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Man%20Called%20Otto%202022%20(OK773).jpg",
+  extra: "Drama / Komedi<br>2022 (OK773)"
+},
+{
+  number: 0,
+  title: "A Million Ways To Die In The West",
+  desc: "Seth MacFarlane, Charlize Theron<br>Liam Neeson, Neil Patrick Harris<br>Amanda Seyfried, Giovanni Ribisi<br>Regi: Seth MacFarlane",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Million%20Ways%20To%20Die%20In%20The%20West%202014%20(OK515).jpg",
+  extra: "Western / Komedi<br>2014 (OK515)"
+},
+{
+  number: 0,
+  title: "A Minecraft Movie",
+  desc: "Jack Black, Jason Momoa<br>Emma Myers, Danielle Brooks<br>Sebastian Eugene Hansen, Jennifer Coolidge<br>Regi: Jared Hess",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Minecraft%20Movie%202025%20(OK1045).jpg",
+  extra: "Äventyr / Komedi<br>2025 (OK1045)"
+},
+{
+  number: 0,
+  title: "A Most Violent Year",
+  desc: "Oscar Isaac, Jessica Chastain<br>David Oyelowo, Alessandro Nivola<br>Albert Brooks, Elyes Gabel<br>Regi: J.C. Chandor",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Most%20Violent%20Year%202014%20(OK516).jpg",
+  extra: "Kriminalfilm / Drama<br>2014 (OK516)"
+}      
     ]
-  },  
+  },
     "Skivor": {
     "Vinyl LP": [      
       { number: 1, title: "Judas Priest", desc: "1.One For The Road 2.Rocka Rolla<br>3.Winter 4.Deep Freeze<br>5.Winter Retreat 6.Cheater<br>7.Never Satisfied 8.Run Of The Mill<br>9.Dying To Meet You 10.Caviar And Meths", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "<b>Rocka Rolla</b> - 1974" },
@@ -1883,6 +1953,7 @@ const data = {
     ]
   }
 };
+
 
 
 
