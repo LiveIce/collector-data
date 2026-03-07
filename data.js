@@ -1307,112 +1307,112 @@ const data = {
   title: "7 Seconds",
   desc: "Wesley Snipes, Tamzin Outhwaite<br>Deobia Oparei, Georgina Rylance<br>Pete Lee-Wilson, Serge Soric<br>Regi: Simon Fellows",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/7%20Seconds%202005%20(D).jpg",
-  extra: "Action<br>2005"
+  extra: "Action / Thriller<br>2005 (D)"
 },
 {
   number: 0,
-  title: "9 to 5",
-  desc: "Jane Fonda, Lily Tomlin<br>Dolly Parton, Dabney Coleman<br>Sterling Hayden, Elizabeth Wilson<br>Regi: Colin Higgins",
+  title: "9 To 5",
+  desc: "Jane Fonda, Lily Tomlin<br>Dolly Parton, Dabney Coleman<br>Elizabeth Wilson, Sterling Hayden<br>Regi: Colin Higgins",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/9%20To%205%201980%20(OK508).jpg",
-  extra: "Comedy<br>1980"
+  extra: "Komedi / Drama<br>1980 (OK508)"
 },
 {
   number: 0,
-  title: "10 to Midnight",
-  desc: "Charles Bronson, Lisa Eilbacher<br>Andrew Stevens, Gene Davis<br>Wilford Brimley, Geoffrey Lewis<br>Regi: J. Lee Thompson",
+  title: "10 To Midnight",
+  desc: "Charles Bronson, Lisa Eilbacher<br>Andrew Stevens, Gene Davis<br>Geoffrey Lewis, Wilford Brimley<br>Regi: J. Lee Thompson",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/10%20To%20Midnight%201983%20(OK509).jpg",
-  extra: "Thriller<br>1983"
+  extra: "Action / Thriller<br>1983 (OK509)"
 },
 {
   number: 0,
   title: "17 Again",
   desc: "Zac Efron, Matthew Perry<br>Leslie Mann, Thomas Lennon<br>Michelle Trachtenberg, Sterling Knight<br>Regi: Burr Steers",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/17%20Again%202009%20(OK78).jpg",
-  extra: "Comedy<br>2009"
+  extra: "Komedi / Fantasy<br>2009 (OK78)"
 },
 {
   number: 0,
   title: "65",
-  desc: "Adam Driver, Ariana Greenblatt<br>Chloe Coleman, Nika King<br>Brian Dare, Nick Boraine<br>Regi: Scott Beck, Bryan Woods",
+  desc: "Adam Driver, Ariana Greenblatt<br>Chloe Coleman, Nika King<br>Regi: Scott Beck, Bryan Woods",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/65%202023%20(OK772).jpg",
-  extra: "Sci-Fi<br>2023"
+  extra: "Sci-Fi / Action<br>2023 (OK772)"
 },
 {
   number: 0,
   title: "1408",
-  desc: "John Cusack, Samuel L. Jackson<br>Mary McCormack, Tony Shalhoub<br>Jasmine Jessica Anthony, Len Cariou<br>Regi: Mikael Håfström",
+  desc: "John Cusack, Samuel L. Jackson<br>Mary McCormack, Tony Shalhoub<br>Len Cariou, Jasmine Jessica Anthony<br>Regi: Mikael Håfström",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/1408%202007%20(F84).jpg",
-  extra: "Horror<br>2007"
+  extra: "Skräck / Thriller<br>2007 (F84)"
 },
       {
   number: 0,
-  title: "1492: Conquest of Paradise",
-  desc: "Gérard Depardieu, Armand Assante<br>Sigourney Weaver, Loren Dean<br>Ángela Molina, Fernando Rey<br>Regi: Ridley Scott",
-  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/1492%20Conquest%20Of%20Paradise%201992%20OK29.jpg",
-  extra: "Adventure<br>1992"
+  title: "1492 Conquest Of Paradise",
+  desc: "Gérard Depardieu, Armand Assante<br>Sigourney Weaver, Loren Dean<br>Angela Molina, Fernando Rey<br>Regi: Ridley Scott",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/1492%20Conquest%20Of%20Paradise%201992%20(OK29).jpg",
+  extra: "Äventyr / Drama<br>1992 (OK29)"
 },
 {
   number: 0,
-  title: "Fiesta",
-  desc: "Jorge Negrete, Dalia Íñiguez<br>Joaquín Pardavé, Gloria Marín<br>Emma Roldán, Carlos López<br>Regi: LeRoy Prinz",
+  title: "1941 Fiesta",
+  desc: "Anne Ayars, George Negrete<br>Armida, George Givot<br>Antonio Moreno, Steven Geray<br>Regi: LeRoy Prinz",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/1941%20Fiesta%201941%20(Musicals%20Box).jpg",
-  extra: "Musical<br>1941"
+  extra: "Musikal / Komedi<br>1941 (Musicals Box)"
 },
 {
   number: 0,
   title: "A Bad Moms Christmas",
-  desc: "Mila Kunis, Kristen Bell<br>Kathryn Hahn, Christine Baranski<br>Susan Sarandon, Cheryl Hines<br>Regi: Jon Lucas, Scott Moore",
+  desc: "Mila Kunis, Kristen Bell<br>Kathryn Hahn, Christine Baranski<br>Susan Sarandon, Cheryl Hines<br>Regi: Scott Moore, Jon Lucas",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Bad%20Moms%20Christmas%202017%20(OK442).jpg",
-  extra: "Comedy<br>2017"
+  extra: "Komedi / Äventyr<br>2017 (OK442)"
 },
 {
   number: 0,
-  title: "A Breath of Scandal",
-  desc: "Sophia Loren, Maurice Chevalier<br>John Gavin, Angela Lansbury<br>Isobel Elsom, Milly Vitale<br>Regi: Michael Curtiz",
+  title: "A Breath Of Scandal",
+  desc: "Sophia Loren, Maurice Chevalier<br>John Gavin, Angela Lansbury<br>Isabel Jeans, Roberto Risso<br>Regi: Michael Curtiz",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Breath%20Of%20Scandal%201960%20(OK510).jpg",
-  extra: "Comedy<br>1960"
+  extra: "Komedi / Drama<br>1960 (OK510)"
 },
 {
   number: 0,
   title: "A Christmas Carol Goes Wrong",
-  desc: "Derek Jacobi, Diana Rigg<br>Henry Lewis, Jonathan Sayer<br>Henry Shields, Bryony Corrigan<br>Regi: Richard Boden",
+  desc: "Derek Jacobi, Diana Rigg<br>Henry Shields, Henry Lewis<br>Charlie Russell, Jonathan Sayer<br>Regi: Richard Curtis",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Christmas%20Carol%20Goes%20Wrong%202017%20(OK511).jpg",
-  extra: "Comedy<br>2017"
+  extra: "Komedi / Familj<br>2017 (OK511)"
 },
 {
   number: 0,
   title: "A Christmas Less Traveled",
-  desc: "Candace Cameron Bure, Eric Johnson<br>Lynda Boyd, Danny Wattley<br>Jennifer Higgin, Frank Crudele<br>Regi: Heather Hawthorn Doyle",
+  desc: "Candace Cameron Bure, Eric Johnson<br>Reese Alexander, Jason Cermak<br>Jackie Flynn, BJ Harrison<br>Regi: Heather Hawthorn Doyle",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Christmas%20Less%20Traveled%202024%20(OK986).jpg",
-  extra: "Drama/Romance<br>2024"
+  extra: "Drama / Romantik<br>2024 (OK986)"
 },
 {
   number: 0,
-  title: "A Christmas Tree Grows in Colorado",
-  desc: "Rochelle Aytes, Mark Taylor<br>Matt Hamilton, Peter Graham-Gaudreau<br>Laura Soltis, Michael Strickland<br>Regi: Jason Bourque",
+  title: "A Christmas Tree Grows In Colorado",
+  desc: "Rochelle Aytes, Mark Taylor<br>Grace Sunar, Peter Bryant<br>Liza Huget, Matt Hamilton<br>Regi: Jason Bourque",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Christmas%20Tree%20Grows%20In%20Colorado%202020%20(OK512).jpg",
-  extra: "Romance<br>2020"
+  extra: "Drama / Romantik<br>2020 (OK512)"
 },
 {
   number: 0,
   title: "A Clockwork Orange",
-  desc: "Malcolm McDowell, Patrick Magee<br>Adrienne Corri, Miriam Karlin<br>Warren Clarke, James Marcus<br>Regi: Stanley Kubrick",
+  desc: "Malcolm McDowell, Patrick Magee<br>Michael Bates, Warren Clarke<br>John Clive, Adrienne Corri<br>Regi: Stanley Kubrick",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Clockwork%20Orange%201971%20(OK513).jpg",
-  extra: "Crime<br>1971"
+  extra: "Kriminalfilm / Sci-Fi<br>1971 (OK513)"
 },
 {
   number: 0,
-  title: "A Dash of Love",
-  desc: "Jen Lilley, Brendan Penny<br>Peri Gilpin, Kandyse McClure<br>Frances Flanagan, Ben Wilkinson<br>Regi: Christie Will Wolf",
+  title: "A Dash Of Love",
+  desc: "Jen Lilley, Brendan Penny<br>Peri Gilpin, Kandyse McClure<br>Frances Flanagan, Eric Pollins<br>Regi: Christie Will Wolf",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Dash%20Of%20Love%202017%20(OK1048).jpg",
-  extra: "Romance<br>2017"
+  extra: "Romantik / Komedi<br>2017 (OK1048)"
 },
 {
   number: 0,
-  title: "A Farewell to Arms",
-  desc: "Gary Cooper, Helen Hayes<br>Adolphe Menjou, Mary Philips<br>Jack La Rue, Blanche Friderici<br>Regi: Frank Borzage",
+  title: "A Farewell To Arms",
+  desc: "Helen Hayes, Gary Cooper<br>Adolphe Menjou, Mary Philips<br>Jack La Rue, Blanche Friderici<br>Regi: Frank Borzage",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Farewell%20To%20Arms%201932%20(OK30).jpg",
-  extra: "Romance<br>1932"
+  extra: "Drama / Romantik<br>1932 (OK30)"
 }
     ]
   },  
@@ -1883,6 +1883,7 @@ const data = {
     ]
   }
 };
+
 
 
 
