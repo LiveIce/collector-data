@@ -1483,6 +1483,76 @@ const data = {
   desc: "Oscar Isaac, Jessica Chastain<br>David Oyelowo, Alessandro Nivola<br>Albert Brooks, Elyes Gabel<br>Regi: J.C. Chandor",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Most%20Violent%20Year%202014%20(OK516).jpg",
   extra: "Kriminalfilm / Drama<br>2014 (OK516)"
+},
+{
+  number: 0,
+  title: "A Night At The Opera",
+  desc: "Groucho Marx, Chico Marx<br>Harpo Marx, Kitty Carlisle<br>Allan Jones, Margaret Dumont<br>Regi: Sam Wood",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Night%20At%20The%20Opera%201935%20(OK34)%20(Marx).jpg",
+  extra: "Komedi / Musikal<br>1935 (OK34) (Marx)"
+},
+{
+  number: 0,
+  title: "A Night In Casablanca",
+  desc: "Groucho Marx, Chico Marx<br>Harpo Marx, Charles Drake<br>Lois Collier, Sig Ruman<br>Regi: Archie Mayo",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Night%20In%20Casablanca%201946%20(OK35)%20(Marx).jpg",
+  extra: "Komedi / Kriminalfilm<br>1946 (OK35) (Marx)"
+},
+{
+  number: 0,
+  title: "A Perfect World",
+  desc: "Kevin Costner, Clint Eastwood<br>Laura Dern, T.J. Lowther<br>Keith Szarabajka, Leo Burmester<br>Regi: Clint Eastwood",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Perfect%20World%201993%20(OK517).jpg",
+  extra: "Kriminalfilm / Drama<br>1993 (OK517)"
+},
+{
+  number: 0,
+  title: "A Pistol For Ringo",
+  desc: "Giuliano Gemma, Fernando Sancho<br>Lorella De Luca, Nieves Navarro<br>Antonio Casas, George Martin<br>Regi: Duccio Tessari",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Pistol%20For%20Ringo%201965%20(OK36).jpg",
+  extra: "Western / Kriminalfilm<br>1965 (OK36)"
+},
+{
+  number: 0,
+  title: "A Priceless Love",
+  desc: "Erin Agostino, Luke Humphrey<br>Lia Pappas-Kemps, Sophie Bastelle<br>Greg Ellwand, Suzanne Cyr<br>Regi: John Bradshaw",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Priceless%20Love%202022%20(OK1046).jpg",
+  extra: "Romantik / Komedi<br>2022 (OK1046)"
+},
+{
+  number: 0,
+  title: "A Quiet Place Day One",
+  desc: "Lupita Nyong'o, Joseph Quinn<br>Alex Wolff, Djimon Hounsou<br>Eliane Umuhire, Alfie Todd<br>Regi: Michael Sarnoski",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Quiet%20Place%20Day%20One%202024%20(D).jpg",
+  extra: "Skräck / Sci-Fi<br>2024 (D)"
+},
+{
+  number: 0,
+  title: "A Shaun The Sheep Movie Farmageddon",
+  desc: "Justin Fletcher, John Sparkes<br>Amalia Vitale, Kate Harbour<br>David Holt, Richard Webber<br>Regi: Will Becher, Richard Phelan",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Shaun%20The%20Sheep%20Movie%20Farmageddon%202019%20(OK115).jpg",
+  extra: "Animerat / Äventyr<br>2019 (OK115)"
+},
+{
+  number: 0,
+  title: "A Shoe Addicts Christmas",
+  desc: "Candace Cameron Bure, Luke Macfarlane<br>Jean Smart, Tenika Davis<br>Vanessa Matsui, Kristian Bruun<br>Regi: Michael Robison",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Shoe%20Addicts%20Christmas%202018%20(OK518).jpg",
+  extra: "Romantik / Fantasy<br>2018 (OK518)"
+},
+{
+  number: 0,
+  title: "A Shot In The Dark",
+  desc: "Peter Sellers, Elke Sommer<br>George Sanders, Herbert Lom<br>Tracy Reed, Burt Kwouk<br>Regi: Blake Edwards",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Shot%20In%20The%20Dark%201964%20(Pink%20Panther).jpg",
+  extra: "Komedi / Kriminalfilm<br>1964 (Pink Panther)"
+},
+{
+  number: 0,
+  title: "A Song Is Born",
+  desc: "Danny Kaye, Virginia Mayo<br>Benny Goodman, Louis Armstrong<br>Lionel Hampton, Tommy Dorsey<br>Regi: Howard Hawks",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Song%20Is%20Born%201948%20(OK37).jpg",
+  extra: "Komedi / Musikal<br>1948 (OK37)"
 }      
     ]
   },
@@ -1953,6 +2023,7 @@ const data = {
     ]
   }
 };
+
 
 
 
