@@ -748,6 +748,8 @@ const data = {
       { number: 31, title: "Malthael", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort31b.jpg", extra: "Baksida" },
       { number: 80, title: "Banshee", desc: "StarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort80a.jpg", extra: "Framsida" },
       { number: 80, title: "Banshee", desc: "StarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort80b.jpg", extra: "Baksida" },
+      { number: 101, title: "Kil'jaeden", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort101a.jpg", extra: "Framsida" },
+      { number: 101, title: "Kil'jaeden", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort101b.jpg", extra: "Baksida" },
       { number: 106, title: "Malygos", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort106a.jpg", extra: "Framsida" },
       { number: 106, title: "Malygos", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort106b.jpg", extra: "Baksida" },
       { number: 109, title: "Jaina Proudmoore", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort109a.jpg", extra: "Framsida" },
@@ -770,6 +772,8 @@ const data = {
       { number: 170, title: "Ana", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort170b.jpg", extra: "Baksida" },
       { number: 175, title: "D.Va", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort175a.jpg", extra: "Framsida" },
       { number: 175, title: "D.Va", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort175b.jpg", extra: "Baksida" },
+      { number: 193, title: "The Lost Vikings", desc: "The Lost Vikings", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort193a.jpg", extra: "Framsida" },
+      { number: 193, title: "The Lost Vikings", desc: "The Lost Vikings", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort193b.jpg", extra: "Baksida" },
       { number: 199, title: "Rock 'n' Roll Racing", desc: "Rock 'N Roll Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort199a.jpg", extra: "Framsida" },
       { number: 199, title: "Rock 'n' Roll Racing", desc: "Rock 'N Roll Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort199b.jpg", extra: "Baksida" }
     ]
@@ -2045,6 +2049,7 @@ const data = {
     ]
   }
 };
+
 
 
 
