@@ -1329,7 +1329,17 @@ const data = {
       { number: 217, title: "Good Behavior", desc: "2016-2017", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0217.jpg", extra: "Säsonger: 2 - Avsnitt: 20" },
       { number: 218, title: "Trauma", desc: "2018", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0218.jpg", extra: "Säsonger: 1 - Avsnitt: 3" },
       { number: 219, title: "Mannen Under Trappan", desc: "2009", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0219.jpg", extra: "Säsonger: 1 - Avsnitt: 4" },
-      { number: 220, title: "The Tudors", desc: "2007-2010", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0220.jpg", extra: "Säsonger: 4 - Avsnitt: 38" }
+      { number: 220, title: "The Tudors", desc: "2007-2010", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0220.jpg", extra: "Säsonger: 4 - Avsnitt: 38" },
+      { number: 221, title: "Banacek", desc: "1972-1974", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0221.jpg", extra: "Säsonger: 2 - Avsnitt: 16" },
+      { number: 222, title: "The Big Valley", desc: "1965-1969", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0222.jpg", extra: "Säsonger: 4 - Avsnitt: 112" },
+      { number: 223, title: "The Thorn Birds", desc: "1983", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0223.jpg", extra: "Säsonger: 1 - Avsnitt: 4" },
+      { number: 224, title: "The Magician", desc: "1973-1974", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0224.jpg", extra: "Säsonger: 1 - Avsnitt: 21" },
+      { number: 225, title: "Dawson's Creek", desc: "1998-2003", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0225.jpg", extra: "Säsonger: 6 - Avsnitt: 128" },
+      { number: 226, title: "Sex And The City", desc: "1998-2004", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0226.jpg", extra: "Säsonger: 6 - Avsnitt: 94" },
+      { number: 227, title: "Family Affair", desc: "1966-1971", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0227.jpg", extra: "Säsonger: 5 - Avsnitt: 138" },
+      { number: 228, title: "Lucky Man", desc: "2016-2018", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0228.jpg", extra: "Säsonger: 3 - Avsnitt: 28" },
+      { number: 229, title: "The Alfred Hitchcock Hour", desc: "1962-1965", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0229.jpg", extra: "Säsonger: 3 - Avsnitt: 93" },
+      { number: 230, title: "The Norm Show", desc: "1999-2001", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0230.jpg", extra: "Säsonger: 3 - Avsnitt: 54" }
     ],
     "Filmer": [
       {
@@ -2101,6 +2111,7 @@ const data = {
     ]
   }
 };
+
 
 
 
