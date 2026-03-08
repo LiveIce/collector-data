@@ -453,7 +453,9 @@ const data = {
       { number: 190, title: "Leonardo Bonucci", desc: "<b>Leonardo Bonucci</b><br>1 maj 1987 i Viterbo, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort190.jpg", extra: "Försvarare - Juventus" },
       { number: 191, title: "Andrea Barzagli", desc: "<b>Andrea Barzagli</b><br>8 maj 1981 i Fiesole, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort191.jpg", extra: "Försvarare - Juventus" },
       { number: 192, title: "Stephan Lichtsteiner", desc: "<b>Stephan Lichtsteiner</b><br>16 januari 1984 i Adligenswil, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort192.jpg", extra: "Försvarare - Juventus" },
+      { number: 198, title: "Simone Zaza", desc: "<b>Simone Zaza</b><br>25 juni 1991 i Policoro, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort198.jpg", extra: "Anfallare - Juventus" },
       { number: 216, title: "Anwar El Ghazi", desc: "<b>Anwar El Ghazi</b><br>3 maj 1995 i Barendrecht, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort216.jpg", extra: "Mittfältare - AFC Ajax" },
+      { number: 226, title: "André Hansen", desc: "<b>André Hansen</b><br>17 december 1989 i Oslo, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort226.jpg", extra: "Målvakt - Rosenborg BK" },
       { number: 229, title: "Johan Bjørdal", desc: "<b>Johan Lædre Bjørdal</b><br>5 May 1986 i Egersund, Norway", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort229.jpg", extra: "Försvarare - Rosenborg BK" },
       { number: 231, title: "Fredrik Midtsjø", desc: "<b>Fredrik Midtsjø</b><br>11 augusti 1993 i Stjørdal, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort231.jpg", extra: "Mittfältare - Rosenborg BK" },
       { number: 232, title: "Anders Konradsen", desc: "<b>Anders Ågnes Konradsen</b><br>18 juli 1990 i Bodø, Norge", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort232.jpg", extra: "Mittfältare - Rosenborg BK" },   
@@ -2069,6 +2071,7 @@ const data = {
     ]
   }
 };
+
 
 
 
