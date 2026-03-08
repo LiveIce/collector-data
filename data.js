@@ -726,6 +726,18 @@ const data = {
       { number: 66, title: "Jesper Lindström", desc: "<b>Jesper Grænge Lindstrøm</b><br>29 februari 2000 i Taastrup, Danmark", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort66.jpg", extra: "Mittfältare - Eintracht Frankfurt" }
     ],
 },
+  "Ishockey": {
+    "UD Ice Hockey 2021-22": [
+      { number: 1, title: "Jacob Markstrom", desc: "<b>Jacob Anders Markström</b><br>31 januari 1990 i Gävle, Sverige", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Ishockey/UDIceHockey2021-22/Kort1.jpg", extra: "Målvakt - Flames" },
+      { number: 2, title: "Bryan Rust", desc: "<b>Bryan Peter Rust</b><br>11 maj 1992 i Pontiac, Michigan, USA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Ishockey/UDIceHockey2021-22/Kort2.jpg", extra: "Högerforward - Penguins" },
+      { number: 3, title: "Maxime Comtois", desc: "<b>Maxime Comtois</b><br>8 januari 1999 i Longueuil, Kanada", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Ishockey/UDIceHockey2021-22/Kort3.jpg", extra: "Vänsterforward - Ducks" }
+    ],
+  "UD Series 1 2022-23": [
+      { number: 1, title: "Jamie Drysdale", desc: "<b>Jamie Drysdale</b><br>8 april 2002 i Toronto, Kanada", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Ishockey/UD%20Series%201%202022-23/Kort1.jpg", extra: "Back - Ducks" },
+      { number: 2, title: "Cam Fowler", desc: "<b>Cameron Matthew Fowler</b><br>5 december 1991 i Windsor, Kanada", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Ishockey/UD%20Series%201%202022-23/Kort2.jpg", extra: "Back - Ducks" },
+      { number: 3, title: "Adam Henrique", desc: "<b>Adam Henrique</b><br>6 februari 1990 i Brantford, Kanada", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Ishockey/UD%20Series%201%202022-23/Kort3.jpg", extra: "Center - Ducks" }
+    ],
+},      
   "Blizzard": {
     "Legacy Collection": [
       { number: 7, title: "Llane Wrynn", desc: "WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort7a.jpg", extra: "Framsida" },
@@ -2033,6 +2045,7 @@ const data = {
     ]
   }
 };
+
 
 
 
