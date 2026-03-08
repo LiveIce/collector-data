@@ -1287,7 +1287,17 @@ const data = {
       { number: 177, title: "Saved By The Bell", desc: "1989-1992", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0177.jpg", extra: "Säsonger: 4 - Avsnitt: 86" },
       { number: 178, title: "Rawhide", desc: "1959-1965", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0178.jpg", extra: "Säsonger: 8 - Avsnitt: 217" },
       { number: 179, title: "The Odd Couple", desc: "1970-1975", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0179.jpg", extra: "Säsonger: 5 - Avsnitt: 114" },
-      { number: 180, title: "Frasier", desc: "1993-2004", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0180.jpg", extra: "Säsonger: 11 - Avsnitt: 264" }
+      { number: 180, title: "Frasier", desc: "1993-2004", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0180.jpg", extra: "Säsonger: 11 - Avsnitt: 264" },
+      { number: 181, title: "The Monkees", desc: "1966-1968", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0181.jpg", extra: "Säsonger: 2 - Avsnitt: 58" },
+      { number: 182, title: "Weeds", desc: "2005-2012", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0182.jpg", extra: "Säsonger: 8 - Avsnitt: 102" },
+      { number: 183, title: "T J Hooker", desc: "1982-1986", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0183.jpg", extra: "Säsonger: 5 - Avsnitt: 91" },
+      { number: 184, title: "Magnum PI", desc: "1980-1988", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0184.jpg", extra: "Säsonger: 8 - Avsnitt: 162" },
+      { number: 185, title: "How I Met Your Mother", desc: "2005-2014", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0185.jpg", extra: "Säsonger: 9 - Avsnitt: 208" },
+      { number: 186, title: "The X Files", desc: "1993-2018", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0186.jpg", extra: "Säsonger: 11 - Avsnitt: 218" },
+      { number: 187, title: "Why Women Kill", desc: "2019-2021", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0187.jpg", extra: "Säsonger: 2 - Avsnitt: 20" },
+      { number: 188, title: "Three's Company", desc: "1977-1984", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0188.jpg", extra: "Säsonger: 8 - Avsnitt: 170" },
+      { number: 189, title: "Perry Mason", desc: "1957-1966", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0189.jpg", extra: "Säsonger: 9 - Avsnitt: 261" },
+      { number: 190, title: "Taxi", desc: "1978-1983", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0190.jpg", extra: "Säsonger: 5 - Avsnitt: 114" }
     ],
     "Filmer": [
       {
@@ -2059,6 +2069,7 @@ const data = {
     ]
   }
 };
+
 
 
 
