@@ -2045,10 +2045,21 @@ const data = {
       { number: 267, title: "Andy Williams", desc: "(Where Do I Begin) Love Story<br>Something", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00267.jpg", extra: "1971" },
       { number: 268, title: "Dawn", desc: "Candida<br>Look At", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00268.jpg", extra: "1970" },
       { number: 269, title: "Paul Revere And The Raiders", desc: "Let Me<br>I Don't Know", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00269.jpg", extra: "1969" },
-      { number: 270, title: "Dave Clark Five", desc: "Southern Man<br>If You Wanna See Me Cry", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00270.jpg", extra: "1971" }
+      { number: 270, title: "Dave Clark Five", desc: "Southern Man<br>If You Wanna See Me Cry", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00270.jpg", extra: "1971" },
+      { number: 271, title: "Monique Melsen", desc: "Pomme Pomme Pomme<br>Fa Fa Fa", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00271.jpg", extra: "1971" },
+      { number: 272, title: "Severine", desc: "Un Banc Un Arbre Une Rue<br>Viens", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00272.jpg", extra: "1971" },
+      { number: 273, title: "Tom Jones", desc: "A Minute Of Your Time<br>Looking Out My Window", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00273.jpg", extra: "1968" },
+      { number: 274, title: "Clodagh Rodgers", desc: "Jack In The Box<br>Someone To Love Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00274.jpg", extra: "1971" },
+      { number: 275, title: "Rotation", desc: "Ra Ta Ta<br>Rotation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00275.jpg", extra: "1970" },
+      { number: 276, title: "Wilson Pickett", desc: "You Can't Stand Alone<br>Soul Dance Number Three", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00276.jpg", extra: "1967" },
+      { number: 277, title: "Beach Boys", desc: "Do It Again<br>Wake The World", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00277.jpg", extra: "1968" },
+      { number: 278, title: "Rolling Stones", desc: "Brown Sugar<br>Bitch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00278.jpg", extra: "1971" },
+      { number: 279, title: "Flaming Ember", desc: "Westbound No 9<br>Why Don't You Stay", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00279.jpg", extra: "1970" },
+      { number: 280, title: "Middle Of The Road", desc: "Chirpy Chirpy Cheep Cheep<br>Rainin' 'n Painin'", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00280.jpg", extra: "1971" }
     ]
   }
 };
+
 
 
 
