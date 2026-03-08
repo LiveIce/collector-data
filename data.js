@@ -1339,7 +1339,17 @@ const data = {
       { number: 227, title: "Family Affair", desc: "1966-1971", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0227.jpg", extra: "Säsonger: 5 - Avsnitt: 138" },
       { number: 228, title: "Lucky Man", desc: "2016-2018", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0228.jpg", extra: "Säsonger: 3 - Avsnitt: 28" },
       { number: 229, title: "The Alfred Hitchcock Hour", desc: "1962-1965", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0229.jpg", extra: "Säsonger: 3 - Avsnitt: 93" },
-      { number: 230, title: "The Norm Show", desc: "1999-2001", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0230.jpg", extra: "Säsonger: 3 - Avsnitt: 54" }
+      { number: 230, title: "The Norm Show", desc: "1999-2001", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0230.jpg", extra: "Säsonger: 3 - Avsnitt: 54" },
+      { number: 231, title: "Father Ted", desc: "1995-1998", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0231.jpg", extra: "Säsonger: 3 - Avsnitt: 24" },
+      { number: 232, title: "Ellen", desc: "1994-1998", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0232.jpg", extra: "Säsonger: 5 - Avsnitt: 109" },
+      { number: 233, title: "Beastmaster", desc: "1999-2002", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0233.jpg", extra: "Säsonger: 3 - Avsnitt: 66" },
+      { number: 234, title: "Morden", desc: "2009", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0234.jpg", extra: "Säsonger: 1 - Avsnitt: 6" },
+      { number: 235, title: "Pippi Långstrump", desc: "1969", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0235.jpg", extra: "Säsonger: 1 - Avsnitt: 13" },
+      { number: 236, title: "Någonstans I Sverige", desc: "1973-1974", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0236.jpg", extra: "Säsonger: 1 - Avsnitt: 7" },
+      { number: 237, title: "Röda Rummet", desc: "1970", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0237.jpg", extra: "Säsonger: 1 - Avsnitt: 9" },
+      { number: 238, title: "Äkta Människor", desc: "2012-2014", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0238.jpg", extra: "Säsonger: 2 - Avsnitt: 20" },
+      { number: 239, title: "Arabian Nights", desc: "2000", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0239.jpg", extra: "Säsonger: 1 - Avsnitt: 2" },
+      { number: 240, title: "Bread", desc: "1986-1991", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0240.jpg", extra: "Säsonger: 7 - Avsnitt: 61" }
     ],
     "Filmer": [
       {
@@ -2111,6 +2121,7 @@ const data = {
     ]
   }
 };
+
 
 
 
