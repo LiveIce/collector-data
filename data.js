@@ -2022,9 +2022,18 @@ const data = {
       { number: 260, title: "George Harrison", desc: "My Sweet Lord<br>Isn't It A Pity", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00260.jpg", extra: "1970" },
       { number: 261, title: "Bread", desc: "Let Your Love Go<br>Too Much Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00261.jpg", extra: "1971" },
       { number: 262, title: "Eric Burdon And War", desc: "They Can't Take Away Our Music<br>Home Cookin'", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00262.jpg", extra: "1970" },
+      { number: 263, title: "J J Light", desc: "Na Ru Ka<br>Follow Me Girl", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00263.jpg", extra: "1970" },
+      { number: 264, title: "Grin", desc: "We All Sung Together<br>See What A Love Can Do", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00264.jpg", extra: "1970" },
+      { number: 265, title: "MASH", desc: "Suicide Is Painless<br>JOHNNY MANDEL - The MASH March", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00265.jpg", extra: "1970" },
+      { number: 266, title: "Elvis Presley", desc: "A Little Less Conversation<br>Almost In Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00266.jpg", extra: "1968" },
+      { number: 267, title: "Andy Williams", desc: "(Where Do I Begin) Love Story<br>Something", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00267.jpg", extra: "1971" },
+      { number: 268, title: "Dawn", desc: "Candida<br>Look At", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00268.jpg", extra: "1970" },
+      { number: 269, title: "Paul Revere And The Raiders", desc: "Let Me<br>I Don't Know", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00269.jpg", extra: "1969" },
+      { number: 270, title: "Dave Clark Five", desc: "Southern Man<br>If You Wanna See Me Cry", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00270.jpg", extra: "1971" }
     ]
   }
 };
+
 
 
 
