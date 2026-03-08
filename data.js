@@ -1299,7 +1299,17 @@ const data = {
       { number: 187, title: "Why Women Kill", desc: "2019-2021", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0187.jpg", extra: "Säsonger: 2 - Avsnitt: 20" },
       { number: 188, title: "Three's Company", desc: "1977-1984", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0188.jpg", extra: "Säsonger: 8 - Avsnitt: 170" },
       { number: 189, title: "Perry Mason", desc: "1957-1966", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0189.jpg", extra: "Säsonger: 9 - Avsnitt: 261" },
-      { number: 190, title: "Taxi", desc: "1978-1983", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0190.jpg", extra: "Säsonger: 5 - Avsnitt: 114" }
+      { number: 190, title: "Taxi", desc: "1978-1983", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0190.jpg", extra: "Säsonger: 5 - Avsnitt: 114" },
+      { number: 191, title: "The Big Bang Theory", desc: "2007-2019", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0191.jpg", extra: "Säsonger: 12 - Avsnitt: 279" },
+      { number: 192, title: "Nip Tuck", desc: "2003-2010", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0192.jpg", extra: "Säsonger: 7 - Avsnitt: 100" },
+      { number: 193, title: "Family Ties", desc: "1982-1989", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0193.jpg", extra: "Säsonger: 7 - Avsnitt: 176" },
+      { number: 194, title: "The Love Boat", desc: "1977-1987", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0194.jpg", extra: "Säsonger: 10 - Avsnitt: 248" },
+      { number: 195, title: "Tarzan", desc: "1966-1968", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0195.jpg", extra: "Säsonger: 2 - Avsnitt: 57" },
+      { number: 196, title: "Highway To Heaven", desc: "1984-1989", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0196.jpg", extra: "Säsonger: 5 - Avsnitt: 111" },
+      { number: 197, title: "Silk Stalkings", desc: "1991-1999", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0197.jpg", extra: "Säsonger: 8 - Avsnitt: 176" },
+      { number: 198, title: "Ed", desc: "2000-2004", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0198.jpg", extra: "Säsonger: 4 - Avsnitt: 83" },
+      { number: 199, title: "Rumpole Of The Bailey", desc: "1978-1992", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0199.jpg", extra: "Säsonger: 7 - Avsnitt: 43" },
+      { number: 200, title: "Supergirl", desc: "2015-2021", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0200.jpg", extra: "Säsonger: 6 - Avsnitt: 126" }
     ],
     "Filmer": [
       {
@@ -2071,6 +2081,7 @@ const data = {
     ]
   }
 };
+
 
 
 
