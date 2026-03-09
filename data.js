@@ -1641,6 +1641,83 @@ const data = {
   desc: "Danny Kaye, Virginia Mayo<br>Benny Goodman, Louis Armstrong<br>Lionel Hampton, Tommy Dorsey<br>Regi: Howard Hawks",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Song%20Is%20Born%201948%20(OK37).jpg",
   extra: "Komedi / Musikal<br>1948 (OK37)"
+},
+{
+  number: 0,
+  title: "A Star Is Born",
+  desc: "Janet Gaynor, Fredric March<br>Adolphe Menjou, May Robson<br>Andy Devine, Lionel Stander<br>Regi: William A. Wellman",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Star%20Is%20Born%201937%20(OK38).jpg",
+  extra: "Drama / Romantik<br>1937 (OK38)"
+},
+{
+  number: 0,
+  title: "A Star Is Born",
+  desc: "Lady Gaga, Bradley Cooper<br>Sam Elliott, Andrew Dice Clay<br>Rafi Gavron, Anthony Ramos<br>Regi: Bradley Cooper",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Star%20Is%20Born%202018%20(D).jpg",
+  extra: "Drama / Musik<br>2018 (D)"
+},
+{
+  number: 0,
+  title: "A Summer Place",
+  desc: "Richard Egan, Dorothy McGuire<br>Troy Donahue, Sandra Dee<br>Arthur Kennedy, Beulah Bondi<br>Regi: Delmer Daves",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Summer%20Place%201959%20(OK828).jpg",
+  extra: "Drama / Romantik<br>1959 (OK828)"
+},
+{
+  number: 0,
+  title: "A Timeless Christmas",
+  desc: "Erin Cahill, Ryan Paevey<br>Brandi Alexander, Zahra Anderson<br>Nelson Wong, Michael Hurst<br>Regi: Ron Oliver",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Timeless%20Christmas%202020%20(OK519).jpg",
+  extra: "Fantasy / Romantik<br>2020 (OK519)"
+},
+{
+  number: 0,
+  title: "A Trip To The Moon",
+  desc: "Georges Méliès, Bleuette Bernon<br>François Lallement, Henri Delannoy<br>Victor André, Brunnet<br>Regi: Georges Méliès",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Trip%20To%20The%20Moon%201902%20(OK520).jpg",
+  extra: "Äventyr / Sci-Fi<br>1902 (OK520)"
+},
+{
+  number: 0,
+  title: "A Very Charming Christmas Town",
+  desc: "Natalie Hall, Jon Corr<br>Kelley Jakle, Jo Marie Payton<br>Tracey E. Bregman, Kazumi Evans<br>Regi: Jake Helgren",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20Very%20Charming%20Christmas%20Town%202020%20(OK521).jpg",
+  extra: "Romantik / Drama<br>2020 (OK521)"
+},
+{
+  number: 0,
+  title: "A View To A Kill",
+  desc: "Roger Moore, Christopher Walken<br>Tanya Roberts, Grace Jones<br>Patrick Macnee, Patrick Bauchau<br>Regi: John Glen",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/A%20View%20To%20A%20Kill%201985%20(Bond).jpg",
+  extra: "Action / Äventyr<br>1985 (Bond)"
+},
+{
+  number: 0,
+  title: "Abigail",
+  desc: "Melissa Barrera, Dan Stevens<br>Alisha Weir, Kathryn Newton<br>Kevin Durand, Angus Cloud<br>Regi: Matt Bettinelli-Olpin, Tyler Gillett",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Abigail%202024%20(OK898).jpg",
+  extra: "Skräck / Thriller<br>2024 (OK898)"
+},
+{
+  number: 0,
+  title: "Adam Had Four Sons",
+  desc: "Ingrid Bergman, Warner Baxter<br>Susan Hayward, Fay Wray<br>Richard Denning, Johnny Downs<br>Regi: Gregory Ratoff",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Adam%20Had%20Four%20Sons%201941%20(OK947).jpg",
+  extra: "Drama / Romantik<br>1941 (OK947)"
+},
+{
+  number: 0,
+  title: "Adrift",
+  desc: "Shailene Woodley, Sam Claflin<br>Jeffrey Thomas, Elizabeth Hawthorne<br>Grace Palmer, Tami Ashcraft<br>Regi: Baltasar Kormákur",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Adrift%202018%20(OK201).jpg",
+  extra: "Action / Äventyr<br>2018 (OK201)"
+},
+{
+  number: 0,
+  title: "Adventures In Babysitting",
+  desc: "Elisabeth Shue, Maia Brewster<br>Keith Coogan, Anthony Rapp<br>Calvin Levels, Vincent D'Onofrio<br>Regi: Chris Columbus",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Adventures%20In%20Babysitting%201987%20(F14).jpg",
+  extra: "Äventyr / Komedi<br>1987 (F14)"
 }      
     ]
   },
@@ -2131,6 +2208,7 @@ const data = {
     ]
   }
 };
+
 
 
 
