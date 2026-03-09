@@ -1910,7 +1910,7 @@ const data = {
 },
 {
   number: 0,
-  title: "Anita: Ur En Tonårsflickas Dagbok",
+  title: "Anita Ur En Tonårsflickas Dagbok",
   desc: "Christina Lindberg, Stellan Skarsgård<br>Danièle Vlaminck, Michel Duchaussoy<br>Erika Wickman, Per-Axel Arosenius<br>Regi: Torgny Wickman",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Anita%20Ur%20En%20Ton\u00e5rsflickas%20Dagbok%201973%20(OK899).jpg",
   extra: "Drama / Romantik<br>1973 (OK899)"
@@ -2439,6 +2439,7 @@ const data = {
     ]
   }
 };
+
 
 
 
