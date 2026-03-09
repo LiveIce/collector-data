@@ -1718,6 +1718,125 @@ const data = {
   desc: "Elisabeth Shue, Maia Brewster<br>Keith Coogan, Anthony Rapp<br>Calvin Levels, Vincent D'Onofrio<br>Regi: Chris Columbus",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Adventures%20In%20Babysitting%201987%20(F14).jpg",
   extra: "Äventyr / Komedi<br>1987 (F14)"
+},
+{
+  number: 0,
+  title: "Adventures Of Captain Fabian",
+  desc: "Errol Flynn, Micheline Presle<br>Vincent Price, Agnes Moorehead<br>Victor Francen, Jim Gérald<br>Regi: William Marshall",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Adventures%20Of%20Captain%20Fabian%201951%20(OK522).jpg",
+  extra: "Äventyr / Drama<br>1951 (OK522)"
+},
+{
+  number: 0,
+  title: "Adventures Of Don Juan",
+  desc: "Errol Flynn, Viveca Lindfors<br>Robert Douglas, Alan Hale<br>Ann Rutherford, Robert Warwick<br>Regi: Vincent Sherman",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Adventures%20Of%20Don%20Juan%201948%20(OK390).jpg",
+  extra: "Äventyr / Romantik<br>1948 (OK390)"
+},
+{
+  number: 0,
+  title: "AfrAId",
+  desc: "John Cho, Katherine Waterston<br>Havana Rose Liu, Lukita Maxwell<br>David Dastmalchian, Keith Carradine<br>Regi: Chris Weitz",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/AfrAId%202024%20(OK258).jpg",
+  extra: "Skräck / Sci-Fi<br>2024 (OK258)"
+},
+{
+  number: 0,
+  title: "After The Fox",
+  desc: "Peter Sellers, Victor Mature<br>Britt Ekland, Martin Balsam<br>Akim Tamiroff, Paolo Stoppa<br>Regi: Vittorio De Sica",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/After%20The%20Fox%201966%20(OK39).jpg",
+  extra: "Komedi / Kriminal<br>1966 (OK39)"
+},
+{
+  number: 0,
+  title: "Against All Odds",
+  desc: "Jeff Bridges, Rachel Ward<br>James Woods, Alex Karras<br>Jane Greer, Richard Widmark<br>Regi: Taylor Hackford",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Against%20All%20Odds%201984%20(OK523).jpg",
+  extra: "Action / Kriminal<br>1984 (OK523)"
+},
+{
+  number: 0,
+  title: "Ainsley McGregor Mysteries A Case For The Winemaker",
+  desc: "Candace Cameron Bure, Aaron Ashmore<br>Robin Dunne, Barbara Niven<br>Sebastian Roché, Marc Senior<br>Regi: Martin Wood",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Ainsley%20McGregor%20Mysteries%20A%20Case%20For%20The%20Winemaker%202024%20(OK1058).jpg",
+  extra: "Mysterium / Kriminal<br>2024 (OK1058)"
+},
+{
+  number: 0,
+  title: "Ainsley McGregor Mysteries A Case For The Yarn Maker",
+  desc: "Candace Cameron Bure, Aaron Ashmore<br>Robin Dunne, Barbara Niven<br>Sebastian Roché, Marc Senior<br>Regi: Martin Wood",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Ainsley%20McGregor%20Mysteries%20A%20Case%20For%20The%20Yarn%20Maker%202025%20(OK1059).jpg",
+  extra: "Mysterium / Kriminal<br>2025 (OK1059)"
+},
+{
+  number: 0,
+  title: "Airport '77",
+  desc: "Jack Lemmon, Lee Grant<br>James Stewart, George Kennedy<br>Brenda Vaccaro, Christopher Lee<br>Regi: Jerry Jameson",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Airport%20'77%201977%20(OK1142).jpg",
+  extra: "Action / Äventyr<br>1977 (OK1142)"
+},
+{
+  number: 0,
+  title: "Aladdin",
+  desc: "Will Smith, Mena Massoud<br>Naomi Scott, Marwan Kenzari<br>Navid Negahban, Nasim Pedrad<br>Regi: Guy Ritchie",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Aladdin%202019%20(D)%20(Disney).jpg",
+  extra: "Äventyr / Fantasy<br>2019 (D) (Disney)"
+},
+{
+  number: 0,
+  title: "Aleksi",
+  desc: "Tihana Lazović, Goran Marković<br>Leon Lučev, Sebastian Cavazza<br>Neda Arnerić, Aljoša Vučković<br>Regi: Barbara Vekarić",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Aleksi%202018%20(OK932).jpg",
+  extra: "Drama / Romantik<br>2018 (OK932)"
+},
+{
+  number: 0,
+  title: "Alias Jesse James",
+  desc: "Bob Hope, Rhonda Fleming<br>Wendell Corey, Gloria Talbott<br>Jim Davis, Will Wright<br>Regi: Norman Z. McLeod",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Alias%20Jesse%20James%201959%20(OK40).jpg",
+  extra: "Komedi / Western<br>1959 (OK40)"
+},
+{
+  number: 0,
+  title: "Alien Romulus",
+  desc: "Cailee Spaeny, David Jonsson<br>Archie Renaux, Isabela Merced<br>Spike Fearn, Aileen Wu<br>Regi: Fede Alvarez",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Alien%20Romulus%202024%20(OK1108).jpg",
+  extra: "Skräck / Sci-Fi<br>2024 (OK1108)"
+},
+{
+  number: 0,
+  title: "Alita Battle Angel",
+  desc: "Rosa Salazar, Christoph Waltz<br>Jennifer Connelly, Mahershala Ali<br>Ed Skrein, Jackie Earle Haley<br>Regi: Robert Rodriguez",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Alita%20Battle%20Angel%202019%20(OK41).jpg",
+  extra: "Action / Sci-Fi<br>2019 (OK41)"
+},
+{
+  number: 0,
+  title: "Alive Or Preferably Dead",
+  desc: "Giuliano Gemma, Nino Benvenuti<br>Sydne Rome, Cris Huerta<br>George Rigaud, Julio Peña<br>Regi: Duccio Tessari",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Alive%20Or%20Preferably%20Dead%201969%20(OK42).jpg",
+  extra: "Western / Komedi<br>1969 (OK42)"
+},
+{
+  number: 0,
+  title: "All American Co Ed",
+  desc: "Frances Langford, Johnny Downs<br>Marjorie Woodworth, Noah Beery Jr.<br>Esther Dale, Harry Langdon<br>Regi: LeRoy Prinz",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/All%20American%20Co%20Ed%201941%20(Musicals%20Box).jpg",
+  extra: "Komedi / Musik<br>1941 (Musicals Box)"
+},
+{
+  number: 0,
+  title: "All In A Nights Work",
+  desc: "Dean Martin, Shirley MacLaine<br>Cliff Robertson, Charlie Ruggles<br>Norma Crane, Gale Gordon<br>Regi: Joseph Anthony",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/All%20In%20A%20Nights%20Work%201961%20(OK443).jpg",
+  extra: "Komedi / Romantik<br>1961 (OK443)"
+},
+{
+  number: 0,
+  title: "All Of Me",
+  desc: "Steve Martin, Lily Tomlin<br>Victoria Tennant, Madolyn Smith Osborne<br>Richard Libertini, Dana Elcar<br>Regi: Carl Reiner",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/All%20Of%20Me%201984%20(OK524).jpg",
+  extra: "Komedi / Fantasy<br>1984 (OK524)"
 }      
     ]
   },
@@ -2208,6 +2327,7 @@ const data = {
     ]
   }
 };
+
 
 
 
