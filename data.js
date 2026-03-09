@@ -2439,10 +2439,21 @@ const data = {
       { number: 277, title: "Beach Boys", desc: "Do It Again<br>Wake The World", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00277.jpg", extra: "1968" },
       { number: 278, title: "Rolling Stones", desc: "Brown Sugar<br>Bitch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00278.jpg", extra: "1971" },
       { number: 279, title: "Flaming Ember", desc: "Westbound No 9<br>Why Don't You Stay", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00279.jpg", extra: "1970" },
-      { number: 280, title: "Middle Of The Road", desc: "Chirpy Chirpy Cheep Cheep<br>Rainin' 'n Painin'", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00280.jpg", extra: "1971" }
+      { number: 280, title: "Middle Of The Road", desc: "Chirpy Chirpy Cheep Cheep<br>Rainin' 'n Painin'", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00280.jpg", extra: "1971" },
+      { number: 281, title: "Ringo Starr", desc: "It Don't Come Easy<br>Early 1970", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00281.jpg", extra: "1971" },
+      { number: 282, title: "Slade", desc: "Get Down And Get With It<br>Gospel According To Rasputin", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00282.jpg", extra: "1971" },
+      { number: 283, title: "John And Yoko", desc: "Power To The People<br>Open Your Box", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00283.jpg", extra: "1971" },
+      { number: 284, title: "Raiders", desc: "Indian Reservation<br>Terry's Tune", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00284.jpg", extra: "1971" },
+      { number: 285, title: "CCS", desc: "Walking<br>Salome", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00285.jpg", extra: "1971" },
+      { number: 286, title: "Tom Fogerty", desc: "Goodbye Media Man Part 1 And 2", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00286.jpg", extra: "1971" },
+      { number: 287, title: "George Harrison", desc: "What Is Life<br>Apple Scruffs", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00287.jpg", extra: "1971" },
+      { number: 288, title: "George Harrison", desc: "Bangla Desh<br>Deep Blue", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00288.jpg", extra: "1971" },
+      { number: 289, title: "T Rex", desc: "Hot Love<br>Woodland Rock<br>The King Of The Mountain Cometh", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00289.jpg", extra: "1971" },
+      { number: 290, title: "Himalaya", desc: "Put Your Hand In The Hand<br>Imagination", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00290.jpg", extra: "1971" }
     ]
   }
 };
+
 
 
 
