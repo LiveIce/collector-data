@@ -1765,7 +1765,7 @@ const data = {
   number: 0,
   title: "Ainsley McGregor Mysteries A Case For The Yarn Maker",
   desc: "Candace Cameron Bure, Aaron Ashmore<br>Robin Dunne, Barbara Niven<br>Sebastian Roché, Marc Senior<br>Regi: Martin Wood",
-  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Ainsley%20McGregor%20Mysteries%20A%20Case%20For%20The%20Yarn%20Maker%202025%20(OK1059).jpg",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Ainsley%20McGregor%20Mysteries%20A%20Case%20For%20The%20Yarn%20Maker%202025%20(OK1059).png",
   extra: "Mysterium / Kriminal<br>2025 (OK1059)"
 },
 {
@@ -1837,6 +1837,118 @@ const data = {
   desc: "Steve Martin, Lily Tomlin<br>Victoria Tennant, Madolyn Smith Osborne<br>Richard Libertini, Dana Elcar<br>Regi: Carl Reiner",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/All%20Of%20Me%201984%20(OK524).jpg",
   extra: "Komedi / Fantasy<br>1984 (OK524)"
+},
+{
+  number: 0,
+  title: "All Quiet On The Western Front",
+  desc: "Lew Ayres, Louis Wolheim<br>John Wray, Arnold Lucy<br>Ben Alexander, Scott Kolk<br>Regi: Lewis Milestone",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/All%20Quiet%20On%20The%20Western%20Front%201930%20(OK43).jpg",
+  extra: "Krig / Drama<br>1930 (OK43)"
+},
+{
+  number: 0,
+  title: "All Quiet On The Western Front",
+  desc: "Felix Kammerer, Albrecht Schuch<br>Aaron Hilmer, Moritz Klaus<br>Edin Hasanovic, Daniel Brühl<br>Regi: Edward Berger",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/All%20Quiet%20On%20The%20Western%20Front%202022%20(OK464).jpg",
+  extra: "Krig / Drama<br>2022 (OK464)"
+},
+{
+  number: 0,
+  title: "Allt För Min Son",
+  desc: "Léa Drucker, Denis Ménochet<br>Thomas Gioria, Mathilde Auneveux<br>Mathieu Saïkaly, Florence Janas<br>Regi: Xavier Legrand",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Allt%20F\u00f6r%20Min%20Son%202017%20(OK391).jpg",
+  extra: "Drama / Thriller<br>2017 (OK391)"
+},
+{
+  number: 0,
+  title: "Almost An Angel",
+  desc: "Paul Hogan, Elias Koteas<br>Linda Kozlowski, Doreen Lang<br>Douglas Seale, Ruth Cracknell<br>Regi: John Cornell",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Almost%20An%20Angel%201990%20(OK525).jpg",
+  extra: "Komedi / Fantasy<br>1990 (OK525)"
+},
+{
+  number: 0,
+  title: "Along Came A Spider",
+  desc: "Morgan Freeman, Monica Potter<br>Michael Wincott, Dylan Baker<br>Mika Boorem, Anton Yelchin<br>Regi: Lee Tamahori",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Along%20Came%20A%20Spider%202001%20(OK444).jpg",
+  extra: "Thriller / Kriminal<br>2001 (OK444)"
+},
+{
+  number: 0,
+  title: "Along Came Jones",
+  desc: "Gary Cooper, Loretta Young<br>William Demarest, Dan Duryea<br>Frank Sully, Walter Sande<br>Regi: Stuart Heisler",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Along%20Came%20Jones%201945%20(OK44).jpg",
+  extra: "Western / Komedi<br>1945 (OK44)"
+},
+{
+  number: 0,
+  title: "American Graffiti",
+  desc: "Richard Dreyfuss, Ron Howard<br>Paul Le Mat, Charles Martin Smith<br>Cindy Williams, Harrison Ford<br>Regi: George Lucas",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/American%20Graffiti%201973%20(F48).jpg",
+  extra: "Komedi / Drama<br>1973 (F48)"
+},
+{
+  number: 0,
+  title: "Amongst Vultures",
+  desc: "Stewart Granger, Pierre Brice<br>Elke Sommer, Götz George<br>Walter Barnes, Sieghardt Rupp<br>Regi: Alfred Vohrer",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Amongst%20Vultures%201964%20(Winnetou).jpg",
+  extra: "Western / Äventyr<br>1964 (Winnetou)"
+},
+{
+  number: 0,
+  title: "Amsterdam",
+  desc: "Christian Bale, Margot Robbie<br>John David Washington, Chris Rock<br>Anya Taylor-Joy, Robert De Niro<br>Regi: David O. Russell",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Amsterdam%202022%20(OK1039).jpg",
+  extra: "Mysterium / Komedi<br>2022 (OK1039)"
+},
+{
+  number: 0,
+  title: "An American In Paris",
+  desc: "Gene Kelly, Leslie Caron<br>Oscar Levant, Georges Guétary<br>Nina Foch, Eugene Borden<br>Regi: Vincente Minnelli",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/An%20American%20In%20Paris%201951%20(F82).jpg",
+  extra: "Musikal / Romantik<br>1951 (F82)"
+},
+{
+  number: 0,
+  title: "Anita: Ur En Tonårsflickas Dagbok",
+  desc: "Christina Lindberg, Stellan Skarsgård<br>Danièle Vlaminck, Michel Duchaussoy<br>Erika Wickman, Per-Axel Arosenius<br>Regi: Torgny Wickman",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Anita%20Ur%20En%20Ton\u00e5rsflickas%20Dagbok%201973%20(OK899).jpg",
+  extra: "Drama / Romantik<br>1973 (OK899)"
+},
+{
+  number: 0,
+  title: "Anna",
+  desc: "Sasha Luss, Helen Mirren<br>Luke Evans, Cillian Murphy<br>Lera Abova, Alexander Petrov<br>Regi: Luc Besson",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Anna%202019%20(OK957).jpg",
+  extra: "Action / Thriller<br>2019 (OK957)"
+},
+{
+  number: 0,
+  title: "Annie Get Your Gun",
+  desc: "Betty Hutton, Howard Keel<br>Louis Calhern, J. Carrol Naish<br>Edward Arnold, Keenan Wynn<br>Regi: George Sidney",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Annie%20Get%20Your%20Gun%201950%20(OK45).jpg",
+  extra: "Musikal / Western<br>1950 (OK45)"
+},
+{
+  number: 0,
+  title: "Ant Man And The Wasp Quantumania",
+  desc: "Paul Rudd, Evangeline Lilly<br>Jonathan Majors, Kathryn Newton<br>Michelle Pfeiffer, Michael Douglas<br>Regi: Peyton Reed",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Ant%20Man%20And%20The%20Wasp%20Quantumania%202023%20(OK466).jpg",
+  extra: "Action / Sci-Fi<br>2023 (OK466)"
+},
+{
+  number: 0,
+  title: "Antlers",
+  desc: "Keri Russell, Jesse Plemons<br>Jeremy T. Thomas, Graham Greene<br>Scott Haze, Rory Cochrane<br>Regi: Scott Cooper",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Antlers%202021%20(OK785).jpg",
+  extra: "Skräck / Drama<br>2021 (OK785)"
+},
+{
+  number: 0,
+  title: "Anyone But You",
+  desc: "Sydney Sweeney, Glen Powell<br>Alexandra Shipp, GaTa<br>Hadley Robinson, Dermot Mulroney<br>Regi: Will Gluck",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Anyone%20But%20You%202023%20(OK118).jpg",
+  extra: "Romantik / Komedi<br>2023 (OK118)"
 }      
     ]
   },
@@ -2327,6 +2439,7 @@ const data = {
     ]
   }
 };
+
 
 
 
