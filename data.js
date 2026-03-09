@@ -750,8 +750,12 @@ const data = {
       { number: 31, title: "Malthael", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort31b.jpg", extra: "Baksida" },
       { number: 80, title: "Banshee", desc: "StarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort80a.jpg", extra: "Framsida" },
       { number: 80, title: "Banshee", desc: "StarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort80b.jpg", extra: "Baksida" },
+      { number: 99, title: "Malfurion Stormrage", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort99a.jpg", extra: "Framsida" },
+      { number: 99, title: "Malfurion Stormrage", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort99b.jpg", extra: "Baksida" },
       { number: 101, title: "Kil'jaeden", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort101a.jpg", extra: "Framsida" },
       { number: 101, title: "Kil'jaeden", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort101b.jpg", extra: "Baksida" },
+      { number: 102, title: "Mannoroth", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort102a.jpg", extra: "Framsida" },
+      { number: 102, title: "Mannoroth", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort102b.jpg", extra: "Baksida" },
       { number: 106, title: "Malygos", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort106a.jpg", extra: "Framsida" },
       { number: 106, title: "Malygos", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort106b.jpg", extra: "Baksida" },
       { number: 109, title: "Jaina Proudmoore", desc: "HearthStone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort109a.jpg", extra: "Framsida" },
@@ -2439,6 +2443,7 @@ const data = {
     ]
   }
 };
+
 
 
 
