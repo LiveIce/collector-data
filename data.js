@@ -2449,10 +2449,21 @@ const data = {
       { number: 287, title: "George Harrison", desc: "What Is Life<br>Apple Scruffs", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00287.jpg", extra: "1971" },
       { number: 288, title: "George Harrison", desc: "Bangla Desh<br>Deep Blue", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00288.jpg", extra: "1971" },
       { number: 289, title: "T Rex", desc: "Hot Love<br>Woodland Rock<br>The King Of The Mountain Cometh", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00289.jpg", extra: "1971" },
-      { number: 290, title: "Himalaya", desc: "Put Your Hand In The Hand<br>Imagination", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00290.jpg", extra: "1971" }
+      { number: 290, title: "Himalaya", desc: "Put Your Hand In The Hand<br>Imagination", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00290.jpg", extra: "1971" },
+      { number: 291, title: "New World", desc: "Tom Tom Turnaround<br>Lay Me Down", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00291.jpg", extra: "1971" },
+      { number: 292, title: "Jose Feliciano", desc: "Shake A Hand<br>There's No One About", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00292.jpg", extra: "1971" },
+      { number: 293, title: "Lobo", desc: "Me And You And A Dog Named Boo<br>Walk Away From It All", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00293.jpg", extra: "1971" },
+      { number: 294, title: "Shakane", desc: "Big Step<br>Knight In Shining Armour", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00294.jpg", extra: "1971" },
+      { number: 295, title: "Middle Of The Road", desc: "Tweedle Dee Tweedle Dum<br>Give It Time", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00295.jpg", extra: "1971" },
+      { number: 296, title: "CCS", desc: "Tap Turns On The Water<br>Save The World", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00296.jpg", extra: "1971" },
+      { number: 297, title: "New Seekers", desc: "Beg Steal Or Borrow<br>Sing Out", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00297.jpg", extra: "1972" },
+      { number: 298, title: "Slade", desc: "Cuz I Luv You<br>My Life Is Natural", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00298.jpg", extra: "1971" },
+      { number: 299, title: "White Plains", desc: "Every Little Move She Makes<br>Carolina's Comin' Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00299.jpg", extra: "1971" },
+      { number: 300, title: "Graham Nash", desc: "Chicago<br>Simple Man", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00300.jpg", extra: "1971" }
     ]
   }
 };
+
 
 
 
