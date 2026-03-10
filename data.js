@@ -2463,9 +2463,15 @@ const data = {
       { number: 299, title: "White Plains", desc: "Every Little Move She Makes<br>Carolina's Comin' Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00299.jpg", extra: "1971" },
       { number: 300, title: "Graham Nash", desc: "Chicago<br>Simple Man", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00300.jpg", extra: "1971" },
       { number: 301, title: "Tony Ronald", desc: "Help (Get Me Some Help)<br>Once Upon A Time", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00301.jpg", extra: "1971" },
-      { number: 302, title: "Chicory Tip", desc: "Son Of My Father<b>Pride Comes Before A Fall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00302.jpg", extra: "1972" },
+      { number: 302, title: "Chicory Tip", desc: "Son Of My Father<br>Pride Comes Before A Fall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00302.jpg", extra: "1972" },
       { number: 303, title: "Middle Of The Road", desc: "Soley Soley<br>To Remind Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00303.jpg", extra: "1971" },
-      { number: 304, title: "John Lennon", desc: "Imagine<br>It's So Hard", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00304.jpg", extra: "1971" }
+      { number: 304, title: "John Lennon", desc: "Imagine<br>It's So Hard", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00304.jpg", extra: "1971" },
+	  { number: 305, title: "Sweet", desc: "Funny Funny<br>You're Wrong For Loving Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00305.jpg", extra: "1971" },
+	  { number: 306, title: "Sweet", desc: "Co Co<br>Done Me Wrong All Right", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00306.jpg", extra: "1971" },
+	  { number: 307, title: "Sweet", desc: "Alexander Graham Bell<br>Spotlight", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00307.jpg", extra: "1971" },
+	  { number: 308, title: "Sweet", desc: "All You'll Ever Get From Me<br>The Juicer", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00308.jpg", extra: "1971" },
+	  { number: 309, title: "Sweet", desc: "Poppa Joe<br>Jeanie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00309.jpg", extra: "1972" },
+	  { number: 310, title: "Middle Of The Road", desc: "Sacramento (A Wonderful Town)<br>Love Sweet Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00310.jpg", extra: "1972" },
     ]
   }
 };
