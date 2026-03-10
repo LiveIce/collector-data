@@ -2471,11 +2471,20 @@ const data = {
 	  { number: 307, title: "Sweet", desc: "Alexander Graham Bell<br>Spotlight", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00307.jpg", extra: "1971" },
 	  { number: 308, title: "Sweet", desc: "All You'll Ever Get From Me<br>The Juicer", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00308.jpg", extra: "1971" },
 	  { number: 309, title: "Sweet", desc: "Poppa Joe<br>Jeanie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00309.jpg", extra: "1972" },
-	  { number: 310, title: "Middle Of The Road", desc: "Sacramento (A Wonderful Town)<br>Love Sweet Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00310.jpg", extra: "1972" }
+	  { number: 310, title: "Middle Of The Road", desc: "Sacramento (A Wonderful Town)<br>Love Sweet Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00310.jpg", extra: "1972" },
+	  { number: 311, title: "Gilbert O'Sullivan", desc: "Matrimony<br>January Git", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00311.jpg", extra: "1972" },
+	  { number: 312, title: "Tom Jones", desc: "The Young New Mexican Puppeteer<br>All That I Need Is Some Time", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00312.jpg", extra: "1972" },
+	  { number: 313, title: "Tony Christie", desc: "(Is This The Way To) Amarillo<br>Love Is A Friend Of Mine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00313.jpg", extra: "1971" },
+	  { number: 314, title: "Sweet", desc: "Little Willy<br>Man From Mecca", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00314.jpg", extra: "1972" },
+	  { number: 315, title: "Daniel Boone", desc: "Beautiful Sunday<br>Truly Julie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00315.jpg", extra: "1972" },
+	  { number: 316, title: "Gilbert O'Sullivan", desc: "Alone Again (Naturally)<br>Save It", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00316.jpg", extra: "1972" },
+	  { number: 317, title: "Malo", desc: "Suavecito<br>Nena", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00317.jpg", extra: "1972" },
+	  { number: 318, title: "Fickle Pickle", desc: "American Pie<br>Blown Away", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00318.jpg", extra: "1972" },
+	  { number: 319, title: "Michael Jackson", desc: "Rockin' Robin<br>Love Is Here And Now You're Gone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00319.jpg", extra: "1972" },
+	  { number: 320, title: "Wolf River Band", desc: "Ramblin' Home<br>Tearin' Up", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00320.jpg", extra: "1971" }
     ]
   }
 };
-
 
 
 
