@@ -2471,10 +2471,11 @@ const data = {
 	  { number: 307, title: "Sweet", desc: "Alexander Graham Bell<br>Spotlight", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00307.jpg", extra: "1971" },
 	  { number: 308, title: "Sweet", desc: "All You'll Ever Get From Me<br>The Juicer", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00308.jpg", extra: "1971" },
 	  { number: 309, title: "Sweet", desc: "Poppa Joe<br>Jeanie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00309.jpg", extra: "1972" },
-	  { number: 310, title: "Middle Of The Road", desc: "Sacramento (A Wonderful Town)<br>Love Sweet Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00310.jpg", extra: "1972" },
+	  { number: 310, title: "Middle Of The Road", desc: "Sacramento (A Wonderful Town)<br>Love Sweet Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00310.jpg", extra: "1972" }
     ]
   }
 };
+
 
 
 
