@@ -722,6 +722,8 @@ const data = {
       { number: 44, title: "Simon Zoller", desc: "<b>Simon Zoller</b><br>26 juni 1991 i Friedrichshafen, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort44.jpg", extra: "Anfallare - VfL Bochum 1848" },
       { number: 57, title: "Ansgar Knauff", desc: "<b>Ansgar Knauff</b><br>10 januari 2002 i Göttingen, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort57.jpg", extra: "Mittfältare - Borussia Dortmund" },
       { number: 58, title: "Gregor Kobel", desc: "<b>Gregor Kobel</b><br>6 december 1997 i Zürich, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort58.jpg", extra: "Målvakt - Borussia Dortmund" },
+      { number: 59, title: "Thorgan Hazard", desc: "<b>Thorgan Ganael Francis Hazard</b><br>29 mars 1993 i La Louvière, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort59.jpg", extra: "Mittfältare - Borussia Dortmund" },
+      { number: 60, title: "Mats Hummels", desc: "<b>Mats Hummels</b><br>16 december 1988 i Bergisch Gladbach, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort59.jpg", extra: "Försvarare - Borussia Dortmund" },
       { number: 61, title: "Kevin Trapp", desc: "<b>Kevin Trapp</b><br>8 juli 1990 i Merzig, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort61.jpg", extra: "Målvakt - Eintracht Frankfurt" },
       { number: 62, title: "Makoto Hasebe", desc: "<b>Makoto Hasebe</b><br>18 januari 1984 i Fujieda, Shizuoka prefektur, Japan", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort62.jpg", extra: "Mittfältare - Eintracht Frankfurt" },
       { number: 65, title: "Evan Ndicka", desc: "<b>Evan N'Dicka</b><br>20 augusti 1999 i Paris, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort65.jpg", extra: "Försvarare - Eintracht Frankfurt" },
@@ -2463,6 +2465,7 @@ const data = {
     ]
   }
 };
+
 
 
 
