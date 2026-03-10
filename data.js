@@ -2461,10 +2461,12 @@ const data = {
       { number: 297, title: "New Seekers", desc: "Beg Steal Or Borrow<br>Sing Out", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00297.jpg", extra: "1972" },
       { number: 298, title: "Slade", desc: "Cuz I Luv You<br>My Life Is Natural", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00298.jpg", extra: "1971" },
       { number: 299, title: "White Plains", desc: "Every Little Move She Makes<br>Carolina's Comin' Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00299.jpg", extra: "1971" },
-      { number: 300, title: "Graham Nash", desc: "Chicago<br>Simple Man", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00300.jpg", extra: "1971" }
+      { number: 300, title: "Graham Nash", desc: "Chicago<br>Simple Man", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00300.jpg", extra: "1971" },
+      { number: 301, title: "Tony Ronald", desc: "Help (Get Me Some Help)<br>Once Upon A Time", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00301.jpg", extra: "1971" }
     ]
   }
 };
+
 
 
 
