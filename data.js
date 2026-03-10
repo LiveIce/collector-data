@@ -723,7 +723,7 @@ const data = {
       { number: 57, title: "Ansgar Knauff", desc: "<b>Ansgar Knauff</b><br>10 januari 2002 i Göttingen, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort57.jpg", extra: "Mittfältare - Borussia Dortmund" },
       { number: 58, title: "Gregor Kobel", desc: "<b>Gregor Kobel</b><br>6 december 1997 i Zürich, Schweiz", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort58.jpg", extra: "Målvakt - Borussia Dortmund" },
       { number: 59, title: "Thorgan Hazard", desc: "<b>Thorgan Ganael Francis Hazard</b><br>29 mars 1993 i La Louvière, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort59.jpg", extra: "Mittfältare - Borussia Dortmund" },
-      { number: 60, title: "Mats Hummels", desc: "<b>Mats Hummels</b><br>16 december 1988 i Bergisch Gladbach, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort59.jpg", extra: "Försvarare - Borussia Dortmund" },
+      { number: 60, title: "Mats Hummels", desc: "<b>Mats Hummels</b><br>16 december 1988 i Bergisch Gladbach, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort60.jpg", extra: "Försvarare - Borussia Dortmund" },
       { number: 61, title: "Kevin Trapp", desc: "<b>Kevin Trapp</b><br>8 juli 1990 i Merzig, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort61.jpg", extra: "Målvakt - Eintracht Frankfurt" },
       { number: 62, title: "Makoto Hasebe", desc: "<b>Makoto Hasebe</b><br>18 januari 1984 i Fujieda, Shizuoka prefektur, Japan", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort62.jpg", extra: "Mittfältare - Eintracht Frankfurt" },
       { number: 65, title: "Evan Ndicka", desc: "<b>Evan N'Dicka</b><br>20 augusti 1999 i Paris, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort65.jpg", extra: "Försvarare - Eintracht Frankfurt" },
@@ -2462,10 +2462,14 @@ const data = {
       { number: 298, title: "Slade", desc: "Cuz I Luv You<br>My Life Is Natural", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00298.jpg", extra: "1971" },
       { number: 299, title: "White Plains", desc: "Every Little Move She Makes<br>Carolina's Comin' Home", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00299.jpg", extra: "1971" },
       { number: 300, title: "Graham Nash", desc: "Chicago<br>Simple Man", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00300.jpg", extra: "1971" },
-      { number: 301, title: "Tony Ronald", desc: "Help (Get Me Some Help)<br>Once Upon A Time", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00301.jpg", extra: "1971" }
+      { number: 301, title: "Tony Ronald", desc: "Help (Get Me Some Help)<br>Once Upon A Time", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00301.jpg", extra: "1971" },
+      { number: 302, title: "Chicory Tip", desc: "Son Of My Father<b>Pride Comes Before A Fall", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00302.jpg", extra: "1972" },
+      { number: 303, title: "Middle Of The Road", desc: "Soley Soley<br>To Remind Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00303.jpg", extra: "1971" },
+      { number: 304, title: "John Lennon", desc: "Imagine<br>It's So Hard", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00304.jpg", extra: "1971" }
     ]
   }
 };
+
 
 
 
