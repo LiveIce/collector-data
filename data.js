@@ -2502,8 +2502,10 @@ const data = {
 	  { number: 338, title: "Blue Ridge Rangers", desc: "Jambalaya<br>Workin' On A Building", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00338.jpg", extra: "1972" },
 	  { number: 339, title: "Osmonds", desc: "Crazy Horses<br>That's My Girl", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00339.jpg", extra: "1972" },
 	  { number: 340, title: "Joe Cocker", desc: "Pardon Me Sir<br>She Don't Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00340.jpg", extra: "1972" }
+    ]
   }
 };
+
 
 
 
