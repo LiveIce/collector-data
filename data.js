@@ -712,6 +712,8 @@ const data = {
       { number: 22, title: "Marvin Friedrich", desc: "<b>Marvin Friedrich</b><br>13 december 1995 i Kassel, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort22.jpg", extra: "Försvarare - Borussia Mönchengladbach" },
       { number: 23, title: "Sheraldo Becker", desc: "<b>Sheraldo Rudi Salomo Willem Becker</b><br>9 februari 1995 i Amsterdam, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort23.jpg", extra: "Anfallare - 1. FC Union Berlin" },
       { number: 24, title: "Taiwo Awoniyi", desc: "<b>Taiwo Micheal Awoniyi</b><br>12 augusti 1997 i Ilorin, Nigeria", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort24.jpg", extra: "Anfallare - 1. FC Union Berlin" },
+	  { number: 35, title: "Bryan Lasme", desc: "<b>Bryan Lasme</b><br>14 november 1998 i Montauban, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort35.jpg", extra: "Anfallare - DSC Arminia Bielefeld" },
+	  { number: 36, title: "Manuel Prietl", desc: "<b>Manuel Prietl</b><br>3 augusti 1991 i Deutschlandsberg, Österrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort36.jpg", extra: "Mittfältare - DSC Arminia Bielefeld" },
       { number: 37, title: "Janni Serra", desc: "<b>Janni Luca Serra</b><br>13 mars 1998 i Springe, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort37.jpg", extra: "Anfallare - DSC Arminia Bielefeld" },
       { number: 38, title: "Alessandro Schöpf", desc: "<b>Alessandro Schöpf</b><br>7 februari 1994 i Umhausen, Österrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort38.jpg", extra: "Mittfältare - DSC Arminia Bielefeld" },
       { number: 39, title: "Florian Krüger", desc: "<b>Florian Krüger</b><br>13 februari 1999 i Stassfurt, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort39.jpg", extra: "Anfallare - DSC Arminia Bielefeld" },
@@ -2638,7 +2640,10 @@ const data = {
 	  { number: 374, title: "Cliff Richard", desc: "Power To All Our Friends<br>Come Back Billie Joe", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00374.jpg", extra: "1973" },
 	  { number: 375, title: "Gilbert O'Sullivan", desc: "Get Down<br>A Very Extraordinary Sort Of Girl", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00375.jpg", extra: "1973" },
 	  { number: 376, title: "Jose Feliciano", desc: "Tale Of Maria<br>Where Is My Woman", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00376.jpg", extra: "1973" },
-	  { number: 377, title: "Chicory Tip", desc: "Good Grief Christina<br>Move On", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00377.jpg", extra: "1973" }
+	  { number: 377, title: "Chicory Tip", desc: "Good Grief Christina<br>Move On", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00377.jpg", extra: "1973" },
+	  { number: 378, title: "Mouth And MacNeal", desc: "Battering Ram<br>Hands Up", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00378.jpg", extra: "1973" },
+	  { number: 379, title: "Mouth And MacNeal", desc: "How Do You Do<br>Land Of Milk And Honey", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00379.jpg", extra: "1972" },
+	  { number: 380, title: "Nova", desc: "You Are Summer You Never Tell Me No<br>Crossword Puzzle", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00380.jpg", extra: "1973" }
     ]
   }
 };
