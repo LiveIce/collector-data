@@ -2179,7 +2179,17 @@ const data = {
 	  { number: 217, title: "Foghat", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00217.jpg", extra: "<b>Rock And Roll Outlaws</b> - 1974" },
 	  { number: 218, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00218.jpg", extra: "<b>Play'n' The Game</b> - 1976" },
 	  { number: 219, title: "Spike Jones And His City Slickers", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00219.jpg", extra: "<b>Murders Them All Vol 1</b> - 1973" },
-	  { number: 220, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00220.jpg", extra: "<b>Made In Europe</b> - 1976" }
+	  { number: 220, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00220.jpg", extra: "<b>Made In Europe</b> - 1976" },
+	  { number: 221, title: "Foghat", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00221.jpg", extra: "<b>Night Shift</b> - 1976" },
+	  { number: 222, title: "Geordie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00222.jpg", extra: "<b>Save The World</b> - 1976" },
+	  { number: 223, title: "Silver Convention", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00223.jpg", extra: "<b>Save Me</b> - 1975" },
+	  { number: 224, title: "Blue", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00224.jpg", extra: "<b>Blue</b> - 1973" },
+	  { number: 225, title: "Blue Öyster Cult", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00225.jpg", extra: "<b>Secret Treaties</b> - 1974" },
+	  { number: 226, title: "Rush", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00226.jpg", extra: "<b>Rush</b> - 1974" },
+	  { number: 227, title: "Rod McKuen", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00227.jpg", extra: "<b>Greatest Hits 2</b> - 1971" },
+	  { number: 228, title: "Adam Faith", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00228.jpg", extra: "<b>I Survive</b> - 1974" },
+	  { number: 229, title: "Wackers", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00229.jpg", extra: "<b>Shredder</b> - 1972" },
+	  { number: 230, title: "Joe Simon", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00230.jpg", extra: "<b>Drowning In The Sea Of Love</b> - 1972" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
