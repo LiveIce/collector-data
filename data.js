@@ -2481,8 +2481,27 @@ const data = {
 	  { number: 317, title: "Malo", desc: "Suavecito<br>Nena", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00317.jpg", extra: "1972" },
 	  { number: 318, title: "Fickle Pickle", desc: "American Pie<br>Blown Away", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00318.jpg", extra: "1972" },
 	  { number: 319, title: "Michael Jackson", desc: "Rockin' Robin<br>Love Is Here And Now You're Gone", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00319.jpg", extra: "1972" },
-	  { number: 320, title: "Wolf River Band", desc: "Ramblin' Home<br>Tearin' Up", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00320.jpg", extra: "1971" }
-    ]
+	  { number: 320, title: "Wolf River Band", desc: "Ramblin' Home<br>Tearin' Up", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00320.jpg", extra: "1971" },
+	  { number: 321, title: "T Rex", desc: "Metal Guru<br>Lady", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00321.jpg", extra: "1972" },
+	  { number: 322, title: "Tony Christie", desc: "Don't Go Down To Reno<br>Sunday Morning", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00322.jpg", extra: "1972" },
+	  { number: 323, title: "Hot Butter", desc: "Popcorn<br>At The Movies", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00323.jpg", extra: "1972" },
+	  { number: 324, title: "New World", desc: "Sister Jane<br>First Steps", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00324.jpg", extra: "1972" },
+	  { number: 325, title: "Christie", desc: "Iron Horse<br>Every Now And Then", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00325.jpg", extra: "1972" },
+	  { number: 326, title: "Mouth And MacNeal", desc: "Hello a<br>Talk A Little Louder", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00326.jpg", extra: "1972" },
+	  { number: 327, title: "Partridge Family", desc: "Breaking Up Is Hard To Do<br>I'm Here You're Here", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00327.jpg", extra: "1972" },
+	  { number: 328, title: "Bobby Vinton", desc: "Sealed With A Kiss<br>All My Life", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00328.jpg", extra: "1972" },
+	  { number: 329, title: "Lynsey De Paul", desc: "Sugar Me<br>Storm In A Teacup", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00329.jpg", extra: "1972" },
+	  { number: 330, title: "Sweet", desc: "Wig Wam Bam<br>New York Connection", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00330.jpg", extra: "1972" },
+	  { number: 331, title: "Mac And Katie Kissoon", desc: "Hey You Love<br>Do You Really Love Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00331.jpg", extra: "1972" },
+	  { number: 332, title: "Redbone", desc: "Fais Do<br>Already Here", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00332.jpg", extra: "1972" },
+	  { number: 333, title: "Cyan", desc: "Mama Papa<br>Under One Flag", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00333.jpg", extra: "1972" },
+	  { number: 334, title: "Wings", desc: "Hi Hi Hi<br>C Moon", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00334.jpg", extra: "1972" },
+	  { number: 335, title: "Jose Feliciano", desc: "The Little Drummer Boy<br>Feliz Navidad", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00335.jpg", extra: "1972" },
+	  { number: 336, title: "Les Humphries Singers", desc: "Mexico<br>Jennifer Adam", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00336.jpg", extra: "1972" },
+	  { number: 337, title: "Elton John", desc: "Crocodile Rock<br>Elderberry Wine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00337.jpg", extra: "1972" },
+	  { number: 338, title: "Blue Ridge Rangers", desc: "Jambalaya<br>Workin' On A Building", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00338.jpg", extra: "1972" },
+	  { number: 339, title: "Osmonds", desc: "Crazy Horses<br>That's My Girl", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00339.jpg", extra: "1972" },
+	  { number: 340, title: "Joe Cocker", desc: "Pardon Me Sir<br>She Don't Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00340.jpg", extra: "1972" }
   }
 };
 
