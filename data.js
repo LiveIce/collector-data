@@ -2501,7 +2501,17 @@ const data = {
 	  { number: 337, title: "Elton John", desc: "Crocodile Rock<br>Elderberry Wine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00337.jpg", extra: "1972" },
 	  { number: 338, title: "Blue Ridge Rangers", desc: "Jambalaya<br>Workin' On A Building", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00338.jpg", extra: "1972" },
 	  { number: 339, title: "Osmonds", desc: "Crazy Horses<br>That's My Girl", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00339.jpg", extra: "1972" },
-	  { number: 340, title: "Joe Cocker", desc: "Pardon Me Sir<br>She Don't Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00340.jpg", extra: "1972" }
+	  { number: 340, title: "Joe Cocker", desc: "Pardon Me Sir<br>She Don't Mind", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00340.jpg", extra: "1972" },
+	  { number: 341, title: "Sweet", desc: "Block Buster<br>Need A Lot Of Lovin'", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00341.jpg", extra: "1972" },
+	  { number: 342, title: "Jerry Williams", desc: "Cotton Jenny<br>Turn On Your Lovelight", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00342.jpg", extra: "1972" },
+	  { number: 343, title: "T Rex", desc: "Solid Gold Easy Action<br>Born To Boogie", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00343.jpg", extra: "1972" },
+	  { number: 344, title: "Albert Hammond", desc: "It Never Rains In Southern California<br>Anyone Here In The Audience", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00344.jpg", extra: "1972" },
+	  { number: 345, title: "Elvis Presley", desc: "Burning Love<br>It's A Matter Of Time", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00345.jpg", extra: "1972" },
+	  { number: 346, title: "Cat Stevens", desc: "Can't Keep It In<br>Crab Dance", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00346.jpg", extra: "1972" },
+	  { number: 347, title: "Lobo", desc: "I'd Love You To Want Me<br>Am I True To Myself", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00347.jpg", extra: "1972" },
+	  { number: 348, title: "Tony Christie", desc: "Avenues And Alleyways<br>I Never Was A Child", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00348.jpg", extra: "1973" },
+	  { number: 349, title: "Redbone", desc: "Poison Ivy<br>Condition Your Condition", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00349.jpg", extra: "1973" },
+	  { number: 350, title: "CCS", desc: "Sixteen Tons<br>This Is My Life", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00350.jpg", extra: "1972" }
     ]
   }
 };
