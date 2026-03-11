@@ -2159,7 +2159,17 @@ const data = {
       { number: 197, title: "Nite Liters", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00197.jpg", extra: "<b>Instrumental Directions</b> - 1972" },
       { number: 198, title: "Pinkiny Canandy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00198.jpg", extra: "<b>Pinkiny Canandy</b> - 1969" },
       { number: 199, title: "Stampeders", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00199.jpg", extra: "<b>Sweet City Woman</b> - 1971" },
-      { number: 200, title: "Rush", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00200.jpg", extra: "<b>Fly By Night</b> - 1975" }
+      { number: 200, title: "Rush", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00200.jpg", extra: "<b>Fly By Night</b> - 1975" },
+	  { number: 201, title: "Ekseption", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00201.jpg", extra: "<b>Ekseptional Classics The Best Of Ekseption</b> - 1975" },
+	  { number: 202, title: "Stampeders", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00202.jpg", extra: "<b>New Day</b> - 1974" },
+	  { number: 203, title: "Montrose", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00203.jpg", extra: "<b>Montrose</b> - 1973" },
+	  { number: 204, title: "Neil Merryweather", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00204.jpg", extra: "<b>Space Rangers</b> - 1974" },
+	  { number: 205, title: "David Bowie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00205.jpg", extra: "<b>Pinups</b> - 1973" },
+	  { number: 206, title: "Mott The Hoople", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00206.jpg", extra: "<b>Live</b> - 1974" },
+	  { number: 207, title: "Rainbow", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00207.jpg", extra: "<b>Rising</b> - 1976" },
+	  { number: 208, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00208.jpg", extra: "<b>Technical Ecstasy</b> - 1976" },
+	  { number: 209, title: "Black Oak Arkansas", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00209.jpg", extra: "<b>Street Party</b> - 1974" },
+	  { number: 210, title: "Omega", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00210.jpg", extra: "<b>III</b> - 1975" }
     ],      
     "Vinyl Singlar": [
       { number: 1, title: "Blue Mink", desc: "Good Morning Freedom<br>Mary Jane", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00001.JPG", extra: "1970" },
