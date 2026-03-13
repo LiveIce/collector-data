@@ -778,10 +778,14 @@ const data = {
       { number: 152, title: "Abathur", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort152b.jpg", extra: "Baksida" },
       { number: 158, title: "Greymane", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort158a.jpg", extra: "Framsida" },
       { number: 158, title: "Greymane", desc: "Heroes Of The Storm", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort158b.jpg", extra: "Baksida" },
+	  { number: 165, title: "Baptiste", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort165a.jpg", extra: "Framsida" },
+	  { number: 165, title: "Baptiste", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort165b.jpg", extra: "Baksida" },
       { number: 170, title: "Ana", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort170a.jpg", extra: "Framsida" },
       { number: 170, title: "Ana", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort170b.jpg", extra: "Baksida" },
       { number: 175, title: "D.Va", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort175a.jpg", extra: "Framsida" },
       { number: 175, title: "D.Va", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort175b.jpg", extra: "Baksida" },
+	  { number: 187, title: "Junkrat", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort187a.jpg", extra: "Framsida" },
+	  { number: 187, title: "Junkrat", desc: "Overwatch", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort187b.jpg", extra: "Baksida" },
       { number: 193, title: "The Lost Vikings", desc: "The Lost Vikings", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort193a.jpg", extra: "Framsida" },
       { number: 193, title: "The Lost Vikings", desc: "The Lost Vikings", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort193b.jpg", extra: "Baksida" },
       { number: 199, title: "Rock 'n' Roll Racing", desc: "Rock 'N Roll Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort199a.jpg", extra: "Framsida" },
@@ -1367,7 +1371,57 @@ const data = {
       { number: 247, title: "ALF", desc: "1986-1990", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0247.jpg", extra: "Säsonger: 4 - Avsnitt: 102" },
       { number: 248, title: "The Phantom Creeps", desc: "1939", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0248.jpg", extra: "Säsonger: 1 - Avsnitt: 12" },
       { number: 249, title: "Mork And Mindy (Animation)", desc: "1982-1983", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0249.jpg", extra: "Säsonger: 1 - Avsnitt: 26" },
-      { number: 250, title: "Game On", desc: "1995-1998", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0250.jpg", extra: "Säsonger: 3 - Avsnitt: 18" }
+      { number: 250, title: "Game On", desc: "1995-1998", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0250.jpg", extra: "Säsonger: 3 - Avsnitt: 18" },
+	  { number: 251, title: "Dark Angel", desc: "2016", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0251.jpg", extra: "Säsonger: 1 - Avsnitt: 2" },
+	  { number: 252, title: "Jungle Girl", desc: "1941", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0252.jpg", extra: "Säsonger: 1 - Avsnitt: 15" },
+	  { number: 253, title: "Captain America", desc: "1944", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0253.jpg", extra: "Säsonger: 1 - Avsnitt: 15" },
+	  { number: 254, title: "Airlock", desc: "2015", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0254.jpg", extra: "Säsonger: 1 - Avsnitt: 3" },
+	  { number: 255, title: "Our House", desc: "1986-1988", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0255.jpg", extra: "Säsonger: 2 - Avsnitt: 46" },
+	  { number: 256, title: "Yes Minister", desc: "1980-1982", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0256.jpg", extra: "Säsonger: 3 - Avsnitt: 21" },
+	  { number: 257, title: "Irma Vep", desc: "2022", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0257.jpg", extra: "Säsonger: 1 - Avsnitt: 8" },
+	  { number: 258, title: "The Ghost And Mrs Muir", desc: "1968-1970", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0258.jpg", extra: "Säsonger: 2 - Avsnitt: 50" },
+	  { number: 259, title: "Bewitched", desc: "1964-1972", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0259.jpg", extra: "Säsonger: 8 - Avsnitt: 254" },
+	  { number: 260, title: "Brave New World", desc: "2020", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0260.jpg", extra: "Säsonger: 1 - Avsnitt: 9" },
+	  { number: 261, title: "Ironside", desc: "1967-1975", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0261.jpg", extra: "Säsonger: 8 - Avsnitt: 199" },
+	  { number: 262, title: "Charlie's Angels", desc: "1976-1981", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0262.jpg", extra: "Säsonger: 5 - Avsnitt: 115" },
+	  { number: 263, title: "Inspector George Gently", desc: "2008-2017", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0263.jpg", extra: "Säsonger: 8 - Avsnitt: 24" },
+	  { number: 264, title: "Rhoda", desc: "1974-1978", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0264.jpg", extra: "Säsonger: 5 - Avsnitt: 110" },
+	  { number: 265, title: "Maverick", desc: "1957-1962", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0265.jpg", extra: "Säsonger: 5 - Avsnitt: 124" },
+	  { number: 266, title: "The Beatles Get Back", desc: "2021", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0266.jpg", extra: "Säsonger: 1 - Avsnitt: 3" },
+	  { number: 267, title: "Dan August", desc: "1970-1971", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0267.jpg", extra: "Säsonger: 1 - Avsnitt: 26" },
+	  { number: 268, title: "Parks And Recreation", desc: "2009-2015", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0268.jpg", extra: "Säsonger: 7 - Avsnitt: 125" },
+	  { number: 269, title: "Dead To Me", desc: "2019-2022", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0269.jpg", extra: "Säsonger: 3 - Avsnitt: 30" },
+	  { number: 270, title: "Land Of The Lost", desc: "1974-1976", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0270.jpg", extra: "Säsonger: 3 - Avsnitt: 43" },
+	  { number: 271, title: "Whitney", desc: "2011-2013", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0271.jpg", extra: "Säsonger: 2 - Avsnitt: 38" },
+	  { number: 272, title: "Bosom Buddies", desc: "1980-1982", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0272.jpg", extra: "Säsonger: 2 - Avsnitt: 37" },
+	  { number: 273, title: "House Of Lies", desc: "2012-2016", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0273.jpg", extra: "Säsonger: 5 - Avsnitt: 58" },
+	  { number: 274, title: "Mr Mayor", desc: "2021-2022", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0274.jpg", extra: "Säsonger: 2 - Avsnitt: 19" },
+	  { number: 275, title: "Mrs America", desc: "2020", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0275.jpg", extra: "Säsonger: 1 - Avsnitt: 9" },
+	  { number: 276, title: "Tunna Blå Linjen", desc: "2021-2022", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0276.jpg", extra: "Säsonger: 2 - Avsnitt: 18" },
+	  { number: 277, title: "The Lucy Show", desc: "1962-1968", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0277.jpg", extra: "Säsonger: 6 - Avsnitt: 156" },
+	  { number: 278, title: "Vi På Saltkråkan", desc: "1964", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0278.jpg", extra: "Säsonger: 1 - Avsnitt: 13" },
+	  { number: 279, title: "Land Of The Giants", desc: "1968-1970", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0279.jpg", extra: "Säsonger: 2 - Avsnitt: 51" },
+	  { number: 280, title: "I Am Not Okay With This", desc: "2020", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0280.jpg", extra: "Säsonger: 1 - Avsnitt: 7" },
+	  { number: 281, title: "Red Dwarf ", desc: "1988-2017", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0281.jpg", extra: "Säsonger: 12 - Avsnitt: 73" },
+	  { number: 282, title: "Our Girl", desc: "2014-2020", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0282.jpg", extra: "Säsonger: 4 - Avsnitt: 28" },
+	  { number: 283, title: "Soap", desc: "1977-1981", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0283.jpg", extra: "Säsonger: 4 - Avsnitt: 93" },
+	  { number: 284, title: "Siblings", desc: "2014-2016", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0284.jpg", extra: "Säsonger: 2 - Avsnitt: 12" },
+	  { number: 285, title: "Open All Hours", desc: "1976-1985", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0285.jpg", extra: "Säsonger: 4 - Avsnitt: 25" },
+	  { number: 286, title: "The Tick", desc: "2017-2019", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0286.jpg", extra: "Säsonger: 2 - Avsnitt: 22" },
+	  { number: 287, title: "Still Open All Hours", desc: "2014-2019", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0287.jpg", extra: "Säsonger: 6 - Avsnitt: 40" },
+	  { number: 288, title: "The Tick", desc: "2001-2002", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0288.jpg", extra: "Säsonger: 1 - Avsnitt: 9" },
+	  { number: 289, title: "Three's A Crowd", desc: "1984-1985", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0289.jpg", extra: "Säsonger: 1 - Avsnitt: 22" },
+	  { number: 290, title: "Mistresses", desc: "2013-2016", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0290.jpg", extra: "Säsonger: 4 - Avsnitt: 52" },
+	  { number: 291, title: "Goltuppen", desc: "1991", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0291.jpg", extra: "Säsonger: 1 - Avsnitt: 5" },
+	  { number: 292, title: "Järnvägshotellet", desc: "2003", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0292.jpg", extra: "Säsonger: 1 - Avsnitt: 3" },
+	  { number: 293, title: "Wings", desc: "1990-1997", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0293.jpg", extra: "Säsonger: 8 - Avsnitt: 172" },
+	  { number: 294, title: "The Green Green Grass", desc: "2005-2009", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0294.jpg", extra: "Säsonger: 4 - Avsnitt: 29" },
+	  { number: 295, title: "Idag Röd", desc: "1987", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0295.jpg", extra: "Säsonger: 1 - Avsnitt: 2" },
+	  { number: 296, title: "Den Sista Sommaren", desc: "2020", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0296.jpg", extra: "Säsonger: 1 - Avsnitt: 7" },
+	  { number: 297, title: "Dubbelsvindlarna", desc: "1982", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0297.jpg", extra: "Säsonger: 1 - Avsnitt: 3" },
+	  { number: 298, title: "Dubbelstötarna", desc: "1980", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0298.jpg", extra: "Säsonger: 1 - Avsnitt: 6" },
+	  { number: 299, title: "Dallas", desc: "1978-1991", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0299.jpg", extra: "Säsonger: 14 - Avsnitt: 357" },
+	  { number: 300, title: "Good Luck Charlie", desc: "2010-2014", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0300.jpg", extra: "Säsonger: 4 - Avsnitt: 100" }
     ],
     "Filmer": [
       {
@@ -2713,31 +2767,60 @@ const data = {
 	  { number: 447, title: "Björn Skifs", desc: "Michelangelo (Men Så Svara Då)<br>Snälla Stanna Här", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00447.jpg", extra: "1975" },
 	  { number: 448, title: "Billy Swan", desc: "I Can Help (1974)<br>Ways Of A Woman In Love (1975)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00448.jpg", extra: "1974 / 1975" },
 	  { number: 449, title: "Titanic", desc: "Rain 2000<br>Sing Fool Sing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00449.jpg", extra: "1973" },
-	  { number: 450, title: "Hudson Ford", desc: "Pick Up The Pieces<br>This Is Not The Way (To End A War Or To Die)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00450.jpg", extra: "1973" }
+	  { number: 450, title: "Hudson Ford", desc: "Pick Up The Pieces<br>This Is Not The Way (To End A War Or To Die)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00450.jpg", extra: "1973" },
+	  { number: 451, title: "UFO", desc: "Doctor Doctor<br>Lipstick Traces", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00451.jpg", extra: "1974" },
+	  { number: 452, title: "Jimy Castor Bunch", desc: "King Kong Part 1 And 2", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00452.jpg", extra: "1975" },
+	  { number: 453, title: "Commodores", desc: "(Can I) Get A Witness<br>This Is Your Life", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00453.jpg", extra: "1976" },
+	  { number: 454, title: "Sound 9418", desc: "In The Mood<br>Jimmy's Theme", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00454.jpg", extra: "1976" },
+	  { number: 455, title: "5000 Volts", desc: "I'm On Fire<br>Still On Fire", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00455.jpg", extra: "1975" },
+	  { number: 456, title: "Chakachas", desc: "Jungle Fever<br>Cha Ka Cha", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00456.jpg", extra: "1971" },
+	  { number: 457, title: "Ike And Tina Turner", desc: "Ooh Poo Pah Doo<br>I Wanna Jump", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00457.jpg", extra: "1971" },
+	  { number: 458, title: "Isaac Hayes And David Porter", desc: "Ain't That Loving You (For More Reasons Than One)<br>Baby I'm A Want You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00458.jpg", extra: "1972" },
+	  { number: 459, title: "Sunshine Band", desc: "Rock Your Baby<br>SOS", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00459.jpg", extra: "1975" },
+	  { number: 460, title: "Penny McLean", desc: "Lady Bump<br>The Lady Bumps On", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00460.jpg", extra: "1975" },
+	  { number: 461, title: "Gunnar Wiklund", desc: "Känn Dej Lite Happy<br>Ljumma Vindar", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00461.jpg", extra: "1970" },
+	  { number: 462, title: "ABBA", desc: "So Long<br>I've Been Waiting For You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00462.jpg", extra: "1974" },
+	  { number: 463, title: "Landslaget", desc: "Den Gamla Jukeboxen<br>Kom Aldrig Mer Igen", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00463.jpg", extra: "1975" },
+	  { number: 464, title: "Barry White", desc: "Can't Get Enough Of Your Love Babe<br>Just Not Enough", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00464.jpg", extra: "1974" },
+	  { number: 465, title: "Jimmy Castor Bunch", desc: "The Bertha Butt Boogie Part 1 And 2", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00465.jpg", extra: "1974" },
+	  { number: 466, title: "Sammy Davis Jr", desc: "Baretta's Theme<br>I Heard A Song", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00466.jpg", extra: "1976" },
+	  { number: 467, title: "Sherbet", desc: "Howzat<br>Motor Of Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00467.jpg", extra: "1976" },
+	  { number: 468, title: "Paper Lace", desc: "Hitchin' A Ride<br>Love You're A Long Time Coming", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00468.jpg", extra: "1974" },
+	  { number: 469, title: "Rabbit", desc: "Too Much Rock 'n' Roll<br>Shake That Thing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00469.jpg", extra: "1976" },
+	  { number: 470, title: "Rick Dees And His Cast Of Idiots", desc: "Dis Gorilla Part 1 And 2", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00470.jpg", extra: "1976" },
+	  { number: 471, title: "Climax Blues Band", desc: "Couldn't Get It Right<br>Fat Maybellene", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00471.jpg", extra: "1976" },
+	  { number: 472, title: "KC And The Sunshine Band", desc: "I Like To Do It<br>Come On In", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00472.jpg", extra: "1976" },
+	  { number: 473, title: "Barrabas", desc: "Woman<br>Cheer Up", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00473.jpg", extra: "1972" },
+	  { number: 474, title: "Status Quo", desc: "Wild Side Of Life<br>All Through The Night", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00474.jpg", extra: "1976" },
+	  { number: 475, title: "Carol Douglas", desc: "Doctor's Orders<br>Baby Don't Let This Good Love Die", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00475.jpg", extra: "1974" },
+	  { number: 476, title: "Hollies", desc: "Wiggle That Wotsit<br>Corrine", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00476.jpg", extra: "1976" },
+	  { number: 477, title: "Billy Howard", desc: "King Of The Cops<br>The Disco Cops", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00477.jpg", extra: "1976" },
+	  { number: 478, title: "Paul Nicholas", desc: "Dancing With The Captain<br>Freedom City", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00478.jpg", extra: "1976" },
+	  { number: 479, title: "Kraftwerk", desc: "Trans Europe Express<br>Franz Schubert", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00479.jpg", extra: "1977" },
+	  { number: 480, title: "Baccara", desc: "Yes Sir I Can Boogie<br>Cara Mia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00480.jpg", extra: "1977" },
+	  { number: 481, title: "Rare Earth", desc: "Chained<br>Fresh From The Can", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00481.jpg", extra: "1974" },
+	  { number: 482, title: "Tina Charles", desc: "I Love To Love (But My Baby Loves To Dance)<br>Disco Fever", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00482.jpg", extra: "1976" },
+	  { number: 483, title: "John Miles", desc: "Slow Down<br>Lady Of My Life", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00483.jpg", extra: "1977" },
+	  { number: 484, title: "Electric Light Orchestra", desc: "Livin' Thing<br>Fire On High", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00484.jpg", extra: "1976" },
+	  { number: 485, title: "CJ And Co", desc: "Devil's Gun<br>Free To Be Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00485.jpg", extra: "1977" },
+	  { number: 486, title: "Thelma Houston", desc: "Don't Leave Me This Way<br>Today Will Soon Be Yesterday", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00486.jpg", extra: "1976" },
+	  { number: 487, title: "Ram Jam", desc: "Black Betty<br>I Should Have Known", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00487.jpg", extra: "1977" },
+	  { number: 488, title: "Edwin Starr", desc: "Accident<br>Eavesdropper", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00488.jpg", extra: "1976" },
+	  { number: 489, title: "Jumbo '76", desc: "Let's Dance (Dance Dance Dance)<br>Loco Loco", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00489.jpg", extra: "1976" },
+	  { number: 490, title: "Sweet", desc: "Stairway To The Stars<br>Why Don't You Do It To Me", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00490.jpg", extra: "1977" },
+	  { number: 491, title: "Donna Summer", desc: "Can't We Just Sit Down (And Talk It Over)<br>I Feel Love", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00491.jpg", extra: "1977" },
+	  { number: 492, title: "Hot Chocolate", desc: "So You Win Again<br>A Part Of Being With You", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00492.jpg", extra: "1977" },
+	  { number: 493, title: "Brian Chapman", desc: "Save Me<br>For The First Time", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00493.jpg", extra: "1977" },
+	  { number: 494, title: "Veronica Unlimited", desc: "What Kind Of Dance Is This<br>Ferme La Porte", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00494.jpg", extra: "1977" },
+	  { number: 495, title: "Dooleys", desc: "Think I'm Gonna Fall In Love With You<br>Goodbye Hallelujah Island", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00495.jpg", extra: "1977" },
+	  { number: 496, title: "Shabby Tiger", desc: "Lovely Lady<br>Rock And Roll Star", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00496.jpg", extra: "1976" },
+	  { number: 497, title: "Bay City Rollers", desc: "You Made Me Believe In Magic<br>Are You Cuckoo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00497.jpg", extra: "1977" },
+	  { number: 498, title: "Danny Mirror", desc: "I Remember Elvis Presley Part 1 And 2", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00498.jpg", extra: "1977" },
+	  { number: 499, title: "Moments", desc: "Nine Times<br>When The Morning Comes", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00499.jpg", extra: "1976" },
+	  { number: 500, title: "John Paul Young", desc: "Standing In The Rain<br>Keep On Smiling", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S00500.jpg", extra: "1977" }
     ]
   }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
