@@ -471,6 +471,8 @@ const data = {
       { number: 298, title: "Jonas Hector", desc: "<b>Jonas Hector</b><br>27 maj 1990 i Saarbrücken, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort298.jpg", extra: "Försvarare - Deutschland" },
       { number: 299, title: "Mats Hummels", desc: "<b>Mats Hummels</b><br>16 december 1988 i Bergisch Gladbach, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort299.jpg", extra: "Försvarare - Deutschland" },
       { number: 301, title: "Bastian Schweinsteiger", desc: "<b>Bastian Schweinsteiger</b><br>1 augusti 1984 i Kolbermoor, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort301.jpg", extra: "Mittfältare - Deutschland" },
+	  { number: 303, title: "André Schürrle", desc: "<b>André Horst Schürrle</b><br>6 november 1990 i Ludwigshafen am Rhein, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort303.jpg", extra: "Anfallare - Deutschland" },
+	  { number: 304, title: "Mesut Özil", desc: "<b>Mesut Özil</b><br>15 oktober 1988 i Gelsenkirchen, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort304.jpg", extra: "Mittfältare - Deutschland" },
 	  { number: 308, title: "Cédric", desc: "<b>Cédric Ricardo Alves Soares</b><br>31 augusti 1991 i Singen, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort308.jpg", extra: "Försvarare - Portugal" },
 	  { number: 309, title: "José Fonte", desc: "<b>José Miguel da Rocha Fonte</b><br>22 december 1983 i Penafiel, Portugal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort309.jpg", extra: "Försvarare - Portugal" },
       { number: 313, title: "William Carvalho", desc: "<b>William Silva de Carvalho</b><br>7 april 1992 i Luanda, Angola", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort313.jpg", extra: "Mittfältare - Portugal" },
@@ -2264,7 +2266,301 @@ const data = {
   desc: "Sydney Sweeney, Glen Powell<br>Alexandra Shipp, GaTa<br>Hadley Robinson, Dermot Mulroney<br>Regi: Will Gluck",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Anyone%20But%20You%202023%20(OK118).jpg",
   extra: "Romantik / Komedi<br>2023 (OK118)"
-}      
+},
+{
+  number: 0,
+  title: "Apollo: The Forgotten Films",
+  desc: "Regi: Todd Miller",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Apollo%20The%20Forgotten%20Films%202019%20(OK526).jpg",
+  extra: "Dokumentär / Historia<br>2019 (OK526)"
+},
+{
+  number: 0,
+  title: "Aquaman",
+  desc: "Jason Momoa, Amber Heard<br>Willem Dafoe, Patrick Wilson<br>Nicole Kidman, Dolph Lundgren<br>Regi: James Wan",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Aquaman%202018%20(OK377).jpg",
+  extra: "Action / Äventyr<br>2018 (OK377)"
+},
+{
+  number: 0,
+  title: "Aquaman and the Lost Kingdom",
+  desc: "Jason Momoa, Patrick Wilson<br>Amber Heard, Yahya Abdul-Mateen II<br>Nicole Kidman, Randall Park<br>Regi: James Wan",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Aquaman%20And%20The%20Lost%20Kingdom%202023%20(OK847).jpg",
+  extra: "Action / Äventyr<br>2023 (OK847)"
+},
+{
+  number: 0,
+  title: "Arabesque",
+  desc: "Gregory Peck, Sophia Loren<br>Alan Badel, Kieron Moore<br>Carl Duering, John Merivale<br>Regi: Stanley Donen",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Arabesque%201966%20(OK46).jpg",
+  extra: "Action / Äventyr / Thriller<br>1966 (OK46)"
+},
+{
+  number: 0,
+  title: "Arcadian",
+  desc: "Nicolas Cage, Jaeden Martell<br>Maxwell Jenkins, Sadie Soverall<br>Joe Dixon, Samantha Coughlan<br>Regi: Benjamin Brewer",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Arcadian%202024%20(OK933).jpg",
+  extra: "Action / Skräck / Sci-Fi<br>2024 (OK933)"
+},
+{
+  number: 0,
+  title: "Argylle",
+  desc: "Bryce Dallas Howard, Sam Rockwell<br>Henry Cavill, John Cena<br>Bryan Cranston, Dua Lipa<br>Regi: Matthew Vaughn",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Argylle%202024%20(OK853).jpg",
+  extra: "Action / Komedi / Thriller<br>2024 (OK853)"
+},
+{
+  number: 0,
+  title: "Armor",
+  desc: "Sylvester Stallone, Josh Wiggins<br>Jason Patric, Dash Mihok<br>Lanier Williams, Jeff Chase<br>Regi: Justin Routt",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Armor%202024%20(OK1060).jpg",
+  extra: "Action / Crime / Thriller<br>2024 (OK1060)"
+},
+{
+  number: 0,
+  title: "Armored Car Robbery",
+  desc: "Charles McGraw, Adele Jergens<br>William Talman, Douglas Fowley<br>Steve Brodie, Gene Evans<br>Regi: Richard Fleischer",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Armored%20Car%20Robbery%201950%20(OK854).jpg",
+  extra: "Action / Crime / Film-Noir<br>1950 (OK854)"
+},
+{
+  number: 0,
+  title: "Armour of God",
+  desc: "Jackie Chan, Alan Tam<br>Lola Forner, Rosamund Kwan<br>Ken Boyle, John Ladalski<br>Regi: Jackie Chan",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Armour%20Of%20God%201986%20(D).jpg",
+  extra: "Action / Äventyr / Komedi<br>1986 (D)"
+},
+{
+  number: 0,
+  title: "Army of the Dead",
+  desc: "Dave Bautista, Ella Purnell<br>Omari Hardwick, Ana de la Reguera<br>Theo Rossi, Matthias Schweighöfer<br>Regi: Zack Snyder",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Army%20Of%20The%20Dead%202021%20(OK527).jpg",
+  extra: "Action / Skräck / Sci-Fi<br>2021 (OK527)"
+},
+{
+  number: 0,
+  title: "Arn",
+  desc: "Joakim Nätterqvist, Sofia Helin<br>Stellan Skarsgård, Michael Nyqvist<br>Bibi Andersson, Milind Soman<br>Regi: Peter Flinth",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Arn%202007%20(D).jpg",
+  extra: "Action / Äventyr / Drama<br>2007 (D)"
+},
+{
+  number: 0,
+  title: "Around The World In 80 Days",
+  desc: "David Niven, Cantinflas<br>Shirley MacLaine, Robert Newton<br>Charles Boyer, Fernandel<br>Regi: Michael Anderson",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Around%20The%20World%20In%2080%20Days%201956%20(OK47).jpg",
+  extra: "Äventyr / Komedi / Familj<br>1956 (OK47)"
+},
+{
+  number: 0,
+  title: "Around The World In 80 Days",
+  desc: "Jackie Chan, Steve Coogan<br>Cécile de France, Robert Fyfe<br>Jim Broadbent, Ian McNeice<br>Regi: Frank Coraci",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Around%20The%20World%20In%2080%20Days%202004%20(F24).jpg",
+  extra: "Action / Äventyr / Komedi<br>2004 (F24)"
+},
+{
+  number: 0,
+  title: "Arthur 2 On The Rocks",
+  desc: "Dudley Moore, Liza Minnelli<br>John Gielgud, Geraldine Fitzgerald<br>Kathy Bates, Paul Benedict<br>Regi: Bud Yorkin",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Arthur%202%20On%20The%20Rocks%201988%20(OK49).jpg",
+  extra: "Komedi / Romantik<br>1988 (OK49)"
+},
+{
+  number: 0,
+  title: "Arthur",
+  desc: "Dudley Moore, Liza Minnelli<br>John Gielgud, Geraldine Fitzgerald<br>Jill Eikenberry, Stephen Elliott<br>Regi: Steve Gordon",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Arthur%201981%20(OK48).jpg",
+  extra: "Komedi / Romantik<br>1981 (OK48)"
+},
+{
+  number: 0,
+  title: "Arthur The King",
+  desc: "Mark Wahlberg, Simu Liu<br>Juliet Rylance, Nathalie Emmanuel<br>Ali Suliman, Bear (hunden)<br>Regi: Simon Cellan Jones",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Arthur%20The%20King%202024%20(OK900).jpg",
+  extra: "Äventyr / Drama<br>2024 (OK900)"
+},
+{
+  number: 0,
+  title: "As Good As It Gets",
+  desc: "Jack Nicholson, Helen Hunt<br>Greg Kinnear, Cuba Gooding Jr.<br>Skeet Ulrich, Shirley Knight<br>Regi: James L. Brooks",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/As%20Good%20As%20It%20Gets%201997%20(F11).jpg",
+  extra: "Komedi / Drama / Romantik<br>1997 (F11)"
+},
+{
+  number: 0,
+  title: "Ask Me Anything",
+  desc: "Britt Robertson, Justin Long<br>Martin Sheen, Christian Slater<br>Robert Patrick, Max Carver<br>Regi: Allison Burnett",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Ask%20Me%20Anything%202014%20(OK1061).jpg",
+  extra: "Drama / Mystery<br>2014 (OK1061)"
+},
+{
+  number: 0,
+  title: "Assassin's Creed",
+  desc: "Michael Fassbender, Marion Cotillard<br>Jeremy Irons, Brendan Gleeson<br>Charlotte Rampling, Michael Kenneth Williams<br>Regi: Justin Kurzel",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Assassin's%20Creed%202016%20(OK378).jpg",
+  extra: "Action / Äventyr / Sci-Fi<br>2016 (OK378)"
+},
+{
+  number: 0,
+  title: "Assault On Precinct 13",
+  desc: "Austin Stoker, Darwin Joston<br>Laurie Zimmer, Martin West<br>Tony Burton, Charles Cyphers<br>Regi: John Carpenter",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Assault%20On%20Precinct%2013%201976%20(OK50).jpg",
+  extra: "Action / Crime / Thriller<br>1976 (OK50)"
+},
+{
+  number: 0,
+  title: "Asterix And Obelix The Middle Kingdom",
+  desc: "Guillaume Canet, Gilles Lellouche<br>Vincent Cassel, Jonathan Cohen<br>Marion Cotillard, Zlatan Ibrahimović<br>Regi: Guillaume Canet",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Asterix%20And%20Obelix%20The%20Middle%20Kingdom%202023%20(OK467).jpg",
+  extra: "Äventyr / Komedi / Familj<br>2023 (OK467)"
+},
+{
+  number: 0,
+  title: "Atlantis The Lost Empire",
+  desc: "Michael J. Fox, James Garner<br>Cree Summer, Don Novello<br>Phil Morris, Claudia Christian<br>Regi: Gary Trousdale, Kirk Wise",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Atlantis%20The%20Lost%20Empire%202001%20(OK1109).jpg",
+  extra: "Animation / Action / Äventyr<br>2001 (OK1109)"
+},
+{
+  number: 0,
+  title: "Att Angöra En Brygga",
+  desc: "Hans Alfredson, Tage Danielsson<br>Gösta Ekman, Monica Zetterlund<br>Lars Ekborg, Birgitta Andersson<br>Regi: Tage Danielsson",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Att%20Ang%C3%B6ra%20En%20Brygga%201965%20(OK1110).jpg",
+  extra: "Komedi / Klassiker<br>1965 (OK1110)"
+},
+{
+  number: 0,
+  title: "Aurora Teagarden Mysteries A Bundle Of Trouble",
+  desc: "Candace Cameron Bure, Yannick Bisson<br>Marilu Henner, Lexa Doig<br>Bruce Dawson, Peter Benson<br>Regi: Kevin Fair",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Aurora%20Teagarden%20Mysteries%20A%20Bundle%20Of%20Trouble%202017%20(OK528).jpg",
+  extra: "Crime / Mystery / Drama<br>2017 (OK528)"
+},
+{
+  number: 0,
+  title: "Aurora Teagarden Mysteries Honeymoon Honeymurder",
+  desc: "Candace Cameron Bure, Niall Matter<br>Marilu Henner, Miranda Frigon<br>Dylan Sloane, Ellie Harvie<br>Regi: Martin Wood",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Aurora%20Teagarden%20Mysteries%20Honeymoon%20Honeymurder%202021%20(OK394).jpg",
+  extra: "Crime / Mystery / Drama<br>2021 (OK394)"
+},
+{
+  number: 0,
+  title: "Aurora Teagarden Mysteries How To Con A Con",
+  desc: "Candace Cameron Bure, Niall Matter<br>Marilu Henner, Peter Benson<br>Miranda Frigon, Dylan Sloane<br>Regi: Tony Dean Smith",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Aurora%20Teagarden%20Mysteries%20How%20To%20Con%20A%20Con%202021%20(OK392).jpg",
+  extra: "Crime / Mystery / Drama<br>2021 (OK392)"
+},
+{
+  number: 0,
+  title: "Aurora Teagarden Mysteries Reunited And It Feels So Deadly",
+  desc: "Candace Cameron Bure, Niall Matter<br>Marilu Henner, Peter Benson<br>Miranda Frigon, Dylan Sloane<br>Regi: Martin Wood",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Aurora%20Teagarden%20Mysteries%20Reunited%20And%20It%20Feels%20So%20Deadly%202020%20(OK393).jpg",
+  extra: "Crime / Mystery / Drama<br>2020 (OK393)"
+},
+{
+  number: 0,
+  title: "Auto Focus",
+  desc: "Greg Kinnear, Willem Dafoe<br>Rita Wilson, Maria Bello<br>Ron Leibman, Bruce Solomon<br>Regi: Paul Schrader",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Auto%20Focus%202002%20(OK395).jpg",
+  extra: "Biography / Crime / Drama<br>2002 (OK395)"
+},
+{
+  number: 0,
+  title: "Ava",
+  desc: "Jessica Chastain, John Malkovich<br>Common, Geena Davis<br>Colin Farrell, Ioan Gruffudd<br>Regi: Tate Taylor",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Ava%202020%20(OK463).jpg",
+  extra: "Action / Crime / Drama<br>2020 (OK463)"
+},
+{
+  number: 0,
+  title: "Avatar The Way Of Water",
+  desc: "Sam Worthington, Zoe Saldaña<br>Sigourney Weaver, Stephen Lang<br>Kate Winslet, Cliff Curtis<br>Regi: James Cameron",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Avatar%20The%20Way%20Of%20Water%202022%20(OK468).jpg",
+  extra: "Action / Äventyr / Sci-Fi<br>2022 (OK468)"
+},
+{
+  number: 0,
+  title: "Avgrunden",
+  desc: "Tuva Novotny, Peter Franzén<br>Kardo Razzazi, Felicia Maxime<br>Angela Kovács, Tintin Poggats Sarri<br>Regi: Richard Holm",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Avgrunden%202023%20(OK855).jpg",
+  extra: "Action / Drama / Thriller<br>2023 (OK855)"
+},
+{
+  number: 0,
+  title: "AVP Alien vs Predator",
+  desc: "Sanaa Lathan, Lance Henriksen<br>Raoul Bova, Ewen Bremner<br>Colin Salmon, Tommy Flanagan<br>Regi: Paul W.S. Anderson",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/AVP%20Alien%20vs%20Predator%202004%20(F18).jpg",
+  extra: "Action / Äventyr / Sci-Fi<br>2004 (F18)"
+},
+{
+  number: 0,
+  title: "AVPR Aliens vs Predator Requiem",
+  desc: "Reiko Aylesworth, Steven Pasquale<br>Shareeka Epps, John Ortiz<br>Johnny Lewis, Ariel Gade<br>Regi: Colin Strause, Greg Strause",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/AVPR%20Aliens%20vs%20Predator%20Requiem%202007%20(F18).jpg",
+  extra: "Action / Horror / Sci-Fi<br>2007 (F18)"
+},
+{
+  number: 0,
+  title: "Babes In Toyland",
+  desc: "Ray Bolger, Tommy Sands<br>Annette Funicello, Ed Wynn<br>Tommy Kirk, Kevin Corcoran<br>Regi: Jack Donohue",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Babes%20In%20Toyland%201961%20(OK51)%20(Disney).jpg",
+  extra: "Comedy / Family / Fantasy<br>1961 (OK51) (Disney)"
+},
+{
+  number: 0,
+  title: "Bachelor Party",
+  desc: "Tom Hanks, Tawny Kitaen<br>Adrian Zmed, George Grizzard<br>Barbara Stuart, Robert Prescott<br>Regi: Neal Israel",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Bachelor%20Party%201984%20(F101).jpg",
+  extra: "Komedi<br>1984 (F101)"
+},
+{
+  number: 0,
+  title: "Back In Action",
+  desc: "Jamie Foxx, Cameron Diaz<br>Kyle Chandler, Andrew Scott<br>Glenn Close, Jamie Demetriou<br>Regi: Seth Gordon",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Back%20In%20Action%202025%20(OK1026).jpg",
+  extra: "Action / Komedi / Thriller<br>2025 (OK1026)"
+},
+{
+  number: 0,
+  title: "Back Roads",
+  desc: "Sally Field, Tommy Lee Jones<br>David Keith, Miriam Colon<br>Michael V. Gazzo, Barbara Babcock<br>Regi: Martin Ritt",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Back%20Roads%201981%20(OK901).jpg",
+  extra: "Adventure / Comedy / Romance<br>1981 (OK901)"
+},
+{
+  number: 0,
+  title: "Back To Black",
+  desc: "Marisa Abela, Jack O'Connell<br>Eddie Marsan, Lesley Manville<br>Juliet Cowan, Sam Buchanan<br>Regi: Sam Taylor-Johnson",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Back%20To%20Black%202024%20(OK1005).jpg",
+  extra: "Biography / Drama / Music<br>2024 (OK1005)"
+},
+{
+  number: 0,
+  title: "Back To The Beginning",
+  desc: "Ozzy Osbourne, Tony Iommi<br>Geezer Butler, Bill Ward<br>Bill Bruford<br>Live Concert / Documentary",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Back%20To%20The%20Beginning%202025%20(OK1111).png",
+  extra: "Music / Documentary<br>2025 (OK1111)"
+},
+{
+  number: 0,
+  title: "Bad Boy Bubby",
+  desc: "Nicholas Hope, Claire Benito<br>Ralph Cotterill, Carmel Johnson<br>Regi: Rolf de Heer",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Bad%20Boy%20Bubby%201993%20(OK529).jpg",
+  extra: "Comedy / Crime / Drama<br>1993 (OK529)"
+},
+{
+  number: 0,
+  title: "Bad Man's River",
+  desc: "Lee Van Cleef, James Mason<br>Gina Lollobrigida, Simon Andreu<br>Diana Lorys, Gianni Garko<br>Regi: Eugenio Martín",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Bad%20Man's%20River%201971%20(OK52).jpg",
+  extra: "Comedy / Romance / Western<br>1971 (OK52)"
+},
+{
+  number: 0,
+  title: "Bad Moms",
+  desc: "Mila Kunis, Kathryn Hahn<br>Kristen Bell, Christina Applegate<br>Jada Pinkett Smith, Annie Mumolo<br>Regi: Jon Lucas, Scott Moore",
+  img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Bad%20Moms%202016%20(OK445).jpg",
+  extra: "Comedy<br>2016 (OK445)"
+}
     ]
   },
     "Skivor": {
