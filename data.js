@@ -745,7 +745,9 @@ const data = {
       { number: 65, title: "Evan Ndicka", desc: "<b>Evan N'Dicka</b><br>20 augusti 1999 i Paris, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort65.jpg", extra: "Försvarare - Eintracht Frankfurt" },
       { number: 66, title: "Jesper Lindström", desc: "<b>Jesper Grænge Lindstrøm</b><br>29 februari 2000 i Taastrup, Danmark", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort66.jpg", extra: "Mittfältare - Eintracht Frankfurt" },
 	  { number: 127, title: "Charles Aránguiz", desc: "<b>Charles Aránguiz</b><br>17 april 1989 i Santiago de Chile, Chile", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort127.jpg", extra: "Mittfältare - Bayer 04 Leverkusen" },
-	  { number: 128, title: "Amine Adli", desc: "<b>Amine Adli</b><br>10 maj 2000 i Béziers, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort128.jpg", extra: "Mittfältare - Bayer 04 Leverkusen" }
+	  { number: 128, title: "Amine Adli", desc: "<b>Amine Adli</b><br>10 maj 2000 i Béziers, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort128.jpg", extra: "Mittfältare - Bayer 04 Leverkusen" },
+	  { number: 131, title: "Leandro Barreiro", desc: "<b>Leandro Barreiro Martins</b><br>3 januari 2000 i Erpeldange, Luxemburg", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort131.jpg", extra: "Mittfältare - FSV Mainz 05" },
+	  { number: 134, title: "Karim Onisiwo", desc: "<b>Karim Onisiwo</b><br>17 mars 1992 i Wien, Österrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort134.jpg", extra: "Anfallare - FSV Mainz 05" }
     ],
 },
   "Ishockey": {
