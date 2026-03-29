@@ -707,7 +707,7 @@ const data = {
       { number: 440, title: "Stefan Silva", desc: "<b>Maximiliano Stefan Silva Rojas</b><br>11 mars 1990 i Stockholm, Sverige", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort440.jpg", extra: "Anfallare - AIK" },
       { number: 441, title: "Nicolás Stefanelli", desc: "<b>Nicolás Marcelo Stefanelli</b><br>22 november 1994 i Quilmes, Argentina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort441.jpg", extra: "Anfallare - AIK" }
     ],
-    "Topps": [
+    "Topps Bundesliga 2022": [
       { number: 00, title: "Lukas Hradecky", desc: "<b>Lukáš Hrádecký</b><br>24 november 1989 i Bratislava, Slovakien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0a.jpg", extra: "Målvakt - Bayer 04 Leverkusen" },
       { number: 00, title: "Koen Casteels", desc: "<b>Koen Casteels</b><br>25 juni 1992 i Bonheiden, Belgien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0b.jpg", extra: "Målvakt - VfL Wolfsburg" },
       { number: 00, title: "Branimir Hrgota", desc: "<b>Branimir Hrgota</b><br>12 januari 1993 i Zenica, Bosnien och Hercegovina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0c.jpg", extra: "Anfallare - SpVgg Greuther Fürth" },
