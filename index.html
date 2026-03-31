@@ -33,7 +33,7 @@
       top: 20px;
       font-size: 1.2em;
       font-weight: bold;
-      color: #c00; /* röd färg */
+      color: #c00;
     }
 
     .search-box {
@@ -203,7 +203,7 @@
 
 <script src="data.js"></script>
 <script>
-// Globala variabler för att minnas senaste kategori/expansion
+// Globala variabler
 let lastCategory = null;
 let lastExpansion = null;
 
@@ -222,11 +222,7 @@ function getTotalCards() {
       total += data[category][expansion].length;
     }
   }
-
-  // ⭐ Justera här hur många kort du vill dra bort
-  const minus = 16; // ändra till vad du vill
-
-  return total - minus;
+  return total - 16;
 }
 
 const categoriesDiv = document.getElementById("categories");
@@ -256,7 +252,6 @@ function showExpansions(category) {
 }
 
 function showCards(category, expansion) {
-  // Spara senaste kategori/expansion
   lastCategory = category;
   lastExpansion = expansion;
 
@@ -265,21 +260,6 @@ function showCards(category, expansion) {
 
   let cards = [...data[category][expansion]];
 
-  // Sorteringslogik
-  if (category === "Fotboll" && expansion === "EURO 2024") {
-    cards.sort((a, b) => a.title.localeCompare(b.title, "sv", { sensitivity: "base" }));
-  } else if (category === "Fotboll" && expansion === "FIFA 365") {
-    cards.sort((a, b) => {
-      const na = parseInt(a.number, 10);
-      const nb = parseInt(b.number, 10);
-      if (!isNaN(na) && !isNaN(nb)) {
-        return na - nb;
-      }
-      return String(a.number).localeCompare(String(b.number), "sv", { numeric: true, sensitivity: "base" });
-    });
-  }
-
-  // Rendera korten
   cards.forEach(card => {
     const div = document.createElement("div");
     div.className = "card";
@@ -301,37 +281,35 @@ function filterCards() {
   const cardsDiv = document.getElementById("cards");
   cardsDiv.innerHTML = "";
 
-  // Om sökrutan är tom → återställ senaste vyn eller totalen
   if (input === "") {
     if (lastCategory && lastExpansion) {
-      showCards(lastCategory, lastExpansion); // återställ senaste kategori/expansion
+      showCards(lastCategory, lastExpansion);
     } else {
-      clearCards(); // fallback till totalantalet
+      clearCards();
     }
     return;
   }
 
+  const searchWords = input.split(" ").filter(w => w.length > 0);
   let found = 0;
+
   for (let category in data) {
     for (let expansion in data[category]) {
       let cards = [...data[category][expansion]];
 
-      if (category === "Fotboll" && expansion === "EURO 2024") {
-        cards.sort((a, b) => a.title.localeCompare(b.title, "sv", { sensitivity: "base" }));
-      } else if (category === "Fotboll" && expansion === "FIFA 365") {
-        cards.sort((a, b) => {
-          const na = parseInt(a.number, 10);
-          const nb = parseInt(b.number, 10);
-          if (!isNaN(na) && !isNaN(nb)) {
-            return na - nb;
-          }
-          return String(a.number).localeCompare(String(b.number), "sv", { numeric: true, sensitivity: "base" });
-        });
-      }
-
       cards.forEach(card => {
-        const combined = normalizeText(card.title + " " + card.desc + " " + card.extra);
-        if (combined.includes(input)) {
+        const combined = normalizeText(
+          category + " " +
+          expansion + " " +
+          card.title + " " +
+          card.desc + " " +
+          card.extra + " " +
+          card.number
+        );
+
+        const match = searchWords.every(word => combined.includes(word));
+
+        if (match) {
           found++;
           const div = document.createElement("div");
           div.className = "card";
@@ -372,11 +350,11 @@ function clearCards() {
   updateCardCount(getTotalCards(), "Totalt");
 }
 
-// Visa total antal kort vid sidstart
 window.onload = () => {
   updateCardCount(getTotalCards(), "Totalt");
 };
 </script>
+
 <script src="https://megadl.fr/dl/zlQlDbpR/ySrw3k8qEBOUqx-gqmiUxlTSksJzo7qL63XGMyVRPgA/data.js"></script>
 <script src="script.js"></script>
 </body>
