@@ -397,6 +397,8 @@ const data = {
   },
   "Fotboll": {
     "FIFA365 2017": [		
+	  { number: 1, title: "Gino Peruzzi", desc: "<b>Gino Peruzzi Lucchetti</b><br>9 juni 1992 i Corral de Bustos, Argentina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE1.jpg", extra: "Försvarare - Boca Juniors (UE1)" },
+	  { number: 2, title: "Santiago Vergini", desc: "<b>Santiago Vergini</b><br>3 augusti 1988 i Máximo Paz, Argentina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE2.jpg", extra: "Mittfältare - Boca Juniors (UE2)" },
 	  { number: 3, title: "Ricardo Centurión", desc: "<b>Adrián Ricardo Centurión</b><br>19 januari 1993 i Avellaneda, Argentina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE3.jpg", extra: "Mittfältare - Boca Juniors (UE3)" },
 	  { number: 15, title: "Andrés Chávez", desc: "<b>Andrés Eliseo Chávez</b><br>21 mars 1991 i Salto, Argentina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE15.jpg", extra: "Anfallare - São Paulo FC (UE15)" },
 	  { number: 41, title: "Marc Bartra", desc: "<b>Marc Bartra</b><br>15 januari 1991 i Sant Jaume dels Domenys, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE41.jpg", extra: "Försvarare - Borussia Dortmund (UE41)" },
@@ -802,6 +804,8 @@ const data = {
       { number: 22, title: "Kael'thas Sunstrider", desc: "WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort22b.jpg", extra: "Baksida" },
       { number: 31, title: "Malthael", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort31a.jpg", extra: "Framsida" },
       { number: 31, title: "Malthael", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort31b.jpg", extra: "Baksida" },
+	  { number: 35, title: "Andariel", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort35a.jpg", extra: "Framsida" },
+	  { number: 35, title: "Andariel", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort35b.jpg", extra: "Baksida" },
 	  { number: 38, title: "Adria", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort38a.jpg", extra: "Framsida" },
 	  { number: 38, title: "Adria", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort38b.jpg", extra: "Baksida" },
 	  { number: 43, title: "Zoltun Kulle", desc: "Diablo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort43a.jpg", extra: "Framsida" },
@@ -810,6 +814,8 @@ const data = {
 	  { number: 65, title: "Artanis", desc: "StarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort65b.jpg", extra: "Baksida" },
       { number: 80, title: "Banshee", desc: "StarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort80a.jpg", extra: "Framsida" },
       { number: 80, title: "Banshee", desc: "StarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort80b.jpg", extra: "Baksida" },
+	  { number: 84, title: "Jaina Proudmoore", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort84a.jpg", extra: "Framsida" },
+	  { number: 84, title: "Jaina Proudmoore", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort84b.jpg", extra: "Baksida" },
 	  { number: 98, title: "Gul'dan", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort98a.jpg", extra: "Framsida" },
 	  { number: 98, title: "Gul'dan", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort98b.jpg", extra: "Baksida" },
       { number: 99, title: "Malfurion Stormrage", desc: "World Of WarCraft", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort99a.jpg", extra: "Framsida" },
