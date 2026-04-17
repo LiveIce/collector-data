@@ -793,6 +793,25 @@ const data = {
       { number: 35, title: "Álvaro Morata", desc: "<b>Álvaro Borja Morata Martín</b><br>23 oktober 1992 i Madrid, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/euro2024/Kort35.jpg", extra: "Anfallare - Como" }
     ],
 },
+  "Hot Wheels": {
+    "Hot Wheels 2024": [
+      { number: 5, title: "", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort5.jpg", extra: "" },
+      { number: 6, title: "", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort6.jpg", extra: "" },
+      { number: 9, title: "", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort9.jpg", extra: "" },
+	  { number: 15, title: "Bad To The Blade", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort15.jpg", extra: "2012" },
+	  { number: 16, title: "Baja Truck", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort16.jpg", extra: "2012" },
+	  { number: 21, title: "Rip Rod", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort21.jpg", extra: "2014" },
+	  { number: 28, title: "Crescendo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort28.jpg", extra: "2017" },
+	  { number: 35, title: "Hotweiler", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort35.jpg", extra: "2017" },
+	  { number: 38, title: "Rally Cat", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort38.jpg", extra: "2017" },
+	  { number: 42, title: "Sky FI", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort42.jpg", extra: "2017" },
+	  { number: 46, title: "The Embosser", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort46.jpg", extra: "2017" },
+	  { number: 48, title: "Turbo Rooster", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort48.jpg", extra: "2017" },
+	  { number: 49, title: "Airuption", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort49.jpg", extra: "2018" },
+	  { number: 50, title: "Bazoomka", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort50.jpg", extra: "2018" },
+	  { number: 57, title: "Dune Daddy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort57.jpg", extra: "2018" },
+    ],
+},	
   "Ishockey": {
     "UD Ice Hockey 2021-22": [
       { number: 1, title: "Jacob Markstrom", desc: "<b>Jacob Anders Markström</b><br>31 januari 1990 i Gävle, Sverige", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Ishockey/UDIceHockey2021-22/Kort1.jpg", extra: "Målvakt - Flames" },
