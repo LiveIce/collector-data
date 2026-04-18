@@ -810,6 +810,9 @@ const data = {
 	  { number: 49, title: "Airuption", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort49.jpg", extra: "2018" },
 	  { number: 50, title: "Bazoomka", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort50.jpg", extra: "2018" },
 	  { number: 57, title: "Dune Daddy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort57.jpg", extra: "2018" },
+	  { number: 58, title: "Dune-a-soar", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort58.jpg", extra: "2018" },
+	  { number: 59, title: "Electrack", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort59.jpg", extra: "2018" },
+	  { number: 61, title: "Fast Master", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort61.jpg", extra: "2018" }
     ],
 },	
   "Ishockey": {
