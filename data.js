@@ -796,7 +796,7 @@ const data = {
     ],
 },
   "Hot Wheels": {
-    "Hot Wheels 2024 💎": [
+    "Hot Wheels 2024": [
       { number: 5, title: "", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort5.jpg", extra: "" },
       { number: 6, title: "", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort6.jpg", extra: "" },
       { number: 9, title: "", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort9.jpg", extra: "" },
