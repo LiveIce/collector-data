@@ -395,6 +395,18 @@ const data = {
 */
     ],
   },
+  "Blueprints Of The Future": {
+    "Prophetic Visions From The Art Of Vincent Di Fate": [
+      { number: 0, title: "Blueprints Of The Future", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort0a.jpg", extra: "<br>1994" },
+	  { number: 0, title: "Blueprints Of The Future", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort0b.jpg", extra: "<br>1994" },
+	  { number: 1, title: "City In Space", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort1a.jpg", extra: "Framsida<br>1994" },
+	  { number: 1, title: "City In Space", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort1b.jpg", extra: "Baksida<br>1994" },
+	  { number: 2, title: "The View From Tibur Chasmae", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort2a.jpg", extra: "Framsida<br>1994" },
+	  { number: 2, title: "The View From Tibur Chasmae", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort2b.jpg", extra: "Baksida<br>1994" },
+	  { number: 3, title: "At The Divider", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort3a.jpg", extra: "Framsida<br>1994" },
+	  { number: 3, title: "At The Divider", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort3b.jpg", extra: "Baksida<br>1994" },
+    ],
+  },	  
   "Fotboll": {
     "FIFA365 2017": [		
 	  { number: 1, title: "Gino Peruzzi", desc: "<b>Gino Peruzzi Lucchetti</b><br>9 juni 1992 i Corral de Bustos, Argentina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE1.jpg", extra: "Försvarare - Boca Juniors (UE1)" },
