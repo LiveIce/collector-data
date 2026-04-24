@@ -418,7 +418,7 @@ const data = {
     ],
   },
   "Blueprints Of The Future": {
-    "Prophetic Visions From The Art Of Vincent Di Fate": [
+    "Prophetic Visions From The Art Of Vincent Di Fate 💎": [
       { number: 0, title: "Blueprints Of The Future", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort0a.jpg", extra: "<br>1994" },
 	  { number: 0, title: "Blueprints Of The Future", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort0b.jpg", extra: "<br>1994" },
 	  { number: 1, title: "City In Space", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort1a.jpg", extra: "Framsida<br>1994" },
