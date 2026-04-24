@@ -10,6 +10,16 @@ const data = {
 	  { number: 49, title: "Animal Rights", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort49a.jpg", extra: "Framsida<br>1993" },
 	  { number: 49, title: "Animal Rights", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort49b.jpg", extra: "Baksida<br>1993" }
     ],
+    "The Return Of Superman": [
+      { number: 14, title: "Hammer Power", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort14a.jpg", extra: "Framsida<br>1993" },
+	  { number: 14, title: "Hammer Power", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort14b.jpg", extra: "Baksida<br>1993" },
+	  { number: 15, title: "Steel Heart", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort15a.jpg", extra: "Framsida<br>1993" },
+	  { number: 15, title: "Steel Heart", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort15b.jpg", extra: "Baksida<br>1993" },
+	  { number: 45, title: "Crisis Awaits", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort45a.jpg", extra: "Framsida<br>1993" },
+	  { number: 45, title: "Crisis Awaits", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort45b.jpg", extra: "Baksida<br>1993" },
+	  { number: 76, title: "To The Core", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort76a.jpg", extra: "Framsida<br>1993" },
+	  { number: 76, title: "To The Core", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort76b.jpg", extra: "Baksida<br>1993" }
+    ],
   },	  
   "Pokémon": {
     "Black Bolt": [
