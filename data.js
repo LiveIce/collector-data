@@ -1,4 +1,16 @@
 const data = {
+  "Blandade Kort": {
+    "Spoofy Tunes": [
+      { number: 14, title: "Behind The Scenes", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort14a.jpg", extra: "Framsida<br>1993" },
+	  { number: 14, title: "Behind The Scenes", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort14b.jpg", extra: "Baksida<br>1993" },
+	  { number: 27, title: "The Windy City", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort27a.jpg", extra: "Framsida<br>1993" },
+	  { number: 27, title: "The Windy City", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort27b.jpg", extra: "Baksida<br>1993" },
+	  { number: 32, title: "The Three Generations", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort32a.jpg", extra: "Framsida<br>1993" },
+	  { number: 32, title: "The Three Generations", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort32b.jpg", extra: "Baksida<br>1993" },
+	  { number: 49, title: "Animal Rights", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort49a.jpg", extra: "Framsida<br>1993" },
+	  { number: 49, title: "Animal Rights", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort49b.jpg", extra: "Baksida<br>1993" }
+    ],
+  },	  
   "Pokémon": {
     "Black Bolt": [
       { number: 1, title: "Snivy", desc: "Basic", img: "https://cdn3.cdnme.se/4787361/9-3/001_snivy_69890db0ddf2b33df6c56000.png", extra: "Typ: Grass &#127807;<br>Set: Black Bolt" },
