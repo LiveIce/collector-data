@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Register ©WithSmile ®2025</title>
+
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
@@ -11,11 +12,12 @@
       padding: 0;
     }
 
+    /* TOP-BAR */
     .top-bar {
       position: sticky;
       top: 0;
       background-color: #eaeaea;
-      padding: 20px;
+      padding: 10px;
       z-index: 10;
       text-align: center;
       box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
@@ -27,15 +29,31 @@
       color: #333;
     }
 
+    /* CARD COUNT */
     .card-count {
       position: absolute;
       left: 20px;
       top: 20px;
-      font-size: 1.2em;
+      width: 260px;
+      font-size: 1.1em;
       font-weight: bold;
-      color: #c00;
+      color: green;
+      white-space: normal;
+      overflow: visible;
     }
 
+    .card-count .label {
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .card-count .number {
+     color: blue;
+      display: block;
+      font-size: 1.3em;
+    }
+
+    /* SEARCH */
     .search-box {
       margin-top: 10px;
     }
@@ -46,6 +64,28 @@
       font-size: 1em;
       border-radius: 5px;
       border: 2px solid #c00;
+    }
+
+    /* MENU WRAPPER */
+    #menu-wrapper {
+      position: fixed;
+      top: 110px;
+      left: 0;
+      width: 100%;
+      background-color: #eaeaea;
+      z-index: 999;
+
+      border-top: 3px solid #c00;
+      border-bottom: 3px solid #c00;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    }
+
+    #categories, #expansions {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 5px;
+      padding: 3px 0;
     }
 
     .category, .subcategory {
@@ -59,17 +99,20 @@
       font-size: 14px;
       transition: background 0.3s, transform 0.2s;
     }
+
     .category:hover, .subcategory:hover {
       background: #900;
       transform: translateY(-2px);
     }
 
+    /* CARDS */
     .card-container {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 20px;
       padding: 30px 20px;
+      margin-top: 110px;
     }
 
     .card {
@@ -120,6 +163,7 @@
       font-weight: bold;
     }
 
+    /* MODAL */
     .modal {
       position: fixed;
       z-index: 999;
@@ -179,21 +223,26 @@
     }
   </style>
 </head>
+
 <body>
+
   <div class="top-bar">
     <h1>©WithSmile ®2026</h1>
     <div id="cardCount" class="card-count">Totalt: 0</div>
+
     <div class="search-box">
-      <input type="text" id="searchInput" placeholder="Sök kort..." oninput="filterCards()">
+      <input type="text" id="searchInput" placeholder="Sök ..." oninput="filterCards()">
       <button onclick="clearCards()">Huvudmeny</button>
     </div>
   </div>
 
-  <div id="categories"></div>
-  <div id="expansions"></div>
+  <div id="menu-wrapper">
+    <div id="categories"></div>
+    <div id="expansions"></div>
+  </div>
+
   <div id="cards" class="card-container"></div>
 
-  <!-- Modal -->
   <div id="modal" class="modal">
     <span class="close" onclick="closeModal()">&times;</span>
     <h2 id="modal-title"></h2>
@@ -202,8 +251,8 @@
   </div>
 
 <script src="data.js"></script>
+
 <script>
-// Globala variabler
 let lastCategory = null;
 let lastExpansion = null;
 
@@ -211,20 +260,30 @@ function normalizeText(text) {
   return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
-function updateCardCount(count, label="Totalt") {
-  document.getElementById("cardCount").textContent = `${label}: ${count}`;
+function updateCardCount(count, label = "Totalt") {
+  document.getElementById("cardCount").innerHTML = `
+    <span class="label">${label}</span>
+    <span class="number">${count}</span>
+  `;
 }
 
+/* TOTAL UNIKA KORT */
 function getTotalCards() {
-  let total = 0;
+  const unique = new Set();
+
   for (let category in data) {
     for (let expansion in data[category]) {
-      total += data[category][expansion].length;
+      data[category][expansion].forEach(card => {
+        const key = `${category}-${expansion}-${card.number}-${card.title}`;
+        unique.add(key);
+      });
     }
   }
-  return total - 16;
+
+  return unique.size;
 }
 
+/* KATEGORIER */
 const categoriesDiv = document.getElementById("categories");
 for (let category in data) {
   const div = document.createElement("div");
@@ -234,32 +293,43 @@ for (let category in data) {
   categoriesDiv.appendChild(div);
 }
 
+/* EXPANSIONER */
 function showExpansions(category) {
   const expansionsDiv = document.getElementById("expansions");
   expansionsDiv.innerHTML = "";
   document.getElementById("cards").innerHTML = "";
 
-  let total = 0;
+  let unique = new Set();
+
   for (let expansion in data[category]) {
-    total += data[category][expansion].length;
+    data[category][expansion].forEach(card => {
+      const key = `${category}-${expansion}-${card.number}-${card.title}`;
+      unique.add(key);
+    });
+
     const div = document.createElement("div");
     div.className = "subcategory";
     div.textContent = expansion;
     div.onclick = () => showCards(category, expansion);
     expansionsDiv.appendChild(div);
   }
-  updateCardCount(total, category);
+
+  updateCardCount(unique.size, category);
 }
 
+/* VISA KORT */
 function showCards(category, expansion) {
   lastCategory = category;
   lastExpansion = expansion;
+
+  window.scrollTo({ top: 0, behavior: "smooth" });
 
   const cardsDiv = document.getElementById("cards");
   cardsDiv.innerHTML = "";
 
   let cards = [...data[category][expansion]];
 
+  // Visa ALLA kort (fram + bak)
   cards.forEach(card => {
     const div = document.createElement("div");
     div.className = "card";
@@ -273,9 +343,17 @@ function showCards(category, expansion) {
     cardsDiv.appendChild(div);
   });
 
-  updateCardCount(cards.length, `${category} - ${expansion}`);
+  // Räkna unika kortnummer (filmer med number=0 räknas via titel)
+  let unique = new Set();
+  cards.forEach(card => {
+    const key = `${category}-${expansion}-${card.number}-${card.title}`;
+    unique.add(key);
+  });
+
+  updateCardCount(unique.size, `${category} - ${expansion}`);
 }
 
+/* SÖK */
 function filterCards() {
   const input = normalizeText(document.getElementById("searchInput").value);
   const cardsDiv = document.getElementById("cards");
@@ -329,6 +407,7 @@ function filterCards() {
   updateCardCount(found, "Sökresultat");
 }
 
+/* MODAL */
 function openModal(imgSrc, titleText, descText, extraText, number) {
   document.getElementById("modal-img").src = imgSrc;
   document.getElementById("modal-title").textContent = titleText;
@@ -344,6 +423,7 @@ function closeModal() {
   document.getElementById("modal").classList.remove("show");
 }
 
+/* HUVUDMENY */
 function clearCards() {
   document.getElementById("cards").innerHTML = "";
   document.getElementById("expansions").innerHTML = "";
