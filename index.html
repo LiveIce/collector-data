@@ -29,29 +29,26 @@
       color: #333;
     }
 
-    /* CARD COUNT */
-    .card-count {
-      position: absolute;
-      left: 20px;
-      top: 20px;
-      width: 260px;
-      font-size: 1.1em;
-      font-weight: bold;
-      color: green;
-      white-space: normal;
-      overflow: visible;
-    }
+.card-count {
+  position: absolute;
+  top: 20px;
+  left: 20px; /* Texten stannar till vänster */
+  width: calc(100% - 40px); /* Gör rutan bred så siffran kan flytta till höger */
+  font-size: 1.1em;
+  font-weight: bold;
+  color: green;
+}
 
-    .card-count .label {
-      display: block;
-      margin-bottom: 4px;
-    }
+.card-count .label {
+  float: left;
+  color: green;
+}
 
-    .card-count .number {
-     color: blue;
-      display: block;
-      font-size: 1.3em;
-    }
+.card-count .number {
+  float: right;   /* Flyttar siffran till höger */
+  color: blue;
+  font-weight: bold;
+}
 
     /* SEARCH */
     .search-box {
