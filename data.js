@@ -1,12 +1,20 @@
 const data = {
   "Blandade Kort": {
     "Spoofy Tunes": [
+	  { number: 5, title: "Nightmare Rhyme", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort5a.jpg", extra: "Framsida<br>1993" },
+	  { number: 5, title: "Nightmare Rhyme", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort5b.jpg", extra: "Baksida<br>1993" },
       { number: 14, title: "Behind The Scenes", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort14a.jpg", extra: "Framsida<br>1993" },
 	  { number: 14, title: "Behind The Scenes", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort14b.jpg", extra: "Baksida<br>1993" },
+	  { number: 20, title: "Thanksgiving", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort20a.jpg", extra: "Framsida<br>1993" },
+	  { number: 20, title: "Thanksgiving", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort20b.jpg", extra: "Baksida<br>1993" },
 	  { number: 27, title: "The Windy City", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort27a.jpg", extra: "Framsida<br>1993" },
 	  { number: 27, title: "The Windy City", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort27b.jpg", extra: "Baksida<br>1993" },
 	  { number: 32, title: "The Three Generations", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort32a.jpg", extra: "Framsida<br>1993" },
 	  { number: 32, title: "The Three Generations", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort32b.jpg", extra: "Baksida<br>1993" },
+	  { number: 38, title: "Write Your Own", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort38a.jpg", extra: "Framsida<br>1993" },
+	  { number: 38, title: "Write Your Own", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort38b.jpg", extra: "Baksida<br>1993" },
+	  { number: 48, title: "Runaway Of The Rich And Famous", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort48a.jpg", extra: "Framsida<br>1993" },
+	  { number: 48, title: "Runaway Of The Rich And Famous", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort48b.jpg", extra: "Baksida<br>1993" },
 	  { number: 49, title: "Animal Rights", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort49a.jpg", extra: "Framsida<br>1993" },
 	  { number: 49, title: "Animal Rights", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort49b.jpg", extra: "Baksida<br>1993" }
     ],
