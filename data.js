@@ -10,6 +10,14 @@ const data = {
 	  { number: 49, title: "Animal Rights", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort49a.jpg", extra: "Framsida<br>1993" },
 	  { number: 49, title: "Animal Rights", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort49b.jpg", extra: "Baksida<br>1993" }
     ],
+  "Star Trek": [
+	  { number: 6, title: "Two Among Many", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort6a.jpg", extra: "Framsida<br>1994" },
+	  { number: 6, title: "Two Among Many", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort6b.jpg", extra: "Baksida<br>1994" },
+      { number: 18, title: "Questions And Answers", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort18a.jpg", extra: "Framsida<br>1994" },
+	  { number: 18, title: "Questions And Answers", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort18b.jpg", extra: "Baksida<br>1994" },
+	  { number: 34, title: "The Price Of Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort34a.jpg", extra: "Framsida<br>1994" },
+	  { number: 34, title: "The Price Of Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort34b.jpg", extra: "Baksida<br>1994" }
+    ],
     "The Return Of Superman": [
       { number: 14, title: "Hammer Power", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort14a.jpg", extra: "Framsida<br>1993" },
 	  { number: 14, title: "Hammer Power", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort14b.jpg", extra: "Baksida<br>1993" },
@@ -19,8 +27,8 @@ const data = {
 	  { number: 45, title: "Crisis Awaits", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort45b.jpg", extra: "Baksida<br>1993" },
 	  { number: 76, title: "To The Core", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort76a.jpg", extra: "Framsida<br>1993" },
 	  { number: 76, title: "To The Core", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort76b.jpg", extra: "Baksida<br>1993" }
-    ],
-  },	  
+    ]
+},
   "Pokémon": {
     "Black Bolt": [
       { number: 1, title: "Snivy", desc: "Basic", img: "https://cdn3.cdnme.se/4787361/9-3/001_snivy_69890db0ddf2b33df6c56000.png", extra: "Typ: Grass &#127807;<br>Set: Black Bolt" },
