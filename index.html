@@ -247,7 +247,7 @@
 <script>
 let lastCategory = null;
 let lastExpansion = null;
-let lastSearch = ""; // 🔥 SPARA SENASTE SÖKORDET
+let lastSearch = "";
 
 function normalizeText(text) {
   return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
@@ -354,6 +354,19 @@ function filterCards() {
   const cardsDiv = document.getElementById("cards");
   cardsDiv.innerHTML = "";
 
+  // 🔥 SMART SÖKORDS-PARSER (stöd för "fras sökning")
+  const searchWords = [];
+  const regex = /"([^"]+)"|(\S+)/g;
+  let m;
+
+  while ((m = regex.exec(input)) !== null) {
+    if (m[1]) {
+      searchWords.push('"' + m[1] + '"');
+    } else {
+      searchWords.push(m[2]);
+    }
+  }
+
   if (input === "") {
     if (lastCategory && lastExpansion) {
       showCards(lastCategory, lastExpansion);
@@ -365,7 +378,6 @@ function filterCards() {
     return;
   }
 
-  const searchWords = input.split(" ").filter(w => w.length > 0);
   let found = 0;
 
   const categoriesToSearch = lastCategory ? [lastCategory] : Object.keys(data);
@@ -386,7 +398,32 @@ function filterCards() {
           card.number
         );
 
-        const match = searchWords.every(word => combined.includes(word));
+const match = searchWords.every(word => {
+
+  // 🔥 1. EXAKT NUMMER-SÖKNING
+  if (!isNaN(word)) {
+    return normalizeText(String(card.number)) === word;
+  }
+
+  // 🔥 2. EXAKT FRAS-SÖKNING MED CITATTECKEN
+  if (word.startsWith('"') && word.endsWith('"')) {
+    const exact = normalizeText(word.slice(1, -1)); // ta bort "
+    
+    // Dela upp combined i ord OCH fraser
+    const words = combined.split(/[^a-z0-9]+/);
+
+    // Exakt fras → matcha hela combined-strängen
+    if (exact.includes(" ")) {
+      return combined.includes(exact);
+    }
+
+    // Exakt ord → matcha ordlista
+    return words.includes(exact);
+  }
+
+  // 🔥 3. VANLIG SÖKNING (del av ord, OR-matchning)
+  return combined.includes(word);
+});
 
         if (match) {
           found++;
