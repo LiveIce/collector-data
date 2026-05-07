@@ -1,5 +1,11 @@
 const data = {
-  "Blandade Kort": {
+  "Blandat": {
+    "Kändisar": [
+	  { number: 0, title: "Clint Eastwood", desc: "<b>Clinton Eastwood Jr</b><br>31 maj 1930 i San Francisco, California, USA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/celeb/1 ClintEastwood.webp", extra: "1.93 m<br>1930" },
+	  { number: 0, title: "Lee Marvin", desc: "<b>Lee Marvin</b><br>19 februari 1924 i New York City, New York, USA<br>29 August 1987 i Tucson, Arizona, USA (heart attack)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/celeb/2 Lee Marvin.webp", extra: "1.86 m<br>1924" },
+	  { number: 0, title: "Marilyn Monroe", desc: "<b>Norma Jeane Mortenson</b><br>1 juni 1926 i Los Angeles, Kalifornien, USA<br>5 augusti 1962 i Los Angeles, Kalifornien, USA (drug overdose)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/celeb/3 Marilyn Monroe.webp", extra: "1.66 m<br>1926" },
+	  { number: 0, title: "Tina Turner", desc: "<b>Tina Turner</b><br>26 november 1939 i Brownsville, Tennessee, USA<br>24 maj 2023 i Küsnacht, Schweiz (natural causes)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/celeb/4 Tina Turner.webp", extra: "1.63 m<br>1939" }
+    ],	  
     "Spoofy Tunes": [
 	  { number: 5, title: "Nightmare Rhyme", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort5a.jpg", extra: "Framsida<br>1993" },
 	  { number: 5, title: "Nightmare Rhyme", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort5b.jpg", extra: "Baksida<br>1993" },
