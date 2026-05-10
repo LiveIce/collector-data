@@ -205,10 +205,16 @@ const data = {
 	  { number: 6, title: "Two Among Many", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort6b.jpg", extra: "Baksida<br>1994" },
       { number: 18, title: "Questions And Answers", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort18a.jpg", extra: "Framsida<br>1994" },
 	  { number: 18, title: "Questions And Answers", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort18b.jpg", extra: "Baksida<br>1994" },
+	  { number: 28, title: "Enemies Decloak", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort28a.jpg", extra: "Framsida<br>1994" },
+	  { number: 28, title: "Enemies Decloak", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort28b.jpg", extra: "Baksida<br>1994" },
 	  { number: 32, title: "The Nexus", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort32a.jpg", extra: "Framsida<br>1994" },
 	  { number: 32, title: "The Nexus", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort32b.jpg", extra: "Baksida<br>1994" },
 	  { number: 34, title: "The Price Of Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort34a.jpg", extra: "Framsida<br>1994" },
 	  { number: 34, title: "The Price Of Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort34b.jpg", extra: "Baksida<br>1994" },
+	  { number: 39, title: "Cunning Strategy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort39a.jpg", extra: "Framsida<br>1994" },
+	  { number: 39, title: "Cunning Strategy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort39b.jpg", extra: "Baksida<br>1994" },
+	  { number: 44, title: "Crash Landing", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort44a.jpg", extra: "Framsida<br>1994" },
+	  { number: 44, title: "Crash Landing", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort44b.jpg", extra: "Baksida<br>1994" },
 	  { number: 70, title: "Ensign Demora Sulu", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort70a.jpg", extra: "Framsida<br>1994" },
 	  { number: 70, title: "Ensign Demora Sulu", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort70b.jpg", extra: "Baksida<br>1994" }
     ],
@@ -262,7 +268,7 @@ const data = {
 /* 	🔥 💧 🍃 ⚡ 👁️ ✪ ❄ 🌙 💖 🐾 ⚙️ 💀 🐲 ✊ ☢️ 🦅 ⛰️ 🌋 */
       { number: 1, title: "Snivy", desc: "Basic", img: "https://cdn3.cdnme.se/4787361/9-3/001_snivy_69890db0ddf2b33df6c56000.png", extra: "Typ: Grass &#127807;<br>Set: Black Bolt" },
     ],
-    "Cosmic Eclipse": [
+    "Cosmic Eclipse 💎": [
 /* 	🔥 💧 🍃 ⚡ 👁️ ✪ ❄ 🌙 💖 🐾 ⚙️ 💀 🐲 ✊ ☢️ 🦅 ⛰️ 🌋 */	
       { number: 2, title: "Oddish", desc: "Typ: <typ><br>Set: Cosmic Eclipse", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Pokemon/CosmicEclipse/sm12-002.webp", extra: "<stage><br><rarity>" },
       { number: 3, title: "Gloom", desc: "Typ: <typ><br>Set: Cosmic Eclipse", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Pokemon/CosmicEclipse/sm12-003.webp", extra: "<stage><br><rarity>" },
