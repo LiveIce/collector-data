@@ -1466,7 +1466,7 @@ const data = {
     ]
   },
   "MetaZoo": {
-    "UFO 1st Edition": [
+    "UFO 1st Edition 💎": [
       { number: 2, title: "MEN IN BLACK", desc: "Beastie Humanoid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort2a.jpg", extra: "Non Holo" },
       { number: 2, title: "MEN IN BLACK", desc: "Beastie Humanoid", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort2b.jpg", extra: "Holo" },
       { number: 4, title: "VAN METER VISITOR", desc: "Beastie Dinosaur", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort4a.jpg", extra: "Non Holo" },
@@ -1628,6 +1628,26 @@ const data = {
 	  { number: 148, title: "RADIOACTIVE SWAMP (SWAMP)", desc: "2 Per Spellbook", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort148a.jpg", extra: "Non Holo" },
 	  { number: 149, title: "FOREST", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort149a.jpg", extra: "Non Holo" },
 	  { number: 150, title: "MOUNTAIN", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort150a.jpg", extra: "Non Holo" },
+	  { number: 151, title: "SNOWING", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort151a.jpg", extra: "Non Holo" },
+	  { number: 152, title: "CHILLING WINTER (WINTER)", desc: "2 Per Spellbook", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort152a.jpg", extra: "Non Holo" },
+	  { number: 153, title: "DAYBREAK (DAWN)", desc: "2 Per Spellbook", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort153a.jpg", extra: "Non Holo" },
+	  { number: 154, title: "BRIGHT SKIES (DAYTIME)", desc: "2 Per Spellbook", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort154a.jpg", extra: "Non Holo" },
+	  { number: 155, title: "SUNSET (DUSK)", desc: "2 Per Spellbook", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort155a.jpg", extra: "Non Holo" },
+	  { number: 156, title: "LIGHTNING STORM", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort156a.jpg", extra: "Non Holo" },
+	  { number: 157, title: "FARM", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort157a.jpg", extra: "Non Holo" },
+	  { number: 158, title: "SUBURBAN", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort158a.jpg", extra: "Non Holo" },
+	  { number: 159, title: "CITY", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort159a.jpg", extra: "Non Holo" },
+	  { number: 160, title: "FEARFUL FOG (FOG)", desc: "2 Per Spellbook", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort160a.jpg", extra: "Non Holo" },
+	  { number: 161, title: "SKIPPING LAKE (LAKE)", desc: "2 Per Spellbook", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort161a.jpg", extra: "Non Holo" },
+	  { number: 162, title: "OCEAN", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort162a.jpg", extra: "Non Holo" },
+	  { number: 163, title: "RAINING", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort163a.jpg", extra: "Non Holo" },
+	  { number: 164, title: "RUSHING RIVER (RIVER)", desc: "2 Per Spellbook", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort164a.jpg", extra: "Non Holo" },
+	  { number: 165, title: "ISLAND", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort165a.jpg", extra: "Non Holo" },
+	  { number: 166, title: "CANNONBALL TOKEN", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort166CannonballToken.jpg", extra: "Non Holo" },
+	  { number: 167, title: "FRIEND TOKEN", desc: "2 Per Spellbook", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort167FriendToken.jpg", extra: "Non Holo" },
+	  { number: 168, title: "SEED TOKEN", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort168SeedToken.jpg", extra: "Non Holo" },
+	  { number: 169, title: "SHEEP TOKEN", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort169SheepToken.jpg", extra: "Non Holo" },
+	  { number: 170, title: "TREE TOKEN", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/metazoo/UFO/Kort170TreeToken.jpg", extra: "Non Holo" }
     ]
   },
     "Ozzy Osbourne": {
