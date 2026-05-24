@@ -914,6 +914,7 @@ const data = {
 	  { number: 193, title: "Alex Sandro", desc: "<b>Alex Sandro Lobo Silva</b><br>26 januari 1991 i Catanduva, São Paulo, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort193.jpg", extra: "Försvarare - Juventus" },
 	  { number: 195, title: "Patrice Evra", desc: "<b>Patrice Latyr Evra</b><br>15 maj 1981 i Dakar, Senegal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort195.jpg", extra: "Försvarare - Juventus" },
       { number: 198, title: "Simone Zaza", desc: "<b>Simone Zaza</b><br>25 juni 1991 i Policoro, Italien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort198.jpg", extra: "Anfallare - Juventus" },
+	  { number: 207, title: "Edin Džeko", desc: "<b>Edin Džeko</b><br>17 mars 1986 i Sarajevo, Jugoslavien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort207.jpg", extra: "Anfallare - AS Roma" },
 	  { number: 208, title: "Jasper Cillessen", desc: "<b>Jacobus Antonius Peter Johannes Cillessen</b><br>22 april 1989 i Nijmegen, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort208.jpg", extra: "Målvakt - AFC Ajax" },
 	  { number: 211, title: "Kenny Tete", desc: "<b>Kenny Joelle Tete</b><br>9 oktober 1995 i Amsterdam, Nederländerna", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort211.jpg", extra: "Försvarare - AFC Ajax" },
 	  { number: 213, title: "Amin Younes", desc: "<b>Amin Younes</b><br>6 augusti 1993 i Düsseldorf, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort213.jpg", extra: "Mittfältare - AFC Ajax" },
@@ -956,6 +957,9 @@ const data = {
 	  { number: 331, title: "Willian", desc: "<b>Willian Borges da Silva</b><br>9 augusti 1988 i Ribeirão Pires, São Paulo, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort331.jpg", extra: "Mittfältare - Brasil" },
 	  { number: 332, title: "Philippe Coutinho", desc: "<b>Philippe Coutinho Correia</b><br>12 juni 1992 i Rio de Janeiro, Rio de Janeiro, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort332.jpg", extra: "Mittfältare - Brasil" },
       { number: 333, title: "Gabriel Jesus", desc: "<b>Gabriel Fernando de Jesus</b><br>3 april 1997 i São Paulo, São Paulo, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort333.jpg", extra: "Anfallare - Brasil" },
+	  { number: 334, title: "Claudio Bravo", desc: "<b>Claudio Andrés Bravo Muñoz</b><br>13 april 1983 i Viluco, Chile", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort334.jpg", extra: "Målvakt - Chile" },
+	  { number: 335, title: "Gonzalo Jara", desc: "<b>Gonzalo Alejandro Jara Reyes</b><br>29 augusti 1985 i Comuna de Hualpén, Chile", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort335.jpg", extra: "Försvarare - Chile" },
+	  { number: 336, title: "Eugenio Mena", desc: "<b>Eugenio Esteban Mena Reveco</b><br>18 juli 1988 i Viña del Mar, Chile", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort336.jpg", extra: "Försvarare - Chile" },
       { number: 343, title: "David Ospina", desc: "<b>David Ospina Ramírez</b><br>31 augusti 1988 i Itagüí, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort343.jpg", extra: "Målvakt - Colombia" },
 	  { number: 348, title: "Juan Cuadrado", desc: "<b>Juan Guillermo Cuadrado</b><br>26 maj 1988 i Necoclí, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort348.jpg", extra: "Mittfältare - Colombia" },
 	  { number: 349, title: "Edwin Cardona", desc: "<b>Edwin Andrés Cardona Bedoya</b><br>8 december 1992 i Medellín, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort349.jpg", extra: "Mittfältare - Colombia" }
@@ -3259,140 +3263,140 @@ const data = {
   extra: "Crime / Mystery / Drama<br>2021 (OK392)"
 },
 {
-  number: 0,
+  number: 111,
   title: "Aurora Teagarden Mysteries Reunited And It Feels So Deadly",
   desc: "Candace Cameron Bure, Niall Matter<br>Marilu Henner, Peter Benson<br>Miranda Frigon, Dylan Sloane<br>Regi: Martin Wood",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Aurora%20Teagarden%20Mysteries%20Reunited%20And%20It%20Feels%20So%20Deadly%202020%20(OK393).jpg",
   extra: "Crime / Mystery / Drama<br>2020 (OK393)"
 },
 {
-  number: 0,
+  number: 112,
   title: "Auto Focus",
   desc: "Greg Kinnear, Willem Dafoe<br>Rita Wilson, Maria Bello<br>Ron Leibman, Bruce Solomon<br>Regi: Paul Schrader",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Auto%20Focus%202002%20(OK395).jpg",
   extra: "Biography / Crime / Drama<br>2002 (OK395)"
 },
 {
-  number: 0,
+  number: 113,
   title: "Ava",
   desc: "Jessica Chastain, John Malkovich<br>Common, Geena Davis<br>Colin Farrell, Ioan Gruffudd<br>Regi: Tate Taylor",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Ava%202020%20(OK463).jpg",
   extra: "Action / Crime / Drama<br>2020 (OK463)"
 },
 {
-  number: 0,
+  number: 114,
   title: "Avatar The Way Of Water",
   desc: "Sam Worthington, Zoe Saldaña<br>Sigourney Weaver, Stephen Lang<br>Kate Winslet, Cliff Curtis<br>Regi: James Cameron",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Avatar%20The%20Way%20Of%20Water%202022%20(OK468).jpg",
   extra: "Action / Äventyr / Sci-Fi<br>2022 (OK468)"
 },
 {
-  number: 0,
+  number: 115,
   title: "Avgrunden",
   desc: "Tuva Novotny, Peter Franzén<br>Kardo Razzazi, Felicia Maxime<br>Angela Kovács, Tintin Poggats Sarri<br>Regi: Richard Holm",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Avgrunden%202023%20(OK855).jpg",
   extra: "Action / Drama / Thriller<br>2023 (OK855)"
 },
 {
-  number: 0,
+  number: 116,
   title: "AVP Alien vs Predator",
   desc: "Sanaa Lathan, Lance Henriksen<br>Raoul Bova, Ewen Bremner<br>Colin Salmon, Tommy Flanagan<br>Regi: Paul W.S. Anderson",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/AVP%20Alien%20vs%20Predator%202004%20(F18).jpg",
   extra: "Action / Äventyr / Sci-Fi<br>2004 (F18)"
 },
 {
-  number: 0,
+  number: 117,
   title: "AVPR Aliens vs Predator Requiem",
   desc: "Reiko Aylesworth, Steven Pasquale<br>Shareeka Epps, John Ortiz<br>Johnny Lewis, Ariel Gade<br>Regi: Colin Strause, Greg Strause",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/AVPR%20Aliens%20vs%20Predator%20Requiem%202007%20(F18).jpg",
   extra: "Action / Horror / Sci-Fi<br>2007 (F18)"
 },
 {
-  number: 0,
+  number: 118,
   title: "Babes In Toyland",
   desc: "Ray Bolger, Tommy Sands<br>Annette Funicello, Ed Wynn<br>Tommy Kirk, Kevin Corcoran<br>Regi: Jack Donohue",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Babes%20In%20Toyland%201961%20(OK51)%20(Disney).jpg",
   extra: "Comedy / Family / Fantasy<br>1961 (OK51) (Disney)"
 },
 {
-  number: 0,
+  number: 119,
   title: "Bachelor Party",
   desc: "Tom Hanks, Tawny Kitaen<br>Adrian Zmed, George Grizzard<br>Barbara Stuart, Robert Prescott<br>Regi: Neal Israel",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Bachelor%20Party%201984%20(F101).jpg",
   extra: "Komedi<br>1984 (F101)"
 },
 {
-  number: 0,
+  number: 120,
   title: "Back In Action",
   desc: "Jamie Foxx, Cameron Diaz<br>Kyle Chandler, Andrew Scott<br>Glenn Close, Jamie Demetriou<br>Regi: Seth Gordon",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Back%20In%20Action%202025%20(OK1026).jpg",
   extra: "Action / Komedi / Thriller<br>2025 (OK1026)"
 },
 {
-  number: 0,
+  number: 121,
   title: "Back Roads",
   desc: "Sally Field, Tommy Lee Jones<br>David Keith, Miriam Colon<br>Michael V. Gazzo, Barbara Babcock<br>Regi: Martin Ritt",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Back%20Roads%201981%20(OK901).jpg",
   extra: "Adventure / Comedy / Romance<br>1981 (OK901)"
 },
 {
-  number: 0,
+  number: 122,
   title: "Back To Black",
   desc: "Marisa Abela, Jack O'Connell<br>Eddie Marsan, Lesley Manville<br>Juliet Cowan, Sam Buchanan<br>Regi: Sam Taylor-Johnson",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Back%20To%20Black%202024%20(OK1005).jpg",
   extra: "Biography / Drama / Music<br>2024 (OK1005)"
 },
 {
-  number: 0,
+  number: 123,
   title: "Back To The Beginning",
   desc: "Ozzy Osbourne, Tony Iommi<br>Geezer Butler, Bill Ward<br>Bill Bruford<br>Live Concert / Documentary",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Back%20To%20The%20Beginning%202025%20(OK1111).png",
   extra: "Music / Documentary<br>2025 (OK1111)"
 },
 {
-  number: 0,
+  number: 124,
   title: "Bad Boy Bubby",
   desc: "Nicholas Hope, Claire Benito<br>Ralph Cotterill, Carmel Johnson<br>Regi: Rolf de Heer",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Bad%20Boy%20Bubby%201993%20(OK529).jpg",
   extra: "Comedy / Crime / Drama<br>1993 (OK529)"
 },
 {
-  number: 0,
+  number: 125,
   title: "Bad Man's River",
   desc: "Lee Van Cleef, James Mason<br>Gina Lollobrigida, Simon Andreu<br>Diana Lorys, Gianni Garko<br>Regi: Eugenio Martín",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Bad%20Man's%20River%201971%20(OK52).jpg",
   extra: "Comedy / Romance / Western<br>1971 (OK52)"
 },
 {
-  number: 0,
+  number: 126,
   title: "Bad Moms",
   desc: "Mila Kunis, Kathryn Hahn<br>Kristen Bell, Christina Applegate<br>Jada Pinkett Smith, Annie Mumolo<br>Regi: Jon Lucas, Scott Moore",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Bad%20Moms%202016%20(OK445).jpg",
   extra: "Comedy<br>2016 (OK445)"
 },
 {
-  number: 0,
+  number: 127,
   title: "Bad Taste",
   desc: "Terry Potter, Pete O'Herne<br>Peter Jackson, Mike Minett<br>Craig Smith, Doug Wren<br>Regi: Peter Jackson",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Bad%20Taste%201987%20(OK530).jpg",
   extra: "Sci-Fi, Komedi, Skräck<br>1987 (OK530)"
 },
 {
-  number: 0,
+  number: 128,
   title: "Ballerina",
   desc: "Ana de Armas, Keanu Reeves<br>Ian McShane, Anjelica Huston<br>Gabriel Byrne, Norman Reedus<br>Regi: Len Wiseman",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Ballerina%202025%20(OK1062).jpg",
   extra: "Action, Thriller<br>2025 (OK1062)"
 },
 {
-  number: 0,
+  number: 129,
   title: "Bambi The Reckoning",
   desc: "Roxanne McKee, Nicola Wright<br>Tom Mulheron, Samira Mighty<br>Alex Cooke, Russell Geoffrey Banks<br>Regi: Dan Allen",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Bambi%20The%20Reckoning%202025%20(OK1143).jpg",
   extra: "Skräck, Thriller<br>2025 (OK1143)"
 },
 {
-  number: 0,
+  number: 130,
   title: "Barbarella",
   desc: "Jane Fonda, John Phillip Law<br>Anita Pallenberg, Milo O'Shea<br>Marcel Marceau, Claude Dauphin<br>Regi: Roger Vadim",
   img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Filmer/Barbarella%201968%20(F15).jpg",
