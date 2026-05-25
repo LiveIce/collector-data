@@ -262,12 +262,16 @@ const data = {
 	  { number: 49, title: "Animal Rights", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort49b.jpg", extra: "Baksida<br>1993" }
     ],
   "Star Trek": [
+	  { number: 4, title: "A Change Of Plans", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort4a.jpg", extra: "Framsida<br>1994" },
+	  { number: 4, title: "A Change Of Plans", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort4b.jpg", extra: "Baksida<br>1994" },
 	  { number: 5, title: "Phasing Through Time", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort5a.jpg", extra: "Framsida<br>1994" },
 	  { number: 5, title: "Phasing Through Time", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort5b.jpg", extra: "Baksida<br>1994" },
 	  { number: 6, title: "Two Among Many", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort6a.jpg", extra: "Framsida<br>1994" },
 	  { number: 6, title: "Two Among Many", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort6b.jpg", extra: "Baksida<br>1994" },
       { number: 18, title: "Questions And Answers", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort18a.jpg", extra: "Framsida<br>1994" },
 	  { number: 18, title: "Questions And Answers", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort18b.jpg", extra: "Baksida<br>1994" },
+	  { number: 20, title: "Soran's Request", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort20a.jpg", extra: "Framsida<br>1994" },
+	  { number: 20, title: "Soran's Request", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort20b.jpg", extra: "Baksida<br>1994" },
 	  { number: 21, title: "A Familiar Face", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort21a.jpg", extra: "Framsida<br>1994" },
 	  { number: 21, title: "A Familiar Face", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort21b.jpg", extra: "Baksida<br>1994" },
 	  { number: 28, title: "Enemies Decloak", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort28a.jpg", extra: "Framsida<br>1994" },
@@ -282,14 +286,20 @@ const data = {
 	  { number: 44, title: "Crash Landing", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort44b.jpg", extra: "Baksida<br>1994" },
 	  { number: 49, title: "Challenge Accepted", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort49a.jpg", extra: "Framsida<br>1994" },
 	  { number: 49, title: "Challenge Accepted", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort49b.jpg", extra: "Baksida<br>1994" },
+	  { number: 59, title: "A Change Of Plans", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort59a.jpg", extra: "Framsida<br>1994" },
+	  { number: 59, title: "A Change Of Plans", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort59b.jpg", extra: "Baksida<br>1994" },
 	  { number: 66, title: "Doctor Tolian Soran", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort66a.jpg", extra: "Framsida<br>1994" },
 	  { number: 66, title: "Doctor Tolian Soran", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort66b.jpg", extra: "Baksida<br>1994" },
 	  { number: 70, title: "Ensign Demora Sulu", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort70a.jpg", extra: "Framsida<br>1994" },
 	  { number: 70, title: "Ensign Demora Sulu", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort70b.jpg", extra: "Baksida<br>1994" }
     ],
     "The Return Of Superman": [
+	  { number: 2, title: "The Last Son Of Krypton", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort2a.jpg", extra: "Framsida<br>1993" },
+	  { number: 2, title: "The Last Son Of Krypton", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort2b.jpg", extra: "Baksida<br>1993" },
 	  { number: 5, title: "Superboy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort5a.jpg", extra: "Framsida<br>1993" },
 	  { number: 5, title: "Superboy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort5b.jpg", extra: "Baksida<br>1993" },
+	  { number: 7, title: "Evil's Enemy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort7a.jpg", extra: "Framsida<br>1993" },
+	  { number: 7, title: "Evil's Enemy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort7b.jpg", extra: "Baksida<br>1993" },
       { number: 14, title: "Hammer Power", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort14a.jpg", extra: "Framsida<br>1993" },
 	  { number: 14, title: "Hammer Power", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort14b.jpg", extra: "Baksida<br>1993" },
 	  { number: 15, title: "Steel Heart", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort15a.jpg", extra: "Framsida<br>1993" },
@@ -311,7 +321,11 @@ const data = {
 	  { number: 79, title: "Surprise Savior", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort79a.jpg", extra: "Framsida<br>1993" },
 	  { number: 79, title: "Surprise Savior", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort79b.jpg", extra: "Baksida<br>1993" },
 	  { number: 81, title: "Standing Tall", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort81a.jpg", extra: "Framsida<br>1993" },
-	  { number: 81, title: "Standing Tall", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort81b.jpg", extra: "Baksida<br>1993" }
+	  { number: 81, title: "Standing Tall", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort81b.jpg", extra: "Baksida<br>1993" },
+	  { number: 82, title: "To The Rescue", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort82a.jpg", extra: "Framsida<br>1993" },
+	  { number: 82, title: "To The Rescue", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort82b.jpg", extra: "Baksida<br>1993" },
+	  { number: 94, title: "On To Metropolis", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort94a.jpg", extra: "Framsida<br>1993" },
+	  { number: 94, title: "On To Metropolis", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort94b.jpg", extra: "Baksida<br>1993" }
     ]
 },
   "Pokémon": {
