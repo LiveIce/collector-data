@@ -991,11 +991,7 @@ const data = {
 	  { number: 88, title: "Double Star", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlueprintsOfTheFuture/Kort88b.jpg", extra: "Baksida<br>1994" }
     ],
   },	  
-  "Fotboll": {
-    "Bundesliga": [		
-	  { number: 1, title: "Lucas Hernandez", desc: "<b>Lucas François Bernard Hernandez</b><br>14 februari 1996 i Marseille, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/Bundesliga/Kort1.jpg", extra: "Försvarare - FC Bayern München" },
-	  { number: 2, title: "Stefan Ortega", desc: "<b>Stefan Ortega Moreno</b><br>6 november 1992 i Hofgeismar, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/Bundesliga/Kort2.jpg", extra: "Målvakt - DSC Arminia Bielefeld" },
-    ],	  
+  "Fotboll": {	  
     "FIFA365 2017": [		
 	  { number: 1, title: "Gino Peruzzi", desc: "<b>Gino Peruzzi Lucchetti</b><br>9 juni 1992 i Corral de Bustos, Argentina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE1.jpg", extra: "Försvarare - Boca Juniors (UE1)" },
 	  { number: 2, title: "Santiago Vergini", desc: "<b>Santiago Vergini</b><br>3 augusti 1988 i Máximo Paz, Argentina", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE2.jpg", extra: "Mittfältare - Boca Juniors (UE2)" },
@@ -1349,6 +1345,8 @@ const data = {
 	  { number: 00, title: "Manuel Prietl", desc: "<b>Manuel Prietl</b><br>3 augusti 1991 i Deutschlandsberg, Österrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0j.jpg", extra: "Mittfältare - DSC Arminia Bielefeld I M" },
 	  { number: 00, title: "Lars Stindl", desc: "<b>Lars Edi Stindl</b><br>26 augusti 1988 i Speyer, Västtyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0k.jpg", extra: "Anfallare - Borussia Mönchengladbach I M" },
       { number: 00, title: "Jonas Hector", desc: "<b>Jonas Hector</b><br>27 maj 1990 i Saarbrücken, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort0l.jpg", extra: "Försvarare - 1. FC Köln I M" },
+	  { number: 00, title: "Lucas Hernandez", desc: "<b>Lucas François Bernard Hernandez</b><br>14 februari 1996 i Marseille, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/Bundesliga/Kort1.jpg", extra: "Försvarare - FC Bayern München" },
+	  { number: 00, title: "Stefan Ortega", desc: "<b>Stefan Ortega Moreno</b><br>6 november 1992 i Hofgeismar, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/Bundesliga/Kort2.jpg", extra: "Målvakt - DSC Arminia Bielefeld" },	  
 	  { number: 1, title: "Felix Uduokhai", desc: "<b>Felix Ohis Uduokhai</b><br>9 september 1997 i Annaberg-Buchholz, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort1.jpg", extra: "Försvarare- FC Augsburg" },
       { number: 2, title: "Tobias Strobl", desc: "<b>Tobias Strobl</b><br>12 maj 1990 i München, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort2.jpg", extra: "Mittfältare - FC Augsburg" },
       { number: 3, title: "Niklas Dorsch", desc: "<b>Niklas Bernd Dorsch</b><br>15 januari 1998 i Lichtenfels, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort3.jpg", extra: "Mittfältare - FC Augsburg" },
