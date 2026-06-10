@@ -400,6 +400,10 @@ const data = {
     ]
 },
   "Pokémon": {
+    "Astral Radiance": [
+/* 	🔥 💧 🍃 ⚡ 👁️ ✪ ❄ 🌙 💖 🐾 ⚙️ 💀 🐲 ✊ ☢️ 🦅 ⛰️ 🌋 */
+	  { number: 2, title: "Hisuian Voltorb", desc: "Typ: Grass<br>Set: Astral Radiance", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Pokemon/AstralRadiance/swsh10-002.webp", extra: "Basic<br>Common 🍃" },
+    ],	  
 /*    { number: 50, title: "Spheal", desc: "Typ: <typ><br>Set: Cosmic Eclipse", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Pokemon/CosmicEclipse/sm12-050.webp", extra: "<stage><br><rarity>" }, */	  
     "Base 💎": [
 /* 	🔥 💧 🍃 ⚡ 👁️ ✪ ❄ 🌙 💖 🐾 ⚙️ 💀 🐲 ✊ ☢️ 🦅 ⛰️ 🌋 */
@@ -426,7 +430,7 @@ const data = {
 	  { number: 93, title: "Gust Of Wind", desc: "Typ: Trainer<br>Set: Base", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Pokemon/Base/base1-093.webp", extra: "<br>Common" },
 	  { number: 94, title: "Potion", desc: "Typ: Trainer<br>Set: Base", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Pokemon/Base/base1-094.webp", extra: "<br>Common" },
 	  { number: 95, title: "Switch", desc: "Typ: Trainer<br>Set: Base", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Pokemon/Base/base1-095.webp", extra: "<br>Common" },
-    ],	  
+    ],
     "Cosmic Eclipse 💎": [
 /* 	🔥 💧 🍃 ⚡ 👁️ ✪ ❄ 🌙 💖 🐾 ⚙️ 💀 🐲 ✊ ☢️ 🦅 ⛰️ 🌋 */
       { number: 2, title: "Oddish", desc: "Typ: Grass<br>Set: Cosmic Eclipse", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Pokemon/CosmicEclipse/sm12-002.webp", extra: "Basic<br>Common 🍃" },
@@ -1059,6 +1063,8 @@ const data = {
 	  { number: 25, title: "Lucas Digne", desc: "<b>Lucas Adrien Digne</b><br>20 juli 1993 i Meaux, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE25.jpg", extra: "Försvarare - FC Barcelona (UE25)" },
 	  { number: 39, title: "Renato Sanches", desc: "<b>Renato Júnior Luz Sanches</b><br>18 augusti 1997 i Lissabon, Portugal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE39.jpg", extra: "Mittfältare - FC Bayern München (UE39)" },
 	  { number: 41, title: "Marc Bartra", desc: "<b>Marc Bartra</b><br>15 januari 1991 i Sant Jaume dels Domenys, Spanien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE41.jpg", extra: "Försvarare - Borussia Dortmund (UE41)" },
+	  { number: 42, title: "Felix Passlack", desc: "<b>Felix Passlack</b><br>29 maj 1998 i Bottrop, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE42.jpg", extra: "Mittfältare - Borussia Dortmund (UE42)" },
+	  { number: 43, title: "Christian Pulisic", desc: "<b>Christian Mate Pulisic</b><br>18 september 1998 i Hershey, Pennsylvania, USA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE43.jpg", extra: "Anfallare - Borussia Dortmund (UE43)" },
 	  { number: 45, title: "Naldo", desc: "<b>Ronaldo Aparecido Rodrigues</b><br>10 september 1982 i Londrina, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE45.jpg", extra: "Försvarare - FC Schalke 04 (UE45)" },
 	  { number: 46, title: "Matija Nastasić", desc: "<b>Matija Nastasić</b><br>28 mars 1993 i Valjevo, Serbien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE46.jpg", extra: "Försvarare - FC Schalke 04 (UE46)" },
 	  { number: 47, title: "Abdul Rahman Baba", desc: "<b>Abdul Rahman Baba</b><br>2 juli 1994 i Tamale, Ghana", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/KortUE47.jpg", extra: "Försvarare - FC Schalke 04 (UE47)" },
@@ -1188,7 +1194,9 @@ const data = {
 	  { number: 341, title: "Fabián Orellana", desc: "<b>Fabián Orellana</b><br>27 januari 1986 i San Joaquín, Chile", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort341.jpg", extra: "Mittfältare - Chile" },
       { number: 343, title: "David Ospina", desc: "<b>David Ospina Ramírez</b><br>31 augusti 1988 i Itagüí, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort343.jpg", extra: "Målvakt - Colombia" },
 	  { number: 348, title: "Juan Cuadrado", desc: "<b>Juan Guillermo Cuadrado</b><br>26 maj 1988 i Necoclí, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort348.jpg", extra: "Mittfältare - Colombia" },
-	  { number: 349, title: "Edwin Cardona", desc: "<b>Edwin Andrés Cardona Bedoya</b><br>8 december 1992 i Medellín, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort349.jpg", extra: "Mittfältare - Colombia" }
+	  { number: 349, title: "Edwin Cardona", desc: "<b>Edwin Andrés Cardona Bedoya</b><br>8 december 1992 i Medellín, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort349.jpg", extra: "Mittfältare - Colombia" },
+	  { number: 350, title: "Dayro Moreno", desc: "<b>Dayro Mauricio Moreno Galindo</b><br>16 september 1985 i El Espinal, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort350.jpg", extra: "Anfallare - Colombia" },
+	  { number: 351, title: "Roger Martínez", desc: "<b>Roger Beyker Martínez Tobinson</b><br>23 juni 1994 i Cartagena de Indias, Colombia", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365/Kort351.jpg", extra: "Anfallare - Colombia" }
     ],
     "FIFA365 2019 💎": [
       { number: 16, title: "Ederson", desc: "<b>Ederson Santana de Moraes</b><br>17 augusti 1993 i Osasco, São Paulo, Brasilien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/fifa365%202019/Kort16.jpg", extra: "Målvakt - Manchester City" },
@@ -1457,6 +1465,8 @@ const data = {
 	  { number: 46, title: "Elvis Rexhbecaj", desc: "<b>Elvis Rexhbecaj</b><br>1 november 1997 i Gjonaj, Kosovo", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort46.jpg", extra: "Mittfältare - VfL Bochum 1848" },
 	  { number: 49, title: "Christopher Antwi-Adjej", desc: "<b>Christopher Antwi-Adjej</b><br>7 februari 1994 i Hagen, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort49.jpg", extra: "Anfallare - VfL Bochum 1848" },
 	  { number: 50, title: "Sebastian Polter", desc: "<b>Sebastian Polter</b><br>1 april 1991 i Wilhelmshaven, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort50.jpg", extra: "Anfallare - VfL Bochum 1848" },
+	  { number: 51, title: "Youssoufa Moukoko", desc: "<b>Youssoufa Moukoko</b><br>20 november 2004 i Yaoundé, Kamerun", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort51.jpg", extra: "Anfallare - Borussia Dortmund" },
+	  { number: 52, title: "Giovanni Reyna", desc: "<b>Giovanni Alejandro Reyna</b><br>13 november 2002 i Sunderland, Storbritannien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort52.jpg", extra: "Mittfältare - Borussia Dortmund" },
 	  { number: 53, title: "Erling Haaland", desc: "<b>Erling Braut Haaland</b><br>21 juli 2000 i Leeds, Storbritannien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort53.jpg", extra: "Anfallare - Borussia Dortmund" },
 	  { number: 54, title: "Jude Bellingham", desc: "<b>Jude Victor William Bellingham</b><br>29 juni 2003 i Stourbridge, Storbritannien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort54.jpg", extra: "Mittfältare - Borussia Dortmund" },
 	  { number: 55, title: "Raphaël Guerreiro", desc: "<b>Raphaël Adelino José Guerreiro</b><br>22 december 1993 i Le Blanc-Mesnil, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort55.jpg", extra: "Försvarare - Borussia Dortmund" },
@@ -1481,6 +1491,8 @@ const data = {
 	  { number: 106, title: "Anthony Modeste", desc: "<b>Anthony Stéphane Bernard Modeste</b><br>14 april 1988 i Cannes, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort106.jpg", extra: "Anfallare - 1 FC Köln" },
 	  { number: 107, title: "Timo Hübers", desc: "<b>Timo Bernd Hübers</b><br>20 juli 1996 i Hildesheim, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort107.jpg", extra: "Försvarare - 1 FC Köln" },
 	  { number: 110, title: "Ondrej Duda", desc: "<b>Ondrej Duda</b><br>5 december 1994 i Snina, Slovakien", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort110.jpg", extra: "Mittfältare - 1 FC Köln" },
+	  { number: 111, title: "Sidney Raebiger", desc: "<b>Lars Sidney Raebiger</b><br>17 april 2005 i Freiberg, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort111.jpg", extra: "Mittfältare - RB Leipzig" },
+	  { number: 114, title: "Emil Forsberg", desc: "<b>Emil Peter Forsberg</b><br>23 oktober 1991 i Sundsvall, Sverige", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort114.jpg", extra: "Mittfältare - RB Leipzig" },
 	  { number: 119, title: "Ilaix Moriba", desc: "<b>Moriba Kourouma Kourouma</b><br>19 januari 2003 i Conakry, Guinea", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort119.jpg", extra: "Mittfältare - RB Leipzig" },
 	  { number: 121, title: "Edmond Tapsoba", desc: "<b>Edmond Fayçal Tapsoba</b><br>2 februari 1999 i Ouagadougou, Burkina Faso", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort121.jpg", extra: "Försvarare - Bayer 04 Leverkusen" },
 	  { number: 122, title: "Moussa Diaby", desc: "<b>Moussa Diaby</b><br>7 juli 1999 i Paris, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort122.jpg", extra: "Anfallare - Bayer 04 Leverkusen" },
