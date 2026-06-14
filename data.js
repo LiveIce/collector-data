@@ -397,7 +397,20 @@ const data = {
 	  { number: 91, title: "Full Power", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort91b.jpg", extra: "Baksida<br>1993" },
 	  { number: 94, title: "On To Metropolis", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort94a.jpg", extra: "Framsida<br>1993" },
 	  { number: 94, title: "On To Metropolis", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort94b.jpg", extra: "Baksida<br>1993" }
-    ]
+    ],
+	    "Tung Tung Tung Sahur": [
+	  { number: 1, title: "Bar Bar Patapim", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort1.jpg", extra: "Sten<br>" },
+	  { number: 2, title: "Balerinna Cappucinna", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort2.jpg", extra: "Sten<br>" },
+	  { number: 3, title: "Tralalero Tralala", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort3.jpg", extra: "Sten<br>" },
+	  { number: 4, title: "Boneca Ambalam", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort4.jpg", extra: "Påse<br>" },
+	  { number: 5, title: "Balerinna Cappucinna", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort5.jpg", extra: "Påse<br>" },
+	  { number: 6, title: "Bobrinni Cocosini", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort6.jpg", extra: "Påse<br>" },
+	  { number: 7, title: "Shimpanzinni Bananini", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort7.jpg", extra: "Sax<br>" },
+	  { number: 8, title: "Trulimerotruli", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort8.jpg", extra: "Sax<br>" },
+	  { number: 9, title: "Tralalero Tralala", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort9.jpg", extra: "Sten<br>" },
+	  { number: 10, title: "Glorbo Frutto Drillo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort10.jpg", extra: "Sten<br>" },
+	  { number: 11, title: "Bobrito Bondito", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TungTungTungSahur/Kort11.jpg", extra: "Sax<br>" },
+    ],
 },
   "Pokémon": {
     "Astral Radiance 💎": [
