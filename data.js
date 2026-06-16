@@ -4283,6 +4283,7 @@ const data = {
   },
     "Spel": {
     "PC 💎": [
+	  { number: 0, title: "3D Escape Room Detective Story", desc: "Shenzhen Zhonglian Interactive Technology", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/3DEscapeRoomDetectiveStory.jpg", extra: "Logic, Puzzle, First-person, 3D, Detective" },
       { number: 0, title: "007 First Light", desc: "IO Interactive", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/007FirstLight.jpg", extra: "Action, Stealth, Third-person, 3D, Spy fiction" },
 	  { number: 0, title: "100 In 1 Game Collection", desc: "Maximum Entertainment, Digital Bards", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/100In1GameCollection.jpg", extra: "Arcade, Side, Top, 2D" },
 	  { number: 0, title: "A Bumpy Ride", desc: "Cosmoporium Games", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/ABumpyRide.jpg", extra: "Exploration, Simulation, Management, 3D, Driving, Trains" },
