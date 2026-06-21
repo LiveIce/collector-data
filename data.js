@@ -2904,7 +2904,9 @@ const data = {
 	  { number: 539, title: "Knots Landing", desc: "1979-1993", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0539.jpg", extra: "Säsonger: 14 - Avsnitt: 344" },
 	  { number: 540, title: "Man vs Baby", desc: "2025", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0540.jpg", extra: "Säsonger: 1 - Avsnitt: 4" },
 	  { number: 541, title: "My Three Sons", desc: "1960-1972", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0541.jpg", extra: "Säsonger: 12 - Avsnitt: 380" },
-	  { number: 542, title: "True Lies", desc: "2023", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0542.jpg", extra: "Säsonger: 1 - Avsnitt: 13" }
+	  { number: 542, title: "True Lies", desc: "2023", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0542.jpg", extra: "Säsonger: 1 - Avsnitt: 13" },
+	  { number: 543, title: "Doctor Who", desc: "1963-1989", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0543.jpg", extra: "Säsonger: 26 - Avsnitt: 694" },
+	  { number: 544, title: "Scarecrow And Mrs King", desc: "1983-1987", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/TVserier/0544.jpg", extra: "Säsonger: 4 - Avsnitt: 88" }
     ],
     "Filmer": [
       {
