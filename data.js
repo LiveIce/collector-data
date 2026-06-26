@@ -1696,6 +1696,10 @@ const data = {
 	  { number: 137, title: "Anton Stach", desc: "<b>Anton Levi Stach</b><br>15 november 1998 i Buchholz in der Nordheide, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort137.jpg", extra: "Mittfältare - FSV Mainz 05" },
 	  { number: 138, title: "Ádám Szalai", desc: "<b>Ádám Csaba Szalai</b><br>9 december 1987 i Budapest, Ungern", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort138.jpg", extra: "Anfallare - FSV Mainz 05" },
 	  { number: 139, title: "Jonathan Burkardt", desc: "<b>Jonathan Michael Burkardt</b><br>11 juli 2000 i Darmstadt, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort139.jpg", extra: "Anfallare - FSV Mainz 05" },
+	  { number: 168, title: "Naouirou Ahamada", desc: "<b>Naouirou Ahamada</b><br>29 mars 2002 i Marseille, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort168.jpg", extra: "Mittgältare - VfB Stuttgart" },
+	  { number: 169, title: "Tanguy Coulibaly", desc: "<b>Tanguy Bemin Coulibaly</b><br>18 februari 2001 i Sèvres, Frankrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort169.jpg", extra: "Mittgältare - VfB Stuttgart" },
+	  { number: 170, title: "Florian Müller", desc: "<b>Florian Müller</b><br>13 november 1997 i Saarlouis, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort170.jpg", extra: "Målvakt - VfB Stuttgart" },
+	  { number: 171, title: "Xaver Schlager", desc: "<b>Xaver Schlager</b><br>28 september 1997 i Linz, Österrike", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort171.jpg", extra: "Mittfältare - VfL Wolfsburg" },
 	  { number: 180, title: "Yannick Gerhardt", desc: "<b>Yannick Gerhardt</b><br>13 March 1994 i Würselen, Tyskland", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/fotboll/topps/Kort180.jpg", extra: "Mittfältare - VfL Wolfsburg" }
     ],
 	"Topps EURO 2024 💎": [
@@ -7084,6 +7088,7 @@ const data = {
 	  { number: 1248, title: "Billy Joel", desc: "Modern Woman<br>Sleeping With The Television On", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S01248.jpg", extra: "1986" },
 	  { number: 1249, title: "Loverboy", desc: "Heaven In Your Eyes<br>Friday Night", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S01249.jpg", extra: "1986" },
 	  { number: 1250, title: "Trance Dance", desc: "Don't Walk Away<br>Midnight Rendez Vous", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S01250.jpg", extra: "1986" },
+	  { number: 1251, title: "Stranglers", desc: "Nice In Nice<br>Since You Went Away", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S01251.jpg", extra: "1986" },
     ]
   }
 };
