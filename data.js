@@ -4434,6 +4434,7 @@ const data = {
 	  { number: 0, title: "Tomb Raider IV - VI Remastered", desc: "Aspyr Media", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/TombRaiderIV-VIRemastered.jpg", extra: "Action, Shooter, Puzzle solving, Stealth, Fixed camera angles, Third-person, 3D" },
 	  { number: 0, title: "Town To City", desc: "Kwalee, Galaxy Grove", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/TownToCity.jpg", extra: "Managerial, Strategy, Top-down, 3D" },
 	  { number: 0, title: "Traders Life Together", desc: "DNA Army Gaming", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/TradersLifeTogether.jpg", extra: "Lifestyle, First-person, 3D" },
+	  { number: 0, title: "Zaccaria Pinball", desc: "Magic Pixel", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/ZaccariaPinball.jpg", extra: "Arcade, Pinball, 3D" },
     ]
   },	  
     "Skivor": {
