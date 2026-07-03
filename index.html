@@ -323,6 +323,10 @@ function showCards(category, expansion) {
 
   let cards = [...data[category][expansion]];
 
+cards.sort((a, b) => {
+  return String(a.number).localeCompare(String(b.number), 'sv', { numeric: true });
+});
+
   cards.forEach(card => {
     const div = document.createElement("div");
     div.className = "card";
