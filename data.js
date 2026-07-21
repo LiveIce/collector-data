@@ -333,8 +333,11 @@ const data = {
 	  { number: 330, title: "Kirstie Alley", desc: "<b>Kirstie Louise Alley</b><br>12 januari 1951 i Wichita, Kansas, USA<br>5 december 2022 i Tampa, Florida, USA (colon cancer)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/celeb/330 Kirstie Alley.webp", extra: "1.71 m<br>1951" },
 	  { number: 331, title: "Shelley Long", desc: "<b>Shelley Lee Long</b><br>23 augusti 1949 i Fort Wayne, Indiana, USA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/celeb/331 Shelley Long.webp", extra: "1.70 m<br>1949" },
 	  { number: 332, title: "Bebe Neuwirth", desc: "<b>Beatrice Neuwirth</b><br>31 december 1958 i Newark, New Jersey, USA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/celeb/332 Bebe Neuwirth.webp", extra: "1.63 m<br>1958" },
-	  { number: 333, title: "Wilmer Valderrama", desc: "<b>Wilmer Eduardo Valderrama</b><br>30 januari 1980 i Miami, Florida, USA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/celeb/333 Wilmer Valderrama.webp", extra: "1.72 m<br>1980" },
-    ],
+      { number: 333, title: "Wilmer Valderrama", desc: "<b>Wilmer Eduardo Valderrama</b><br>30 januari 1980 i Miami, Florida, USA", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/celeb/333 Wilmer Valderrama.webp", extra: "1.72 m<br>1980" },
+  ],
+    "One Piece OP11": [
+	  { number: 57, title: "Pedro", desc: "Minks", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort5a.jpg", extra: "Character<br>2025" },
+  ],	  
     "Spoofy Tunes": [
 	  { number: 5, title: "Nightmare Rhyme", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort5a.jpg", extra: "Framsida<br>1993" },
 	  { number: 5, title: "Nightmare Rhyme", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort5b.jpg", extra: "Baksida<br>1993" },
