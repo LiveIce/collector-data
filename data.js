@@ -412,6 +412,8 @@ const data = {
 	  { number: 5, title: "Phasing Through Time", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort5b.jpg", extra: "Baksida<br>1994" },
 	  { number: 6, title: "Two Among Many", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort6a.jpg", extra: "Framsida<br>1994" },
 	  { number: 6, title: "Two Among Many", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort6b.jpg", extra: "Baksida<br>1994" },
+	  { number: 7, title: "Trapped", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort7a.jpg", extra: "Framsida<br>1994" },
+	  { number: 7, title: "Trapped", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort7b.jpg", extra: "Baksida<br>1994" },
 	  { number: 8, title: "There's Always A Way", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort8a.jpg", extra: "Framsida<br>1994" },
 	  { number: 8, title: "There's Always A Way", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort8b.jpg", extra: "Baksida<br>1994" },
 	  { number: 11, title: "Blink Of An Eye", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort11a.jpg", extra: "Framsida<br>1994" },
@@ -434,6 +436,8 @@ const data = {
 	  { number: 28, title: "Enemies Decloak", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort28b.jpg", extra: "Baksida<br>1994" },
 	  { number: 30, title: "Target Veridian", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort30a.jpg", extra: "Framsida<br>1994" },
 	  { number: 30, title: "Target Veridian", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort30b.jpg", extra: "Baksida<br>1994" },
+	  { number: 31, title: "Stuck With Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort31a.jpg", extra: "Framsida<br>1994" },
+	  { number: 31, title: "Stuck With Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort31b.jpg", extra: "Baksida<br>1994" },
 	  { number: 32, title: "The Nexus", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort32a.jpg", extra: "Framsida<br>1994" },
 	  { number: 32, title: "The Nexus", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort32b.jpg", extra: "Baksida<br>1994" },
 	  { number: 34, title: "The Price Of Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort34a.jpg", extra: "Framsida<br>1994" },
@@ -452,6 +456,8 @@ const data = {
 	  { number: 49, title: "Challenge Accepted", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort49b.jpg", extra: "Baksida<br>1994" },
 	  { number: 51, title: "Guesswork", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort51a.jpg", extra: "Framsida<br>1994" },
 	  { number: 51, title: "Guesswork", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort51b.jpg", extra: "Baksida<br>1994" },
+	  { number: 55, title: "Tears Of Joy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort55a.jpg", extra: "Framsida<br>1994" },
+	  { number: 55, title: "Tears Of Joy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort55b.jpg", extra: "Baksida<br>1994" },
 	  { number: 59, title: "A Change Of Plans", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort59a.jpg", extra: "Framsida<br>1994" },
 	  { number: 59, title: "A Change Of Plans", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort59b.jpg", extra: "Baksida<br>1994" },
 	  { number: 66, title: "Doctor Tolian Soran", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort66a.jpg", extra: "Framsida<br>1994" },
@@ -2222,8 +2228,8 @@ const data = {
 	  { number: 194, title: "The Lost Vikings", desc: "The Lost Vikings", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort194b.jpg", extra: "Baksida" },
 	  { number: 196, title: "RPM Racing", desc: "Radical Psycho Machine Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort196a.jpg", extra: "Framsida" },
 	  { number: 196, title: "RPM Racing", desc: "Radical Psycho Machine Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort196b.jpg", extra: "Baksida" },
-	  { number: 198, title: "Rock 'n' Roll Racing", desc: "Rock 'N Roll Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort198a.jpg", extra: "Framsida" }
-	  { number: 198, title: "Rock 'n' Roll Racing", desc: "Rock 'N Roll Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort198b.jpg", extra: "Baksida" }
+	  { number: 198, title: "Rock 'n' Roll Racing", desc: "Rock 'N Roll Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort198a.jpg", extra: "Framsida" },
+	  { number: 198, title: "Rock 'n' Roll Racing", desc: "Rock 'N Roll Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort198b.jpg", extra: "Baksida" },
       { number: 199, title: "Rock 'n' Roll Racing", desc: "Rock 'N Roll Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort199a.jpg", extra: "Framsida" },
       { number: 199, title: "Rock 'n' Roll Racing", desc: "Rock 'N Roll Racing", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Blizzard/legacy%20collection/Kort199b.jpg", extra: "Baksida" }
     ]
