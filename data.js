@@ -4111,6 +4111,27 @@ const data = {
 	  { number: 0, title: "Zaccaria Pinball", desc: "Magic Pixel", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/ZaccariaPinball.jpg", extra: "Arcade, Pinball, 3D" },
     ]
   },	  
+    "Spel Kort": {
+    "Hendrick's Gin": [      
+      { number: 1, title: "Hendrick's Gin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortH.jpg", extra: "" },
+	  { number: 2, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortJokerFloradora.jpg", extra: "Floradora" },
+	  { number: 3, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortJokerGingerFiggle.jpg", extra: "Ginger Figgle" },
+	  { number: 4, title: "A\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuterA.jpg", extra: "The Cat's Meow" },
+	  { number: 5, title: "2\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuter2.jpg", extra: "" },
+	  { number: 6, title: "3\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuter3.jpg", extra: "" },
+	  { number: 7, title: "4\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuter4.jpg", extra: "" },
+	  { number: 8, title: "5\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuter5.jpg", extra: "" },
+	  { number: 9, title: "6\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuter6.jpg", extra: "" },
+	  { number: 10, title: "7\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuter7.jpg", extra: "" },
+	  { number: 11, title: "8\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuter8.jpg", extra: "" },
+	  { number: 12, title: "9\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuter9.jpg", extra: "" },
+	  { number: 13, title: "10\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuter10.jpg", extra: "" },
+	  { number: 14, title: "J\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuterJ.jpg", extra: "" },
+	  { number: 15, title: "Q\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuterQ.jpg", extra: "" },
+	  { number: 16, title: "K\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortRuterK.jpg", extra: "" },
+	  { number: 17, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortHjärterA.jpg", extra: "" },
+    ]
+  },	  	  
     "Skivor": {
     "Vinyl LP": [      
       { number: 1, title: "Judas Priest", desc: "1.One for the Road 2.Rocka Rolla<br>3.Winter 4.Deep Freeze<br>5.Winter Retreat 6.Cheater<br>7.Never Satisfied 8.Run of the Mill<br>9.Dying to Meet You 10.Caviar and Meths", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "<b>Rocka Rolla</b> - 1974" },
