@@ -4224,6 +4224,7 @@ const data = {
 	  { number: 0, title: "TwinMirror", desc: "Dontnod Entertainment", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/TwinMirror.jpg", extra: "Adventure, Third-person, 3D" },
 	  { number: 0, title: "Warcraft I And II", desc: "Blizzard Entertainment", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/WarcraftIAndII.jpg", extra: "Strategy, RTS, Top view, 2D, Real-time" },
 	  { number: 0, title: "Warcraft III", desc: "Blizzard Entertainment", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/WarcraftIII.jpg", extra: "Strategy, RTS, Fantasy, Isometric, 3D" },
+	  { number: 0, title: "Who Wants To Be A Millionaire", desc: "Appeal, Balio Studio, Microïds", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/WhoWantsToBeAMillionaire.jpg", extra: "Logic, Quiz, 3D" },
 	  { number: 0, title: "Zaccaria Pinball", desc: "Magic Pixel", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/ZaccariaPinball.jpg", extra: "Arcade, Pinball, 3D" },
     ]
   },	  
