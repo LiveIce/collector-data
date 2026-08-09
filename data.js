@@ -2715,7 +2715,7 @@ const data = {
       { number: 68, title: "Friends", desc: "1997 1998", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort68b.jpg", extra: "Baksida" }
     ]
   },
-      "Kortspel": {
+      "Kortlekar": {
     "Hendrick's Gin ⭐": [      
       { number: 1, title: "Hendrick's Gin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortH.jpg", extra: "Hendrick's Gin" },
 	  { number: 2, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortJokerFloradora.jpg", extra: "Hendrick's Gin<br>Floradora" },
@@ -4214,6 +4214,7 @@ const data = {
 	  { number: 0, title: "The House Of Da Vinci", desc: "Blue Brain Games", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/TheHouseOfDaVinci.jpg", extra: "Logic, Puzzle, First-person, 3D" },
 	  { number: 0, title: "The Last Show Of Mr Chardish", desc: "Punk Notion, Hydra Games", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/TheLastShowOfMrChardish.jpg", extra: "Exploration, Puzzle solving, Third-person, 3D" },
 	  { number: 0, title: "The Rogue Prince Of Persia", desc: "Ubisoft Entertainment, Evil Empire", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/TheRoguePrinceOfPersia.jpg", extra: "Arcade, Jump and run, Side, 2D" },
+	  { number: 0, title: "The Smurfs Village Party", desc: "Balio Studio, Microïds", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/TheSmurfsVillageParty.jpg", extra: "Arcade, Party game, 3D" },
 	  { number: 0, title: "The Witcher 3 Wild Hunt", desc: "CD Projekt Red", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/TheWitcher3WildHunt.jpg", extra: "Action, Adventure, RPG, Open world, Fantasy, Third-person, 3D" },
 	  { number: 0, title: "Thick As Thieves", desc: "Megabit Publishing, OtherSide Entertainment", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/ThickAsThieves.jpg", extra: "Action, Stealth, First-person, 3D" },
 	  { number: 0, title: "Timberborn", desc: "Mechanistry", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/Timberborn.jpg", extra: "Management, Isometric, 3D, Post-apocalypse, Real-time" },
