@@ -2773,6 +2773,18 @@ const data = {
 	  { number: 54, title: "Q\u2660\uFE0F", desc: "Spader", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortSpaderQ.jpg", extra: "Hendrick's Gin" },
 	  { number: 55, title: "K\u2660\uFE0F", desc: "Spader", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortSpaderK.jpg", extra: "Hendrick's Gin" },
     ],
+    "Indiana Jones Kingdom Of The Crystal Skull ⭐": [      
+      { number: 1, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortJoker1.jpg", extra: "Kingdom Of The Crystal Skull" },
+	  { number: 2, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortJoker2.jpg", extra: "Kingdom Of The Crystal Skull" },
+	  { number: 3, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortJoker3.jpg", extra: "Kingdom Of The Crystal Skull" },
+	  { number: 4, title: "A\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortRuterA.jpg", extra: "Kingdom Of The Crystal Skull" },
+	  { number: 5, title: "2\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortRuter2.jpg", extra: "Kingdom Of The Crystal Skull" },
+	  { number: 6, title: "3\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortRuter3.jpg", extra: "Kingdom Of The Crystal Skull" },
+	  { number: 7, title: "4\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortRuter4.jpg", extra: "Kingdom Of The Crystal Skull" },
+	  { number: 8, title: "5\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortRuter5.jpg", extra: "Kingdom Of The Crystal Skull" },
+	  { number: 9, title: "6\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortRuter6.jpg", extra: "Kingdom Of The Crystal Skull" },
+	  { number: 10, title: "7\u2666\uFE0F", desc: "Ruter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortRuter7.jpg", extra: "Kingdom Of The Crystal Skull" },
+    ],	  
     "Royal Canin ⭐": [      
       { number: 1, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/RoyalCanin/KortJokerBergerPicard.jpg", extra: "Royal Canin<br>Berger Picard" },
 	  { number: 2, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/RoyalCanin/KortJokerLabradorRetriever.jpg", extra: "Royal Canin<br>Labrador Retriever" },
