@@ -412,8 +412,8 @@ const data = {
 	  { number: 117, title: "Fish Man Island", desc: "Stage", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/OnePiece/OP11/Kort117.jpg", extra: "Fish-Man Island" },
   ],	  
     "Pop Cardz 💎": [
-	  { number: 1, title: "Jessica Biel", desc: "Jessica Claire Beal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/PopCardz/Kort1a.jpg", extra: "5LW-22X-8J5K" },
-	  { number: 1, title: "Jessica Biel", desc: "Jessica Claire Beal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/PopCardz/Kort1b.jpg", extra: "5LW-22X-8J5K" },
+	  { number: 1, title: "Jessica Biel", desc: "Jessica Claire Beal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/PopCardz/Kort1a.jpg", extra: "Framsida<br>5LW-22X-8J5K" },
+	  { number: 1, title: "Jessica Biel", desc: "Jessica Claire Beal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/PopCardz/Kort1b.jpg", extra: "Baksida<br>5LW-22X-8J5K" },
   ],	  
     "Spoofy Tunes": [
 	  { number: 3, title: "The Last Resort", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort3a.jpg", extra: "Framsida<br>1993" },
@@ -4862,6 +4862,7 @@ const data = {
 	  { number: 0, title: "Red Dead Redemption", desc: "Rockstar San Diego, Rockstar North, Double Eleven, Rockstar Games", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/RedDeadRedemption.jpg", extra: "Action, Shooter, Open world, Third person view, 3D" },
 	  { number: 0, title: "Red Dead Redemption 2", desc: "Rockstar North, Rockstar San Diego", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/RedDeadRedemption2.jpg", extra: "Action, Shooter, Open world, 3D" },
 	  { number: 0, title: "Resident Evil Requiem", desc: "Capcom", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/ResidentEvilRequiem.jpg", extra: "Action, Shooter, 3D, Horror" },
+	  { number: 0, title: "Riven", desc: "Cyan", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/Riven.jpg", extra: "Adventure, Point-and-click, Puzzle solving, First-person, 3D" },
 	  { number: 0, title: "Sacred 2", desc: "THQ Nordic, SparklingBit", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/Sacred2.jpg", extra: "RPG, Action RPG, Third-person, 3D" },
 	  { number: 0, title: "Salt 2 Shores Of Gold", desc: "Lavaboots Studios", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/Salt2ShoresOfGold.jpg", extra: "RPG, Content randomization, Item crafting, Open world, Angling, Hunting, First-person, 3D" },
 	  { number: 0, title: "Salvage Shop Simulator", desc: "GameFormatic", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/SalvageShopSimulator.jpg", extra: "Simulation, Lifestyle, Management, First-person" },
