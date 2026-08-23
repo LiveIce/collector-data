@@ -411,6 +411,10 @@ const data = {
 	  { number: 116, title: "Merman Combat Ultramarine", desc: "Event", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/OnePiece/OP11/Kort116.jpg", extra: "Merfolk/Fish-Man Island" },
 	  { number: 117, title: "Fish Man Island", desc: "Stage", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/OnePiece/OP11/Kort117.jpg", extra: "Fish-Man Island" },
   ],	  
+    "Pop Cardz 💎": [
+	  { number: 1, title: "Jessica Biel", desc: "Jessica Claire Beal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/PopCardz/Kort1a.jpg", extra: "5LW-22X-8J5K" },
+	  { number: 1, title: "Jessica Biel", desc: "Jessica Claire Beal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/PopCardz/Kort1b.jpg", extra: "5LW-22X-8J5K" },
+  ],	  
     "Spoofy Tunes": [
 	  { number: 3, title: "The Last Resort", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort3a.jpg", extra: "Framsida<br>1993" },
 	  { number: 3, title: "The Last Resort", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort3b.jpg", extra: "Baksida<br>1993" },
