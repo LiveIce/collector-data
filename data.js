@@ -411,7 +411,7 @@ const data = {
 	  { number: 116, title: "Merman Combat Ultramarine", desc: "Event", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/OnePiece/OP11/Kort116.jpg", extra: "Merfolk/Fish-Man Island" },
 	  { number: 117, title: "Fish Man Island", desc: "Stage", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/OnePiece/OP11/Kort117.jpg", extra: "Fish-Man Island" },
   ],	  
-    "Pop Cardz": [
+    "Pop Cardz 💎": [
 	  { number: 1, title: "Jessica Biel", desc: "Jessica Claire Beal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/PopCardz/Kort1a.jpg", extra: "Framsida<br>5LW-22X-8J5K" },
 	  { number: 1, title: "Jessica Biel", desc: "Jessica Claire Beal", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/PopCardz/Kort1b.jpg", extra: "Baksida<br>5LW-22X-8J5K" },
 	  { number: 2, title: "Selma Blair", desc: "Selma James Blair", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/PopCardz/Kort2a.jpg", extra: "Framsida<br>1VP-33X-8X1J" },
