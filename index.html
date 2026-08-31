@@ -394,7 +394,8 @@ cards.sort((a, b) => {
     div.onclick = () => openModal(card.img, card.title, card.desc, card.extra, card.number);
     div.innerHTML = `
       <div class="card-number">${card.number}</div>
-      <img src="${card.img}" alt="${card.title}">
+      <img src="${card.img}" alt="${card.title}"
+     onerror="this.onerror=null; this.src=this.src.replace('https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/','');">
       <div class="card-title">${card.title}</div>
       <div class="card-description">${card.extra}</div>
     `;
@@ -494,7 +495,8 @@ const match = searchWords.every(word => {
           div.onclick = () => openModal(card.img, card.title, card.desc, card.extra, card.number);
           div.innerHTML = `
             <div class="card-number">${card.number}</div>
-            <img src="${card.img}" alt="${card.title}">
+            <img src="${card.img}" alt="${card.title}"
+     onerror="this.onerror=null; this.src=this.src.replace('https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/','');">
             <div class="card-title">${card.title}</div>
             <div class="card-description">${card.extra}</div>
           `;
@@ -509,6 +511,10 @@ const match = searchWords.every(word => {
 
 function openModal(imgSrc, titleText, descText, extraText, number) {
   document.getElementById("modal-img").src = imgSrc;
+document.getElementById("modal-img").onerror = function() {
+  this.onerror = null;
+  this.src = this.src.replace('https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/','');
+};
   document.getElementById("modal-title").textContent = titleText;
   document.getElementById("modal-desc").innerHTML = `
     <b>Nr:</b> ${number}<br>
