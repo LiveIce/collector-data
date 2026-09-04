@@ -5448,6 +5448,96 @@ const data = {
     ]
   },	  
     "Skivor": {
+    "CD": [      
+      { number: 1, title: "Judas Priest", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00001.jpg", extra: "<b>Rocka Rolla</b> - 1974" },
+	  { number: 2, title: "Toe Fat", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00002.jpg", extra: "<b>Two</b> - 1970" },
+	  { number: 3, title: "Alice Cooper", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00003.jpg", extra: "<b>Muscle Of Love</b> - 1973" },
+	  { number: 4, title: "Alice Cooper", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00004.jpg", extra: "<b>Billion Dollar Babies</b> - 1973" },
+	  { number: 5, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00005.jpg", extra: "<b>4</b> - 1971" },
+	  { number: 6, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00006.jpg", extra: "<b>Loud 'n' Proud</b> - 1973" },
+	  { number: 7, title: "Sweet", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00007.jpg", extra: "<b>Sweet Fanny Adams</b> - 1974" },
+	  { number: 8, title: "Grand Funk Railroad", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00008.jpg", extra: "<b>Survival</b> - 1971" },
+	  { number: 9, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00009.jpg", extra: "<b>Deep Purple In Rock</b> - 1970" },
+	  { number: 10, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00010.jpg", extra: "<b>Squawk</b> - 1972" },
+	  { number: 11, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00011.jpg", extra: "<b>Master Of Reality</b> - 1971" },
+	  { number: "12a", title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00012a.jpg", extra: "<b>Quo</b> - 1974" },
+	  { number: "12b", title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00012b.jpg", extra: "<b>Blue For You</b> - 1976" },
+	  { number: 13, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00013.jpg", extra: "<b>Green River</b> - 1969" },
+	  { number: 14, title: "Ted Nugent", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00014.jpg", extra: "<b>Tooth Fang And Claw</b> - 1974" },
+	  { number: 15, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00015.jpg", extra: "<b>2</b> - 1969" },
+	  { number: 16, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00016.jpg", extra: "<b>Rampant</b> - 1974" },
+	  { number: 17, title: "Sweet", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00017.jpg", extra: "<b>Desolation Boulevard</b> - 1974" },
+	  { number: 18, title: "November", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00018.jpg", extra: "<b>En Ny Tid Är Här</b> - 1970" },
+	  { number: 19, title: "James Gang", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00019.jpg", extra: "<b>Thirds</b> - 1971" },
+	  { number: 20, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00020.jpg", extra: "<b>Sabotage</b> - 1975" },
+	  { number: 21, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00021.jpg", extra: "<b>Burn</b> - 1974" },
+	  { number: 22, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00022.jpg", extra: "<b>In For The Kill</b> - 1974" },
+	  { number: 23, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00023.jpg", extra: "<b>On The Level</b> - 1974" },
+	  { number: 24, title: "Uriah Heep", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00024.jpg", extra: "<b>The Magician's Birthday</b> - 1972" },
+	  { number: 25, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00025.jpg", extra: "<b>Hair Of The Dog</b> - 1975" },
+	  { number: 26, title: "Alice Cooper", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00026.jpg", extra: "<b>Killer</b> - 1971" },
+	  { number: 27, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00027.jpg", extra: "<b>Cosmo's Factory</b> - 1970" },
+	  { number: 28, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00028.jpg", extra: "<b>1</b> - 1969" },
+	  { number: 29, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00029.jpg", extra: "<b>Machine Head</b> - 1972" },
+	  { number: 30, title: "Genesis", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00030.jpg", extra: "<b>Live</b> - 1973" },
+	  { number: 31, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00031.jpg", extra: "<b>Piledriver</b> - 1972" },
+	  { number: 32, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00032.jpg", extra: "<b>Vol 4</b> - 1972" },
+	  { number: 33, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00033.jpg", extra: "<b>Houses Of The Holy</b> - 1973" },
+	  { number: 34, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00034.jpg", extra: "<b>Razamanaz</b> - 1973" },
+	  { number: 35, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00035.jpg", extra: "<b>Deep Purple</b> - 1969" },
+	  { number: 36, title: "Free", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00036.jpg", extra: "<b>Fire And Water</b> - 1970" },
+	  { number: 37, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00037.jpg", extra: "<b>Creedence Clearwater Revival</b> - 1968" },
+	  { number: 38, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00038.jpg", extra: "<b>Nazareth</b> - 1971" },
+	  { number: 39, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00039.jpg", extra: "<b>Budgie</b> - 1971" },
+	  { number: 40, title: "Status Quo", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00040.jpg", extra: "<b>Hello</b> - 1973" },
+	  { number: 41, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00041.jpg", extra: "<b>Stormbringer</b> - 1974" },
+	  { number: 42, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00042.jpg", extra: "<b>Black Sabbath</b> - 1970" },
+	  { number: 43, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00043.jpg", extra: "<b>Mardi Gras</b> - 1972" },
+	  { number: 44, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00044.jpg", extra: "<b>Physical Graffiti</b> - 1975" },
+	  { number: 45, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00045.jpg", extra: "<b>Made In Japan</b> - 1972" },
+	  { number: 46, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00046.jpg", extra: "<b>Never Turn Your Back On A Friend</b> - 1973" },
+	  { number: 47, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00047.jpg", extra: "<b>3</b> - 1970" },
+	  { number: 48, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00048.jpg", extra: "<b>Pendulum</b> - 1970" },
+	  { number: 49, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00049.jpg", extra: "<b>Fireball</b> - 1971" },
+	  { number: 50, title: "Ted Gärdestad", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00050.jpg", extra: "<b>Ted</b> - 1973" },
+	  { number: 51, title: "Tom Jones", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00051.jpg", extra: "<b>Live In Las Vegas</b> - 1969" },
+	  { number: 52, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00052.jpg", extra: "<b>Bandolier</b> - 1975" },
+	  { number: 53, title: "Simon And Garfunkel", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00053.jpg", extra: "<b>Bridge Over Troubled Water</b> - 1970" },
+	  { number: 54, title: "Geordie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00054.jpg", extra: "<b>Don't Be Fooled By The Name</b> - 1974" },
+	  { number: 55, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00055.jpg", extra: "<b>Shades Of Deep Purple</b> - 1968" },
+	  { number: 56, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00056.jpg", extra: "<b>Willy And The Poor Boys</b> - 1969" },
+	  { number: 57, title: "Santana", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00057.jpg", extra: "<b>Abraxas</b> - 1970" },
+	  { number: 58, title: "Creedence Clearwater Revival", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00058.jpg", extra: "<b>Bayou Country</b> - 1969" },
+	  { number: 59, title: "Nazareth", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00059.jpg", extra: "<b>Exercises</b> - 1972" },
+	  { number: 60, title: "Elvis Presley", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00060.jpg", extra: "<b>In Person</b> - 1970" },
+	  { number: 61, title: "Elvis Presley", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00061.jpg", extra: "<b>Back In Memphis</b> - 1969" },
+	  { number: 62, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00062.jpg", extra: "<b>The Book Of Taliesyn</b> - 1968" },
+	  { number: 63, title: "Ted Nugent", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00063.jpg", extra: "<b>Ted Nugent</b> - 1975" },
+	  { number: 64, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00064.jpg", extra: "<b>Paranoid</b> - 1970" },
+	  { number: 65, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00065.jpg", extra: "<b>Who Do We Think We Are</b> - 1973" },
+	  { number: 66, title: "Black Sabbath", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00066.jpg", extra: "<b>Sabbath Bloody Sabbath</b> - 1973" },
+	  { number: 67, title: "Deep Purple", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00067.jpg", extra: "<b>Come Taste The Band</b> - 1975" },
+	  { number: 68, title: "Sweet", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00068.jpg", extra: "<b>Give Us A Wink</b> - 1976" },
+	  { number: "69a", title: "ZZ Top", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00069a.jpg", extra: "<b>ZZ Top's First Album</b> - 1971" },
+	  { number: "69b", title: "ZZ Top", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00069b.jpg", extra: "<b>Rio Grande Mud</b> - 1972" },
+	  { number: "69c", title: "ZZ Top", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00069c.jpg", extra: "<b>Tres Hombres</b> - 1973" },
+	  { number: "69d", title: "ZZ Top", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00069d.jpg", extra: "<b>Fandango</b> - 1975" },
+	  { number: "69e", title: "ZZ Top", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00069e.jpg", extra: "<b>Tejas</b> - 1976" },
+	  { number: "69f", title: "ZZ Top", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00069f.jpg", extra: "<b>El Loco</b> - 1981" },
+	  { number: 70, title: "Rainbow", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00070.jpg", extra: "<b>Ritchie Blackmore's Rainbow</b> - 1975" },
+	  { number: 71, title: "Uriah Heep", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00071.jpg", extra: "<b>Demons And Wizards</b> - 1972" },
+	  { number: 72, title: "Uriah Heep", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00072.jpg", extra: "<b>Salisbury</b> - 1971" },
+	  { number: "73a", title: "Sir Lord Baltimore", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00073a.jpg", extra: "<b>Kingdom Come</b> - 1970" },
+	  { number: "73b", title: "Sir Lord Baltimore", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00073b.jpg", extra: "<b>Sir Lord Baltimore</b> - 1971" },
+	  { number: 74, title: "Budgie", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00074.jpg", extra: "<b>If I Were Brittania I'd Waive The Rules</b> - 1976" },
+	  { number: 75, title: "Foghat", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00075.jpg", extra: "<b>Energized</b> - 1974" },
+	  { number: 76, title: "Camel", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00076.jpg", extra: "<b>Mirage</b> - 1974" },
+	  { number: "77a", title: "UFO", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00077a.jpg", extra: "<b>No Heavy Petting</b> - 1976" },
+	  { number: "77b", title: "UFO", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00077b.jpg", extra: "<b>Lights Out</b> - 1977" },
+	  { number: 78, title: "Led Zeppelin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00078.jpg", extra: "<b>Presence</b> - 1976" },
+	  { number: 79, title: "Ted Nugent", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00079.jpg", extra: "<b>Free For All</b> - 1976" },
+	  { number: 80, title: "Rush", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00080.jpg", extra: "<b>Caress Of Steel</b> - 1975" },
+	      ],
     "Vinyl LP 💎": [      
       { number: 1, title: "Judas Priest", desc: "1.One for the Road 2.Rocka Rolla<br>3.Winter 4.Deep Freeze<br>5.Winter Retreat 6.Cheater<br>7.Never Satisfied 8.Run of the Mill<br>9.Dying to Meet You 10.Caviar and Meths", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00001.jpg", extra: "<b>Rocka Rolla</b> - 1974" },
       { number: 2, title: "Amon Düül II", desc: "1.I Can't Wait (Parts 1 & 2) 2.Mirror<br>3.Traveller 4.You're Not Alone<br>5.Explode Like a Star 6.Da Guadeloop<br>7.Lonely Woman 8.Liquid Whisper<br>9.Archy the Robot", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylLP/LP00002.jpg", extra: "<b>Hi Jack</b> - 1974" },
@@ -10147,62 +10237,29 @@ const data = {
 	  { number: 2198, title: "Joe Smooth", desc: "Promised Land", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02198.jpg", extra: 1988 },
 	  { number: 2199, title: "Winjama", desc: "Place In The Sun", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02199.jpg", extra: 1988 },
 	  { number: 2200, title: "DJ Fast Eddie", desc: "Hip House<br>I Can Dance", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02200.jpg", extra: 1988 },
+	  { number: 2201, title: "A Tribe Of Toffs", desc: "John Kettley (Is A Weatherman)<br>Festive Frolics From Four Fellows", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02201.jpg", extra: 1988 },
+	  { number: 2202, title: "Donell Rush", desc: "Knockin' At My Door", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02202.jpg", extra: 1988 },
+	  { number: 2203, title: "Jermaine Stewart", desc: "Is It Really Love<br>Search 1988", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02203.jpg", extra: 1989 },
+	  { number: 2204, title: "Humanoid", desc: "Slam<br>Bass Invaders", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02204.jpg", extra: 1989 },
+	  { number: 2205, title: "Bros", desc: "Sister<br>I'll Count The Hours", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02205.jpg", extra: 1989 },
+	  { number: 2206, title: "Tina Turner", desc: "Nutbush City Limits<br>The Best", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02206.jpg", extra: 1991 },
+	  { number: 2207, title: "Tyree", desc: "Hardcore Hip House", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02207.jpg", extra: 1989 },
+	  { number: 2208, title: "Tony Wilson", desc: "Just When I Needed You Most<br>Stroll On (The Beach)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02208.jpg", extra: 1989 },
+	  { number: 2209, title: "Lisa Nilsson", desc: "Down The Avenue<br>Indestructible", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02209.jpg", extra: 1990 },
+	  { number: 2210, title: "Johan Hedenberg Och Swedish Army", desc: "Hej Italien Här Kommer Vi", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02210.jpg", extra: 1990 },
+	  { number: 2211, title: "Eg And Alice", desc: "Doesn't Mean That Much To Me<br>Lazy Woman", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02211.jpg", extra: 1991 },
+	  { number: 2212, title: "Marc Cohn", desc: "Walking In Memphis<br>Dig Down Deep", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02212.jpg", extra: 1991 },
+	  { number: 2213, title: "Keith Sweat", desc: "Keep It Coimin'", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02213.jpg", extra: 1992 },
+	  { number: 2214, title: "Yes", desc: "Owner Of A Lonely Heart", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02214.jpg", extra: 1991 },
+	  { number: 2215, title: "Beyond", desc: "Empire<br>Everybody Wins", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02215.jpg", extra: 1991 },
+	  { number: 2216, title: "Huey Lewis And The News", desc: "He Don't Know<br>Build Me Up", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02216.jpg", extra: 1991 },
+	  { number: 2217, title: "Pet Shop Boys", desc: "DJ Culture<br>Music For Boys", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02217.jpg", extra: 1991 },
+	  { number: 2218, title: "Vanilla Ice", desc: "Road To My Riches (live)<br>Hooked (Live)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02218.jpg", extra: 1991 },
+	  { number: 2219, title: "Sensitize", desc: "Maniac<br>Lack Of Understanding", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02219.jpg", extra: 1991 },
+	  { number: 2220, title: "Enya", desc: "How Can I Keep From Singing<br>Oiche Chiun (Silent Night)", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/VinylSinglar/S02220.jpg", extra: 1991 },
     ]
   }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
