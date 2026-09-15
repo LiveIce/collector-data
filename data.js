@@ -14429,11 +14429,11 @@ const data = {
     ]
   },	  
     "Frimärken 🚧": {
-    "Sverige": [      
+    "Sverige 🚧": [      
       { number: 1673, title: "Sverige", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00001.jpg", extra: "<b>Rocka Rolla</b> - 1974" },
 	  { number: 1674, title: "Toe Fat", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/CD/00002.jpg", extra: "<b>Two</b> - 1970" },
     ],	  
-	"Ungern": [      
+	"Ungern 🚧": [      
       { number: 1673, title: "Castles And Fortresses", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Frim%C3%A4rken/Ungern/1673.jpg", popupImg: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Frim%C3%A4rken/Ungern/1673-1689 1960.jpg", extra: "<b></b>1960" },
 	  { number: 1674, title: "Castles And Fortresses", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Frim%C3%A4rken/Ungern/1674.jpg", popupImg: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Frim%C3%A4rken/Ungern/1673-1689 1960.jpg", extra: "<b></b>1960" },
 	  { number: 1675, title: "Castles And Fortresses", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Frim%C3%A4rken/Ungern/1675.jpg", popupImg: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Frim%C3%A4rken/Ungern/1673-1689 1960.jpg", extra: "<b></b>1960" },
