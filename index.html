@@ -61,10 +61,6 @@
       border: 2px solid #c00;
     }
 
-    /* ----------------------------- */
-    /* NY VÄNSTERMENY (250px bred)   */
-    /* ----------------------------- */
-
     #menu-wrapper {
       position: fixed;
       top: 110px;
@@ -104,10 +100,6 @@
       transform: translateY(-2px);
     }
 
-    /* ----------------------------- */
-    /* UNDermenyer (ljusblå + indrag) */
-    /* ----------------------------- */
-
     .expansion-container {
       display: none;
       margin-top: 6px;
@@ -131,10 +123,6 @@
       transform: translateY(-2px);
     }
 
-    /* ----------------------------- */
-    /* KORTOMRÅDE FLYTTAS HÖGER      */
-    /* ----------------------------- */
-
     .card-container {
       display: flex;
       flex-wrap: wrap;
@@ -142,7 +130,7 @@
       gap: 20px;
       padding: 30px 20px;
       margin-top: 110px;
-      margin-left: 250px; /* ← Viktigt */
+      margin-left: 250px;
     }
 
     .card {
@@ -331,10 +319,6 @@ for (let category in data) {
   categoriesDiv.appendChild(wrapper);
 }
 
-/* ----------------------------- */
-/* ACCORDION-FUNKTION            */
-/* ----------------------------- */
-
 function toggleExpansions(category, container) {
   if (lastCategory === category) {
     container.style.display = "none";
@@ -510,11 +494,27 @@ const match = searchWords.every(word => {
 }
 
 function openModal(imgSrc, titleText, descText, extraText, number) {
-  document.getElementById("modal-img").src = imgSrc;
-document.getElementById("modal-img").onerror = function() {
-  this.onerror = null;
-  this.src = this.src.replace('https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/','');
-};
+
+  let cardObj = null;
+
+  for (let category in data) {
+    for (let expansion in data[category]) {
+      data[category][expansion].forEach(card => {
+        if (card.title === titleText && String(card.number) === String(number)) {
+          cardObj = card;
+        }
+      });
+    }
+  }
+
+  const finalImg = cardObj && cardObj.popupImg ? cardObj.popupImg : imgSrc;
+
+  document.getElementById("modal-img").src = finalImg;
+  document.getElementById("modal-img").onerror = function() {
+    this.onerror = null;
+    this.src = this.src.replace('https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/','');
+  };
+
   document.getElementById("modal-title").textContent = titleText;
   document.getElementById("modal-desc").innerHTML = `
     <b>Nr:</b> ${number}<br>
