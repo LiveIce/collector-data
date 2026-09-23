@@ -2357,9 +2357,8 @@ const data = {
 },
   "Hot Wheels": {
 	"Brians Bilar": [
-	  { number: "HYW11", title: "Peugeot 9X8 Hypercar", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BriansBilar/Peugeot%209X8%20Hypercar.jpg", extra: "Series: HW Exotics<br>2025" },
-	  { number: "CFH16", title: "'90 Acura NSX", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BriansBilar/'90AcuraNSX.jpg", extra: "Series: HW Workshop HW Garage<br>2014" },
-	  { number: "GHB33", title: "'99 Ford F-150 SVT Lightning", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BriansBilar/'99FordF-150SVTLightning.webp", extra: "Series: HW Hot Trucks<br>2020" },
+	  { number: "0001", title: "", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BriansBilar/0001.jpg", extra: "" },
+	  { number: "0002", title: "", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BriansBilar/0002.jpg", extra: "" },
     ],	  
     "Hot Wheels 2024 💎": [
       { number: 1, title: "", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/HotWheels2024/Kort1.jpg", extra: "" },
