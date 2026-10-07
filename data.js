@@ -3365,7 +3365,25 @@ const data = {
       { number: 68, title: "Friends", desc: "1997 1998", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/OzzyOsbourne/EvolutionOfAnOzzman/Kort68b.jpg", extra: "Baksida" }
     ]
   },
-      "Kortlekar": {
+    "Kortlekar": {
+	"Backyard Brew 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/BackyardBrew/KortHj%C3%A4rterA.jpg", extra: "Backyard Brew" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/BackyardBrew/KortHj%C3%A4rterJ.jpg", extra: "Backyard Brew" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/BackyardBrew/KortHj%C3%A4rterQ.jpg", extra: "Backyard Brew" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/BackyardBrew/KortHj%C3%A4rterK.jpg", extra: "Backyard Brew" },
+    ],
+	"Betalon 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Betalon/KortHj%C3%A4rterA.jpg", extra: "Betalon<br>Great On The Slopes" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Betalon/KortHj%C3%A4rterJ.jpg", extra: "Betalon<br>Triumphs Over Bacteria" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Betalon/KortHj%C3%A4rterQ.jpg", extra: "Betalon<br>Shrugs Off Oil And Grease" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Betalon/KortHj%C3%A4rterK.jpg", extra: "Betalon<br>A Real Hit With Food Processors" },
+    ],	  			
+	"Frozen 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Frozen/KortHj%C3%A4rterA.jpg", extra: "Frozen" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Frozen/KortHj%C3%A4rterJ.jpg", extra: "Frozen" },
+	  { number: 3, title: "D\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Frozen/KortHj%C3%A4rterD.jpg", extra: "Frozen" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Frozen/KortHj%C3%A4rterK.jpg", extra: "Frozen" },
+    ],	  
     "Hendrick's Gin ⭐": [      
       { number: 1, title: "Hendrick's Gin", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortH.jpg", extra: "Hendrick's Gin" },
 	  { number: 2, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Hendrick'sGinPlayingCards/KortJokerFloradora.jpg", extra: "Hendrick's Gin<br>Floradora" },
