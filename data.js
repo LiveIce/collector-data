@@ -3372,6 +3372,12 @@ const data = {
 	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/BackyardBrew/KortHj%C3%A4rterQ.jpg", extra: "Backyard Brew" },
 	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/BackyardBrew/KortHj%C3%A4rterK.jpg", extra: "Backyard Brew" },
     ],
+	"Beatles 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Beatles/KortHj%C3%A4rterA.jpg", extra: "Beatles<br>Studio Shots 1963" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Beatles/KortHj%C3%A4rterJ.jpg", extra: "Beatles<br>Magical Mystery Tour (US LP) 1967" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Beatles/KortHj%C3%A4rterQ.jpg", extra: "Beatles<br>A Hard Day's Night 1964" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Beatles/KortHj%C3%A4rterK.jpg", extra: "Beatles<br>Sgt Peppers Lonely Hearts Club Band 1967" },
+    ],	
 	"Betalon 🚧": [      
       { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Betalon/KortHj%C3%A4rterA.jpg", extra: "Betalon<br>Great On The Slopes" },
 	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Betalon/KortHj%C3%A4rterJ.jpg", extra: "Betalon<br>Triumphs Over Bacteria" },
@@ -3497,7 +3503,49 @@ const data = {
 	  { number: 53, title: "J\u2660\uFE0F", desc: "Spader", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortSpaderJ.jpg", extra: "Kingdom Of The Crystal Skull" },
 	  { number: 54, title: "Q\u2660\uFE0F", desc: "Spader", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortSpaderQ.jpg", extra: "Kingdom Of The Crystal Skull" },
 	  { number: 55, title: "K\u2660\uFE0F", desc: "Spader", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/IndianaJones/KingdomOfTheCrystalSkull/KortSpaderK.jpg", extra: "Kingdom Of The Crystal Skull" },
-    ],	  
+    ],
+	"James Bond - 007 1 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/007/KortHj%C3%A4rterA.jpg", extra: "007 1 (James Bond)<br>Tomorrow Never Dies 1997<br>Pierce Brosnan And Wai Lin (James Bond And Michelle Yeah)" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/007/KortHj%C3%A4rterJ.jpg", extra: "007 1 (James Bond)<br>Die Another Day 2002<br>Rick Yune (Zao)" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/007/KortHj%C3%A4rterQ.jpg", extra: "007 1 (James Bond)<br>Die Another Day 2002<br>Halle Berry (Jinx)" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/007/KortHj%C3%A4rterK.jpg", extra: "007 1 (James Bond)<br>Die Another Day 2002<br>Pierce Brosnan (James Bond)" },
+    ],
+	"James Bond - 007 2 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/007-2/KortHj%C3%A4rterA.jpg", extra: "007 2 (James Bond)<br>Live And Let Die 1973<br>Madeline Smith (Italian Agent)" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/007-2/KortHj%C3%A4rterJ.jpg", extra: "007 2 (James Bond)<br>The Spy Who Loved Me 1977<br>Richard Kiel (Jaws)" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/007-2/KortHj%C3%A4rterQ.jpg", extra: "007 2 (James Bond)<br>The Spy Who Loved Me 1977<br>Barbara Bach (Major Anya Amasova)" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/007-2/KortHj%C3%A4rterK.jpg", extra: "007 2 (James Bond)<br>The Spy Who Loved Me 1977<br>Roger Moore (James Bond)" },
+    ],
+	"James Bond - Bond Girls 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/BondGirls/KortHj%C3%A4rterA.jpg", extra: "Bond Girls (James Bond)<br>Dr No 1962<br>Ursula Andress (Honey Ryder)" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/BondGirls/KortHj%C3%A4rterJ.jpg", extra: "Bond Girls (James Bond)<br>Octopussy 1983<br>Maud Adams (Andrea Anders)" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/BondGirls/KortHj%C3%A4rterQ.jpg", extra: "Bond Girls (James Bond)<br>Tomorrow Never Dies 1997<br>Michelle Yeoh (Wai Lin)" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/BondGirls/KortHj%C3%A4rterK.jpg", extra: "Bond Girls (James Bond)<br>Tomorrow Never Dies 1997<br>Teri Hatcher (Paris Carver)" },
+    ],	
+	"James Bond - Casino Royale 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/CasinoRoyale/KortHj%C3%A4rterA.jpg", extra: "Casino Royale (James Bond)<br>Daniel Craig (James Bond)" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/CasinoRoyale/KortHj%C3%A4rterJ.jpg", extra: "Casino Royale (James Bond)<br>Jeffrey Wright (Felix Leiter)" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/CasinoRoyale/KortHj%C3%A4rterQ.jpg", extra: "Casino Royale (James Bond)<br>Eva Green (Vesper Lynd)" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/CasinoRoyale/KortHj%C3%A4rterK.jpg", extra: "Casino Royale (James Bond)<br>Daniel Craig And Eva Green (James Bond And Vesper Lynd)" },
+    ],	
+	"Kefallonia 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kefallonia/KortHj%C3%A4rterA.jpg", extra: "Kefallonia<br>Platis Gialos" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kefallonia/KortHj%C3%A4rterJ.jpg", extra: "Kefallonia<br>Argostoli" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kefallonia/KortHj%C3%A4rterQ.jpg", extra: "Kefallonia<br>Ag. Etthimia" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kefallonia/KortHj%C3%A4rterK.jpg", extra: "Kefallonia<br>Kefallonia" },
+    ],	
+	"Kos 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kos/KortHj%C3%A4rterA.jpg", extra: "Kos<br>Marmari" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kos/KortHj%C3%A4rterJ.jpg", extra: "Kos<br>Sun Set" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kos/KortHj%C3%A4rterQ.jpg", extra: "Kos<br>Town Beach Sight" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kos/KortHj%C3%A4rterK.jpg", extra: "Kos<br>Paradise" },
+    ],		
+	"Pictura 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Pictura/KortHj%C3%A4rterA.jpg", extra: "Pictura" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Pictura/KortHj%C3%A4rterJ.jpg", extra: "Pictura" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Pictura/KortHj%C3%A4rterQ.jpg", extra: "Pictura" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Pictura/KortHj%C3%A4rterK.jpg", extra: "Pictura" },
+    ],	
     "Royal Canin ⭐": [      
       { number: 1, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/RoyalCanin/KortJokerBergerPicard.jpg", extra: "Royal Canin<br>Berger Picard" },
 	  { number: 2, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/RoyalCanin/KortJokerLabradorRetriever.jpg", extra: "Royal Canin<br>Labrador Retriever" },
