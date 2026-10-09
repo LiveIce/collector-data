@@ -3366,6 +3366,12 @@ const data = {
     ]
   },
     "Kortlekar": {
+	"A Nightmare On Elm Street 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/ANightmareOnElmStreet/KortHj%C3%A4rterA.jpg", extra: "A Nightmare On Elm Street" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/ANightmareOnElmStreet/KortHj%C3%A4rterJ.jpg", extra: "A Nightmare On Elm Street" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/ANightmareOnElmStreet/KortHj%C3%A4rterQ.jpg", extra: "A Nightmare On Elm Street" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/ANightmareOnElmStreet/KortHj%C3%A4rterK.jpg", extra: "A Nightmare On Elm Street" },
+    ],		
 	"Backyard Brew 🚧": [      
       { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/BackyardBrew/KortHj%C3%A4rterA.jpg", extra: "Backyard Brew" },
 	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/BackyardBrew/KortHj%C3%A4rterJ.jpg", extra: "Backyard Brew" },
@@ -3383,7 +3389,13 @@ const data = {
 	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Betalon/KortHj%C3%A4rterJ.jpg", extra: "Betalon<br>Triumphs Over Bacteria" },
 	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Betalon/KortHj%C3%A4rterQ.jpg", extra: "Betalon<br>Shrugs Off Oil And Grease" },
 	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Betalon/KortHj%C3%A4rterK.jpg", extra: "Betalon<br>A Real Hit With Food Processors" },
-    ],	  			
+    ],	  	
+	"Elvis 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Elvis/KortHj%C3%A4rterA.jpg", extra: "Elvis" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Elvis/KortHj%C3%A4rterJ.jpg", extra: "Elvis" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Elvis/KortHj%C3%A4rterQ.jpg", extra: "Elvis" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Elvis/KortHj%C3%A4rterK.jpg", extra: "Elvis" },
+    ],	
 	"Frozen 🚧": [      
       { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Frozen/KortHj%C3%A4rterA.jpg", extra: "Frozen" },
 	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Frozen/KortHj%C3%A4rterJ.jpg", extra: "Frozen" },
@@ -3527,6 +3539,12 @@ const data = {
 	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/CasinoRoyale/KortHj%C3%A4rterJ.jpg", extra: "Casino Royale (James Bond)<br>Jeffrey Wright (Felix Leiter)" },
 	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/CasinoRoyale/KortHj%C3%A4rterQ.jpg", extra: "Casino Royale (James Bond)<br>Eva Green (Vesper Lynd)" },
 	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/CasinoRoyale/KortHj%C3%A4rterK.jpg", extra: "Casino Royale (James Bond)<br>Daniel Craig And Eva Green (James Bond And Vesper Lynd)" },
+    ],
+	"James Bond - Quantum Of Solace 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/QuantumOfSolace/KortHj%C3%A4rterA.jpg", extra: "Quantum Of Solace (James Bond)<br>Daniel Craig (James Bond)" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/QuantumOfSolace/KortHj%C3%A4rterJ.jpg", extra: "Quantum Of Solace (James Bond)<br>Jeffrey Wright (Felix Leiter)" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/QuantumOfSolace/KortHj%C3%A4rterQ.jpg", extra: "Quantum Of Solace (James Bond)<br>Olga Kurylenko (Camille)" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/JamesBond/QuantumOfSolace/KortHj%C3%A4rterK.jpg", extra: "Quantum Of Solace (James Bond)<br>Fernando Guillen Cuervo (Colonel Of Police)" },
     ],	
 	"Kefallonia 🚧": [      
       { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kefallonia/KortHj%C3%A4rterA.jpg", extra: "Kefallonia<br>Platis Gialos" },
@@ -3539,7 +3557,13 @@ const data = {
 	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kos/KortHj%C3%A4rterJ.jpg", extra: "Kos<br>Sun Set" },
 	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kos/KortHj%C3%A4rterQ.jpg", extra: "Kos<br>Town Beach Sight" },
 	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Kos/KortHj%C3%A4rterK.jpg", extra: "Kos<br>Paradise" },
-    ],		
+    ],
+	"Models 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Models/KortHj%C3%A4rterA.jpg", extra: "Models" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Models/KortHj%C3%A4rterJ.jpg", extra: "Models" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Models/KortHj%C3%A4rterQ.jpg", extra: "Models" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Models/KortHj%C3%A4rterK.jpg", extra: "Models" },
+    ],	
 	"Pictura 🚧": [      
       { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Pictura/KortHj%C3%A4rterA.jpg", extra: "Pictura" },
 	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/Pictura/KortHj%C3%A4rterJ.jpg", extra: "Pictura" },
@@ -3603,6 +3627,24 @@ const data = {
 	  { number: 54, title: "D\u2660\uFE0F", desc: "Spader", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/RoyalCanin/KortSpaderD.jpg", extra: "Royal Canin<br>Pomeranian" },
 	  { number: 55, title: "K\u2660\uFE0F", desc: "Spader", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/RoyalCanin/KortSpaderK.jpg", extra: "Royal Canin<br>Sankt Bernard" },
     ],
+	"Sonic The Hedgehog 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/SonicTheHedgehog/KortHj%C3%A4rterA.jpg", extra: "Sonic The Hedgehog" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/SonicTheHedgehog/KortHj%C3%A4rterJ.jpg", extra: "Sonic The Hedgehog" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/SonicTheHedgehog/KortHj%C3%A4rterQ.jpg", extra: "Sonic The Hedgehog" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/SonicTheHedgehog/KortHj%C3%A4rterK.jpg", extra: "Sonic The Hedgehog" },
+    ],
+	"Star Wars - Heroes And Villains 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/StarWars/HeroesAndVillains/KortHj%C3%A4rterA.jpg", extra: "Star Wars - Heroes And Villains<br>Darth Vader (Sith Lord)" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/StarWars/HeroesAndVillains/KortHj%C3%A4rterJ.jpg", extra: "Star Wars - Heroes And Villains<br>Boba Fett (Bounty Hunter)" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/StarWars/HeroesAndVillains/KortHj%C3%A4rterQ.jpg", extra: "Star Wars - Heroes And Villains<br>Zam Wesell (Bounty Hunter)" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/StarWars/HeroesAndVillains/KortHj%C3%A4rterK.jpg", extra: "Star Wars - Heroes And Villains<br>Darth Maul (Sith Lord)" },
+    ],
+	"The Lord Of The Rings 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/TheLordOfTheRings/KortHj%C3%A4rterA.jpg", extra: "The Lord Of The Rings<br>Frodo" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/TheLordOfTheRings/KortHj%C3%A4rterJ.jpg", extra: "The Lord Of The Rings<br>Legolas" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/TheLordOfTheRings/KortHj%C3%A4rterQ.jpg", extra: "The Lord Of The Rings<br>Arwen" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/TheLordOfTheRings/KortHj%C3%A4rterK.jpg", extra: "The Lord Of The Rings<br>Aragorn" },
+    ],	
     "The Texas Chainsaw Massacre ⭐": [
       { number: 1, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/TheTexasChainsawMassacre/KortJoker1.jpg", extra: "The Texas Chainsaw Massacre" },
 	  { number: 2, title: "Joker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/TheTexasChainsawMassacre/KortJoker2.jpg", extra: "The Texas Chainsaw Massacre" },
@@ -3659,6 +3701,12 @@ const data = {
 	  { number: 53, title: "J\u2660\uFE0F", desc: "Spader", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/TheTexasChainsawMassacre/KortSpaderJ.jpg", extra: "The Texas Chainsaw Massacre" },
 	  { number: 54, title: "Q\u2660\uFE0F", desc: "Spader", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/TheTexasChainsawMassacre/KortSpaderQ.jpg", extra: "The Texas Chainsaw Massacre" },
 	  { number: 55, title: "K\u2660\uFE0F", desc: "Spader", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/TheTexasChainsawMassacre/KortSpaderK.jpg", extra: "The Texas Chainsaw Massacre" },
+    ],
+	"Willy Wonka And The Chocolate Factory 🚧": [      
+      { number: 1, title: "A\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/WillyWonkaAndTheChocolateFactory/KortHj%C3%A4rterA.jpg", extra: "Willy Wonka And The Chocolate Factory" },
+	  { number: 2, title: "J\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/WillyWonkaAndTheChocolateFactory/KortHj%C3%A4rterJ.jpg", extra: "Willy Wonka And The Chocolate Factory" },
+	  { number: 3, title: "Q\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/WillyWonkaAndTheChocolateFactory/KortHj%C3%A4rterQ.jpg", extra: "Willy Wonka And The Chocolate Factory" },
+	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/WillyWonkaAndTheChocolateFactory/KortHj%C3%A4rterK.jpg", extra: "Willy Wonka And The Chocolate Factory" },
     ]
   },	  	  
     "Dinosaur King": {
