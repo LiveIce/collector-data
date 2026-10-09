@@ -699,7 +699,7 @@ const data = {
 	  { number: 71, title: "Checklist 1", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort71a.jpg", extra: "Framsida<br>1994" },
 	  { number: 71, title: "Checklist 1", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort71b.jpg", extra: "Baksida<br>1994" },
     ],
-    "The Return Of Superman": [
+    "The Return Of Superman ⭐": [
 	  { number: 1, title: "Reign Of The Supermen", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort1a.jpg", extra: "Framsida<br>1993" },
 	  { number: 1, title: "Reign Of The Supermen", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort1b.jpg", extra: "Baksida<br>1993" },
 	  { number: 2, title: "The Last Son Of Krypton", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort2a.jpg", extra: "Framsida<br>1993" },
@@ -772,6 +772,8 @@ const data = {
 	  { number: 35, title: "Showoff", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort35b.jpg", extra: "Baksida<br>1993" },
 	  { number: 36, title: "Lightning Quick Attack", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort36a.jpg", extra: "Framsida<br>1993" },
 	  { number: 36, title: "Lightning Quick Attack", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort36b.jpg", extra: "Baksida<br>1993" },
+	  { number: 37, title: "Stand Off", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort37a.jpg", extra: "Framsida<br>1993" },
+	  { number: 37, title: "Stand Off", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort37b.jpg", extra: "Baksida<br>1993" },
 	  { number: 38, title: "Silent Observation", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort38a.jpg", extra: "Framsida<br>1993" },
 	  { number: 38, title: "Silent Observation", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort38b.jpg", extra: "Baksida<br>1993" },
 	  { number: 39, title: "Angry Eyes", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort39a.jpg", extra: "Framsida<br>1993" },
@@ -790,6 +792,8 @@ const data = {
 	  { number: 45, title: "Crisis Awaits", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort45b.jpg", extra: "Baksida<br>1993" },
 	  { number: 46, title: "Surrounded By Death", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort46a.jpg", extra: "Framsida<br>1993" },
 	  { number: 46, title: "Surrounded By Death", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort46b.jpg", extra: "Baksida<br>1993" },
+	  { number: 47, title: "Ambushed", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort47a.jpg", extra: "Framsida<br>1993" },
+	  { number: 47, title: "Ambushed", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort47b.jpg", extra: "Baksida<br>1993" },
 	  { number: 48, title: "Simultaneous Attacks", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort48a.jpg", extra: "Framsida<br>1993" },
 	  { number: 48, title: "Simultaneous Attacks", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort48b.jpg", extra: "Baksida<br>1993" },
 	  { number: 49, title: "A City Annihilated", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort49a.jpg", extra: "Framsida<br>1993" },
@@ -804,6 +808,8 @@ const data = {
 	  { number: 53, title: "Murder Without Mercy", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort53b.jpg", extra: "Baksida<br>1993" },
 	  { number: 54, title: "Mayhem In The Skies", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort54a.jpg", extra: "Framsida<br>1993" },
 	  { number: 54, title: "Mayhem In The Skies", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort54b.jpg", extra: "Baksida<br>1993" },
+	  { number: 55, title: "Evil's Victory", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort55a.jpg", extra: "Framsida<br>1993" },
+	  { number: 55, title: "Evil's Victory", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort55b.jpg", extra: "Baksida<br>1993" },
 	  { number: 56, title: "Escape", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort56a.jpg", extra: "Framsida<br>1993" },
 	  { number: 56, title: "Escape", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort56b.jpg", extra: "Baksida<br>1993" },
 	  { number: 57, title: "Grim Determination", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort57a.jpg", extra: "Framsida<br>1993" },
@@ -818,6 +824,8 @@ const data = {
 	  { number: 61, title: "Anticipating War", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort61b.jpg", extra: "Baksida<br>1993" },
 	  { number: 62, title: "Schemes Of Evil", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort62a.jpg", extra: "Framsida<br>1993" },
 	  { number: 62, title: "Schemes Of Evil", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort62b.jpg", extra: "Baksida<br>1993" },
+	  { number: 63, title: "At The Battlefront", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort63a.jpg", extra: "Framsida<br>1993" },
+	  { number: 63, title: "At The Battlefront", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort63b.jpg", extra: "Baksida<br>1993" },
 	  { number: 64, title: "Identity Revealed", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort64a.jpg", extra: "Framsida<br>1993" },
 	  { number: 64, title: "Identity Revealed", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort64b.jpg", extra: "Baksida<br>1993" },
 	  { number: 65, title: "Taking Command", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort65a.jpg", extra: "Framsida<br>1993" },
@@ -3709,7 +3717,7 @@ const data = {
 	  { number: 4, title: "K\u2665\uFE0F", desc: "Hjärter", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/SpelKort/WillyWonkaAndTheChocolateFactory/KortHj%C3%A4rterK.jpg", extra: "Willy Wonka And The Chocolate Factory" },
     ]
   },	  	  
-    "Dinosaur King": {
+    "Dinosaur King ⭐": {
     "DKS2 ⭐": [
       { number: 1, title: "Zuniceratops", desc: "3,5 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort1.jpg", extra: "Dinosaur" },
       { number: 2, title: "Pouncing Irritatot", desc: "8 m", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/DinosaurKing/Kort2.jpg", extra: "Dinosaur" },
