@@ -6096,7 +6096,17 @@ const data = {
 	  { number: 0, title: "Snow Plowing Simulator Ski Resort Edition", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/SnowPlowingSimulatorSkiResortEdition.jpg", extra: "" },
 	  { number: 0, title: "Snow Runner", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/SnowRunner.jpg", extra: "" },
 	  { number: 0, title: "Star Trucker", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/StarTrucker.jpg", extra: "" },
+	  { number: 0, title: "Supercar Collection Simulator", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/SupercarCollectionSimulator.jpg", extra: "" },
+	  { number: 0, title: "Superhero Simulator", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/SuperheroSimulator.jpg", extra: "" },
+	  { number: 0, title: "Swordbreaker Origins", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/SwordbreakerOrigins.jpg", extra: "" },
+	  { number: 0, title: "Thank You Bus Driver", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/ThankYouBusDriver.jpg", extra: "" },
+	  { number: 0, title: "The Handler Of Dragons", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/TheHandlerofDragons.jpg", extra: "" },
 	  { number: 0, title: "Toy Story 3", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/ToyStory3.jpg", extra: "" },
+	  { number: 0, title: "Transport Fever 3", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/TransportFever3.jpg", extra: "" },
+	  { number: 0, title: "TRON Identity", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/TRONIdentity.jpg", extra: "" },
+	  { number: 0, title: "Used Cars Simulator", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/UsedCarsSimulator.jpg", extra: "" },
+	  { number: 0, title: "Wild West Supermarket Simulator", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/WildWestSupermarketSimulator.jpg", extra: "" },
+	  { number: 0, title: "Wreckfest", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/Wreckfest.jpg", extra: "" },
     ]	  
   },	  
     "Skivor": {
