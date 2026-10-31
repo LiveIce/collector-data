@@ -6045,7 +6045,19 @@ const data = {
 	  { number: 0, title: "Woman Simulator", desc: "Sebasa Games", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/WomanSimulator.jpg", extra: "Lifestyle, First-person, 3D" },
 	  { number: 0, title: "Zaccaria Pinball", desc: "Magic Pixel", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/ZaccariaPinball.jpg", extra: "Arcade, Pinball, 3D" },
 	  { number: 0, title: "ZED", desc: "Eagre Games, Cyan", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/PC/ZED.png", extra: "Adventure, First-person, 3D" },
-    ]
+    ],
+    "Flera PC 💎": [
+	  { number: 0, title: "Assassin’s Creed Black Flag Resynced", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/Assassin%E2%80%99sCreedBlackFlagResynced.jpg", extra: "" },	
+	  { number: 0, title: "Assassins Creed Mirage", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/AssassinsCreedMirage.jpg", extra: "" },
+	  { number: 0, title: "Bus Driving Sim 22", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/BusDrivingSim22.jpg", extra: "" },
+	  { number: 0, title: "Bus Flipper Renovator Simulator", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/BusFlipperRenovatorSimulator.jpg", extra: "" },
+	  { number: 0, title: "Bus Simulator 27", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/BusSimulator27.jpg", extra: "" },
+	  { number: 0, title: "Cargo Please", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/CargoPlease.jpg", extra: "" },
+	  { number: 0, title: "Contract Ville", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/ContractVille.jpg", extra: "" },
+	  { number: 0, title: "Crackdown 3", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/Crackdown3.jpg", extra: "" },
+	  { number: 0, title: "Devil May Cry", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/DevilMayCryHDCollection.jpg", extra: "" },
+	  { number: 0, title: "Digimon Story Time Stranger", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/DigimonStoryTimeStranger.jpg", extra: "" },
+    ]	  
   },	  
     "Skivor": {
     "CD 💎": [      
