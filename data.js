@@ -6057,6 +6057,16 @@ const data = {
 	  { number: 0, title: "Crackdown 3", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/Crackdown3.jpg", extra: "" },
 	  { number: 0, title: "Devil May Cry", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/DevilMayCryHDCollection.jpg", extra: "" },
 	  { number: 0, title: "Digimon Story Time Stranger", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/DigimonStoryTimeStranger.jpg", extra: "" },
+	  { number: 0, title: "Dino Bones Tidy Up The Museum", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/DinoBonesTidyUptheMuseum.jpg", extra: "" },
+	  { number: 0, title: "Dragon Shelter", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/DragonShelter.jpg", extra: "" },
+	  { number: 0, title: "Eastern Era", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/EasternEra.jpg", extra: "" },
+	  { number: 0, title: "Farmer’s Life", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/Farmer’sLife.jpg", extra: "" },
+	  { number: 0, title: "Final Fantasy Tactics The Ivalice Chronicles", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/FINALFANTASYTACTICSTheIvaliceChronicles.jpg", extra: "" },
+	  { number: 0, title: "Final Fantasy XV Pocket Edition", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/FinalFantasyXVPocketEdition.jpg", extra: "" },
+	  { number: 0, title: "Fly Wings 2018 Flight Simulator", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/FlyWings2018FlightSimulator.jpg", extra: "" },
+	  { number: 0, title: "Forensics Crime Scene Detective", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/ForensicsCrimeSceneDetective.jpg", extra: "" },
+	  { number: 0, title: "Forever Ago", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/ForeverAgo.jpg", extra: "" },
+	  { number: 0, title: "Toy Story 3", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/Spel/FleraSpelPC/ToyStory3.jpg", extra: "" },
     ]	  
   },	  
     "Skivor": {
