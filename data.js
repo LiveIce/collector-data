@@ -610,7 +610,7 @@ const data = {
 	  { number: 55, title: "Miss Ing In Action", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort55a.jpg", extra: "Framsida<br>1993" },
 	  { number: 55, title: "Miss Ing In Action", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort55b.jpg", extra: "Baksida<br>1993" }
     ],
-  "Star Trek": [
+  "Star Trek ⭐": [
       { number: 1, title: "Running From The Past", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort1a.jpg", extra: "Framsida<br>1994" },
 	  { number: 1, title: "Running From The Past", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort1b.jpg", extra: "Baksida<br>1994" },
       { number: 2, title: "Old Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort2a.jpg", extra: "Framsida<br>1994" },
@@ -635,6 +635,8 @@ const data = {
 	  { number: 11, title: "Blink Of An Eye", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort11b.jpg", extra: "Baksida<br>1994" },
 	  { number: 12, title: "The Good Ship USS Enterprise", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort12a.jpg", extra: "Framsida<br>1994" },
 	  { number: 12, title: "The Good Ship USS Enterprise", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort12b.jpg", extra: "Baksida<br>1994" },
+	  { number: 13, title: "Crime And Punishment", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort13a.jpg", extra: "Framsida<br>1994" },
+	  { number: 13, title: "Crime And Punishment", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort13b.jpg", extra: "Baksida<br>1994" },
 	  { number: 14, title: "A Ceremonial Dip", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort14a.jpg", extra: "Framsida<br>1994" },
 	  { number: 14, title: "A Ceremonial Dip", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort14b.jpg", extra: "Baksida<br>1994" },
 	  { number: 15, title: "Not Clear On The Concept", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort15a.jpg", extra: "Framsida<br>1994" },
@@ -673,6 +675,8 @@ const data = {
 	  { number: 31, title: "Stuck With Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort31b.jpg", extra: "Baksida<br>1994" },
 	  { number: 32, title: "The Nexus", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort32a.jpg", extra: "Framsida<br>1994" },
 	  { number: 32, title: "The Nexus", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort32b.jpg", extra: "Baksida<br>1994" },
+	  { number: 33, title: "Interrogation", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort33a.jpg", extra: "Framsida<br>1994" },
+	  { number: 33, title: "Interrogation", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort33b.jpg", extra: "Baksida<br>1994" },
 	  { number: 34, title: "The Price Of Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort34a.jpg", extra: "Framsida<br>1994" },
 	  { number: 34, title: "The Price Of Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort34b.jpg", extra: "Baksida<br>1994" },
 	  { number: 35, title: "Soran's Plan", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort35a.jpg", extra: "Framsida<br>1994" },
@@ -749,6 +753,8 @@ const data = {
 	  { number: 70, title: "Ensign Demora Sulu", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort70b.jpg", extra: "Baksida<br>1994" },
 	  { number: 71, title: "Checklist 1", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort71a.jpg", extra: "Framsida<br>1994" },
 	  { number: 71, title: "Checklist 1", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort71b.jpg", extra: "Baksida<br>1994" },
+	  { number: 72, title: "Checklist 2", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort72a.jpg", extra: "Framsida<br>1994" },
+	  { number: 72, title: "Checklist 2", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort72b.jpg", extra: "Baksida<br>1994" },
     ],
     "The Return Of Superman ⭐": [
 	  { number: 1, title: "Reign Of The Supermen", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort1a.jpg", extra: "Framsida<br>1993" },
