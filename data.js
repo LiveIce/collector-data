@@ -610,7 +610,7 @@ const data = {
 	  { number: 55, title: "Miss Ing In Action", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort55a.jpg", extra: "Framsida<br>1993" },
 	  { number: 55, title: "Miss Ing In Action", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/SpoofyTunes/Kort55b.jpg", extra: "Baksida<br>1993" }
     ],
-  "Star Trek ⭐": [
+  "Star Trek Generations ⭐": [
       { number: 1, title: "Running From The Past", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort1a.jpg", extra: "Framsida<br>1994" },
 	  { number: 1, title: "Running From The Past", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort1b.jpg", extra: "Baksida<br>1994" },
       { number: 2, title: "Old Emotions", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort2a.jpg", extra: "Framsida<br>1994" },
@@ -756,6 +756,24 @@ const data = {
 	  { number: 72, title: "Checklist 2", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort72a.jpg", extra: "Framsida<br>1994" },
 	  { number: 72, title: "Checklist 2", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/Generations/Kort72b.jpg", extra: "Baksida<br>1994" },
     ],
+  "Star Trek Master Series": [
+      { number: 1, title: "Captain James T Kirk", desc: "Signature Card", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort1a.jpg", extra: "Framsida<br>1993" },
+	  { number: 1, title: "Captain James T Kirk", desc: "Signature Card", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort1b.jpg", extra: "Baksida<br>1993" },
+	  { number: 7, title: "Ensign Pavel Andreivich Chekov", desc: "Original Series", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort7a.jpg", extra: "Framsida<br>1993" },
+	  { number: 7, title: "Ensign Pavel Andreivich Chekov", desc: "Original Series", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort7b.jpg", extra: "Baksida<br>1993" },
+	  { number: 8, title: "Yeoman Janice Rand", desc: "Signature Card", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort8a.jpg", extra: "Framsida<br>1993" },
+	  { number: 8, title: "Yeoman Janice Rand", desc: "Signature Card", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort8b.jpg", extra: "Baksida<br>1993" },
+	  { number: 9, title: "Captain Jean-Luc Picard", desc: "The Next Generation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort9a.jpg", extra: "Framsida<br>1993" },
+	  { number: 9, title: "Captain Jean-Luc Picard", desc: "The Next Generation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort9b.jpg", extra: "Baksida<br>1993" },
+	  { number: 10, title: "Commander Wlliam T Riker", desc: "The Next Generation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort10a.jpg", extra: "Framsida<br>1993" },
+	  { number: 10, title: "Commander Wlliam T Riker", desc: "The Next Generation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort10b.jpg", extra: "Baksida<br>1993" },
+	  { number: 11, title: "Lieutenant Worf", desc: "The Next Generation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort11a.jpg", extra: "Framsida<br>1993" },
+	  { number: 11, title: "Lieutenant Worf", desc: "The Next Generation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort11b.jpg", extra: "Baksida<br>1993" },
+	  { number: 12, title: "Lt Commander Data", desc: "The Next Generation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort12a.jpg", extra: "Framsida<br>1993" },
+	  { number: 12, title: "Lt Commander Data", desc: "The Next Generation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort12b.jpg", extra: "Baksida<br>1993" },
+	  { number: 13, title: "Lt Commander Geordi La Forge", desc: "The Next Generation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort13a.jpg", extra: "Framsida<br>1993" },
+	  { number: 13, title: "Lt Commander Geordi La Forge", desc: "The Next Generation", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/StarTrek/StarTrekMasterSeries/Kort13b.jpg", extra: "Baksida<br>1993" },
+    ],	  
     "The Return Of Superman ⭐": [
 	  { number: 1, title: "Reign Of The Supermen", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort1a.jpg", extra: "Framsida<br>1993" },
 	  { number: 1, title: "Reign Of The Supermen", desc: "", img: "https://raw.githubusercontent.com/LiveIce/collector-data/refs/heads/main/BlandadeKort/TheReturnOfSuperman/Kort1b.jpg", extra: "Baksida<br>1993" },
